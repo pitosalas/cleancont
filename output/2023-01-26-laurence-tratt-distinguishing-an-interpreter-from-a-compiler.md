@@ -1,6 +1,6 @@
 ---
 title: "Laurence Tratt: Distinguishing an Interpreter from a Compiler"
-subtitle: "[ Laurence Tratt: Distinguishing an Interpreter from a Compiler]( https://tratt.net/laurie/blog/2023..."
+subtitle: "Laurence Tratt: Distinguishing an Interpreter from a Compiler"
 category: "1"
 tags: []
 date: "2023-01-26"

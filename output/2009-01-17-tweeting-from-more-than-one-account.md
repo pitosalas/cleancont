@@ -1,6 +1,6 @@
 ---
 title: "Tweeting from more than one account?"
-subtitle: "You might be interested in what [BlogBridge is doing about twittering from more than one account:](h..."
+subtitle: "You might be interested in what BlogBridge is doing about twittering from more than one account:"
 category: "298"
 tags: ["718", "2047"]
 date: "2009-01-17"

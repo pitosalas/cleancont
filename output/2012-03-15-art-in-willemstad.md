@@ -1,6 +1,6 @@
 ---
 title: "Art in Willemstad"
-subtitle: "An annual event, the streets of [Willemstad (Curaçao) ](http://www.curacao.com/The-Curacao-Differenc..."
+subtitle: "An annual event, the streets of Willemstad (Curaçao)"
 category: "1"
 tags: ["654", "900", "2118"]
 date: "2012-03-15"

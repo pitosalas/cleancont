@@ -1,6 +1,6 @@
 ---
 title: "[GEEKY] Resfulie GEM for Rails and RESˇ"
-subtitle: "This is really nice: [Restfulie – Rest from Scratch](http://restfulie.caelum.com.br/). It’s a packag..."
+subtitle: "This is really nice: Restfulie – Rest from Scratch. It’s a packag..."
 category: "422"
 tags: ["1121", "1711", "1742"]
 date: "2010-12-14"

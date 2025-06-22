@@ -1,6 +1,6 @@
 ---
 title: "Wow! Google rocks!"
-subtitle: "[![Picture 1-2](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/weblo..."
+subtitle: "![Picture 1-2"
 category: "298"
 tags: []
 date: "2005-04-05"

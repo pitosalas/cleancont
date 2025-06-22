@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  04/15/2018"
-subtitle: "* [JupyterLab is Ready for Users – Jupyter Blog](<https://blog.jupyter.org/jupyterlab-is-ready-for-u..."
+subtitle: "* JupyterLab is Ready for Users – Jupyter Blog"
 category: "uncategorized"
 tags: []
 date: "2018-04-15"

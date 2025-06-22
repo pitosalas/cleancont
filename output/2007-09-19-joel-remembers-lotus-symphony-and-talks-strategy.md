@@ -1,6 +1,6 @@
 ---
 title: "Joel remembers Lotus Symphony and talks Strategy"
-subtitle: "Check out [this post](http://www.joelonsoftware.com/items/2007/09/18.html) from [Joel on Software](h..."
+subtitle: "Check out this post from Joel on Software"
 category: "538"
 tags: []
 date: "2007-09-19"

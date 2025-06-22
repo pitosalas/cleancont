@@ -1,6 +1,6 @@
 ---
 title: "Boston Postmortem"
-subtitle: "We just got back from the monthly meeting of “[Boston Postmortem](http://www.bostonpostmortem.org/)“..."
+subtitle: "We just got back from the monthly meeting of “Boston Postmortem“..."
 category: "298"
 tags: ["1113", "2093"]
 date: "2011-07-14"

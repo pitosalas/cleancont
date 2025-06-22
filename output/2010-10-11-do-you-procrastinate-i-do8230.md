@@ -1,6 +1,6 @@
 ---
 title: "Do you procrastinate? I do…"
-subtitle: "Here’s an insightful [New Yorker article about procrastination](http://www.newyorker.com/arts/critic..."
+subtitle: "Here’s an insightful New Yorker article about procrastination"
 category: "298"
 tags: []
 date: "2010-10-11"

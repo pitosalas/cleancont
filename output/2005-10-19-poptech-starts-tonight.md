@@ -1,6 +1,6 @@
 ---
 title: "Pop!Tech starts tonight"
-subtitle: "[Pop!Tech](http://www.poptech.org/) is my favorite conference, and it starts tonight, in Camden Main..."
+subtitle: "Pop!Tech is my favorite conference, and it starts tonight, in Camden Main..."
 category: "298"
 tags: []
 date: "2005-10-19"

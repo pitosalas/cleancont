@@ -1,6 +1,6 @@
 ---
 title: "Those are not “your companies” dude"
-subtitle: "Check out [It’s Not My Company](http://feedproxy.google.com/~r/FeldThoughts/~3/PyHZOmRdMI4/its-not-m..."
+subtitle: "Check out It’s Not My Company"
 category: "538"
 tags: []
 date: "2009-10-24"

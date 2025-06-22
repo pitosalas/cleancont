@@ -1,6 +1,6 @@
 ---
 title: "Thoughtful: Google and HTTP"
-subtitle: "[ Thoughtful: Google and HTTP]( http://this.how/googleAndHttp/) –Google is a guest on the web, as we..."
+subtitle: "Thoughtful: Google and HTTP –Google is a guest on the web, as we..."
 category: "1"
 tags: ["717", "914", "2201"]
 date: "2022-07-16"

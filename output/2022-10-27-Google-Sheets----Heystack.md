@@ -1,6 +1,6 @@
 ---
 title: "Google Sheets – 🟧Heystack"
-subtitle: "[ Google Sheets - 🟧Heystack](< https://heystacks.com/?type=sheets>) –Discover"
+subtitle: "Google Sheets - 🟧Heystack –Discover"
 category: "uncategorized"
 tags: []
 date: "2022-10-27"

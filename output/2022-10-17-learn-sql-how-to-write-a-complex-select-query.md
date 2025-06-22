@@ -1,6 +1,6 @@
 ---
 title: "Learn SQL: How to Write a Complex SELECT Query"
-subtitle: "[ Learn SQL: How to Write a Complex SELECT Query]( https://www.sqlshack.com/learn-sql-how-to-write-a..."
+subtitle: "Learn SQL: How to Write a Complex SELECT Query"
 category: "1"
 tags: ["2284", "1221", "1908"]
 date: "2022-10-17"

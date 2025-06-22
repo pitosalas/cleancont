@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  08/10/2020"
-subtitle: "* [full featured html embeddable spreadsheet](<https://github.com/mengshukeji/Luckysheet>)"
+subtitle: "* full featured html embeddable spreadsheet"
 category: "uncategorized"
 tags: []
 date: "2020-08-09"

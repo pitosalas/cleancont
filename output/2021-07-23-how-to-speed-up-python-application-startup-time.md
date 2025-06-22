@@ -1,6 +1,6 @@
 ---
 title: "How to speed up Python application startup time"
-subtitle: "[ How to speed up Python application startup time](https://dev.to/methane/how-to-speed-up-python-app..."
+subtitle: "How to speed up Python application startup time"
 category: "249"
 tags: ["1605"]
 date: "2021-07-23"

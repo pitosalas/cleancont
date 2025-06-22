@@ -1,6 +1,6 @@
 ---
 title: "CardBoard Basics: Full Series with Advanced Basics plus Tools"
-subtitle: "[ CardBoard Basics: Full Series with Advanced Basics plus Tools](https://youtube.com/watch?v=Pk2wHf4..."
+subtitle: "CardBoard Basics: Full Series with Advanced Basics plus Tools"
 category: "68"
 tags: []
 date: "2021-12-16"

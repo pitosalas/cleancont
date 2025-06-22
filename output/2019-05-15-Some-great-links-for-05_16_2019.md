@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  05/16/2019"
-subtitle: "* [How the Boeing 737 Max Disaster Looks to a Software Developer](<https://spectrum.ieee.org/aerospa..."
+subtitle: "* How the Boeing 737 Max Disaster Looks to a Software Developer"
 category: "uncategorized"
 tags: []
 date: "2019-05-15"

@@ -1,6 +1,6 @@
 ---
 title: "Why You Should Find Product-Market Fit Before Sniffing Around For Venture Money"
-subtitle: "[ Why You Should Find Product-Market Fit Before Sniffing Around For Venture Money](https://www.fastc..."
+subtitle: "Why You Should Find Product-Market Fit Before Sniffing Around For Venture Money"
 category: "1"
 tags: ["1009", "1364", "1837", "2068"]
 date: "2022-03-04"

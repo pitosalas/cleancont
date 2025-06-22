@@ -1,6 +1,6 @@
 ---
 title: "New Jersey election fraud? Or coverup? Or just human error?"
-subtitle: "[Andrew Appel ](http://www.cs.princeton.edu/~appel/)is one of the best known academics studying and ..."
+subtitle: "Andrew Appel is one of the best known academics studying and ..."
 category: "298"
 tags: ["885", "990", "991", "1090"]
 date: "2011-09-27"

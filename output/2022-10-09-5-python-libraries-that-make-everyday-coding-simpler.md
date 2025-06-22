@@ -1,6 +1,6 @@
 ---
 title: "5 Python Libraries That Make Everyday Coding Simpler"
-subtitle: "[ 5 Python Libraries That Make Everyday Coding Simpler]( https://link.medium.com/A9gLVpwqZtb) –A bun..."
+subtitle: "5 Python Libraries That Make Everyday Coding Simpler –A bun..."
 category: "1"
 tags: ["1221", "1375", "1692", "2274"]
 date: "2022-10-09"

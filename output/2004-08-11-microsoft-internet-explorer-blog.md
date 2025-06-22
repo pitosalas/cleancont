@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Internet Explorer Blog"
-subtitle: "[The Internet Explorer team at Microsoft has a blog. ](http://blogs.msdn.com/ie/archive/2004/08/10/2..."
+subtitle: "The Internet Explorer team at Microsoft has a blog."
 category: "538"
 tags: []
 date: "2004-08-11"

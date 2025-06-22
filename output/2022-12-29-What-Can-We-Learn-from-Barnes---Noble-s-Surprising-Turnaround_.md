@@ -1,6 +1,6 @@
 ---
 title: "What Can We Learn from Barnes & Noble’s Surprising Turnaround?"
-subtitle: "[ What Can We Learn from Barnes & Noble's Surprising Turnaround?](<"
+subtitle: "What Can We Learn from Barnes & Noble's Surprising Turnaround?"
 category: "uncategorized"
 tags: []
 date: "2022-12-29"

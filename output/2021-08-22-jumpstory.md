@@ -1,6 +1,6 @@
 ---
 title: "JumpStory"
-subtitle: "[ JumpStory](https://universe.jumpstory.com/)"
+subtitle: "JumpStory"
 category: "111"
 tags: ["1161", "1250"]
 date: "2021-08-22"

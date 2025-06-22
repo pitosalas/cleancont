@@ -1,6 +1,6 @@
 ---
 title: "Is twitter for people or for marketing?"
-subtitle: "As you may have noticed, I am using [Twitter](http://www.twitter.com) a little more often now. As mu..."
+subtitle: "As you may have noticed, I am using Twitter a little more often now. As mu..."
 category: "298"
 tags: []
 date: "2008-12-23"

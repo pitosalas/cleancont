@@ -1,6 +1,6 @@
 ---
 title: "llm ttok and strip-tagsCLI tools for working with ChatGPT and other LLMs"
-subtitle: "[ llm, ttok and strip-tags—CLI tools for working with ChatGPT and other LLMs](https://simonwillison...."
+subtitle: "llm, ttok and strip-tags—CLI tools for working with ChatGPT and other LLMs"
 category: "1"
 tags: ["2340", "811", "871", "2512"]
 date: "2023-06-26"

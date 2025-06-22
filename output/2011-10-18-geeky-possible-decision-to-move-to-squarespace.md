@@ -1,6 +1,6 @@
 ---
 title: "[GEEKY] Possible Decision to move to SquareSpace"
-subtitle: "I finally got my new blog on [WordPress.com](http://www.wordpress.com) working. That should have bee..."
+subtitle: "I finally got my new blog on WordPress.com working. That should have bee..."
 category: "538"
 tags: ["1909", "2131"]
 date: "2011-10-18"

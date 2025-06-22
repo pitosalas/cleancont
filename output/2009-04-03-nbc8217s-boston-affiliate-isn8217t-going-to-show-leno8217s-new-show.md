@@ -1,6 +1,6 @@
 ---
 title: "NBC’s Boston affiliate isn’t going to show Leno’s new show"
-subtitle: "Check out this post [NBC’s Boston affiliate isn’t going to show Leno’s new show](http://feedproxy.go..."
+subtitle: "Check out this post NBC’s Boston affiliate isn’t going to show Leno’s new show"
 category: "298"
 tags: []
 date: "2009-04-03"

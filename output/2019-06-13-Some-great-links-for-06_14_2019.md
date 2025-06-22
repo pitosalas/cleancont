@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  06/14/2019"
-subtitle: "* [Enhanced Shell Scripting with Ruby](<https://www.devdungeon.com/content/enhanced-shell-scripting-..."
+subtitle: "* Enhanced Shell Scripting with Ruby"
 category: "uncategorized"
 tags: []
 date: "2019-06-13"

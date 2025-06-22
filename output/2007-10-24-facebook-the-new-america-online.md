@@ -1,6 +1,6 @@
 ---
 title: "Facebook, the new America Online?"
-subtitle: "[Doc Searls has a new post about Facebook](http://blogs.law.harvard.edu/doc/2007/10/23/too-much-face..."
+subtitle: "Doc Searls has a new post about Facebook"
 category: "298"
 tags: []
 date: "2007-10-24"

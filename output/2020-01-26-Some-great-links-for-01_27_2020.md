@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  01/27/2020"
-subtitle: "* [Goodbye, Clean Code — Overreacted](<https://overreacted.io/goodbye-clean-code/>)"
+subtitle: "* Goodbye, Clean Code — Overreacted"
 category: "uncategorized"
 tags: []
 date: "2020-01-26"

@@ -1,6 +1,6 @@
 ---
 title: "Top 10 T-shirt Design Tips"
-subtitle: "[ Top 10 T-shirt Design Tips](https://www.rushordertees.com/blog/10-t-shirt-design-tips-for-better-r..."
+subtitle: "Top 10 T-shirt Design Tips"
 category: "249"
 tags: ["937", "1161"]
 date: "2022-04-24"

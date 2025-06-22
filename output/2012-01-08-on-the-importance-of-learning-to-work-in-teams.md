@@ -1,6 +1,6 @@
 ---
 title: "On the importance of learning to work in teams"
-subtitle: "David Colletta shared [this link in comments](http://www.evanjones.ca/farewell-mit.html) to my [rece..."
+subtitle: "David Colletta shared this link in comments to my [rece..."
 category: "1"
 tags: ["1204", "1475", "1609", "1976"]
 date: "2012-01-08"

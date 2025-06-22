@@ -1,6 +1,6 @@
 ---
 title: "Quirky for Mobile Products?"
-subtitle: "I read about [Quirky.com](http://www.quirky.com/) in the [paper the other day.](http://www.nytimes.c..."
+subtitle: "I read about Quirky.com in the paper the other day."
 category: "422"
 tags: ["1477", "1702"]
 date: "2011-08-27"

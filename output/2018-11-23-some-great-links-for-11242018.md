@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  11/24/2018"
-subtitle: "[Fibers Are the Right Solution](https://www.codeotaku.com/journal/2018-11/fibers-are-the-right-solut..."
+subtitle: "Fibers Are the Right Solution"
 category: "301"
 tags: []
 date: "2018-11-23"

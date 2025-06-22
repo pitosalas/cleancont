@@ -1,6 +1,6 @@
 ---
 title: "Duplication – Code with Jason"
-subtitle: "[ Duplication – Code with Jason]( https://www.codewithjason.com/duplication/) –Duplication can pose ..."
+subtitle: "Duplication – Code with Jason –Duplication can pose ..."
 category: "1"
 tags: ["2251", "2252", "1684", "1888"]
 date: "2022-09-02"

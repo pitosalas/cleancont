@@ -1,6 +1,6 @@
 ---
 title: "Things you’re allowed to do"
-subtitle: "[ Things you’re allowed to do]( https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/?utm_..."
+subtitle: "Things you’re allowed to do"
 category: "1"
 tags: ["608", "2204", "1678"]
 date: "2022-07-17"

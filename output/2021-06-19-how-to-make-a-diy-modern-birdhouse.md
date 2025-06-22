@@ -1,6 +1,6 @@
 ---
 title: "How To Make a DIY Modern Birdhouse"
-subtitle: "[ How To Make a DIY Modern Birdhouse](https://www.curbly.com/how-to-make-a-birdhouse)"
+subtitle: "How To Make a DIY Modern Birdhouse"
 category: "47"
 tags: []
 date: "2021-06-19"

@@ -1,6 +1,6 @@
 ---
 title: "Unlock the Potential of VS Code for Ruby Programming"
-subtitle: "[ Unlock the Potential of VS Code for Ruby Programming]( https://betterprogramming.pub/unlock-the-po..."
+subtitle: "Unlock the Potential of VS Code for Ruby Programming"
 category: "1"
 tags: ["2182", "1772", "2089"]
 date: "2023-02-03"

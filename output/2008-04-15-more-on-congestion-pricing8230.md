@@ -1,6 +1,6 @@
 ---
 title: "More on congestion pricing…"
-subtitle: "From a few previous posts you know that I have a [curiosity about congestion](/2008/03/26/how-gps-de..."
+subtitle: "From a few previous posts you know that I have a curiosity about congestion"
 category: "410"
 tags: ["856"]
 date: "2008-04-15"

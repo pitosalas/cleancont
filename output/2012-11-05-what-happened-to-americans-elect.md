@@ -1,6 +1,6 @@
 ---
 title: "What happened to Americans Elect?"
-subtitle: "Over the last year I mentioned “Americans Elect” several times: [Americans Elect: Another Opinion](h..."
+subtitle: "Over the last year I mentioned “Americans Elect” several times: Americans Elect: Another Opinion"
 category: "1"
 tags: ["625", "990", "1645"]
 date: "2012-11-05"

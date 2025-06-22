@@ -1,6 +1,6 @@
 ---
 title: "Client — Paramiko documentation"
-subtitle: "[ Client — Paramiko documentation](https://docs.paramiko.org/en/stable/api/client.html)"
+subtitle: "Client — Paramiko documentation"
 category: "377"
 tags: []
 date: "2022-01-01"

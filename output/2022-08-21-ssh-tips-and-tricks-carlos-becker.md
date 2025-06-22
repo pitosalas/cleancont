@@ -1,6 +1,6 @@
 ---
 title: "SSH Tips and Tricks | Carlos Becker"
-subtitle: "[ SSH Tips and Tricks | Carlos Becker]( https://carlosbecker.dev/posts/ssh-tips-and-tricks/) –Since ..."
+subtitle: "SSH Tips and Tricks | Carlos Becker –Since ..."
 category: "1"
 tags: ["2242", "1221", "2241", "1913", "2181"]
 date: "2022-08-21"

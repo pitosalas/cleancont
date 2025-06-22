@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  03/25/2019"
-subtitle: "[Flatdoc](http://ricostacruz.com/flatdoc/)"
+subtitle: "Flatdoc"
 category: "301"
 tags: []
 date: "2019-03-24"

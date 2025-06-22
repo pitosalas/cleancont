@@ -1,6 +1,6 @@
 ---
 title: "Duplication – Code with Jason"
-subtitle: "[ Duplication - Code with Jason](<"
+subtitle: "Duplication - Code with Jason"
 category: "uncategorized"
 tags: []
 date: "2022-09-02"

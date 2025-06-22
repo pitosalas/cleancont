@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  03/30/2021"
-subtitle: "* [15 Incredible Agile Project Management Statistics to Know](<https://blog.capterra.com/agile-proje..."
+subtitle: "* 15 Incredible Agile Project Management Statistics to Know"
 category: "uncategorized"
 tags: []
 date: "2021-03-29"

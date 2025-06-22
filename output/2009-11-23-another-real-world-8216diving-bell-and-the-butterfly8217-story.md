@@ -1,6 +1,6 @@
 ---
 title: "Another real-world ‘Diving Bell and the Butterfly’ story"
-subtitle: "Did you read the book [“The Diving Bell and The Butterfly”](http://www.amazon.com/Diving-Bell-Butter..."
+subtitle: "Did you read the book “The Diving Bell and The Butterfly”"
 category: "298"
 tags: []
 date: "2009-11-23"

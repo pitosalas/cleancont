@@ -1,6 +1,6 @@
 ---
 title: "Wired vs. Unwired"
-subtitle: "For you Wifi junkies, here is a list of [America’s Most Wired Cities – Forbes.com](http://www.forbes..."
+subtitle: "For you Wifi junkies, here is a list of America’s Most Wired Cities – Forbes.com"
 category: "1"
 tags: []
 date: "2006-09-07"

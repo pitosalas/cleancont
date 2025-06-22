@@ -1,6 +1,6 @@
 ---
 title: "Pandora is saved!"
-subtitle: "[Pandora is one of my favorite music sites](/2009/02/01/subscribe-to-pandora/). It’s a quick way to ..."
+subtitle: "Pandora is one of my favorite music sites. It’s a quick way to ..."
 category: "298"
 tags: []
 date: "2009-07-08"

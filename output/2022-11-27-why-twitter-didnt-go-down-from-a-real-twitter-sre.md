@@ -1,6 +1,6 @@
 ---
 title: "Why Twitter Didn’t Go Down: From a Real Twitter SRE"
-subtitle: "[ Why Twitter Didn’t Go Down: From a Real Twitter SRE]( https://matthewtejo.substack.com/p/why-twitt..."
+subtitle: "Why Twitter Didn’t Go Down: From a Real Twitter SRE"
 category: "1"
 tags: ["2313", "876", "1794", "1795", "2047"]
 date: "2022-11-27"

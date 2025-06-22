@@ -1,6 +1,6 @@
 ---
 title: "6 Stages of Linux Boot Process (Startup Sequence)"
-subtitle: "[ 6 Stages of Linux Boot Process (Startup Sequence)](https://www.thegeekstuff.com/2011/02/linux-boot..."
+subtitle: "6 Stages of Linux Boot Process (Startup Sequence)"
 category: "52"
 tags: ["1387"]
 date: "2021-06-03"

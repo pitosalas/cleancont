@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  06/19/2018"
-subtitle: "* [Smart Weather Station Indoor Outdoor | Netatmo](<https://www.netatmo.com/en-US/product/weather/we..."
+subtitle: "* Smart Weather Station Indoor Outdoor | Netatmo"
 category: "uncategorized"
 tags: []
 date: "2018-06-19"

@@ -1,6 +1,6 @@
 ---
 title: "Custom vinyl stickers, decals, labels. High quality printing at low prices!"
-subtitle: "[ Custom vinyl stickers, decals, labels. High quality printing at low prices!](https://stickerguy.co..."
+subtitle: "Custom vinyl stickers, decals, labels. High quality printing at low prices!"
 category: "160"
 tags: []
 date: "2022-01-23"

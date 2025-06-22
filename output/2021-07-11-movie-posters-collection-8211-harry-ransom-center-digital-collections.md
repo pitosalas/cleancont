@@ -1,6 +1,6 @@
 ---
 title: "Movie Posters Collection – Harry Ransom Center Digital Collections"
-subtitle: "[ Movie Posters Collection – Harry Ransom Center Digital Collections](https://hrc.contentdm.oclc.org..."
+subtitle: "Movie Posters Collection – Harry Ransom Center Digital Collections"
 category: "92"
 tags: ["654", "937", "1250", "1489"]
 date: "2021-07-11"

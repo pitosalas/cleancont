@@ -1,6 +1,6 @@
 ---
 title: "Alternate Python REPL – bpython"
-subtitle: "[ Alternate Python REPL - bpython](< https://bpython-interpreter.org/>) –"
+subtitle: "Alternate Python REPL - bpython –"
 category: "uncategorized"
 tags: []
 date: "2023-06-07"

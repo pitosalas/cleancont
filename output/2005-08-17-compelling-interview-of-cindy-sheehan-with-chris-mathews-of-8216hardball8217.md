@@ -1,6 +1,6 @@
 ---
 title: "Compelling: interview of Cindy Sheehan with Chris Mathews of ‘Hardball’"
-subtitle: "[“But I am compelled to do this.  And other than that, that’s as far as I’m going to talk about my f..."
+subtitle: "[“But I am compelled to do this. And other than that, that’s as far as I’m going to talk about my f..."
 category: "298"
 tags: []
 date: "2005-08-17"

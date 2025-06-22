@@ -1,6 +1,6 @@
 ---
 title: "How do you fit a 365 day calendar on an index card?"
-subtitle: "[![](https://i0.wp.com/salas.com/wp-content/uploads/2013/01/8dd58-12439792-21674846-thumbnail.png?w=..."
+subtitle: "!["
 category: "1"
 tags: ["762", "937", "1618", "1660", "1826"]
 date: "2013-01-17"

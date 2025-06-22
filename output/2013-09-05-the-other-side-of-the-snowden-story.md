@@ -1,6 +1,6 @@
 ---
 title: "The other side of the Snowden story"
-subtitle: "[What Did Edward Snowden Get Wrong? Everything | RAND](http://m.rand.org/commentary/2013/08/10/LAT.h..."
+subtitle: "What Did Edward Snowden Get Wrong? Everything | RAND"
 category: "1"
 tags: ["1539", "1820", "1879", "2012"]
 date: "2013-09-05"

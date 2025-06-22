@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  01/20/2020"
-subtitle: "[My Favorite Macbook Tools](https://switowski.com/blog/favorite-mac-tools)"
+subtitle: "My Favorite Macbook Tools"
 category: "301"
 tags: []
 date: "2020-01-19"

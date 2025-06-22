@@ -1,6 +1,6 @@
 ---
 title: "OpenCV: Contours in OpenCV"
-subtitle: "[ OpenCV: Contours in OpenCV](https://docs.opencv.org/4.x/d3/d05/tutorial_py_table_of_contents_conto..."
+subtitle: "OpenCV: Contours in OpenCV"
 category: "115"
 tags: []
 date: "2022-03-13"

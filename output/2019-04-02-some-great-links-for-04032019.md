@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  04/03/2019"
-subtitle: "[Architecting Ruby on Rails Apps as Microservices | Codeship | via @codeship](http://blog.codeship.c..."
+subtitle: "Architecting Ruby on Rails Apps as Microservices | Codeship | via @codeship"
 category: "301"
 tags: []
 date: "2019-04-02"

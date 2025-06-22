@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  12/28/2018"
-subtitle: "* [We’re Finally Learning the Lesson of Y2K — and It’s Too Late](<https://link.medium.com/b3wRq9eHZS..."
+subtitle: "* We’re Finally Learning the Lesson of Y2K — and It’s Too Late"
 category: "uncategorized"
 tags: []
 date: "2018-12-27"

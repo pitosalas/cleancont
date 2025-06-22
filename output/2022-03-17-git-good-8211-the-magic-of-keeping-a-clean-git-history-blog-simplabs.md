@@ -1,6 +1,6 @@
 ---
 title: "Git Good – The magic of keeping a clean Git history | Blog | simplabs"
-subtitle: "[ Git Good – The magic of keeping a clean Git history | Blog | simplabs](https://simplabs.com/blog/2..."
+subtitle: "Git Good – The magic of keeping a clean Git history | Blog | simplabs"
 category: "55"
 tags: ["1134", "1135"]
 date: "2022-03-17"

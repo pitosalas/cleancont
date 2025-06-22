@@ -1,6 +1,6 @@
 ---
 title: "Altered States"
-subtitle: "I saw this movie, [Altered States,](http://www.imdb.com/title/tt0080360/) again last night. It’s eve..."
+subtitle: "I saw this movie, Altered States, again last night. It’s eve..."
 category: "1"
 tags: ["621", "1489", "1495", "2020"]
 date: "2011-12-27"

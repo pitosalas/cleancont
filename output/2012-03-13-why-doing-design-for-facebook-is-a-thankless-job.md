@@ -1,6 +1,6 @@
 ---
 title: "Why doing design for Facebook is a thankless job"
-subtitle: "A friend of mine hates, HATES, the new [Facebook timeline.](https://www.facebook.com/pitosalas) She ..."
+subtitle: "A friend of mine hates, HATES, the new Facebook timeline. She ..."
 category: "1"
 tags: ["937", "1037", "2006", "2052", "2064"]
 date: "2012-03-13"

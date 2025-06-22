@@ -1,6 +1,6 @@
 ---
 title: "Guy Kawasaki: What I learned from Steve Jobs"
-subtitle: "Interesting [article by famous Guy Kawasaki about what he learned from Steve Jobs](http://blog.guyka..."
+subtitle: "Interesting article by famous Guy Kawasaki about what he learned from Steve Jobs"
 category: "1"
 tags: ["1177", "1924", "2124"]
 date: "2011-12-08"

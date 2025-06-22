@@ -1,6 +1,6 @@
 ---
 title: "Top Python libraries of 2023"
-subtitle: "[ Top Python libraries of 2023]( https://tryolabs.com/blog/top-python-libraries-2023) –Exploring the..."
+subtitle: "Top Python libraries of 2023 –Exploring the..."
 category: "1"
 tags: ["611", "2614", "2613", "1575", "1692"]
 date: "2024-01-10"

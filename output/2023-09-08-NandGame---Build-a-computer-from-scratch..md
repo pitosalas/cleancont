@@ -1,6 +1,6 @@
 ---
 title: "NandGame – Build a computer from scratch."
-subtitle: "[ NandGame - Build a computer from scratch.](< https://nandgame.com>) –An"
+subtitle: "NandGame - Build a computer from scratch. –An"
 category: "uncategorized"
 tags: []
 date: "2023-09-08"

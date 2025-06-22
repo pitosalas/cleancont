@@ -1,6 +1,6 @@
 ---
 title: "Where can I find non-shrill political coverage?"
-subtitle: "I read the [New York Times](http://www.nytimes.com/), and magazines like [The Atlantic](http://www.t..."
+subtitle: "I read the New York Times, and magazines like The Atlantic"
 category: "298"
 tags: ["1373"]
 date: "2008-09-05"

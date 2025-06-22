@@ -1,6 +1,6 @@
 ---
 title: "Tunnel Vision"
-subtitle: "This [article by David Brooks in the New York Times](http://www.nytimes.com/2010/10/12/opinion/12bro..."
+subtitle: "This article by David Brooks in the New York Times"
 category: "298"
 tags: []
 date: "2010-10-12"

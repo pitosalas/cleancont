@@ -1,6 +1,6 @@
 ---
 title: "laser_pipeline/Tutorials/IntroductionToWorkingWithLaserScannerData"
-subtitle: "[ laser_pipeline/Tutorials/IntroductionToWorkingWithLaserScannerData](http://library.isr.ist.utl.pt/..."
+subtitle: "laser_pipeline/Tutorials/IntroductionToWorkingWithLaserScannerData"
 category: "2"
 tags: []
 date: "2022-01-31"

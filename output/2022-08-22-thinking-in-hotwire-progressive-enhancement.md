@@ -1,6 +1,6 @@
 ---
 title: "Thinking in Hotwire: Progressive Enhancement"
-subtitle: "[ Thinking in Hotwire: Progressive Enhancement]( https://boringrails.com/articles/thinking-in-hotwir..."
+subtitle: "Thinking in Hotwire: Progressive Enhancement"
 category: "1"
 tags: ["2185", "1221", "1711", "1747"]
 date: "2022-08-22"

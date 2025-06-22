@@ -1,6 +1,6 @@
 ---
 title: "Great “State of the Blogosphere” Post from Dave Sifry"
-subtitle: ">> Dave Sifry, of [Technorati](<http://www.technorati.com/>), periodically"
+subtitle: ">> Dave Sifry, of Technorati, periodically"
 category: "uncategorized"
 tags: []
 date: "2006-04-17"

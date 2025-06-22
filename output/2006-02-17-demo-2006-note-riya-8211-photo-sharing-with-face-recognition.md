@@ -1,6 +1,6 @@
 ---
 title: "Demo 2006 Note: Riya – Photo Sharing with Face Recognition"
-subtitle: "[This one was probably one of the most talked about sites](http://www.riya.com). The principle is, F..."
+subtitle: "This one was probably one of the most talked about sites. The principle is, F..."
 category: "538"
 tags: []
 date: "2006-02-17"

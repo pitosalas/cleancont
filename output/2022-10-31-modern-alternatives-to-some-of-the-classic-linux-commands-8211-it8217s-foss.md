@@ -1,6 +1,6 @@
 ---
 title: "Modern Alternatives to Some of the Classic Linux Commands – It’s FOSS"
-subtitle: "[ Modern Alternatives to Some of the Classic Linux Commands – It’s FOSS]( https://itsfoss.com/legacy..."
+subtitle: "Modern Alternatives to Some of the Classic Linux Commands – It’s FOSS"
 category: "1"
 tags: ["2247", "811", "1044", "2293", "1387", "2292"]
 date: "2022-10-31"

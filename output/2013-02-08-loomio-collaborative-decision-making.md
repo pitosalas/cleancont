@@ -1,6 +1,6 @@
 ---
 title: "Loomio: Collaborative Decision Making"
-subtitle: "[Loomio](https://www.loomio.org) is a new app looks quite cool and worth checking out:"
+subtitle: "Loomio is a new app looks quite cool and worth checking out:"
 category: "1"
 tags: ["822", "929", "930", "1403"]
 date: "2013-02-08"

@@ -1,6 +1,6 @@
 ---
 title: "Moving from Radio to Movable Type"
-subtitle: "I’ve seen [some discussion ](http://www.intertwingly.net/blog/2004/05/16/Freedom-0-1-x2148)on [the i..."
+subtitle: "I’ve seen some discussion on [the i..."
 category: "51"
 tags: []
 date: "2004-05-17"

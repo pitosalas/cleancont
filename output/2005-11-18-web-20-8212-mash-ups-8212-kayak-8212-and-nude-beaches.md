@@ -1,6 +1,6 @@
 ---
 title: "Web 2.0 — mash ups — Kayak — and nude beaches ?!"
-subtitle: "[Did you know that Curacao is the 7th favorite](http://www.kayak.com/h/buzz/flights?code=BOS&rc=c&ac..."
+subtitle: "Did you know that Curacao is the 7th favorite"
 category: "298"
 tags: []
 date: "2005-11-18"

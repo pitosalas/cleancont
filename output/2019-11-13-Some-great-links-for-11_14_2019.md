@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  11/14/2019"
-subtitle: "* [PathFinding.js](<https://qiao.github.io/PathFinding.js/visual/>)"
+subtitle: "* PathFinding.js"
 category: "uncategorized"
 tags: []
 date: "2019-11-13"

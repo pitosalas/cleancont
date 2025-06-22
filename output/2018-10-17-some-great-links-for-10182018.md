@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  10/18/2018"
-subtitle: "[Top 5 Contemporary Software Engineering Books – KI labs Engineering – Medium](https://medium.com/ki..."
+subtitle: "Top 5 Contemporary Software Engineering Books – KI labs Engineering – Medium"
 category: "301"
 tags: []
 date: "2018-10-17"

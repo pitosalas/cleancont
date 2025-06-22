@@ -1,6 +1,6 @@
 ---
 title: "Check out Reading List FAQ in BlogBridge site"
-subtitle: "I just [posted](http://www.blogbridge.com/archives/2006/02/what_is_a_blogb.php) an intro to Reading ..."
+subtitle: "I just posted an intro to Reading ..."
 category: "538"
 tags: []
 date: "2006-02-04"

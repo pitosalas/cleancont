@@ -1,6 +1,6 @@
 ---
 title: "Insightful (and not positive) article about Barack Obama"
-subtitle: "[Peggy Noonan](http://online.wsj.com/article/SB10001424052970204731804574391153099885242.html) is al..."
+subtitle: "Peggy Noonan is al..."
 category: "410"
 tags: []
 date: "2009-09-05"

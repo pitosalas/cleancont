@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  03/12/2019"
-subtitle: "* [An introduction to Redis data types and abstractions – Redis](<https://redis.io/topics/data-types..."
+subtitle: "* An introduction to Redis data types and abstractions – Redis"
 category: "uncategorized"
 tags: []
 date: "2019-03-11"

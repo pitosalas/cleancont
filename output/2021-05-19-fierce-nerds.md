@@ -1,6 +1,6 @@
 ---
 title: "Fierce Nerds"
-subtitle: "[ Fierce Nerds](http://paulgraham.com/fn.html)"
+subtitle: "Fierce Nerds"
 category: "173"
 tags: []
 date: "2021-05-19"

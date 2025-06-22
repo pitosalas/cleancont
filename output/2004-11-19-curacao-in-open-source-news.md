@@ -1,6 +1,6 @@
 ---
 title: "Curacao in Open Source News?!"
-subtitle: "There’s this little island in the Caribean called [Curacao](http://en.wikipedia.org/wiki/Cura%E7ao)...."
+subtitle: "There’s this little island in the Caribean called Curacao...."
 category: "538"
 tags: []
 date: "2004-11-19"

@@ -1,6 +1,6 @@
 ---
 title: "Geek Dinner? Harvard Square? February 15th? Should be fun!"
-subtitle: "Inspired by **Geek Dinners** popping up all over, we thought it might be **fun** to [try it here](ht..."
+subtitle: "Inspired by **Geek Dinners** popping up all over, we thought it might be **fun** to try it here"
 category: "298"
 tags: []
 date: "2006-01-29"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  07/12/2020"
-subtitle: "* [PEP 622 -- Structural Pattern Matching | Python.org](<https://www.python.org/dev/peps/pep-0622/>)"
+subtitle: "* PEP 622 -- Structural Pattern Matching | Python.org"
 category: "uncategorized"
 tags: []
 date: "2020-07-11"

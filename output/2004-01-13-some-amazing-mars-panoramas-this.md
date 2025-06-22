@@ -1,6 +1,6 @@
 ---
 title: "Some amazing (Mars) panoramas. This"
-subtitle: "**[Some amazing (Mars) panoramas](http://www.panoramas.dk/fullscreen3/f2_mars.html). **This is via [..."
+subtitle: "**Some amazing (Mars) panoramas. **This is via [..."
 category: "1"
 tags: []
 date: "2004-01-13"

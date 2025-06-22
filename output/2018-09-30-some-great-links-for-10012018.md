@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  10/01/2018"
-subtitle: "[Is your Rails app ready for Production? | AkitaOnRails.com](http://www.akitaonrails.com/2016/03/22/..."
+subtitle: "Is your Rails app ready for Production? | AkitaOnRails.com"
 category: "301"
 tags: []
 date: "2018-09-30"

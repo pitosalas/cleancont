@@ -1,6 +1,6 @@
 ---
 title: "Label printer very handy around the office"
-subtitle: "A few years ago I got the idea to get myself a [label printer](http://en.wikipedia.org/wiki/Label_pr..."
+subtitle: "A few years ago I got the idea to get myself a label printer"
 category: "298"
 tags: []
 date: "2007-07-03"

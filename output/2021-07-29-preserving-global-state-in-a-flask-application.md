@@ -1,6 +1,6 @@
 ---
 title: "Preserving global state in a flask application"
-subtitle: "[ Preserving global state in a flask application](https://stackoverflow.com/questions/19277280/prese..."
+subtitle: "Preserving global state in a flask application"
 category: "58"
 tags: []
 date: "2021-07-29"

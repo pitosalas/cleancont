@@ -1,6 +1,6 @@
 ---
 title: "Garrison Keillor: America is cool!"
-subtitle: "A neat article in [Salon, by Garrison Keillor – America is cool](/wp-admin/post-new.php):"
+subtitle: "A neat article in Salon, by Garrison Keillor – America is cool:"
 category: "298"
 tags: []
 date: "2008-11-14"

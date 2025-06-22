@@ -1,6 +1,6 @@
 ---
 title: "What is the ‘true’ result of an election?"
-subtitle: "With what’s [going on in Iran right now](http://www.nytimes.com/2009/06/16/world/middleeast/16iran.h..."
+subtitle: "With what’s going on in Iran right now"
 category: "298"
 tags: []
 date: "2009-06-16"

@@ -1,6 +1,6 @@
 ---
 title: "MicroK8s – Zero-ops Kubernetes for developers, edge and IoT | MicroK8s"
-subtitle: "[ MicroK8s – Zero-ops Kubernetes for developers, edge and IoT | MicroK8s](https://microk8s.io/)"
+subtitle: "MicroK8s – Zero-ops Kubernetes for developers, edge and IoT | MicroK8s"
 category: "249"
 tags: []
 date: "2021-08-01"

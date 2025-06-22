@@ -1,6 +1,6 @@
 ---
 title: "Make your own assembler simulator in JavaScript (Part 1)"
-subtitle: "[ Make your own assembler simulator in JavaScript (Part 1)]( https://www.mschweighauser.com/make-you..."
+subtitle: "Make your own assembler simulator in JavaScript (Part 1)"
 category: "1"
 tags: ["2403", "2405", "987", "1221", "2404", "2079"]
 date: "2023-01-13"

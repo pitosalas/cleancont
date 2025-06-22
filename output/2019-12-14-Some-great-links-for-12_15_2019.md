@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  12/15/2019"
-subtitle: "* [Why NUKEMAP isn't on Google Maps anymore | Restricted Data](<http://blog.nuclearsecrecy.com/2019/..."
+subtitle: "* Why NUKEMAP isn't on Google Maps anymore | Restricted Data"
 category: "uncategorized"
 tags: []
 date: "2019-12-14"

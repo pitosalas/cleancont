@@ -1,6 +1,6 @@
 ---
 title: "Come to OPML Camp: May 20-21, 2006, Boston, USA!"
-subtitle: "There is a *[lot of stuff going on with OPML](http://opmlcamp.com/)* these days. OPML stands for Out..."
+subtitle: "There is a *lot of stuff going on with OPML* these days. OPML stands for Out..."
 category: "538"
 tags: []
 date: "2006-04-04"

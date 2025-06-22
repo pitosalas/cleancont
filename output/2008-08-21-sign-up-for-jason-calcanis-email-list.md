@@ -1,6 +1,6 @@
 ---
 title: "Sign up for Jason Calcanis email list!"
-subtitle: "[Jason Calcanis has stopped blogging](http://www.calacanis.com/2008/08/18/updates/) and instead is d..."
+subtitle: "Jason Calcanis has stopped blogging and instead is d..."
 category: "51"
 tags: []
 date: "2008-08-21"

@@ -1,6 +1,6 @@
 ---
 title: "Forget about algorithms and models — learn how to solve problems first"
-subtitle: "[ Forget about algorithms and models — learn how to solve problems first]( https://thenextweb.com/ne..."
+subtitle: "Forget about algorithms and models — learn how to solve problems first"
 category: "1"
 tags: ["2353", "1684", "1973"]
 date: "2022-12-08"

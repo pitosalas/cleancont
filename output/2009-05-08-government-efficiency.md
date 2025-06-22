@@ -1,6 +1,6 @@
 ---
 title: "Government Efficiency"
-subtitle: "Check this post [Government Efficiency](http://dilbert.com/blog/entry/government_efficiency/) from [..."
+subtitle: "Check this post Government Efficiency from [..."
 category: "298"
 tags: []
 date: "2009-05-08"

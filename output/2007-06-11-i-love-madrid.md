@@ -1,6 +1,6 @@
 ---
 title: "I love Madrid!"
-subtitle: "[![Events in Madrid](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-conte..."
+subtitle: "![Events in Madrid"
 category: "298"
 tags: []
 date: "2007-06-11"

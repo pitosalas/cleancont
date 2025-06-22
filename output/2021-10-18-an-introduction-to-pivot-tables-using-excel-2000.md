@@ -1,6 +1,6 @@
 ---
 title: "An Introduction to Pivot Tables Using Excel 2000"
-subtitle: "[ An Introduction to Pivot Tables Using Excel 2000](https://www.slideserve.com/vince/an-introduction..."
+subtitle: "An Introduction to Pivot Tables Using Excel 2000"
 category: "405"
 tags: ["1029", "1207", "1254"]
 date: "2021-10-18"

@@ -1,6 +1,6 @@
 ---
 title: "[JAVA ONE]Sun answers my question"
-subtitle: "In [several ](/weblogs/archives/000449.html)previous [posts ](/weblogs/archives/000446.html)I’ve won..."
+subtitle: "In several previous posts I’ve won..."
 category: "538"
 tags: []
 date: "2004-07-13"

@@ -1,6 +1,6 @@
 ---
 title: "Sinatra Best Practices: Part One"
-subtitle: "[ Sinatra Best Practices: Part One](https://blog.carbonfive.com/sinatra-best-practices-part-one/)"
+subtitle: "Sinatra Best Practices: Part One"
 category: "46"
 tags: ["937"]
 date: "2022-03-14"

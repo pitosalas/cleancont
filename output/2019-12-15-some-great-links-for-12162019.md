@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  12/16/2019"
-subtitle: "[Git: Cheat Sheet (advanced) – DEV Community ](https://dev.to/maxpou/git-cheat-sheet-advanced-3a17)"
+subtitle: "Git: Cheat Sheet (advanced) – DEV Community"
 category: "301"
 tags: []
 date: "2019-12-15"

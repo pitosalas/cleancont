@@ -1,6 +1,6 @@
 ---
 title: "I’m in good company"
-subtitle: "A week or so ago [I posted an amusing picture](/weblogs/archives/000523.html), supposedly from Popul..."
+subtitle: "A week or so ago I posted an amusing picture, supposedly from Popul..."
 category: "298"
 tags: []
 date: "2004-12-12"

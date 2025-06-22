@@ -1,6 +1,6 @@
 ---
 title: "The 60-Year-Old Scientific Screwup That Helped Covid Kill"
-subtitle: "[ The 60-Year-Old Scientific Screwup That Helped Covid Kill](https://www.wired.com/story/the-teeny-t..."
+subtitle: "The 60-Year-Old Scientific Screwup That Helped Covid Kill"
 category: "23"
 tags: ["1800"]
 date: "2021-05-28"

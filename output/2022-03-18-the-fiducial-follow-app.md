@@ -1,6 +1,6 @@
 ---
 title: "The Fiducial Follow App"
-subtitle: "[ The Fiducial Follow App](https://learn.ubiquityrobotics.com/fiducial_follow_app)"
+subtitle: "The Fiducial Follow App"
 category: "27"
 tags: []
 date: "2022-03-18"

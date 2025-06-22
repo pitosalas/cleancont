@@ -1,6 +1,6 @@
 ---
 title: "Mathematical Foundations of Consciousness?"
-subtitle: "Say what? I came across this paper; [Mathematical Foundations of Consciousness](http://arxiv.org/pdf..."
+subtitle: "Say what? I came across this paper; Mathematical Foundations of Consciousness"
 category: "298"
 tags: ["860", "1446", "1740"]
 date: "2010-09-07"

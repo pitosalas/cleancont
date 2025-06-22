@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  10/20/2018"
-subtitle: "* [Minitest Tutorial: Getting Started with Minitest | Codeship | via @codeship](<https://blog.codesh..."
+subtitle: "* Minitest Tutorial: Getting Started with Minitest | Codeship | via @codeship"
 category: "uncategorized"
 tags: []
 date: "2018-10-19"

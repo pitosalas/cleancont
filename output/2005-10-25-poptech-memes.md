@@ -1,6 +1,6 @@
 ---
 title: "Pop!Tech Memes"
-subtitle: "[Pop!Tech 2005](http://www.poptech.org/) was a great conference, again. I made notes only when somet..."
+subtitle: "Pop!Tech 2005 was a great conference, again. I made notes only when somet..."
 category: "298"
 tags: []
 date: "2005-10-25"

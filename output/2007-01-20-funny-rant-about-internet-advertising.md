@@ -1,6 +1,6 @@
 ---
 title: "Funny rant about internet advertising"
-subtitle: "Check out [this post](http://get.wis.dm/danielsalas/?p=56) from [Saint"
+subtitle: "Check out this post from [Saint"
 category: "298"
 tags: []
 date: "2007-01-20"

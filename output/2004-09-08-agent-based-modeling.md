@@ -1,6 +1,6 @@
 ---
 title: "Agent Based Modeling"
-subtitle: "And now for something completely different. I was reading this book: “[It’s Alive](http://www.amazon..."
+subtitle: "And now for something completely different. I was reading this book: “It’s Alive"
 category: "538"
 tags: []
 date: "2004-09-08"

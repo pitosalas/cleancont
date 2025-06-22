@@ -1,6 +1,6 @@
 ---
 title: "Removing sensitive data from a repository – GitHub Docs"
-subtitle: "[ Removing sensitive data from a repository – GitHub Docs](https://docs.github.com/en/github/authent..."
+subtitle: "Removing sensitive data from a repository – GitHub Docs"
 category: "249"
 tags: ["1135"]
 date: "2021-08-12"

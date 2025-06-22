@@ -1,6 +1,6 @@
 ---
 title: "The Rails Command Line — Ruby on Rails Guides"
-subtitle: "[ The Rails Command Line — Ruby on Rails Guides](https://guides.rubyonrails.org/command_line.html#ra..."
+subtitle: "The Rails Command Line — Ruby on Rails Guides"
 category: "301"
 tags: []
 date: "2022-03-28"

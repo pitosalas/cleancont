@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  11/04/2019"
-subtitle: "* [GitHub - iris-ua/iris_lama: LaMa - A Localization and Mapping library](<https://github.com/iris-u..."
+subtitle: "* GitHub - iris-ua/iris_lama: LaMa - A Localization and Mapping library"
 category: "uncategorized"
 tags: []
 date: "2019-11-03"

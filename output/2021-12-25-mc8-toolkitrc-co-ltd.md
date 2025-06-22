@@ -1,6 +1,6 @@
 ---
 title: "MC8-ToolkitRC co., ltd."
-subtitle: "[ MC8-ToolkitRC co., ltd.](https://www.toolkitrc.com/mc8)"
+subtitle: "MC8-ToolkitRC co., ltd."
 category: "301"
 tags: []
 date: "2021-12-25"

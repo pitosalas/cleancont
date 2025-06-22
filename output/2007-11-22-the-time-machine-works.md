@@ -1,6 +1,6 @@
 ---
 title: "The Time Machine Works!"
-subtitle: "Check out [this post](http://blog.payne.org/2007/11/15/involuntary-test-of-time-machine/) from [blog..."
+subtitle: "Check out this post from [blog..."
 category: "538"
 tags: []
 date: "2007-11-22"

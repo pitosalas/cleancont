@@ -1,6 +1,6 @@
 ---
 title: "Happy Manhattanhenge"
-subtitle: "![ManhattanSunset Small](//pending/E6BF01EC-1313-4179-B16B-505AC16EB3D7/)Today (May 29) is Manhatten..."
+subtitle: "!ManhattanSunset SmallToday (May 29) is Manhatten..."
 category: "1"
 tags: ["661", "1540"]
 date: "2012-05-29"

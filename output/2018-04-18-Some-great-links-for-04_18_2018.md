@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  04/18/2018"
-subtitle: "* [Random Forest in Python – Towards Data Science](<https://towardsdatascience.com/random-forest-in-..."
+subtitle: "* Random Forest in Python – Towards Data Science"
 category: "uncategorized"
 tags: []
 date: "2018-04-18"

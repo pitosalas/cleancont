@@ -1,6 +1,6 @@
 ---
 title: "Using Google to make community standards transparent and objective"
-subtitle: "This New York Times article, “[What’s Obscene? Google Could Have an Answer”](http://www.nytimes.com/..."
+subtitle: "This New York Times article, “What’s Obscene? Google Could Have an Answer”"
 category: "298"
 tags: []
 date: "2009-01-04"

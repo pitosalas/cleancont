@@ -1,6 +1,6 @@
 ---
 title: "Unifying Campus Technology Solutions to Power Higher Ed | Ellucian"
-subtitle: "[ Unifying Campus Technology Solutions to Power Higher Ed | Ellucian](https://www.ellucian.com/)"
+subtitle: "Unifying Campus Technology Solutions to Power Higher Ed | Ellucian"
 category: "376"
 tags: ["987", "1886"]
 date: "2022-01-06"

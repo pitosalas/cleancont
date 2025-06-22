@@ -1,6 +1,6 @@
 ---
 title: "Boston Globe on PodCasting"
-subtitle: "The Boston[ Globe writes an insightful article](http://www.boston.com/news/nation/articles/2004/12/2..."
+subtitle: "The Boston Globe writes an insightful article"
 category: "298"
 tags: []
 date: "2004-12-20"

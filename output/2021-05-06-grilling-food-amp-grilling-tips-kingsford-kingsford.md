@@ -1,6 +1,6 @@
 ---
 title: "Grilling Food & Grilling Tips | Kingsford | Kingsford®"
-subtitle: "[ Grilling Food & Grilling Tips | Kingsford | Kingsford®](https://www.kingsford.com/how-to-food/)"
+subtitle: "Grilling Food & Grilling Tips | Kingsford | Kingsford®"
 category: "230"
 tags: ["1078"]
 date: "2021-05-06"

@@ -1,6 +1,6 @@
 ---
 title: "Comment spam – solved for now?"
-subtitle: "[The other day I complained](/weblogs/archives/001162.php) about comment spam on my two blogs. Comme..."
+subtitle: "The other day I complained about comment spam on my two blogs. Comme..."
 category: "51"
 tags: []
 date: "2006-06-03"

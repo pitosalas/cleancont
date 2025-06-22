@@ -67,6 +67,44 @@ def sanitize_html_in_yaml(text):
     return text
 
 
+def sanitize_markdown_links_in_yaml(text):
+    """
+    Clean up markdown links that can cause YAML parsing issues
+    """
+    if not text:
+        return ""
+    
+    # Handle various markdown link patterns that can break YAML
+    
+    # Pattern 1: Complete markdown links [text](url)
+    def clean_complete_link(match):
+        link_text = match.group(1)
+        return link_text
+    
+    text = re.sub(r'\[([^\]]+)\]\([^\)]+\)', clean_complete_link, text)
+    
+    # Pattern 2: Incomplete markdown links [text](partial_url...
+    # This handles cases where URLs are truncated
+    def clean_incomplete_link(match):
+        link_text = match.group(1)
+        return link_text
+    
+    text = re.sub(r'\[([^\]]+)\]\([^)]*\.{3,}', clean_incomplete_link, text)
+    text = re.sub(r'\[([^\]]+)\]\([^)]*$', clean_incomplete_link, text)
+    
+    # Pattern 3: Just remove any remaining brackets and parentheses that could cause issues
+    text = re.sub(r'\[([^\]]+)\]\([^)]*', r'\1', text)
+    
+    # Remove any remaining problematic characters that might break YAML
+    # Replace multiple spaces with single space
+    text = re.sub(r'\s+', ' ', text)
+    
+    # Remove leading/trailing whitespace
+    text = text.strip()
+    
+    return text
+
+
 def sanitize_filename(filename):
     """
     Sanitize filename by removing problematic characters
@@ -152,7 +190,9 @@ def create_safe_front_matter(title, subtitle, category, tags, date, post_type, w
     """
     # Sanitize all string inputs
     safe_title = sanitize_yaml_string(title)
-    safe_subtitle = sanitize_yaml_string(sanitize_html_in_yaml(subtitle))
+    # Apply both HTML and markdown link sanitization to subtitle
+    subtitle_cleaned = sanitize_markdown_links_in_yaml(sanitize_html_in_yaml(subtitle))
+    safe_subtitle = sanitize_yaml_string(subtitle_cleaned)
     safe_category = sanitize_yaml_string(category)
     
     # Handle tags - ensure it's a proper list format

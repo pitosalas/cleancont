@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  10/01/2019"
-subtitle: "[Comparing Database Types: How Database Types Evolved to Meet Different Needs | Prisma](https://www...."
+subtitle: "Comparing Database Types: How Database Types Evolved to Meet Different Needs | Prisma"
 category: "301"
 tags: []
 date: "2019-09-30"

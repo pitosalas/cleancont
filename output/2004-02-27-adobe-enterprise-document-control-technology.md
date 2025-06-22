@@ -1,6 +1,6 @@
 ---
 title: "Adobe Enterprise document control technology"
-subtitle: "**Adobe Enterprise document control technology (Demo 2004 Series – 5) **They have come up with a pol..."
+subtitle: "**Adobe Enterprise document control technology (Demo 2004 Series – 5) **They have come up with a pol..."
 category: "1"
 tags: []
 date: "2004-02-27"

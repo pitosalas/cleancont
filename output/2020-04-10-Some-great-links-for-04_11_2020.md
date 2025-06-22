@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  04/11/2020"
-subtitle: "* [Cleaning and Prepping Data with Python for Data Science — Best Practices and Helpful Packages](<h..."
+subtitle: "* Cleaning and Prepping Data with Python for Data Science — Best Practices and Helpful Packages"
 category: "uncategorized"
 tags: []
 date: "2020-04-10"

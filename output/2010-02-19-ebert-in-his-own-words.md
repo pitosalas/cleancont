@@ -1,6 +1,6 @@
 ---
 title: "Ebert, in his own words"
-subtitle: "A [beautifully written comment (positive) by Roger Ebert](http://blogs.suntimes.com/ebert/2010/02/ro..."
+subtitle: "A beautifully written comment (positive) by Roger Ebert"
 category: "298"
 tags: []
 date: "2010-02-19"

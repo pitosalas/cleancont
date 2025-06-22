@@ -1,6 +1,6 @@
 ---
 title: "Happy Birthday Dave!"
-subtitle: "![Picture 1-3](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/images..."
+subtitle: "!Picture 1-3"
 category: "51"
 tags: []
 date: "2005-05-01"

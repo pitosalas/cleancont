@@ -1,6 +1,6 @@
 ---
 title: "Farnsworth House – Wikipedia"
-subtitle: "[ Farnsworth House - Wikipedia](<"
+subtitle: "Farnsworth House - Wikipedia"
 category: "uncategorized"
 tags: []
 date: "2023-04-17"

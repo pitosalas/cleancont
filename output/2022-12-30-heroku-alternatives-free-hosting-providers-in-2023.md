@@ -1,6 +1,6 @@
 ---
 title: "Heroku alternatives: Free Hosting Providers in 2023"
-subtitle: "[ Heroku alternatives: Free Hosting Providers in 2023]( https://link.medium.com/5hyb9ayAbwb) –Now th..."
+subtitle: "Heroku alternatives: Free Hosting Providers in 2023 –Now th..."
 category: "1"
 tags: ["2285", "1203", "2395"]
 date: "2022-12-30"

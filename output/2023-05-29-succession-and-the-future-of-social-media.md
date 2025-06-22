@@ -1,6 +1,6 @@
 ---
 title: "‘Succession’ and the Future of Social Media"
-subtitle: "[ ‘Succession’ and the Future of Social Media]( https://popula.com/2023/05/28/the-ourobouros-of-succ..."
+subtitle: "‘Succession’ and the Future of Social Media"
 category: "1"
 tags: ["2294", "2288", "2047"]
 date: "2023-05-29"

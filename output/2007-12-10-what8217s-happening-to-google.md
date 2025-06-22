@@ -1,6 +1,6 @@
 ---
 title: "What’s happening to Google?"
-subtitle: "You know I am a [fan of Google](/2007/11/20/google-is-the-universe/). But lately I’ve had some conve..."
+subtitle: "You know I am a fan of Google. But lately I’ve had some conve..."
 category: "298"
 tags: []
 date: "2007-12-10"

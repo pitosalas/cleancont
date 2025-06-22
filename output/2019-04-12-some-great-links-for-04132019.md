@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  04/13/2019"
-subtitle: "[Hire People or Optimize Processes: A cost-benefit analysis for engineering leaders](https://codecli..."
+subtitle: "Hire People or Optimize Processes: A cost-benefit analysis for engineering leaders"
 category: "301"
 tags: []
 date: "2019-04-12"

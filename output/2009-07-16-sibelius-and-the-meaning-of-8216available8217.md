@@ -1,6 +1,6 @@
 ---
 title: "Sibelius and the meaning of ‘available’"
-subtitle: "There aren’t many good options for Music notation software. [Sibelius](http://www.sibelius.com/home/..."
+subtitle: "There aren’t many good options for Music notation software. Sibelius"
 category: "298"
 tags: []
 date: "2009-07-16"

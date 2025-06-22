@@ -1,6 +1,6 @@
 ---
 title: "A stop/start/continue for the ungrading community"
-subtitle: "[ A stop/start/continue for the ungrading community](https://rtalbert.org/a-stop-start-continue-for-..."
+subtitle: "A stop/start/continue for the ungrading community"
 category: "1"
 tags: ["2514", "1157", "2362", "1973", "2513"]
 date: "2023-06-29"

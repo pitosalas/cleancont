@@ -1,6 +1,6 @@
 ---
 title: "Making the EM5 mk 2 High Res Mode Sing By Brad Nichol | Steve Huff Hi-Fi and Photo"
-subtitle: "[ Making the EM5 mk 2 High Res Mode Sing By Brad Nichol | Steve Huff Hi-Fi and Photo]( https://www.s..."
+subtitle: "Making the EM5 mk 2 High Res Mode Sing By Brad Nichol | Steve Huff Hi-Fi and Photo"
 category: "1"
 tags: ["2588", "2590", "2589", "1614"]
 date: "2023-10-27"

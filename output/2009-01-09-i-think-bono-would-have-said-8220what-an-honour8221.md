@@ -1,6 +1,6 @@
 ---
 title: "I think Bono would have said: “What an honour”"
-subtitle: "Check out this post [Greg Mitchell: Bono Replacing Bill Kristol at New York Times?](http://www.huffi..."
+subtitle: "Check out this post Greg Mitchell: Bono Replacing Bill Kristol at New York Times?"
 category: "298"
 tags: []
 date: "2009-01-09"

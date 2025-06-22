@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  06/29/2018"
-subtitle: "* [Ruby's Powerful Method Arguments & How To Use Them Correctly - RubyGuides](<http://www.rubyguides..."
+subtitle: "* Ruby's Powerful Method Arguments & How To Use Them Correctly - RubyGuides"
 category: "uncategorized"
 tags: []
 date: "2018-06-29"

@@ -1,6 +1,6 @@
 ---
 title: "Read this and guess where it’s from…. Is the Matrix upon us?"
-subtitle: ">  body { font-variant: normal; font-size: 11pt; font-style: normal; font-"
+subtitle: "> body { font-variant: normal; font-size: 11pt; font-style: normal; font-"
 category: "uncategorized"
 tags: []
 date: "2007-01-15"

@@ -1,6 +1,6 @@
 ---
 title: "Twitter mania continues, unabated, now claiming bodies, Story at 11"
-subtitle: "Check this post [Twitter’s Lead Architect Leaves: It’s Not You, It’s Me](http://mashable.com/2008/04..."
+subtitle: "Check this post Twitter’s Lead Architect Leaves: It’s Not You, It’s Me"
 category: "538"
 tags: []
 date: "2008-04-26"

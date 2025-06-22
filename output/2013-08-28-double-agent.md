@@ -1,6 +1,6 @@
 ---
 title: "Double Agent?"
-subtitle: "I am reading a really cool book right now: [GARBO: The Spy Who Saved D-Day](http://www.amazon.com/gp..."
+subtitle: "I am reading a really cool book right now: GARBO: The Spy Who Saved D-Day"
 category: "1"
 tags: ["965", "1017", "1114", "1963", "2137"]
 date: "2013-08-28"

@@ -1,6 +1,6 @@
 ---
 title: "Import CSV File Into PosgreSQL Table"
-subtitle: "[ Import CSV File Into PosgreSQL Table](https://www.postgresqltutorial.com/import-csv-file-into-posg..."
+subtitle: "Import CSV File Into PosgreSQL Table"
 category: "123"
 tags: []
 date: "2021-10-14"

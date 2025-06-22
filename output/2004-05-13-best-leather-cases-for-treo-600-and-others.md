@@ -1,6 +1,6 @@
 ---
 title: "Best leather cases for Treo 600 and others"
-subtitle: "**Scott Kirsner** turned me on to [Vaja Leather Products](http://www.vajacases.com/). This outfit su..."
+subtitle: "**Scott Kirsner** turned me on to Vaja Leather Products. This outfit su..."
 category: "298"
 tags: []
 date: "2004-05-13"

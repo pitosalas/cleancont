@@ -1,6 +1,6 @@
 ---
 title: "Costs exposed: Monorepo vs. multirepo – Julio Merino (jmmv.dev)"
-subtitle: "[ Costs exposed: Monorepo vs. multirepo - Julio Merino (jmmv.dev)](<"
+subtitle: "Costs exposed: Monorepo vs. multirepo - Julio Merino (jmmv.dev)"
 category: "uncategorized"
 tags: []
 date: "2023-08-24"

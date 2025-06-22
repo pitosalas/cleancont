@@ -1,6 +1,6 @@
 ---
 title: "Enterprise 2.0 – What’s in it for you?"
-subtitle: "[Enterprise 2.0](http://en.wikipedia.org/wiki/Enterprise_2.0) is one of those terms that is being ba..."
+subtitle: "Enterprise 2.0 is one of those terms that is being ba..."
 category: "298"
 tags: []
 date: "2007-09-29"

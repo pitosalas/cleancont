@@ -1,6 +1,6 @@
 ---
 title: "What Is ChatGPT Doing … and Why Does It Work?"
-subtitle: "[ What Is ChatGPT Doing … and Why Does It Work?]( https://writings.stephenwolfram.com/2023/02/what-i..."
+subtitle: "What Is ChatGPT Doing … and Why Does It Work?"
 category: "1"
 tags: ["2331", "1412", "2426", "2425"]
 date: "2023-02-17"

@@ -1,6 +1,6 @@
 ---
 title: "Basic Postgres database in Kubernetes"
-subtitle: "[ Basic Postgres database in Kubernetes]( https://itnext.io/basic-postgres-database-in-kubernetes-23..."
+subtitle: "Basic Postgres database in Kubernetes"
 category: "1"
 tags: ["866", "956", "1221", "2178", "2180", "1656"]
 date: "2022-07-03"

@@ -1,6 +1,6 @@
 ---
 title: "6 Tips to Make a Digital Portfolio That Pops"
-subtitle: "[ 6 Tips to Make a Digital Portfolio That Pops](https://www.roberthalf.com/blog/writing-a-resume/3-d..."
+subtitle: "6 Tips to Make a Digital Portfolio That Pops"
 category: "149"
 tags: []
 date: "2022-01-22"

@@ -1,6 +1,6 @@
 ---
 title: "Digital Portfolio Guide for Creative Professionals – Profiles"
-subtitle: "[ Digital Portfolio Guide for Creative Professionals – Profiles](https://www.careerprofiles.com/job-..."
+subtitle: "Digital Portfolio Guide for Creative Professionals – Profiles"
 category: "149"
 tags: []
 date: "2022-01-22"

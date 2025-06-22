@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  05/27/2018"
-subtitle: "* [Command-line Tools can be 235x Faster than your Hadoop Cluster - Adam Drake](<https://adamdrake.c..."
+subtitle: "* Command-line Tools can be 235x Faster than your Hadoop Cluster - Adam Drake"
 category: "uncategorized"
 tags: []
 date: "2018-05-27"

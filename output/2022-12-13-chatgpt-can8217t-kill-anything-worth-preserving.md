@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT Can’t Kill Anything Worth Preserving"
-subtitle: "[ ChatGPT Can’t Kill Anything Worth Preserving]( https://biblioracle.substack.com/p/chatgpt-cant-kil..."
+subtitle: "ChatGPT Can’t Kill Anything Worth Preserving"
 category: "1"
 tags: ["2340", "1033", "2362", "1973"]
 date: "2022-12-13"

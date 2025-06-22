@@ -1,6 +1,6 @@
 ---
 title: "An interesting stat: Is it true?"
-subtitle: "[Kirk McDonald: Sorry, College Grads, I Probably Won’t Hire You – WSJ.com](http://online.wsj.com/art..."
+subtitle: "Kirk McDonald: Sorry, College Grads, I Probably Won’t Hire You – WSJ.com"
 category: "1"
 tags: ["843", "979"]
 date: "2013-05-10"

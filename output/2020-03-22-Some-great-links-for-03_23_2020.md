@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  03/23/2020"
-subtitle: "* [Test Double | Our Blog | Improving Dev Experience with Overmind](<https://blog.testdouble.com/pos..."
+subtitle: "* Test Double | Our Blog | Improving Dev Experience with Overmind"
 category: "uncategorized"
 tags: []
 date: "2020-03-22"

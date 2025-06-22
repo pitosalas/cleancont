@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  01/15/2020"
-subtitle: "* [Academic Torrents](<http://academictorrents.com>)"
+subtitle: "* Academic Torrents"
 category: "uncategorized"
 tags: []
 date: "2020-01-14"

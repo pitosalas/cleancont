@@ -1,6 +1,6 @@
 ---
 title: "Danah Boyd on Facebook and Myspace"
-subtitle: "A really interesting [article for anyone interested in social networks](http://www.danah.org/papers/..."
+subtitle: "A really interesting article for anyone interested in social networks"
 category: "298"
 tags: []
 date: "2008-04-24"

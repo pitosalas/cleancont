@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning: The Great Stagnation"
-subtitle: "[ Machine Learning: The Great Stagnation](https://marksaroufim.substack.com/p/machine-learning-the-g..."
+subtitle: "Machine Learning: The Great Stagnation"
 category: "24"
 tags: ["611", "656"]
 date: "2021-06-05"

@@ -1,6 +1,6 @@
 ---
 title: "Free book on “Algorithms” highly recommended"
-subtitle: ">  body { font-variant: normal; font-style: normal; font-weight: normal; font-"
+subtitle: "> body { font-variant: normal; font-style: normal; font-weight: normal; font-"
 category: "uncategorized"
 tags: []
 date: "2006-12-09"

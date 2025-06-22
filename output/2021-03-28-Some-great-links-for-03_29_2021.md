@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  03/29/2021"
-subtitle: "* [create regexp from a set of examples](<https://github.com/pemistahl/grex>)"
+subtitle: "* create regexp from a set of examples"
 category: "uncategorized"
 tags: []
 date: "2021-03-28"

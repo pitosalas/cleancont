@@ -1,6 +1,6 @@
 ---
 title: "The new Comcast mojo"
-subtitle: "I am  not sure I am reading this right, but it looks like Comcast is giving my home internet connect..."
+subtitle: "I am not sure I am reading this right, but it looks like Comcast is giving my home internet connect..."
 category: "298"
 tags: []
 date: "2008-10-28"

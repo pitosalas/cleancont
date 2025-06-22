@@ -1,6 +1,6 @@
 ---
 title: "Bartosz Ciechanowski"
-subtitle: "[ Bartosz Ciechanowski](https://ciechanow.ski/)"
+subtitle: "Bartosz Ciechanowski"
 category: "179"
 tags: ["1154"]
 date: "2022-05-07"

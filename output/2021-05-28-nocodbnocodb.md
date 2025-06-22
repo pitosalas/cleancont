@@ -1,6 +1,6 @@
 ---
 title: "nocodb/nocodb"
-subtitle: "[ nocodb/nocodb](https://github.com/nocodb/nocodb?ref=producthunt)"
+subtitle: "nocodb/nocodb"
 category: "131"
 tags: ["635"]
 date: "2021-05-28"

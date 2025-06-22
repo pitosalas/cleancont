@@ -1,6 +1,6 @@
 ---
 title: "Chapter 09 Embedded System"
-subtitle: "[ Chapter 09 Embedded System](https://www.youtube.com/watch?v=kPzy3fXY7X0)"
+subtitle: "Chapter 09 Embedded System"
 category: "18"
 tags: []
 date: "2022-04-27"

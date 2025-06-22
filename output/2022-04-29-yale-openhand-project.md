@@ -1,6 +1,6 @@
 ---
 title: "Yale OpenHand Project"
-subtitle: "[ Yale OpenHand Project](https://www.eng.yale.edu/grablab/openhand/)"
+subtitle: "Yale OpenHand Project"
 category: "3"
 tags: []
 date: "2022-04-29"

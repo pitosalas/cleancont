@@ -1,6 +1,6 @@
 ---
 title: "Raspberry Pi Boot Process"
-subtitle: "[ Raspberry Pi Boot Process](https://www.lions-wing.net/maker/raspberry-1/boot.html)"
+subtitle: "Raspberry Pi Boot Process"
 category: "52"
 tags: []
 date: "2021-06-03"

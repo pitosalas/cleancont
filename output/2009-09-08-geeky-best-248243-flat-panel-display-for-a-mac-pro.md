@@ -1,6 +1,6 @@
 ---
 title: "[GEEKY] Best 24″ Flat Panel Display for a Mac Pro?"
-subtitle: "I was looking at the [Apple LED Cinema Display 24](http://store.apple.com/us/product/MB382LL/A?fnode..."
+subtitle: "I was looking at the Apple LED Cinema Display 24"
 category: "538"
 tags: []
 date: "2009-09-08"

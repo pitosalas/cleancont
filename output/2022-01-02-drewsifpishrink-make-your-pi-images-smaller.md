@@ -1,6 +1,6 @@
 ---
 title: "Drewsif/PiShrink: Make your pi images smaller!"
-subtitle: "[ Drewsif/PiShrink: Make your pi images smaller!](https://github.com/Drewsif/PiShrink)"
+subtitle: "Drewsif/PiShrink: Make your pi images smaller!"
 category: "99"
 tags: []
 date: "2022-01-02"

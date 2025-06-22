@@ -1,6 +1,6 @@
 ---
 title: "Bank Of America advises me to save $NaN"
-subtitle: "[![picture-1](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-content/uplo..."
+subtitle: "![picture-1"
 category: "298"
 tags: []
 date: "2009-07-22"

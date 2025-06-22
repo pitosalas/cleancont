@@ -1,6 +1,6 @@
 ---
 title: "Bugging Instant Messaging"
-subtitle: "I just walked by a room full of people working on computers during a [break between presentations ](..."
+subtitle: "I just walked by a room full of people working on computers during a break between presentations"
 category: "538"
 tags: []
 date: "2006-07-02"

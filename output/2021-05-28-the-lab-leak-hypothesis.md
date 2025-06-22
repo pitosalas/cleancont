@@ -1,6 +1,6 @@
 ---
 title: "The Lab-Leak Hypothesis"
-subtitle: "[ The Lab-Leak Hypothesis](https://nymag.com/intelligencer/article/coronavirus-lab-escape-theory.htm..."
+subtitle: "The Lab-Leak Hypothesis"
 category: "23"
 tags: ["1800"]
 date: "2021-05-28"

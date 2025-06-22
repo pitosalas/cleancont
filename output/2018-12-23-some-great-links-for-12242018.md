@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  12/24/2018"
-subtitle: "[André Staltz – JavaScript Getter-Setter Pyramid](https://staltz.com/javascript-getter-setter-pyrami..."
+subtitle: "André Staltz – JavaScript Getter-Setter Pyramid"
 category: "301"
 tags: []
 date: "2018-12-23"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  12/09/2018"
-subtitle: "[Save a month of your life by using these keyboard shortcuts](https://medium.com/ae-studio/save-a-mo..."
+subtitle: "Save a month of your life by using these keyboard shortcuts"
 category: "301"
 tags: []
 date: "2018-12-08"

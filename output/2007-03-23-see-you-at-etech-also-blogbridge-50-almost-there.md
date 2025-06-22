@@ -1,6 +1,6 @@
 ---
 title: "See you at ETech! Also, BlogBridge 5.0 almost there"
-subtitle: "Look for our [BlogBridge Release 5.0](http://www.blogbridge.com) in the next several days. You will ..."
+subtitle: "Look for our BlogBridge Release 5.0 in the next several days. You will ..."
 category: "298"
 tags: []
 date: "2007-03-23"

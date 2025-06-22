@@ -1,6 +1,6 @@
 ---
 title: "how hector slam works – Google Search"
-subtitle: "[ how hector slam works – Google Search](https://www.google.com/search?client=safari&rls=en&q=how+he..."
+subtitle: "how hector slam works – Google Search"
 category: "301"
 tags: []
 date: "2022-03-11"

@@ -1,6 +1,6 @@
 ---
 title: "Tree views in CSS"
-subtitle: "[ Tree views in CSS]( https://iamkate.com/code/tree-views/) –This is really useful! Its amazing what..."
+subtitle: "Tree views in CSS –This is really useful! Its amazing what..."
 category: "1"
 tags: ["896", "1221", "2304"]
 date: "2022-11-19"

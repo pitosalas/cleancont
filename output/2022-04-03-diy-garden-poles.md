@@ -1,6 +1,6 @@
 ---
 title: "DIY Garden Poles"
-subtitle: "[ DIY Garden Poles](https://www.gardengatemagazine.com/articles/projects/all/diy-garden-poles/)"
+subtitle: "DIY Garden Poles"
 category: "151"
 tags: []
 date: "2022-04-03"

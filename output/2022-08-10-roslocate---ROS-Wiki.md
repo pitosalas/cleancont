@@ -1,6 +1,6 @@
 ---
 title: "roslocate – ROS Wiki"
-subtitle: "[ roslocate - ROS Wiki](< http://wiki.ros.org/roslocate>) –ROS tool to locate"
+subtitle: "roslocate - ROS Wiki –ROS tool to locate"
 category: "uncategorized"
 tags: []
 date: "2022-08-10"

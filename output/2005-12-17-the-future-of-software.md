@@ -1,6 +1,6 @@
 ---
 title: "The future of software?"
-subtitle: "Tim Bray [likes Adium, the Mac OS X inter-network IM client](http://www.tbray.org/ongoing/When/200x/..."
+subtitle: "Tim Bray likes Adium, the Mac OS X inter-network IM client"
 category: "298"
 tags: []
 date: "2005-12-17"

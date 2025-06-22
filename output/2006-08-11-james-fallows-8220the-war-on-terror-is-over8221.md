@@ -1,6 +1,6 @@
 ---
 title: "James Fallows: “The War on Terror is Over”"
-subtitle: "Another [great article](http://www.theatlantic.com/doc/200609/fallows_victory) in The Atlantic, Jame..."
+subtitle: "Another great article in The Atlantic, Jame..."
 category: "298"
 tags: []
 date: "2006-08-11"

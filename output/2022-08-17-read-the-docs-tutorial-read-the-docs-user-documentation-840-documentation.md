@@ -1,6 +1,6 @@
 ---
 title: "Read the Docs tutorial — Read the Docs user documentation 8.4.0 documentation"
-subtitle: "[ Read the Docs tutorial — Read the Docs user documentation 8.4.0 documentation]( https://docs.readt..."
+subtitle: "Read the Docs tutorial — Read the Docs user documentation 8.4.0 documentation"
 category: "1"
 tags: ["2238", "2240", "1135", "1221", "2239"]
 date: "2022-08-17"

@@ -1,6 +1,6 @@
 ---
 title: "Mysql – NoSql – KnowSql"
-subtitle: "A catchy headline, but is it true? “[Facebook Trapped in MySql ‘a fate worse than death’. ](http://g..."
+subtitle: "A catchy headline, but is it true? “Facebook Trapped in MySql ‘a fate worse than death’."
 category: "1"
 tags: ["910", "1498", "1534"]
 date: "2011-11-20"

@@ -1,6 +1,6 @@
 ---
 title: "Wonderful Mars pictures? Unavailable! I"
-subtitle: "**Wonderful Mars pictures? Unavailable! **I was looking around the [Mars Rover Web](http://marsrover..."
+subtitle: "**Wonderful Mars pictures? Unavailable! **I was looking around the Mars Rover Web"
 category: "1"
 tags: []
 date: "2004-01-08"

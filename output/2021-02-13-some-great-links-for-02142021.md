@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  02/14/2021"
-subtitle: "[Reverse Tech Interview: Questions to Stump an Interviewer – DEV Community ](https://dev.to/devinter..."
+subtitle: "Reverse Tech Interview: Questions to Stump an Interviewer – DEV Community"
 category: "301"
 tags: []
 date: "2021-02-13"

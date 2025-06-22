@@ -1,6 +1,6 @@
 ---
 title: "Do we think of git commits as diffs, snapshots, and/or histories?"
-subtitle: "[ Do we think of git commits as diffs, snapshots, and/or histories?]( https://jvns.ca/blog/2024/01/0..."
+subtitle: "Do we think of git commits as diffs, snapshots, and/or histories?"
 category: "1"
 tags: ["1033", "1134", "2620", "1282"]
 date: "2024-01-16"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  02/11/2020"
-subtitle: "* [SSL Cert Rotation with Runbook | dev/blesi](<http://patrick.ble.si/ssl-cert-rotation-with-runbook..."
+subtitle: "* SSL Cert Rotation with Runbook | dev/blesi"
 category: "uncategorized"
 tags: []
 date: "2020-02-10"

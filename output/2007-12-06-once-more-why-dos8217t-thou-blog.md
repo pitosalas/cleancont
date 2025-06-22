@@ -1,6 +1,6 @@
 ---
 title: "Once more, why dos’t thou blog?"
-subtitle: "[Recently there was a comment to one of my post asking the perennial question](/2007/11/26/the-f-wor..."
+subtitle: "Recently there was a comment to one of my post asking the perennial question"
 category: "51"
 tags: []
 date: "2007-12-06"

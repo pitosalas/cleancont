@@ -1,6 +1,6 @@
 ---
 title: "Who Killed the Electric Car? (And why Wikipedia is GREAT)"
-subtitle: "I just saw the [movie “Who Killed the Electric Car”](http://www.sonyclassics.com/whokilledtheelectri..."
+subtitle: "I just saw the movie “Who Killed the Electric Car”"
 category: "298"
 tags: []
 date: "2008-08-06"

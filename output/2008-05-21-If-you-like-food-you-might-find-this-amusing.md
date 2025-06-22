@@ -1,6 +1,6 @@
 ---
 title: "If you like food you might find this amusing…"
-subtitle: "[Many more where this one came from](<http://www.fresh99.com/zoomed-in-"
+subtitle: "Many more where this one came from"
 category: "uncategorized"
 tags: []
 date: "2008-05-21"

@@ -1,6 +1,6 @@
 ---
 title: "Bring me different rocks"
-subtitle: "Scott Kirsner summarizes a new book “[Mastering the VC game](http://www.jeffbussgang.com/)” and [re-..."
+subtitle: "Scott Kirsner summarizes a new book “Mastering the VC game” and [re-..."
 category: "298"
 tags: []
 date: "2010-04-28"

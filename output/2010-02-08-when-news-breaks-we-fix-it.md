@@ -1,6 +1,6 @@
 ---
 title: "When news breaks, we fix it"
-subtitle: "That was the old slogan of [Jon Stewart’s Daily Show](http://www.thedailyshow.com/). This morning, w..."
+subtitle: "That was the old slogan of Jon Stewart’s Daily Show. This morning, w..."
 category: "298"
 tags: []
 date: "2010-02-08"

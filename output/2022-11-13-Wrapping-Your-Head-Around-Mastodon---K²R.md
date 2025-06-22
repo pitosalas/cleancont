@@ -1,6 +1,6 @@
 ---
 title: "Wrapping Your Head Around Mastodon – K²R"
-subtitle: "[ Wrapping Your Head Around Mastodon - K²R](<"
+subtitle: "Wrapping Your Head Around Mastodon - K²R"
 category: "uncategorized"
 tags: []
 date: "2022-11-13"

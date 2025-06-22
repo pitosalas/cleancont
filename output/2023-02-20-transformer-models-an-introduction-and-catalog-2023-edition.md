@@ -1,6 +1,6 @@
 ---
 title: "Transformer models: an introduction and catalog — 2023 Edition"
-subtitle: "[ Transformer models: an introduction and catalog — 2023 Edition]( https://amatriain.net/blog/transf..."
+subtitle: "Transformer models: an introduction and catalog — 2023 Edition"
 category: "1"
 tags: ["611", "1261", "1389", "2434", "2433"]
 date: "2023-02-20"

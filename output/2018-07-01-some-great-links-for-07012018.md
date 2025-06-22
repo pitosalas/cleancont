@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  07/01/2018"
-subtitle: "[How to Remotely Troubleshoot Your Relative’s Computer](https://medium.com/pcmag-access/how-to-remot..."
+subtitle: "How to Remotely Troubleshoot Your Relative’s Computer"
 category: "538"
 tags: []
 date: "2018-07-01"

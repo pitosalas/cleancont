@@ -1,6 +1,6 @@
 ---
 title: "Fascinating history of Wikipedia"
-subtitle: "If you are interested and fascinated with the [Wikipedia](http://en.wikipedia.org/wiki/Main_Page), h..."
+subtitle: "If you are interested and fascinated with the Wikipedia, h..."
 category: "298"
 tags: []
 date: "2005-06-10"

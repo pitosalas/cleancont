@@ -1,6 +1,6 @@
 ---
 title: "Jenny Holzer | MASS MoCA"
-subtitle: "[ Jenny Holzer | MASS MoCA](https://massmoca.org/jenny-holzer/)"
+subtitle: "Jenny Holzer | MASS MoCA"
 category: "301"
 tags: []
 date: "2021-10-03"

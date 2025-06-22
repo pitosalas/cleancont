@@ -1,6 +1,6 @@
 ---
 title: "To Render or to Redirect, that is the Question…"
-subtitle: "[ To Render or to Redirect, that is the Question…](https://medium.com/@thorntonbrenden/to-render-or-..."
+subtitle: "To Render or to Redirect, that is the Question…"
 category: "249"
 tags: []
 date: "2022-03-10"

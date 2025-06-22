@@ -1,6 +1,6 @@
 ---
 title: "Interesting article about buying and selling real estate: “Another Look at ‘Sellers’ Concessions’ in Real Estate”"
-subtitle: "Check out [this post](http://feeds.feedburner.com/~r/FreakonomicsBlog/~3/128698530/) from [Freakonom..."
+subtitle: "Check out this post from [Freakonom..."
 category: "298"
 tags: []
 date: "2007-06-28"

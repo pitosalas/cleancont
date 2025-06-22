@@ -1,6 +1,6 @@
 ---
 title: "Patents and perpetual motion machines"
-subtitle: "An [interesting commentary on a couple of patents that issued from the US Patent Office:](http://gai..."
+subtitle: "An interesting commentary on a couple of patents that issued from the US Patent Office:"
 category: "1"
 tags: ["911", "1446", "1592", "1800"]
 date: "2011-11-12"

@@ -1,6 +1,6 @@
 ---
 title: "petercorke/robotics-toolbox-python: Robotics Toolbox for Python"
-subtitle: "[ petercorke/robotics-toolbox-python: Robotics Toolbox for Python]( https://github.com/petercorke/ro..."
+subtitle: "petercorke/robotics-toolbox-python: Robotics Toolbox for Python"
 category: "1"
 tags: ["2601", "1375", "1575", "1692", "1755"]
 date: "2023-11-23"

@@ -1,6 +1,6 @@
 ---
 title: "Amazon’s Power is Unlimitted"
-subtitle: "![amazon.jpg](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/archive..."
+subtitle: "!amazon.jpg"
 category: "uncategorized"
 tags: []
 date: "2004-07-31"

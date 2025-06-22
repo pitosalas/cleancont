@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  07/26/2018"
-subtitle: "[Porsche Audi VW BMW Mercedes | Lexington,MA | Auto Engineering](https://www.autoengineering.com)"
+subtitle: "Porsche Audi VW BMW Mercedes | Lexington,MA | Auto Engineering"
 category: "538"
 tags: []
 date: "2018-07-26"

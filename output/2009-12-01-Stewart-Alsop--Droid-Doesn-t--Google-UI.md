@@ -1,6 +1,6 @@
 ---
 title: "Stewart Alsop, Droid Doesn’t, Google UI"
-subtitle: "This is an [insider's three-fer](<http://alsop-louie.com/gadgets/droid-doesnt-"
+subtitle: "This is an insider's three-fer"
 category: "uncategorized"
 tags: []
 date: "2009-12-01"

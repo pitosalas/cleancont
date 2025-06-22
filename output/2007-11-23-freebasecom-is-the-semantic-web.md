@@ -1,6 +1,6 @@
 ---
 title: "Freebase.com is the semantic web"
-subtitle: "I am not an expert in the [semantic web but Freebase looks like it to me](http://www.freebase.com). ..."
+subtitle: "I am not an expert in the semantic web but Freebase looks like it to me. ..."
 category: "1"
 tags: []
 date: "2007-11-23"

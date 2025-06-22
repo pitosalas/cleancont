@@ -1,6 +1,6 @@
 ---
 title: "What is a discontinuity?"
-subtitle: "![Discontinuity](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-content/u..."
+subtitle: "!Discontinuity"
 category: "298"
 tags: []
 date: "2008-01-22"

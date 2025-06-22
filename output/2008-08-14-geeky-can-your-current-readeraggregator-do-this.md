@@ -1,6 +1,6 @@
 ---
 title: "[GEEKY] Can your current reader/aggregator do this?"
-subtitle: "Check out the [latest summary of amazing feats ](http://www.blogbridge.com/products-services/blogbri..."
+subtitle: "Check out the latest summary of amazing feats"
 category: "50"
 tags: []
 date: "2008-08-14"

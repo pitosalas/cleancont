@@ -1,6 +1,6 @@
 ---
 title: "Beware of Freeconomics"
-subtitle: "The quote below is from [this post](http://feeds.feedburner.com/~r/readwriteweb/~3/241723869/beware_..."
+subtitle: "The quote below is from this post"
 category: "50"
 tags: []
 date: "2008-09-05"

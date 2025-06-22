@@ -1,6 +1,6 @@
 ---
 title: "Khan academy to the rescue"
-subtitle: "If you haven’t heard about [Khan Academy](http://www.khanacademy.org), let me be the first one to in..."
+subtitle: "If you haven’t heard about Khan Academy, let me be the first one to in..."
 category: "298"
 tags: ["1368", "2031"]
 date: "2011-10-25"

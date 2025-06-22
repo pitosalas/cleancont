@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  01/25/2021"
-subtitle: "* [People Data Labs](<https://www.peopledatalabs.com>)"
+subtitle: "* People Data Labs"
 category: "uncategorized"
 tags: []
 date: "2021-01-24"

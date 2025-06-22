@@ -1,6 +1,6 @@
 ---
 title: "Scheduled Jobs and Custom Clock Processes | Heroku Dev Center"
-subtitle: "[ Scheduled Jobs and Custom Clock Processes | Heroku Dev Center](https://devcenter.heroku.com/articl..."
+subtitle: "Scheduled Jobs and Custom Clock Processes | Heroku Dev Center"
 category: "39"
 tags: ["1318", "1795"]
 date: "2022-03-28"

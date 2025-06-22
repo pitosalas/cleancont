@@ -1,6 +1,6 @@
 ---
 title: "Quote about improvisation (from David Byrne’s new book)"
-subtitle: "I picked up David Byrne’s new book: [How Music Works](http://www.amazon.com/gp/product/1936365537/re..."
+subtitle: "I picked up David Byrne’s new book: How Music Works"
 category: "1"
 tags: ["725", "1255", "1492", "1703"]
 date: "2013-05-01"

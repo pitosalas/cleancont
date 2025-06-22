@@ -1,6 +1,6 @@
 ---
 title: "What Does It Mean for AI to Understand? | Quanta Magazine"
-subtitle: "[ What Does It Mean for AI to Understand? | Quanta Magazine](https://www.quantamagazine.org/what-doe..."
+subtitle: "What Does It Mean for AI to Understand? | Quanta Magazine"
 category: "111"
 tags: ["611"]
 date: "2022-01-02"

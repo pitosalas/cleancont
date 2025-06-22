@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  10/06/2019"
-subtitle: "[Automate the Little Things Too | Technical Explorations](https://bbs-software.com/blog/2019/09/24/a..."
+subtitle: "Automate the Little Things Too | Technical Explorations"
 category: "301"
 tags: []
 date: "2019-10-05"

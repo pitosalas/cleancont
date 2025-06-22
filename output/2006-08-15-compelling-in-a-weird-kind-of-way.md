@@ -1,6 +1,6 @@
 ---
 title: "Compelling, in a weird kind of way"
-subtitle: "Just take a good look at these [pictures!](http://www.horyma.ru/str_tr/svetographika_santa1.htm)"
+subtitle: "Just take a good look at these pictures!"
 category: "298"
 tags: []
 date: "2006-08-15"

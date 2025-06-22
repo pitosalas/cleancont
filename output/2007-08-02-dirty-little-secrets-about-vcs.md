@@ -1,6 +1,6 @@
 ---
 title: "Dirty Little Secrets About VCs"
-subtitle: "Scott Kirsner writes about VC’s [this post](http://www.innoeco.com/2007/08/dirty-little-secrets-abou..."
+subtitle: "Scott Kirsner writes about VC’s this post"
 category: "538"
 tags: []
 date: "2007-08-02"

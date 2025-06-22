@@ -1,6 +1,6 @@
 ---
 title: "Did the NSA “break the law”?"
-subtitle: ">> I know that [this blog](<http://powerlineblog.com/>) ([Power"
+subtitle: ">> I know that this blog ([Power"
 category: "uncategorized"
 tags: []
 date: "2006-01-05"

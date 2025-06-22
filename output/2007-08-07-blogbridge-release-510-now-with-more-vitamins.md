@@ -1,6 +1,6 @@
 ---
 title: "BlogBridge release 5.10 now with more vitamins"
-subtitle: "Over on BlogBridge we just announced that [release 5.10 just came out](http://www.blogbridge.com/200..."
+subtitle: "Over on BlogBridge we just announced that release 5.10 just came out"
 category: "50"
 tags: []
 date: "2007-08-07"

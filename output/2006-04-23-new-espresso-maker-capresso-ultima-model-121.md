@@ -1,6 +1,6 @@
 ---
 title: "New espresso maker: Capresso Ultima (Model 121)"
-subtitle: "I’m a big coffee drinker, ok? I’ve been putting [my Keurig](http://www.keurig.com/B50.asp?mscsid=JT5..."
+subtitle: "I’m a big coffee drinker, ok? I’ve been putting my Keurig"
 category: "298"
 tags: []
 date: "2006-04-23"

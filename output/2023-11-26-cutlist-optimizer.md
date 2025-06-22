@@ -1,6 +1,6 @@
 ---
 title: "CutList Optimizer"
-subtitle: "[ CutList Optimizer]( https://cutlistoptimizer.com/?utm_campaign=Gareth%27s%20Tips,%20Tools,%20and%2..."
+subtitle: "CutList Optimizer"
 category: "1"
 tags: ["2603", "2605", "2604", "2128"]
 date: "2023-11-26"

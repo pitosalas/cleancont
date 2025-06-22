@@ -1,6 +1,6 @@
 ---
 title: "Safari now has Scribefire"
-subtitle: "Yay! One reason holding me to using FireFox on Mac was that I rely heavily on [Scribefire](http://ww..."
+subtitle: "Yay! One reason holding me to using FireFox on Mac was that I rely heavily on Scribefire"
 category: "298"
 tags: []
 date: "2010-06-09"

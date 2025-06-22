@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  04/17/2018"
-subtitle: "* [The Truth About Microservices](<https://codeburst.io/the-truth-about-microservices-8f8124913df4?s..."
+subtitle: "* The Truth About Microservices"
 category: "uncategorized"
 tags: []
 date: "2018-04-17"

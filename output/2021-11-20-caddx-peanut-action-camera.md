@@ -1,6 +1,6 @@
 ---
 title: "Caddx Peanut Action Camera"
-subtitle: "[ Caddx Peanut Action Camera](https://caddxfpv.com/products/caddx-peanut-action-camera?aff=17)"
+subtitle: "Caddx Peanut Action Camera"
 category: "64"
 tags: []
 date: "2021-11-20"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  10/21/2018"
-subtitle: "[A collection of awesome Ruby libraries, tools, frameworks and software](https://github.com/markets/..."
+subtitle: "A collection of awesome Ruby libraries, tools, frameworks and software"
 category: "301"
 tags: []
 date: "2018-10-20"

@@ -1,6 +1,6 @@
 ---
 title: "Specifications grading with the EMRF rubric"
-subtitle: "[ Specifications grading with the EMRF rubric]( https://rtalbert.org/specs-grading-emrf/) –A useful ..."
+subtitle: "Specifications grading with the EMRF rubric –A useful ..."
 category: "1"
 tags: ["1157", "2558", "1973"]
 date: "2023-08-21"

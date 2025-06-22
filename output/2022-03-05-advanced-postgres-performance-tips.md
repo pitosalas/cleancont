@@ -1,6 +1,6 @@
 ---
 title: "Advanced Postgres Performance Tips"
-subtitle: "[ Advanced Postgres Performance Tips](https://thoughtbot.com/blog/advanced-postgres-performance-tips..."
+subtitle: "Advanced Postgres Performance Tips"
 category: "249"
 tags: ["1605"]
 date: "2022-03-05"

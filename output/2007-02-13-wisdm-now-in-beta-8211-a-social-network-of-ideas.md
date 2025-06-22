@@ -1,6 +1,6 @@
 ---
 title: "wis.dm now in beta – A social network of ideas"
-subtitle: "[![Picture 2-26](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/webl..."
+subtitle: "![Picture 2-26"
 category: "298"
 tags: []
 date: "2007-02-13"

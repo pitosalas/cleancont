@@ -1,6 +1,6 @@
 ---
 title: "neuralchen/SimSwap"
-subtitle: "[ neuralchen/SimSwap](https://github.com/neuralchen/SimSwap)"
+subtitle: "neuralchen/SimSwap"
 category: "254"
 tags: ["611"]
 date: "2021-06-18"

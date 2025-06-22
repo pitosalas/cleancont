@@ -1,6 +1,6 @@
 ---
 title: "All the logos"
-subtitle: "Pretty neat little web site, via [Ned Batchelder](http://www.nedbatchelder.com/blog/): [AllTheLogos...."
+subtitle: "Pretty neat little web site, via Ned Batchelder: [AllTheLogos...."
 category: "298"
 tags: []
 date: "2005-05-07"

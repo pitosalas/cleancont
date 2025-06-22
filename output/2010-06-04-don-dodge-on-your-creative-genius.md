@@ -1,6 +1,6 @@
 ---
 title: "Don Dodge on your creative genius"
-subtitle: "I came across this [good post from Don Dodge](http://dondodge.typepad.com/the_next_big_thing/2010/05..."
+subtitle: "I came across this good post from Don Dodge"
 category: "298"
 tags: []
 date: "2010-06-04"

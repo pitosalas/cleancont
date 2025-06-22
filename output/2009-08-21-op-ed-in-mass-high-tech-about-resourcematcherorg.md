@@ -1,6 +1,6 @@
 ---
 title: "Op-ed in Mass High Tech about ResourceMatcher.org"
-subtitle: "[Gavin Murphy](http://www.linkedin.com/in/gavinmurphy) (of [Annkissam](http://www.annkissam.com/)) a..."
+subtitle: "Gavin Murphy (of Annkissam) a..."
 category: "298"
 tags: []
 date: "2009-08-21"

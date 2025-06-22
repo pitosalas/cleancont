@@ -1,6 +1,6 @@
 ---
 title: "A Nibble of Git’s Object Store"
-subtitle: "[ A Nibble of Git's Object Store](< https://getcode.substack.com/p/a-nibble-"
+subtitle: "A Nibble of Git's Object Store"
 category: "uncategorized"
 tags: []
 date: "2022-12-11"

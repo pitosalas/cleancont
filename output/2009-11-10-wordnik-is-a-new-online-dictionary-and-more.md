@@ -1,6 +1,6 @@
 ---
 title: "Wordnik is a new online dictionary and more"
-subtitle: "Just came across [Wordnik](http://www.wordnik.com), what looks like a [mega](http://www.wordnik.com/..."
+subtitle: "Just came across Wordnik, what looks like a mega"
 category: "298"
 tags: []
 date: "2009-11-10"

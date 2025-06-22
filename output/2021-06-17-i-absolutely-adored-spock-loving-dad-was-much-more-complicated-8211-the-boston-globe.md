@@ -1,6 +1,6 @@
 ---
 title: "I absolutely adored Spock. Loving Dad was much more complicated. – The Boston Globe"
-subtitle: "[ I absolutely adored Spock. Loving Dad was much more complicated. – The Boston Globe](https://www.b..."
+subtitle: "I absolutely adored Spock. Loving Dad was much more complicated. – The Boston Globe"
 category: "514"
 tags: ["729"]
 date: "2021-06-17"

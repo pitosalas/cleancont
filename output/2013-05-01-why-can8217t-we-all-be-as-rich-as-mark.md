@@ -1,6 +1,6 @@
 ---
 title: "Why can’t we all be as rich as Mark?"
-subtitle: "[In Venture Capital Deals, Not Every Founder Will Be a Zuckerberg – NYTimes.com](http://dealbook.nyt..."
+subtitle: "In Venture Capital Deals, Not Every Founder Will Be a Zuckerberg – NYTimes.com"
 category: "1"
 tags: ["1009", "1037", "1384", "1437", "2068"]
 date: "2013-05-01"

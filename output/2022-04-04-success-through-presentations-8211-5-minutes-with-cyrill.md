@@ -1,6 +1,6 @@
 ---
 title: "Success Through Presentations – 5 Minutes with Cyrill"
-subtitle: "[ Success Through Presentations – 5 Minutes with Cyrill](https://youtube.com/watch?v=nU6NPuxkQck&fea..."
+subtitle: "Success Through Presentations – 5 Minutes with Cyrill"
 category: "5"
 tags: ["1973", "2072"]
 date: "2022-04-04"

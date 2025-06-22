@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  01/25/2020"
-subtitle: "[How I write backends](https://github.com/fpereiro/backendlore/blob/master/readme.md)"
+subtitle: "How I write backends"
 category: "301"
 tags: []
 date: "2020-01-24"

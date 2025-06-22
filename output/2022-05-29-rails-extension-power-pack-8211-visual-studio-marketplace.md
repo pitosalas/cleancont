@@ -1,6 +1,6 @@
 ---
 title: "Rails Extension Power Pack – Visual Studio Marketplace"
-subtitle: "[ Rails Extension Power Pack – Visual Studio Marketplace](https://marketplace.visualstudio.com/items..."
+subtitle: "Rails Extension Power Pack – Visual Studio Marketplace"
 category: "180"
 tags: ["1711"]
 date: "2022-05-29"

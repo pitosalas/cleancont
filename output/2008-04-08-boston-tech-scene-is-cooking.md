@@ -1,6 +1,6 @@
 ---
 title: "Boston Tech Scene is cooking"
-subtitle: "Last week I went to the monthly [“WebInno” – web innovators group – ](http://www.webinnovatorsgroup...."
+subtitle: "Last week I went to the monthly “WebInno” – web innovators group –"
 category: "298"
 tags: ["730"]
 date: "2008-04-08"

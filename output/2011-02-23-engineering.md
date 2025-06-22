@@ -1,6 +1,6 @@
 ---
 title: "Engineering"
-subtitle: "Some choice quotes to introduce a good [lecture about Engineering](http://sunnyday.mit.edu/16.355/Au..."
+subtitle: "Some choice quotes to introduce a good lecture about Engineering"
 category: "298"
 tags: ["1003", "1040"]
 date: "2011-02-23"

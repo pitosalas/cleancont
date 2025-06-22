@@ -1,6 +1,6 @@
 ---
 title: "WikiCFP : Call For Papers of Conferences, Workshops and Journals"
-subtitle: "[ WikiCFP : Call For Papers of Conferences, Workshops and Journals](http://www.wikicfp.com/cfp/)"
+subtitle: "WikiCFP : Call For Papers of Conferences, Workshops and Journals"
 category: "103"
 tags: ["843"]
 date: "2021-05-09"

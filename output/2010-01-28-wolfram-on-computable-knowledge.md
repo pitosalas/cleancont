@@ -1,6 +1,6 @@
 ---
 title: "Wolfram on Computable Knowledge"
-subtitle: "[Stephen Wolfram](http://en.wikipedia.org/wiki/Stephen_Wolfram) is a [genius](http://en.wikipedia.or..."
+subtitle: "Stephen Wolfram is a genius"
 category: "298"
 tags: []
 date: "2010-01-28"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  04/25/2018"
-subtitle: "[Microservice boundaries: five characteristics to guide your design](https://codeburst.io/microservi..."
+subtitle: "Microservice boundaries: five characteristics to guide your design"
 category: "538"
 tags: []
 date: "2018-04-25"

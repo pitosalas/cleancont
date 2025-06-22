@@ -1,6 +1,6 @@
 ---
 title: "Panasonic Lumix DMC-ZS100 (Lumix DMC-TZ100): Digital Photography Review"
-subtitle: "[ Panasonic Lumix DMC-ZS100 (Lumix DMC-TZ100): Digital Photography Review](https://www.dpreview.com/..."
+subtitle: "Panasonic Lumix DMC-ZS100 (Lumix DMC-TZ100): Digital Photography Review"
 category: "64"
 tags: []
 date: "2022-04-17"

@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Bashly | Bashly – Bash CLI Framework"
-subtitle: "[ Welcome to Bashly | Bashly - Bash CLI Framework](<"
+subtitle: "Welcome to Bashly | Bashly - Bash CLI Framework"
 category: "uncategorized"
 tags: []
 date: "2022-09-17"

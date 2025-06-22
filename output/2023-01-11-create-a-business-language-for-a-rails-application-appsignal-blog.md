@@ -1,6 +1,6 @@
 ---
 title: "Create a Business Language for a Rails Application | AppSignal Blog"
-subtitle: "[ Create a Business Language for a Rails Application | AppSignal Blog]( https://blog.appsignal.com/2..."
+subtitle: "Create a Business Language for a Rails Application | AppSignal Blog"
 category: "1"
 tags: ["2402", "2401", "1772", "2400"]
 date: "2023-01-11"

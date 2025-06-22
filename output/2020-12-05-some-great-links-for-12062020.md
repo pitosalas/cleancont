@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  12/06/2020"
-subtitle: "[4 Advanced Tricks With Python Functions You Might Not Know](https://link.medium.com/iszX4UbdYbb)"
+subtitle: "4 Advanced Tricks With Python Functions You Might Not Know"
 category: "301"
 tags: []
 date: "2020-12-05"

@@ -1,6 +1,6 @@
 ---
 title: "Modesty isn’t dead"
-subtitle: "If you are interested in blogging you certainly have come across [Robert Scoble’s blog](http://scobl..."
+subtitle: "If you are interested in blogging you certainly have come across Robert Scoble’s blog"
 category: "51"
 tags: []
 date: "2005-02-12"

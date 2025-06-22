@@ -1,6 +1,6 @@
 ---
 title: "PostgreSQL Performance Enabling pg_stat_statements"
-subtitle: "[ PostgreSQL Performance Enabling pg_stat_statements](https://www.virtual-dba.com/blog/postgresql-pe..."
+subtitle: "PostgreSQL Performance Enabling pg_stat_statements"
 category: "104"
 tags: ["1605"]
 date: "2022-03-05"

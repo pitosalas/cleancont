@@ -1,6 +1,6 @@
 ---
 title: "Facebook security"
-subtitle: "[![screen-shot-2010-11-23-at-84149-pm](https://i0.wp.com/salas.com/wp-content/uploads/2010/11/dd648-..."
+subtitle: "![screen-shot-2010-11-23-at-84149-pm"
 category: "298"
 tags: ["1037", "1822"]
 date: "2010-11-24"

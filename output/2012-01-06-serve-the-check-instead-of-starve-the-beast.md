@@ -1,6 +1,6 @@
 ---
 title: "Serve-the-check instead of Starve-the-beast"
-subtitle: "Here’s an interesting article “[Modernizing Conservatism”](http://breakthroughjournal.org/content/is..."
+subtitle: "Here’s an interesting article “Modernizing Conservatism”"
 category: "1"
 tags: ["861", "931", "1645", "1738"]
 date: "2012-01-06"

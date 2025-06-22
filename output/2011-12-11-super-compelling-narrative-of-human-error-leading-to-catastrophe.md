@@ -1,6 +1,6 @@
 ---
 title: "Super compelling: Narrative of human error leading to catastrophe"
-subtitle: "A remarkable [article in Popular Mechanics (remember them?) about the crash of Air France 447.](http..."
+subtitle: "A remarkable article in Popular Mechanics (remember them?) about the crash of Air France 447."
 category: "1"
 tags: ["612", "613", "1073", "1229", "1648"]
 date: "2011-12-11"

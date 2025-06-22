@@ -1,6 +1,6 @@
 ---
 title: "Ruby’s Switch Statement is More Flexible Than You Thought"
-subtitle: "[ Ruby’s Switch Statement is More Flexible Than You Thought]( https://www.akshaykhot.com/ruby-switch..."
+subtitle: "Ruby’s Switch Statement is More Flexible Than You Thought"
 category: "1"
 tags: ["604", "2470", "1033", "1772", "1962"]
 date: "2023-04-28"

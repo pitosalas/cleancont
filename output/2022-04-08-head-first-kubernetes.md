@@ -1,6 +1,6 @@
 ---
 title: "Head-First Kubernetes"
-subtitle: "[ Head-First Kubernetes](https://head-first-kubernetes.github.io/)"
+subtitle: "Head-First Kubernetes"
 category: "152"
 tags: []
 date: "2022-04-08"

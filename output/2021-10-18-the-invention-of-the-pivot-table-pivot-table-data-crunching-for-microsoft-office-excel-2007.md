@@ -1,6 +1,6 @@
 ---
 title: "The Invention of the Pivot Table | Pivot Table Data Crunching for Microsoft Office Excel 2007"
-subtitle: "[ The Invention of the Pivot Table | Pivot Table Data Crunching for Microsoft Office Excel 2007](htt..."
+subtitle: "The Invention of the Pivot Table | Pivot Table Data Crunching for Microsoft Office Excel 2007"
 category: "311"
 tags: ["1254", "1464"]
 date: "2021-10-18"

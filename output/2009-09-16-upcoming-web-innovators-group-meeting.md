@@ -1,6 +1,6 @@
 ---
 title: "Upcoming Web Innovators Group meeting"
-subtitle: "Just found out that the [WebInno group](http://www.eventbrite.com/contact-organizer?eid=389656473) i..."
+subtitle: "Just found out that the WebInno group i..."
 category: "298"
 tags: ["729", "1007", "1120", "2105"]
 date: "2009-09-16"

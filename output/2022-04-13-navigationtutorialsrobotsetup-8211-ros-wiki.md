@@ -1,6 +1,6 @@
 ---
 title: "navigation/Tutorials/RobotSetup – ROS Wiki"
-subtitle: "[ navigation/Tutorials/RobotSetup – ROS Wiki](https://wiki.ros.org/navigation/Tutorials/RobotSetup)"
+subtitle: "navigation/Tutorials/RobotSetup – ROS Wiki"
 category: "463"
 tags: ["1503"]
 date: "2022-04-13"

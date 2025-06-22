@@ -1,6 +1,6 @@
 ---
 title: "Open-source data multitool | VisiData"
-subtitle: "[ Open-source data multitool | VisiData]( https://www.visidata.org/?utm_source=substack&utm_medium=e..."
+subtitle: "Open-source data multitool | VisiData"
 category: "1"
 tags: ["811", "871", "897", "907"]
 date: "2022-08-22"

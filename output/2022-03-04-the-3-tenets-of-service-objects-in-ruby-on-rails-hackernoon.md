@@ -1,6 +1,6 @@
 ---
 title: "The 3 Tenets of Service Objects in Ruby on Rails | HackerNoon"
-subtitle: "[ The 3 Tenets of Service Objects in Ruby on Rails | HackerNoon](https://hackernoon.com/the-3-tenets..."
+subtitle: "The 3 Tenets of Service Objects in Ruby on Rails | HackerNoon"
 category: "114"
 tags: ["1711", "1772"]
 date: "2022-03-04"

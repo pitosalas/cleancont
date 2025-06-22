@@ -1,6 +1,6 @@
 ---
 title: "Make a Good Dupont Pin-Crimp EVERY TIME!"
-subtitle: "[ Make a Good Dupont Pin-Crimp EVERY TIME!](https://www.instructables.com/Make-a-Good-Dupont-Pin-Cri..."
+subtitle: "Make a Good Dupont Pin-Crimp EVERY TIME!"
 category: "120"
 tags: []
 date: "2021-11-10"

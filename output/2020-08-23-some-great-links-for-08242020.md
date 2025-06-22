@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  08/24/2020"
-subtitle: "[Rodauth: A Refreshing Authentication Solution for Ruby | Janko’s Blog](https://janko.io/rodauth-a-r..."
+subtitle: "Rodauth: A Refreshing Authentication Solution for Ruby | Janko’s Blog"
 category: "301"
 tags: []
 date: "2020-08-23"

@@ -1,6 +1,6 @@
 ---
 title: "Barcoding the planet"
-subtitle: "[![picture-1.png](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-content/..."
+subtitle: "![picture-1.png"
 category: "298"
 tags: []
 date: "2007-09-08"

@@ -1,6 +1,6 @@
 ---
 title: "Making money with aggregators"
-subtitle: "[Francois](http://www.emergencemarketing.com/), reacting to something [written by Jason Calcanis](ht..."
+subtitle: "Francois, reacting to something written by Jason Calcanis"
 category: "50"
 tags: []
 date: "2005-06-17"

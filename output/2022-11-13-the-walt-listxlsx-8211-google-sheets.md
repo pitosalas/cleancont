@@ -1,6 +1,6 @@
 ---
 title: "The Walt List.xlsx – Google Sheets"
-subtitle: "[ The Walt List.xlsx – Google Sheets]( https://docs.google.com/spreadsheets/d/1rNfUosPSiMwRbUAbnI3h-..."
+subtitle: "The Walt List.xlsx – Google Sheets"
 category: "1"
 tags: ["1221", "2294", "1604"]
 date: "2022-11-13"

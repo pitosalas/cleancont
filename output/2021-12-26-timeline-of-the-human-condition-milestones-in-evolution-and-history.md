@@ -1,6 +1,6 @@
 ---
 title: "Timeline of the human condition | Milestones in evolution and history"
-subtitle: "[ Timeline of the human condition | Milestones in evolution and history](https://www.southampton.ac...."
+subtitle: "Timeline of the human condition | Milestones in evolution and history"
 category: "301"
 tags: []
 date: "2021-12-26"

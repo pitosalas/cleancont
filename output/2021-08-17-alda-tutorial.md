@@ -1,6 +1,6 @@
 ---
 title: "Alda tutorial"
-subtitle: "[ Alda tutorial](https://alda.io/tutorial/)"
+subtitle: "Alda tutorial"
 category: "158"
 tags: ["1492"]
 date: "2021-08-17"

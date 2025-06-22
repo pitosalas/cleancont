@@ -1,6 +1,6 @@
 ---
 title: "How Fig improved my ZSH experience (Fig Autocomplete Tutorial Pt. 1)"
-subtitle: "[ How Fig improved my ZSH experience (Fig Autocomplete Tutorial Pt. 1)]( https://dev.to/apollotoday/..."
+subtitle: "How Fig improved my ZSH experience (Fig Autocomplete Tutorial Pt. 1)"
 category: "1"
 tags: ["811", "1033", "1221", "2302", "1605", "1848", "2303"]
 date: "2022-11-16"

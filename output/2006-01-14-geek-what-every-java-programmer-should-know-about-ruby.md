@@ -1,6 +1,6 @@
 ---
 title: "[GEEK] What every Java programmer should know about Ruby"
-subtitle: "Heard a lot about Ruby? Ruby on Rails? Wonder what the heck it is? [Here’s a good intro](http://ones..."
+subtitle: "Heard a lot about Ruby? Ruby on Rails? Wonder what the heck it is? Here’s a good intro"
 category: "422"
 tags: []
 date: "2006-01-14"

@@ -1,6 +1,6 @@
 ---
 title: "“Gods of Carnage” – Huntington Theatre"
-subtitle: "I Just came back from seeing “[Gods Of Carnage”](http://www.huntingtontheatre.org/season/production...."
+subtitle: "I Just came back from seeing “Gods Of Carnage”"
 category: "1"
 tags: ["733", "1231", "1995"]
 date: "2012-01-16"

@@ -1,6 +1,6 @@
 ---
 title: "Did these really not get read, or, …?"
-subtitle: "This just struck me as curious:[ “Letters to God end up in ocean, unread”](http://news.yahoo.com/s/a..."
+subtitle: "This just struck me as curious: “Letters to God end up in ocean, unread”"
 category: "298"
 tags: []
 date: "2006-11-06"

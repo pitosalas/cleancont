@@ -1,6 +1,6 @@
 ---
 title: "Home – Coder v1 v1.32 docs"
-subtitle: "[ Home - Coder v1 v1.32 docs](< https://coder.com/docs/coder/latest>) –This"
+subtitle: "Home - Coder v1 v1.32 docs –This"
 category: "uncategorized"
 tags: []
 date: "2022-07-08"

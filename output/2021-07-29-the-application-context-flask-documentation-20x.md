@@ -1,6 +1,6 @@
 ---
 title: "The Application Context — Flask Documentation (2.0.x)"
-subtitle: "[ The Application Context — Flask Documentation (2.0.x)](https://flask.palletsprojects.com/en/2.0.x/..."
+subtitle: "The Application Context — Flask Documentation (2.0.x)"
 category: "193"
 tags: ["635"]
 date: "2021-07-29"

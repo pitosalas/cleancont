@@ -1,6 +1,6 @@
 ---
 title: "Another funny geek video for your enjoyment"
-subtitle: "[“Every OS Crashes because Every OS Sucks”](http://www.deadtroll.com/index2.html?/video/ossuckscable..."
+subtitle: "“Every OS Crashes because Every OS Sucks”"
 category: "298"
 tags: []
 date: "2006-01-04"

@@ -1,6 +1,6 @@
 ---
 title: "Reminder: BlogBridge Skypecast tomorrow, Thursday, Aug 10, at 10:00am"
-subtitle: "Check [here for the details](http://www.blogbridge.com/archives/2006/08/skypecast_remin_2.php)! This..."
+subtitle: "Check here for the details! This..."
 category: "50"
 tags: []
 date: "2006-08-10"

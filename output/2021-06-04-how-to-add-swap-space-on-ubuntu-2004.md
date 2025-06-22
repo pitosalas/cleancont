@@ -1,6 +1,6 @@
 ---
 title: "How to Add Swap Space on Ubuntu 20.04"
-subtitle: "[ How to Add Swap Space on Ubuntu 20.04](https://linuxize.com/post/how-to-add-swap-space-on-ubuntu-2..."
+subtitle: "How to Add Swap Space on Ubuntu 20.04"
 category: "249"
 tags: []
 date: "2021-06-04"

@@ -1,6 +1,6 @@
 ---
 title: "Fzf: A tool that will transform your CLI life"
-subtitle: "[ Fzf: A tool that will transform your CLI life]( https://link.medium.com/3aagIVhwtsb) –I’m a CLI ju..."
+subtitle: "Fzf: A tool that will transform your CLI life –I’m a CLI ju..."
 category: "1"
 tags: ["811", "1062", "1814", "2010"]
 date: "2022-08-14"

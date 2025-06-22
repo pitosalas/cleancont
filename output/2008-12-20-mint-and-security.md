@@ -1,6 +1,6 @@
 ---
 title: "MINT and security"
-subtitle: "I have a new favorite web service: [Mint](http://www.mint.com/). It’s a really nice implementation o..."
+subtitle: "I have a new favorite web service: Mint. It’s a really nice implementation o..."
 category: "298"
 tags: ["1823"]
 date: "2008-12-20"

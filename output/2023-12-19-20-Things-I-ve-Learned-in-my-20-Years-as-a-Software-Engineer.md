@@ -1,6 +1,6 @@
 ---
 title: "20 Things I’ve Learned in my 20 Years as a Software Engineer"
-subtitle: "[ 20 Things I've Learned in my 20 Years as a Software Engineer](<"
+subtitle: "20 Things I've Learned in my 20 Years as a Software Engineer"
 category: "uncategorized"
 tags: []
 date: "2023-12-19"

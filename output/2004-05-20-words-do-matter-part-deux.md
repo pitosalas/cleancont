@@ -1,6 +1,6 @@
 ---
 title: "Words do matter, Part Deux"
-subtitle: "I don’t know, this seems to be a topic near and dear to my heart! Thanks to [Eric Heels ](http://www..."
+subtitle: "I don’t know, this seems to be a topic near and dear to my heart! Thanks to Eric Heels"
 category: "298"
 tags: []
 date: "2004-05-20"

@@ -1,6 +1,6 @@
 ---
 title: "Great article about ‘lean’"
-subtitle: "[I recommend this article, “Fatboy in A Lean World”](http://www.oreillygmt.eu/interview/fatboy-in-a-..."
+subtitle: "I recommend this article, “Fatboy in A Lean World”"
 category: "298"
 tags: ["1365"]
 date: "2011-02-01"

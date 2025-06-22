@@ -1,6 +1,6 @@
 ---
 title: "Amazing flash film"
-subtitle: "I [got this with an](http://www.albinoblacksheep.com/flash/honda.php) email claiming on a stack of b..."
+subtitle: "I got this with an email claiming on a stack of b..."
 category: "298"
 tags: []
 date: "2007-02-21"

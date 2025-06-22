@@ -1,6 +1,6 @@
 ---
 title: "VSCode Marketplace can be abused to host malicious extensions"
-subtitle: "[ VSCode Marketplace can be abused to host malicious extensions]( https://www.bleepingcomputer.com/n..."
+subtitle: "VSCode Marketplace can be abused to host malicious extensions"
 category: "1"
 tags: ["819", "2397", "2398", "2396", "2089"]
 date: "2023-01-09"

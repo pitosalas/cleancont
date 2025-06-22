@@ -1,6 +1,6 @@
 ---
 title: "Faster Rails: Eliminating N+1 queries – Semaphore"
-subtitle: "[ Faster Rails: Eliminating N+1 queries – Semaphore](https://semaphoreci.com/blog/2017/08/09/faster-..."
+subtitle: "Faster Rails: Eliminating N+1 queries – Semaphore"
 category: "7"
 tags: ["1605", "1711"]
 date: "2022-03-14"

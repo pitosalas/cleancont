@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  09/08/2018"
-subtitle: "[A few less-known Ruby (on Rails) methods, pt 1.: Array](https://medium.com/jobteaser-dev-team/a-few..."
+subtitle: "A few less-known Ruby (on Rails) methods, pt 1.: Array"
 category: "301"
 tags: []
 date: "2018-09-07"

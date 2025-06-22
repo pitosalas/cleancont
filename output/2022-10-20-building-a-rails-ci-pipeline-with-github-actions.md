@@ -1,6 +1,6 @@
 ---
 title: "Building a Rails CI pipeline with GitHub Actions"
-subtitle: "[ Building a Rails CI pipeline with GitHub Actions]( https://boringrails.com/articles/building-a-rai..."
+subtitle: "Building a Rails CI pipeline with GitHub Actions"
 category: "1"
 tags: ["2287", "1135", "2286", "1203"]
 date: "2022-10-20"

@@ -1,6 +1,6 @@
 ---
 title: "Boston is thinking about city-wide wi-fi access"
-subtitle: "Michael Feldman of [Dowbrigade](http://blogs.law.harvard.edu/dowbrigade/) has a [really interesting]..."
+subtitle: "Michael Feldman of Dowbrigade has a [really interesting]..."
 category: "298"
 tags: []
 date: "2005-05-21"

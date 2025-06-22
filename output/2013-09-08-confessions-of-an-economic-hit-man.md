@@ -1,6 +1,6 @@
 ---
 title: "Confessions of an economic hit man"
-subtitle: "You should read this book: [Confessions of an Economic Hit Man](http://www.amazon.com/gp/product/045..."
+subtitle: "You should read this book: Confessions of an Economic Hit Man"
 category: "1"
 tags: ["1081", "1466", "1484", "1963", "2094"]
 date: "2013-09-08"

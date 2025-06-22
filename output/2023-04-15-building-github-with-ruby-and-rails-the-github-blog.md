@@ -1,6 +1,6 @@
 ---
 title: "Building GitHub with Ruby and Rails | The GitHub Blog"
-subtitle: "[ Building GitHub with Ruby and Rails | The GitHub Blog]( https://github.blog/2023-04-06-building-gi..."
+subtitle: "Building GitHub with Ruby and Rails | The GitHub Blog"
 category: "1"
 tags: ["2287", "1135", "1711", "1772"]
 date: "2023-04-15"

@@ -1,6 +1,6 @@
 ---
 title: "The strange relationship between objects, functions, generators and coroutines"
-subtitle: "[The strange relationship between objects, functions, generators and coroutines ](https://www.packt...."
+subtitle: "The strange relationship between objects, functions, generators and coroutines"
 category: "1"
 tags: ["2176", "1221", "2175", "1692"]
 date: "2022-06-30"

@@ -1,6 +1,6 @@
 ---
 title: "eBay to assist in setting BlogBridge Price"
-subtitle: "So, some day we will consider [BlogBridge ](http://www.blogbridge.com)complete enough to actually be..."
+subtitle: "So, some day we will consider BlogBridge complete enough to actually be..."
 category: "50"
 tags: []
 date: "2004-08-17"

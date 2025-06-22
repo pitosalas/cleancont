@@ -1,6 +1,6 @@
 ---
 title: "Sharing Web Site Designs"
-subtitle: "Recently I wanted to get feedback on one of several ideas for the design of the new [BlogBridge](htt..."
+subtitle: "Recently I wanted to get feedback on one of several ideas for the design of the new BlogBridge"
 category: "1"
 tags: ["718", "937", "2107"]
 date: "2011-12-31"

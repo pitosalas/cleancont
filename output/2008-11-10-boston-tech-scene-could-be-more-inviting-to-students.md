@@ -1,6 +1,6 @@
 ---
 title: "Boston tech scene could be more inviting to students"
-subtitle: "Scott Kirsner of the [Innovation Economy](http://www.innoeco.com) blog, as well of the [Boston Globe..."
+subtitle: "Scott Kirsner of the Innovation Economy blog, as well of the [Boston Globe..."
 category: "298"
 tags: []
 date: "2008-11-10"

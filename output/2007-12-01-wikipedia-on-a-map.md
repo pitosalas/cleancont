@@ -1,6 +1,6 @@
 ---
 title: "Wikipedia on a map"
-subtitle: "![Wikipedia Vision](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-conten..."
+subtitle: "!Wikipedia Vision"
 category: "298"
 tags: []
 date: "2007-12-01"

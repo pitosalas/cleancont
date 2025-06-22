@@ -1,6 +1,6 @@
 ---
 title: "Geek Dinner a great success!"
-subtitle: "![100319926 6Bac19F6Bc](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblo..."
+subtitle: "!100319926 6Bac19F6Bc"
 category: "538"
 tags: []
 date: "2006-02-16"

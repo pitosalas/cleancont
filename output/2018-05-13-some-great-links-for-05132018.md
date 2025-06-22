@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  05/13/2018"
-subtitle: "[Apache Cordova Tutorial: Developing Mobile Applications with Cordova](https://www.toptal.com/mobile..."
+subtitle: "Apache Cordova Tutorial: Developing Mobile Applications with Cordova"
 category: "538"
 tags: []
 date: "2018-05-13"

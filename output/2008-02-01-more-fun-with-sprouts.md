@@ -1,6 +1,6 @@
 ---
 title: "More fun with sprouts"
-subtitle: "[http://farm.sproutbuilder.com/2341/load/5QDs6GRmAGexSWMQ.swf](http://farm.sproutbuilder.com/2341/lo..."
+subtitle: "http://farm.sproutbuilder.com/2341/load/5QDs6GRmAGexSWMQ.swf"
 category: "298"
 tags: []
 date: "2008-02-01"

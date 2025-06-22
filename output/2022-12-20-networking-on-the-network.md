@@ -1,6 +1,6 @@
 ---
 title: "Networking on the Network"
-subtitle: "[ Networking on the Network]( https://vlsicad.ucsd.edu/Research/Advice/network.html?fbclid=IwAR1hpXv..."
+subtitle: "Networking on the Network"
 category: "1"
 tags: ["776", "871", "1512", "1609", "1740"]
 date: "2022-12-20"

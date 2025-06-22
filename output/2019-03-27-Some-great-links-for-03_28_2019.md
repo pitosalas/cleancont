@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  03/28/2019"
-subtitle: "* [Stop using so many divs! An intro to semantic HTML](<https://dev.to/kenbellows/stop-using-so-many..."
+subtitle: "* Stop using so many divs! An intro to semantic HTML"
 category: "uncategorized"
 tags: []
 date: "2019-03-27"

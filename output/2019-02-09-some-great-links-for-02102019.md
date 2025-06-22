@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  02/10/2019"
-subtitle: "[10 Signs You Will Suck at Programming – Noteworthy – The Journal Blog](https://blog.usejournal.com/..."
+subtitle: "10 Signs You Will Suck at Programming – Noteworthy – The Journal Blog"
 category: "301"
 tags: []
 date: "2019-02-09"

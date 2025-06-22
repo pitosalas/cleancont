@@ -1,6 +1,6 @@
 ---
 title: "Web Innovators meetup Monday, July 24th"
-subtitle: "Yes the [meetups](http://webinnovatorsgroup.com/wiki/webinno7) keep on coming fast and furious. [Che..."
+subtitle: "Yes the meetups keep on coming fast and furious. [Che..."
 category: "298"
 tags: []
 date: "2006-07-21"

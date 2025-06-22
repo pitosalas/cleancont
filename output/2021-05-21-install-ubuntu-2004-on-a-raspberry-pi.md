@@ -1,6 +1,6 @@
 ---
 title: "Install Ubuntu 20.04 on a Raspberry Pi"
-subtitle: "[ Install Ubuntu 20.04 on a Raspberry Pi](https://www.youtube.com/watch?v=GVgMM_TFeOw)"
+subtitle: "Install Ubuntu 20.04 on a Raspberry Pi"
 category: "265"
 tags: ["2072"]
 date: "2021-05-21"

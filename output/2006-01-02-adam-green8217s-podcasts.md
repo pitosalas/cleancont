@@ -1,6 +1,6 @@
 ---
 title: "Adam Green’s Podcasts"
-subtitle: "I came [across a cool series of podcasts](http://www.adamgreen.org/), done by **Adam Green**, on the..."
+subtitle: "I came across a cool series of podcasts, done by **Adam Green**, on the..."
 category: "298"
 tags: []
 date: "2006-01-02"

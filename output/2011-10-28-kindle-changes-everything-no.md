@@ -1,6 +1,6 @@
 ---
 title: "Kindle changes everything, no?"
-subtitle: "[This link lets you see all the passages in Steve Jobs’ new biography that were underlined ](https:/..."
+subtitle: "This link lets you see all the passages in Steve Jobs’ new biography that were underlined"
 category: "298"
 tags: ["1342", "1846"]
 date: "2011-10-28"

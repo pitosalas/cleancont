@@ -1,6 +1,6 @@
 ---
 title: "Deploy Your Ruby on Rails App Using Capistrano | AppSignal Blog"
-subtitle: "[ Deploy Your Ruby on Rails App Using Capistrano | AppSignal Blog]( https://blog.appsignal.com/2022/..."
+subtitle: "Deploy Your Ruby on Rails App Using Capistrano | AppSignal Blog"
 category: "1"
 tags: ["771", "2197", "1221", "2198", "1711", "1772"]
 date: "2022-07-14"

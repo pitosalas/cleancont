@@ -1,6 +1,6 @@
 ---
 title: "What is one life worth?"
-subtitle: "A [fascinating article,](http://reason.com/archives/2012/01/26/how-much-is-an-astronauts-life-worth)..."
+subtitle: "A fascinating article,..."
 category: "1"
 tags: ["1272", "1442", "1487", "1501", "1672", "1894", "1945"]
 date: "2012-02-01"

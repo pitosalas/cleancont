@@ -1,6 +1,6 @@
 ---
 title: "Your morning chuckle"
-subtitle: "[Thanks to Chris Shipley for this link](http://cshipley.typepad.com/chris_shipley_group/2004/04/trut..."
+subtitle: "Thanks to Chris Shipley for this link"
 category: "298"
 tags: []
 date: "2004-04-10"

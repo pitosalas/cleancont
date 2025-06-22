@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  07/18/2018"
-subtitle: "* [How to Approach Machine Learning Problems](<https://www.toptal.com/machine-learning/machine-learn..."
+subtitle: "* How to Approach Machine Learning Problems"
 category: "uncategorized"
 tags: []
 date: "2018-07-18"

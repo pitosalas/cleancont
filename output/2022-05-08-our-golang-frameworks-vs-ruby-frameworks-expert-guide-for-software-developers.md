@@ -1,6 +1,6 @@
 ---
 title: "Our Golang Frameworks vs Ruby Frameworks Expert Guide for Software Developers"
-subtitle: "[ Our Golang Frameworks vs Ruby Frameworks Expert Guide for Software Developers](https://www.spherei..."
+subtitle: "Our Golang Frameworks vs Ruby Frameworks Expert Guide for Software Developers"
 category: "198"
 tags: ["1711", "2103"]
 date: "2022-05-08"

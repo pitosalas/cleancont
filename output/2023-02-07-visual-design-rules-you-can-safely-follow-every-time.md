@@ -1,6 +1,6 @@
 ---
 title: "Visual design rules you can safely follow every time"
-subtitle: "[ Visual design rules you can safely follow every time]( https://anthonyhobday.com/sideprojects/safe..."
+subtitle: "Visual design rules you can safely follow every time"
 category: "1"
 tags: ["937", "1159", "1221", "1780", "2079"]
 date: "2023-02-07"

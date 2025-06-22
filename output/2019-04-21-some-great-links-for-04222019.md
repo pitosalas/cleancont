@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  04/22/2019"
-subtitle: "[Dockerize the multi-services application for local development](https://dev.to/amplifr/dockerize-th..."
+subtitle: "Dockerize the multi-services application for local development"
 category: "301"
 tags: []
 date: "2019-04-21"

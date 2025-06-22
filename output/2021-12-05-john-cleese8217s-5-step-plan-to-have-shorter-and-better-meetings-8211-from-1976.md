@@ -1,6 +1,6 @@
 ---
 title: "John Cleese’s 5-step plan to have shorter and better meetings – from 1976!"
-subtitle: "[ John Cleese’s 5-step plan to have shorter and better meetings – from 1976!](https://youtube.com/wa..."
+subtitle: "John Cleese’s 5-step plan to have shorter and better meetings – from 1976!"
 category: "164"
 tags: ["2005"]
 date: "2021-12-05"

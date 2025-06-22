@@ -1,6 +1,6 @@
 ---
 title: "Can we charge for an open source BlogBridge"
-subtitle: "As you know we are developing [BlogBridge](http://www.blogbridge.com), “a new kind of blog reader.” ..."
+subtitle: "As you know we are developing BlogBridge, “a new kind of blog reader.” ..."
 category: "50"
 tags: []
 date: "2004-05-17"

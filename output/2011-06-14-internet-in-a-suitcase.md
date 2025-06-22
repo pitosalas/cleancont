@@ -1,6 +1,6 @@
 ---
 title: "Internet in a suitcase"
-subtitle: "The [U.S. government is helping create parallel internets ](http://www.nytimes.com/2011/06/12/world/..."
+subtitle: "The U.S. government is helping create parallel internets"
 category: "298"
 tags: ["783", "1284", "2059"]
 date: "2011-06-14"

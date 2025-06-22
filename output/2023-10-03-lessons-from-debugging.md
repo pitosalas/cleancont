@@ -1,6 +1,6 @@
 ---
 title: "Lessons From Debugging"
-subtitle: "[ Lessons From Debugging]( https://matt-rickard.com/lessons-from-debugging?utm_source=changelog-news..."
+subtitle: "Lessons From Debugging"
 category: "1"
 tags: ["2476", "700", "2582", "1221"]
 date: "2023-10-03"

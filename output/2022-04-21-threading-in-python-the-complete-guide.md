@@ -1,6 +1,6 @@
 ---
 title: "Threading in Python: The Complete Guide"
-subtitle: "[ Threading in Python: The Complete Guide](https://superfastpython.com/threading-in-python/)"
+subtitle: "Threading in Python: The Complete Guide"
 category: "102"
 tags: []
 date: "2022-04-21"

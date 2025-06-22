@@ -1,6 +1,6 @@
 ---
 title: "Dilbert Torture"
-subtitle: "[According to Dilbert (or is it Scott Adams](http://dilbertblog.typepad.com/the_dilbert_blog/2005/11..."
+subtitle: "According to Dilbert (or is it Scott Adams"
 category: "298"
 tags: []
 date: "2005-11-20"

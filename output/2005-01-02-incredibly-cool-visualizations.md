@@ -1,6 +1,6 @@
 ---
 title: "Incredibly cool visualizations"
-subtitle: "In the realm of interesting visualizations, [check this one ](http://turbulence.org/spotlight/thinki..."
+subtitle: "In the realm of interesting visualizations, check this one"
 category: "298"
 tags: []
 date: "2005-01-02"

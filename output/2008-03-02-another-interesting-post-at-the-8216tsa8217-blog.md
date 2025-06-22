@@ -1,6 +1,6 @@
 ---
 title: "Another interesting post at the ‘TSA’ Blog"
-subtitle: "Another really interesting [post](http://www.tsa.gov/blog/2008/02/truth-behind-title-behavior-detect..."
+subtitle: "Another really interesting post"
 category: "298"
 tags: []
 date: "2008-03-02"

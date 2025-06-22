@@ -1,6 +1,6 @@
 ---
 title: "“We make it up in volume”"
-subtitle: "There’s a new **[meme floating](http://avc.blogs.com/a_vc/2006/03/my_favorite_bus.html)** around, “*..."
+subtitle: "There’s a new **meme floating** around, “*..."
 category: "298"
 tags: []
 date: "2006-04-01"

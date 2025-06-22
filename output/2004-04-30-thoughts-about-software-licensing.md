@@ -1,6 +1,6 @@
 ---
 title: "Thoughts about software licensing"
-subtitle: "[Dan Bricklin’s written a bit on a topic that’s been indirectly on my mind lately](http://www.brickl..."
+subtitle: "Dan Bricklin’s written a bit on a topic that’s been indirectly on my mind lately"
 category: "538"
 tags: []
 date: "2004-04-30"

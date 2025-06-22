@@ -1,6 +1,6 @@
 ---
 title: "Ambient Awareness: on being ‘digitally’ close"
-subtitle: "A [good article in the New York Times Magazine about the so-called ‘ambient awareness’ phenomenon](h..."
+subtitle: "A good article in the New York Times Magazine about the so-called ‘ambient awareness’ phenomenon"
 category: "298"
 tags: []
 date: "2008-09-08"

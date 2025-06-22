@@ -1,6 +1,6 @@
 ---
 title: "Seeing the other side of someone"
-subtitle: "Adam Bossworth is a guy who [I’ve written about before](/weblogs/archives/000522.html), in a very te..."
+subtitle: "Adam Bossworth is a guy who I’ve written about before, in a very te..."
 category: "298"
 tags: []
 date: "2004-12-26"

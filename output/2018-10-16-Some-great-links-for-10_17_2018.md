@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  10/17/2018"
-subtitle: "* [alexmojaki/birdseye](<https://github.com/alexmojaki/birdseye>)"
+subtitle: "* alexmojaki/birdseye"
 category: "uncategorized"
 tags: []
 date: "2018-10-16"

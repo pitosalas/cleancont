@@ -1,6 +1,6 @@
 ---
 title: "RSS is not a goal…"
-subtitle: "[glenn](http://www.furia.com/page.cgi?type=log) has been busy today. A series of very intriguing pos..."
+subtitle: "glenn has been busy today. A series of very intriguing pos..."
 category: "50"
 tags: []
 date: "2006-03-06"

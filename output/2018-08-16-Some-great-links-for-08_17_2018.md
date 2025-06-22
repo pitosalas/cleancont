@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  08/17/2018"
-subtitle: "* [Python Tuples and Tuple Methods | Codementor](<https://www.codementor.io/mgalarny/python-tuples-a..."
+subtitle: "* Python Tuples and Tuple Methods | Codementor"
 category: "uncategorized"
 tags: []
 date: "2018-08-16"

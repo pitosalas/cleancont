@@ -1,6 +1,6 @@
 ---
 title: "pkolaczk/fclones: Efficient Duplicate File Finder"
-subtitle: "[ pkolaczk/fclones: Efficient Duplicate File Finder](https://github.com/pkolaczk/fclones)"
+subtitle: "pkolaczk/fclones: Efficient Duplicate File Finder"
 category: "83"
 tags: []
 date: "2022-05-09"

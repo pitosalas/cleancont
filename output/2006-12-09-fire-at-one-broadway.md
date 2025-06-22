@@ -1,6 +1,6 @@
 ---
 title: "fire at one broadway"
-subtitle: "My buddies at [wis.dm](http://wis.dm) had a real scare"
+subtitle: "My buddies at wis.dm had a real scare"
 category: "298"
 tags: []
 date: "2006-12-09"

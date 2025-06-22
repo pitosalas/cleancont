@@ -1,6 +1,6 @@
 ---
 title: "Rewriting the Ruby parser"
-subtitle: "[ Rewriting the Ruby parser](https://railsatscale.com/2023-06-12-rewriting-the-ruby-parser/) –At Sho..."
+subtitle: "Rewriting the Ruby parser –At Sho..."
 category: "1"
 tags: ["1033", "2402", "1772", "2498"]
 date: "2023-06-16"

@@ -1,6 +1,6 @@
 ---
 title: "Microsoft blogging: “What do managers do…”"
-subtitle: "I [often cite](http://www.blogonevent.com/archives/2005/09/ballmer_may_not.html) Microsoft as an exa..."
+subtitle: "I often cite Microsoft as an exa..."
 category: "298"
 tags: []
 date: "2005-09-26"

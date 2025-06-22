@@ -1,6 +1,6 @@
 ---
 title: "Ever heard of the Johari Window?"
-subtitle: "I came across the idea of the [Johari Window](http://en.wikipedia.org/wiki/Johari_window) during one..."
+subtitle: "I came across the idea of the Johari Window during one..."
 category: "298"
 tags: []
 date: "2010-09-17"

@@ -1,6 +1,6 @@
 ---
 title: "Building A Virtual Machine inside ChatGPT"
-subtitle: "[ Building A Virtual Machine inside ChatGPT]( https://www.engraved.blog/building-a-virtual-machine-i..."
+subtitle: "Building A Virtual Machine inside ChatGPT"
 category: "1"
 tags: ["2331", "1387", "1848", "2330", "2332"]
 date: "2022-12-04"

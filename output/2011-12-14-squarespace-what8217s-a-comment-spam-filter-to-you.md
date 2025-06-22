@@ -1,6 +1,6 @@
 ---
 title: "Squarespace: What’s a comment spam filter to you?"
-subtitle: "You may have noticed that this Blog is now hosted on [SquareSpace](http://www.squarespace.com/). I’v..."
+subtitle: "You may have noticed that this Blog is now hosted on SquareSpace. I’v..."
 category: "1"
 tags: ["830", "1909", "1954"]
 date: "2011-12-14"

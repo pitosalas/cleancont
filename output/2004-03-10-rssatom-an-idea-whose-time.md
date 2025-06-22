@@ -1,6 +1,6 @@
 ---
 title: "RSS/Atom: An idea whose time"
-subtitle: "**RSS/Atom: An idea whose time has come. **[Dave Winer](http://archive.scripting.com/2004/03/09#rssI..."
+subtitle: "**RSS/Atom: An idea whose time has come. **Dave Winer"
 category: "1"
 tags: []
 date: "2004-03-10"

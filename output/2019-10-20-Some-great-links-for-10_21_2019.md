@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  10/21/2019"
-subtitle: "* [a list of open source alternatives to google internal tools.](<https://github.com/jhuangtw-dev/xg..."
+subtitle: "* a list of open source alternatives to google internal tools."
 category: "uncategorized"
 tags: []
 date: "2019-10-20"

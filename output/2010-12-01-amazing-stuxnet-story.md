@@ -1,6 +1,6 @@
 ---
 title: "Amazing Stuxnet story"
-subtitle: "With apologies for quoting a [Foxnews](http://www.foxnews.com) story, and with thanks to [Scott Adam..."
+subtitle: "With apologies for quoting a Foxnews story, and with thanks to [Scott Adam..."
 category: "538"
 tags: ["585", "1302", "1309", "1822", "1937"]
 date: "2010-12-01"

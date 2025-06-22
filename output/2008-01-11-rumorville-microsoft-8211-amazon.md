@@ -1,6 +1,6 @@
 ---
 title: "Rumorville: Microsoft – Amazon"
-subtitle: "Yes there’s been lots of rumors of [Microsoft acquiring Yahoo, or Logitech.](http://www.paidcontent...."
+subtitle: "Yes there’s been lots of rumors of Microsoft acquiring Yahoo, or Logitech."
 category: "298"
 tags: []
 date: "2008-01-11"

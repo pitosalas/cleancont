@@ -1,6 +1,6 @@
 ---
 title: "What’s a beta, anyway?"
-subtitle: "[BlogBridge ](http://www.blogbridge.com)is getting ready to go into a limited beta test. The purpose..."
+subtitle: "BlogBridge is getting ready to go into a limited beta test. The purpose..."
 category: "50"
 tags: []
 date: "2004-06-03"

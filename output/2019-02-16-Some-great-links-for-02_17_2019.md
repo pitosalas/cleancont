@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  02/17/2019"
-subtitle: "* [Opinion | No, You Can’t Ignore Email. It’s Rude.](<https://nyti.ms/2EcopxB?smid=nytcore-ios-share..."
+subtitle: "* Opinion | No, You Can’t Ignore Email. It’s Rude."
 category: "uncategorized"
 tags: []
 date: "2019-02-16"

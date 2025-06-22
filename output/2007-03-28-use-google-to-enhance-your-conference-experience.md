@@ -1,6 +1,6 @@
 ---
 title: "Use Google to enhance your conference experience"
-subtitle: "I’m at the [O’Reilly Emerging Technology Conference](http://conferences.oreillynet.com/etech/), aka ..."
+subtitle: "I’m at the O’Reilly Emerging Technology Conference, aka ..."
 category: "298"
 tags: []
 date: "2007-03-28"

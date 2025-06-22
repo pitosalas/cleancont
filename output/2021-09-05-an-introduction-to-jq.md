@@ -1,6 +1,6 @@
 ---
 title: "An Introduction to JQ"
-subtitle: "[ An Introduction to JQ](https://earthly.dev/blog/jq-select/)"
+subtitle: "An Introduction to JQ"
 category: "84"
 tags: []
 date: "2021-09-05"

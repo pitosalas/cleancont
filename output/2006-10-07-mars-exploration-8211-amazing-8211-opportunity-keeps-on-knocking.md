@@ -1,6 +1,6 @@
 ---
 title: "Mars exploration – amazing – Opportunity keeps on knocking"
-subtitle: "Saw this in the newspaper today – [“Mars Rover Visits Crater, Then Poses for a Picture.](http://www...."
+subtitle: "Saw this in the newspaper today – “Mars Rover Visits Crater, Then Poses for a Picture."
 category: "538"
 tags: []
 date: "2006-10-07"

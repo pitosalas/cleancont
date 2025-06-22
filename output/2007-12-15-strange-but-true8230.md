@@ -1,6 +1,6 @@
 ---
 title: "Strange but true…"
-subtitle: "Just a curious fact from [Scientific American](http://www.sciam.com/article.cfm?id=strange-but-true-..."
+subtitle: "Just a curious fact from Scientific American"
 category: "298"
 tags: []
 date: "2007-12-15"

@@ -1,6 +1,6 @@
 ---
 title: "TSA: Smokescreening"
-subtitle: "An interesting and fun to read [article in Vanity Fair about the security check procedures](http://w..."
+subtitle: "An interesting and fun to read article in Vanity Fair about the security check procedures"
 category: "1"
 tags: ["615", "1797", "1822", "2038", "2067"]
 date: "2012-01-01"

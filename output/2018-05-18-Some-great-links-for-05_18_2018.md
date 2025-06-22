@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  05/18/2018"
-subtitle: "* [Python Multithreading and Multiprocessing Tutorial](<https://www.toptal.com/python/beginners-guid..."
+subtitle: "* Python Multithreading and Multiprocessing Tutorial"
 category: "uncategorized"
 tags: []
 date: "2018-05-18"

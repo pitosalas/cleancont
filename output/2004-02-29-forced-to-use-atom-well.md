@@ -1,6 +1,6 @@
 ---
 title: "Forced to use Atom. Well,"
-subtitle: "**Forced to use Atom. **Well, it’s happening… My friend [Paul English](http://www.paulenglish.com/) ..."
+subtitle: "**Forced to use Atom. **Well, it’s happening… My friend Paul English ..."
 category: "1"
 tags: []
 date: "2004-02-29"

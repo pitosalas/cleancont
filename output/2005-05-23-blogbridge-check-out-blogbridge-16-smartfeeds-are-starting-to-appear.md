@@ -1,6 +1,6 @@
 ---
 title: "[BLOGBRIDGE] Check out BlogBridge 1.6: SmartFeeds are starting to appear!"
-subtitle: "The latest weekly build has been posted, [BlogBridge](http://www.blogbridge.com/index.html) 1.6. Che..."
+subtitle: "The latest weekly build has been posted, BlogBridge 1.6. Che..."
 category: "50"
 tags: []
 date: "2005-05-23"

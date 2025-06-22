@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Pattern Matching in Ruby"
-subtitle: "[ Introduction to Pattern Matching in Ruby](https://www.toptal.com/ruby/ruby-pattern-matching-tutori..."
+subtitle: "Introduction to Pattern Matching in Ruby"
 category: "389"
 tags: ["1050", "1772"]
 date: "2021-10-13"

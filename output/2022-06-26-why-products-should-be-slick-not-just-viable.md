@@ -1,6 +1,6 @@
 ---
 title: "Why products should be “slick”, not just viable"
-subtitle: "[ Why products should be “slick”, not just viable]( https://herman.bearblog.dev/mvp-vs-slc/)I hate t..."
+subtitle: "Why products should be “slick”, not just viableI hate t..."
 category: "1"
 tags: ["924", "1364", "1497"]
 date: "2022-06-26"

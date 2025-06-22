@@ -1,6 +1,6 @@
 ---
 title: "RSS not yet mainstream?"
-subtitle: "[Another article in the New York Times about RSS:](http://www.nytimes.com/2004/06/03/technology/circ..."
+subtitle: "Another article in the New York Times about RSS:"
 category: "538"
 tags: []
 date: "2004-06-03"

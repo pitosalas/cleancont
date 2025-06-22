@@ -1,6 +1,6 @@
 ---
 title: "STM32 Servo Motor Control With PWM – Servo Library Example Code"
-subtitle: "[ STM32 Servo Motor Control With PWM - Servo Library Example Code](<"
+subtitle: "STM32 Servo Motor Control With PWM - Servo Library Example Code"
 category: "uncategorized"
 tags: []
 date: "2024-01-26"

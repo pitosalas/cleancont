@@ -1,6 +1,6 @@
 ---
 title: "ggerganov/whisper.cpp: Port of OpenAI’s Whisper model in C/C++"
-subtitle: "[ ggerganov/whisper.cpp: Port of OpenAI's Whisper model in C/C++](<"
+subtitle: "ggerganov/whisper.cpp: Port of OpenAI's Whisper model in C/C++"
 category: "uncategorized"
 tags: []
 date: "2022-12-11"

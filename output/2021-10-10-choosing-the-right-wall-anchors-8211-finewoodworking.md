@@ -1,6 +1,6 @@
 ---
 title: "Choosing the right wall anchors – FineWoodworking"
-subtitle: "[ Choosing the right wall anchors – FineWoodworking](https://www.finewoodworking.com/2021/07/19/choo..."
+subtitle: "Choosing the right wall anchors – FineWoodworking"
 category: "12"
 tags: []
 date: "2021-10-10"

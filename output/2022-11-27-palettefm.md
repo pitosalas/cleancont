@@ -1,6 +1,6 @@
 ---
 title: "palette.fm"
-subtitle: "[ palette.fm]( https://palette.fm/?utm_campaign=Recomendo&utm_medium=email&utm_source=Revue%20newsle..."
+subtitle: "palette.fm"
 category: "1"
 tags: ["2311", "2312", "871", "1613"]
 date: "2022-11-27"

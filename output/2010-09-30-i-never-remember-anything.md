@@ -1,6 +1,6 @@
 ---
 title: "I never remember anything"
-subtitle: "Finally [someone writes about something ](http://www.nytimes.com/2010/09/19/books/review/Collins-t.h..."
+subtitle: "Finally someone writes about something"
 category: "298"
 tags: ["725", "1455", "1542"]
 date: "2010-09-30"

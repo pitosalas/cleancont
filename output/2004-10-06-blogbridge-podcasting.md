@@ -1,6 +1,6 @@
 ---
 title: "BlogBridge Podcasting?"
-subtitle: "There’s a site called [IT Conversations](http://www.itconversations.com/) that has a collection of i..."
+subtitle: "There’s a site called IT Conversations that has a collection of i..."
 category: "50"
 tags: []
 date: "2004-10-06"

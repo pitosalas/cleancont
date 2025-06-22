@@ -1,6 +1,6 @@
 ---
 title: "How to setup a virtual desktop on Kubernetes in 15 minutes"
-subtitle: "[ How to setup a virtual desktop on Kubernetes in 15 minutes]( https://medium.com/devops-dudes/how-t..."
+subtitle: "How to setup a virtual desktop on Kubernetes in 15 minutes"
 category: "1"
 tags: ["2179", "1221", "2178", "1347", "2083"]
 date: "2022-07-03"

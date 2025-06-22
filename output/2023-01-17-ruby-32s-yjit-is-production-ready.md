@@ -1,6 +1,6 @@
 ---
 title: "Ruby 3.2’s YJIT is Production-Ready"
-subtitle: "[ Ruby 3.2’s YJIT is Production-Ready]( https://shopify.engineering/ruby-yjit-is-production-ready) –..."
+subtitle: "Ruby 3.2’s YJIT is Production-Ready –..."
 category: "1"
 tags: ["1033", "1605", "1772", "2412"]
 date: "2023-01-17"

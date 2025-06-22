@@ -1,6 +1,6 @@
 ---
 title: "Try these Google Docs Tricks 🪄"
-subtitle: "[ Try these Google Docs Tricks 🪄]( https://wondertools.substack.com/p/gdocs?utm_campaign=Recomendo&u..."
+subtitle: "Try these Google Docs Tricks 🪄"
 category: "1"
 tags: ["871", "1145", "2255", "1221", "2254"]
 date: "2022-09-04"

@@ -1,6 +1,6 @@
 ---
 title: "Mechanical & Wheels – Hands On Ground Robot Design – Robots For Roboticists"
-subtitle: "[ Mechanical & Wheels – Hands On Ground Robot Design – Robots For Roboticists](https://www.robotsfor..."
+subtitle: "Mechanical & Wheels – Hands On Ground Robot Design – Robots For Roboticists"
 category: "237"
 tags: ["937", "1758"]
 date: "2022-04-15"

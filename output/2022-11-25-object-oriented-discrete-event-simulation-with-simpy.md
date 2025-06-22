@@ -1,6 +1,6 @@
 ---
 title: "Object-Oriented Discrete Event Simulation — with SimPy"
-subtitle: "[ Object-Oriented Discrete Event Simulation — with SimPy]( https://link.medium.com/QQPcixGrfvb) –Dis..."
+subtitle: "Object-Oriented Discrete Event Simulation — with SimPy –Dis..."
 category: "1"
 tags: ["2309", "1033", "1221", "2308"]
 date: "2022-11-25"

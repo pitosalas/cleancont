@@ -1,6 +1,6 @@
 ---
 title: "Curaçao Jews Home page"
-subtitle: "[ Curaçao Jews Home page]( https://curacaojews.org) –Learn about the Jews of Curaçao: their rich his..."
+subtitle: "Curaçao Jews Home page –Learn about the Jews of Curaçao: their rich his..."
 category: "1"
 tags: ["900", "1207", "2573", "2571", "2572"]
 date: "2023-09-08"

@@ -1,6 +1,6 @@
 ---
 title: "Enabling & Increasing Raspberry Pi Swap – Neblio"
-subtitle: "[ Enabling & Increasing Raspberry Pi Swap - Neblio](<https://nebl.io/neblio-"
+subtitle: "Enabling & Increasing Raspberry Pi Swap - Neblio"
 category: "uncategorized"
 tags: []
 date: "2022-03-26"

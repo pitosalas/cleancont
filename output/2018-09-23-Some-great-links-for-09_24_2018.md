@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  09/24/2018"
-subtitle: "* [rlabbe/Kalman-and-Bayesian-Filters-in-Python](<https://github.com/rlabbe/Kalman-and-Bayesian-Filt..."
+subtitle: "* rlabbe/Kalman-and-Bayesian-Filters-in-Python"
 category: "uncategorized"
 tags: []
 date: "2018-09-23"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  02/07/2019"
-subtitle: "[Design follows data structures](https://www.tedinski.com/2019/01/29/data-structures-are-fundamental..."
+subtitle: "Design follows data structures"
 category: "301"
 tags: []
 date: "2019-02-06"

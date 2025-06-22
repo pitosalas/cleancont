@@ -1,6 +1,6 @@
 ---
 title: "Futurepedia – The Largest AI Tools Directory | Home"
-subtitle: "[ Futurepedia – The Largest AI Tools Directory | Home]( https://www.futurepedia.io/?utm_campaign=Rec..."
+subtitle: "Futurepedia – The Largest AI Tools Directory | Home"
 category: "1"
 tags: ["611", "2310", "1613"]
 date: "2022-11-27"

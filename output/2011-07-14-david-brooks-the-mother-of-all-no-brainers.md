@@ -1,6 +1,6 @@
 ---
 title: "David Brooks: The Mother of All No-Brainers"
-subtitle: "Another on the mark article by [David Brooks: the mother of all no brainers](http://www.nytimes.com/..."
+subtitle: "Another on the mark article by David Brooks: the mother of all no brainers"
 category: "410"
 tags: ["742", "1542"]
 date: "2011-07-14"

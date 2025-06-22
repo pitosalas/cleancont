@@ -1,6 +1,6 @@
 ---
 title: "Sinatra Forms Params – Learn.co"
-subtitle: "[ Sinatra Forms Params - Learn.co](<https://learn.co/lessons/sinatra-forms-"
+subtitle: "Sinatra Forms Params - Learn.co"
 category: "uncategorized"
 tags: []
 date: "2022-03-10"

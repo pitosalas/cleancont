@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  08/18/2018"
-subtitle: "[thisredone/rb](https://github.com/thisredone/rb?utm_source=hackernewsletter&utm_medium=email&utm_te..."
+subtitle: "thisredone/rb"
 category: "301"
 tags: []
 date: "2018-08-17"

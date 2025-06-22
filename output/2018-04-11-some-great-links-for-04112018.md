@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  04/11/2018"
-subtitle: "[Regexper](https://regexper.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn)"
+subtitle: "Regexper"
 category: "538"
 tags: []
 date: "2018-04-11"

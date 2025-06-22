@@ -1,6 +1,6 @@
 ---
 title: "Python SSH Tutorial"
-subtitle: "[ Python SSH Tutorial](https://www.devdungeon.com/content/python-ssh-tutorial)"
+subtitle: "Python SSH Tutorial"
 category: "249"
 tags: []
 date: "2022-01-01"

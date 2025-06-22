@@ -1,6 +1,6 @@
 ---
 title: "BlogBridge has spiffy new icons."
-subtitle: "**[BlogBridge](http://www.blogbridge.com) has spiffy new icons. **More progress the last week or so,..."
+subtitle: "**BlogBridge has spiffy new icons. **More progress the last week or so,..."
 category: "1"
 tags: []
 date: "2004-03-17"

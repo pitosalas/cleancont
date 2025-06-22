@@ -1,6 +1,6 @@
 ---
 title: "Everything you need to know"
-subtitle: "[ Everything you need to know]( https://docs.google.com/document/d/13SlnXCy8byLDhkqWkcqGjULW0pyCekvl..."
+subtitle: "Everything you need to know"
 category: "1"
 tags: ["957", "2245", "1702", "1740", "2052"]
 date: "2022-08-24"

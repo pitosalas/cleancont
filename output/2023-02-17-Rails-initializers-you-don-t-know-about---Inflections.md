@@ -1,6 +1,6 @@
 ---
 title: "Rails initializers you don’t know about – Inflections"
-subtitle: "[ Rails initializers you don't know about - Inflections](<"
+subtitle: "Rails initializers you don't know about - Inflections"
 category: "uncategorized"
 tags: []
 date: "2023-02-17"

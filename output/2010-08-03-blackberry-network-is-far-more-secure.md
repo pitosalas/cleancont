@@ -1,6 +1,6 @@
 ---
 title: "Blackberry network is far more secure!"
-subtitle: "I never realized this and I am surprised that BlackBerry and Research In Motion advertising have not..."
+subtitle: "I never realized this and I am surprised that BlackBerry and Research In Motion advertising have not..."
 category: "538"
 tags: ["1299"]
 date: "2010-08-03"

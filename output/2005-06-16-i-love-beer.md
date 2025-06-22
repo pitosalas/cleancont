@@ -1,6 +1,6 @@
 ---
 title: "I love beer"
-subtitle: "Ok, but, unlike [Simplebits](http://www.simplebits.com/), this [picture](http://www.rumborak.com/Acc..."
+subtitle: "Ok, but, unlike Simplebits, this picture"
 category: "298"
 tags: []
 date: "2005-06-16"

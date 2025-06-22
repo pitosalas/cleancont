@@ -1,6 +1,6 @@
 ---
 title: "Structuring a Large Production Flask Application"
-subtitle: "[ Structuring a Large Production Flask Application](https://levelup.gitconnected.com/structuring-a-l..."
+subtitle: "Structuring a Large Production Flask Application"
 category: "17"
 tags: []
 date: "2021-07-26"

@@ -1,6 +1,6 @@
 ---
 title: "Netplan network configuration tutorial for beginners – LinuxConfig.org"
-subtitle: "[ Netplan network configuration tutorial for beginners – LinuxConfig.org](https://linuxconfig.org/ne..."
+subtitle: "Netplan network configuration tutorial for beginners – LinuxConfig.org"
 category: "249"
 tags: []
 date: "2021-06-04"

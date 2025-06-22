@@ -1,6 +1,6 @@
 ---
 title: "Security Best Practices for Your Rails Application | AppSignal Blog"
-subtitle: "[ Security Best Practices for Your Rails Application | AppSignal Blog]( https://blog.appsignal.com/2..."
+subtitle: "Security Best Practices for Your Rails Application | AppSignal Blog"
 category: "1"
 tags: ["1181", "1221", "1711", "1822"]
 date: "2022-10-05"

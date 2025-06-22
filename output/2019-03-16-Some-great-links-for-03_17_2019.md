@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  03/17/2019"
-subtitle: "* [Presenting XXH3](<https://fastcompression.blogspot.com/2019/03/presenting-xxh3.html?m=1>)"
+subtitle: "* Presenting XXH3"
 category: "uncategorized"
 tags: []
 date: "2019-03-16"

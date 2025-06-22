@@ -1,6 +1,6 @@
 ---
 title: "One More Thing…"
-subtitle: "Check this post [One More Thing…](http://feedproxy.google.com/~r/Techcrunch/~3/ag8UJf5_HY4/) from [T..."
+subtitle: "Check this post One More Thing… from [T..."
 category: "298"
 tags: []
 date: "2011-08-26"

@@ -1,6 +1,6 @@
 ---
 title: "BlogBridge makes top 10 List!"
-subtitle: "Hey, this is **really cool**. BlogBridge made a [“Top 10 Java Web Start Apps”](http://jroller.com/pa..."
+subtitle: "Hey, this is **really cool**. BlogBridge made a “Top 10 Java Web Start Apps”"
 category: "50"
 tags: []
 date: "2004-10-15"

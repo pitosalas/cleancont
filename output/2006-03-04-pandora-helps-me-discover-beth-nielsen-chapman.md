@@ -1,6 +1,6 @@
 ---
 title: "Pandora helps me discover Beth Nielsen Chapman"
-subtitle: "I’ve experimented with all  kinds of novel music related services and products."
+subtitle: "I’ve experimented with all kinds of novel music related services and products."
 category: "298"
 tags: []
 date: "2006-03-04"

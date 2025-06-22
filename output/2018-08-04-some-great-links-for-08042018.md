@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  08/04/2018"
-subtitle: "[Gobot – Golang framework for robotics, drones, and the Internet of Things (IoT)](https://gobot.io)"
+subtitle: "Gobot – Golang framework for robotics, drones, and the Internet of Things (IoT)"
 category: "538"
 tags: []
 date: "2018-08-04"

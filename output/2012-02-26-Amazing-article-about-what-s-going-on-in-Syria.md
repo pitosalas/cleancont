@@ -1,6 +1,6 @@
 ---
 title: "Amazing article about what’s going on in Syria"
-subtitle: "![MarieColvin](https://i0.wp.com/www.havantchildrensuniversity.co.uk/public/images/logos-"
+subtitle: "!MarieColvin"
 category: "uncategorized"
 tags: []
 date: "2012-02-26"

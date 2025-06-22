@@ -1,6 +1,6 @@
 ---
 title: "5 Programming Languages With the Least Competition Yet Command the Highest Salaries"
-subtitle: "[ 5 Programming Languages With the Least Competition Yet Command the Highest Salaries](https://link...."
+subtitle: "5 Programming Languages With the Least Competition Yet Command the Highest Salaries"
 category: "290"
 tags: ["1318"]
 date: "2022-05-10"

@@ -1,6 +1,6 @@
 ---
 title: "Wouter Klop / BalancingRobot"
-subtitle: "[ Wouter Klop / BalancingRobot](https://gitlab.com/kloppertje/balancingrobot)"
+subtitle: "Wouter Klop / BalancingRobot"
 category: "41"
 tags: ["1135"]
 date: "2022-01-07"

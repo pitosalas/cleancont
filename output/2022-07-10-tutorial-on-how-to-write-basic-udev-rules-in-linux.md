@@ -1,6 +1,6 @@
 ---
 title: "Tutorial on how to write basic udev rules in Linux"
-subtitle: "[ Tutorial on how to write basic udev rules in Linux]( https://linuxconfig.org/tutorial-on-how-to-wr..."
+subtitle: "Tutorial on how to write basic udev rules in Linux"
 category: "1"
 tags: ["1221", "1387", "1716", "2043", "2194", "2195"]
 date: "2022-07-10"

@@ -1,6 +1,6 @@
 ---
 title: "Wooden machines and contraptions"
-subtitle: "[ Wooden machines and contraptions](https://woodgears.ca/machines.html)"
+subtitle: "Wooden machines and contraptions"
 category: "151"
 tags: []
 date: "2022-05-10"

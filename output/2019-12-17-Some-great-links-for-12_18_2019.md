@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  12/18/2019"
-subtitle: "* [Testing Guide](<https://martinfowler.com/testing/?utm_source=Software+Weekly&utm_campaign=6c04d34..."
+subtitle: "* Testing Guide"
 category: "uncategorized"
 tags: []
 date: "2019-12-17"

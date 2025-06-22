@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  04/21/2018"
-subtitle: "* [13 Noteworthy Points from Google’s JavaScript Style Guide](<https://medium.freecodecamp.org/googl..."
+subtitle: "* 13 Noteworthy Points from Google’s JavaScript Style Guide"
 category: "uncategorized"
 tags: []
 date: "2018-04-21"

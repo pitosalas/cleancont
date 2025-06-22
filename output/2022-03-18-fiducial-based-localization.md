@@ -1,6 +1,6 @@
 ---
 title: "Fiducial-Based Localization"
-subtitle: "[ Fiducial-Based Localization](https://learn.ubiquityrobotics.com/fiducials)"
+subtitle: "Fiducial-Based Localization"
 category: "27"
 tags: []
 date: "2022-03-18"

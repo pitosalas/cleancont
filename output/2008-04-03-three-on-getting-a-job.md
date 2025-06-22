@@ -1,6 +1,6 @@
 ---
 title: "Three on getting a job"
-subtitle: "Check this post [Three on getting a job](http://feeds.feedburner.com/~r/NewmarksDoor/~3/261854454/th..."
+subtitle: "Check this post Three on getting a job"
 category: "50"
 tags: []
 date: "2008-04-03"

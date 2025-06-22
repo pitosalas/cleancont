@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  01/29/2021"
-subtitle: "[How to Get a Software Developer Internship](https://link.medium.com/jtrlTwwLpdb)"
+subtitle: "How to Get a Software Developer Internship"
 category: "301"
 tags: []
 date: "2021-01-28"

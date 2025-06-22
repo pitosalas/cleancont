@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  06/11/2020"
-subtitle: "* [CS81 Fall 2017](<https://www.cs.swarthmore.edu/~meeden/cs81/f17/>)"
+subtitle: "* CS81 Fall 2017"
 category: "uncategorized"
 tags: []
 date: "2020-06-10"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  04/24/2019"
-subtitle: "[Microsoft Launches Bosque: An Open Source Programming Language](https://www.technotification.com/20..."
+subtitle: "Microsoft Launches Bosque: An Open Source Programming Language"
 category: "301"
 tags: []
 date: "2019-04-23"

@@ -1,6 +1,6 @@
 ---
 title: "About our credulousness: another great Frank Rich article"
-subtitle: "Another great column from [Frank Rich — Tiger Woods, Person of The Year](http://www.nytimes.com/2009..."
+subtitle: "Another great column from Frank Rich — Tiger Woods, Person of The Year"
 category: "298"
 tags: ["690", "1089", "2003"]
 date: "2010-01-12"

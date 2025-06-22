@@ -1,6 +1,6 @@
 ---
 title: "jrlandau/fiducials-1: Simultaneous localization and mapping using fiducial markers."
-subtitle: "[ jrlandau/fiducials-1: Simultaneous localization and mapping using fiducial markers.](https://githu..."
+subtitle: "jrlandau/fiducials-1: Simultaneous localization and mapping using fiducial markers."
 category: "26"
 tags: ["817"]
 date: "2022-03-29"

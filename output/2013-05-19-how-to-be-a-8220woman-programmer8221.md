@@ -1,6 +1,6 @@
 ---
 title: "How to be a “woman programmer”"
-subtitle: "[How to Be a ‘Woman Programmer’ – NYTimes.com](http://www.nytimes.com/2013/05/19/opinion/sunday/how-..."
+subtitle: "How to Be a ‘Woman Programmer’ – NYTimes.com"
 category: "1"
 tags: ["775", "1517", "1684", "2126"]
 date: "2013-05-19"

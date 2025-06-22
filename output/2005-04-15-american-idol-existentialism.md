@@ -1,6 +1,6 @@
 ---
 title: "American Idol Existentialism"
-subtitle: "For you closet viewers of American Idol ([the TV Show](http://idolonfox.com/)), I thought you’d be a..."
+subtitle: "For you closet viewers of American Idol (the TV Show), I thought you’d be a..."
 category: "298"
 tags: []
 date: "2005-04-15"

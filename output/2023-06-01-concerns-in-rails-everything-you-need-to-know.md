@@ -1,6 +1,6 @@
 ---
 title: "Concerns in Rails: Everything You Need to Know"
-subtitle: "[ Concerns in Rails: Everything You Need to Know]( https://www.akshaykhot.com/how-rails-concerns-wor..."
+subtitle: "Concerns in Rails: Everything You Need to Know"
 category: "1"
 tags: ["2483", "1483", "2481", "2482", "1711", "1772"]
 date: "2023-06-01"

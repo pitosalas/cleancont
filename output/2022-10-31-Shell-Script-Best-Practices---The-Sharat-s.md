@@ -1,6 +1,6 @@
 ---
 title: "Shell Script Best Practices — The Sharat’s"
-subtitle: "[ Shell Script Best Practices — The Sharat's](<"
+subtitle: "Shell Script Best Practices — The Sharat's"
 category: "uncategorized"
 tags: []
 date: "2022-10-31"

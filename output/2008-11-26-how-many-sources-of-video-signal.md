@@ -1,6 +1,6 @@
 ---
 title: "How many sources of video signal?"
-subtitle: "[Netflix has a box to stream video](http://www.roku.com/netflixplayer/) into my living room. TIVO ha..."
+subtitle: "Netflix has a box to stream video into my living room. TIVO ha..."
 category: "538"
 tags: []
 date: "2008-11-26"

@@ -1,6 +1,6 @@
 ---
 title: "The Secret in Building 26"
-subtitle: "Dave writes an enthousiastic review of this book: [The Secret in Building 26](http://davedupre.com/2..."
+subtitle: "Dave writes an enthousiastic review of this book: The Secret in Building 26"
 category: "298"
 tags: []
 date: "2009-02-07"

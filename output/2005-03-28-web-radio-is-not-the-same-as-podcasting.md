@@ -1,6 +1,6 @@
 ---
 title: "Web Radio is not the same as Podcasting"
-subtitle: "[Here’s a really interesting article](http://www.boston.com/business/personaltech/articles/2005/03/2..."
+subtitle: "Here’s a really interesting article"
 category: "51"
 tags: []
 date: "2005-03-28"

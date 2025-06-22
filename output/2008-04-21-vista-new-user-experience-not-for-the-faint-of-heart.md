@@ -1,6 +1,6 @@
 ---
 title: "Vista new user experience not for the faint of heart"
-subtitle: "[![Microsoft Vista new user experience](https://i0.wp.com/s3.media.squarespace.com/production/107572..."
+subtitle: "![Microsoft Vista new user experience"
 category: "298"
 tags: ["2078"]
 date: "2008-04-21"

@@ -1,6 +1,6 @@
 ---
 title: "screencasting – Screen + Voice = demo"
-subtitle: "[Jon Udell](http://weblog.infoworld.com/udell/) [coins a term](http://weblog.infoworld.com/udell/200..."
+subtitle: "Jon Udell coins a term"
 category: "538"
 tags: []
 date: "2005-02-23"

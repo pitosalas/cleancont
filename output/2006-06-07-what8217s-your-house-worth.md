@@ -1,6 +1,6 @@
 ---
 title: "What’s your house worth?"
-subtitle: "If you haven’t seen this, it’s kind of cool. [Zillow](http://www.zillow.com) is a web site that take..."
+subtitle: "If you haven’t seen this, it’s kind of cool. Zillow is a web site that take..."
 category: "298"
 tags: []
 date: "2006-06-07"

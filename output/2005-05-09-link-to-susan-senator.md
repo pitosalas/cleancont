@@ -1,6 +1,6 @@
 ---
 title: "Link to Susan Senator!"
-subtitle: "![Mpwacover300](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/mpwac..."
+subtitle: "!Mpwacover300"
 category: "298"
 tags: []
 date: "2005-05-09"

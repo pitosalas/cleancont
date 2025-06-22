@@ -1,6 +1,6 @@
 ---
 title: "What Can We Learn from Barnes & Noble’s Surprising Turnaround?"
-subtitle: "[ What Can We Learn from Barnes & Noble’s Surprising Turnaround?]( https://tedgioia.substack.com/p/w..."
+subtitle: "What Can We Learn from Barnes & Noble’s Surprising Turnaround?"
 category: "1"
 tags: ["2389", "725", "1428", "2387", "2388", "1931", "2390"]
 date: "2022-12-29"

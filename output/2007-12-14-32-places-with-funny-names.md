@@ -1,6 +1,6 @@
 ---
 title: "32 Places With Funny Names"
-subtitle: "I discovered a new funny blog: it’s the List of Lists blog. For example, check out [this post](http:..."
+subtitle: "I discovered a new funny blog: it’s the List of Lists blog. For example, check out this post"
 category: "298"
 tags: []
 date: "2007-12-14"

@@ -1,6 +1,6 @@
 ---
 title: "The New York Times looks at the Chavez Royal family"
-subtitle: "If you keep up with what’s going on in Venezuela, you might want to check out [this post](http://blo..."
+subtitle: "If you keep up with what’s going on in Venezuela, you might want to check out this post"
 category: "298"
 tags: []
 date: "2007-02-18"

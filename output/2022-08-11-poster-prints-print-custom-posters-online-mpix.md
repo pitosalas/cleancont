@@ -1,6 +1,6 @@
 ---
 title: "Poster Prints | Print Custom Posters Online : Mpix"
-subtitle: "[ Poster Prints | Print Custom Posters Online : Mpix]( https://www.mpix.com/products/homedecor/poste..."
+subtitle: "Poster Prints | Print Custom Posters Online : Mpix"
 category: "1"
 tags: ["2229", "1613", "1653", "2231", "2230", "1836"]
 date: "2022-08-11"

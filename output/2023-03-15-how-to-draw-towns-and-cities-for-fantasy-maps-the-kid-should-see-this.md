@@ -1,6 +1,6 @@
 ---
 title: "How to draw towns and cities for fantasy maps | The Kid Should See This"
-subtitle: "[ How to draw towns and cities for fantasy maps | The Kid Should See This]( https://thekidshouldseet..."
+subtitle: "How to draw towns and cities for fantasy maps | The Kid Should See This"
 category: "1"
 tags: ["654", "937", "968", "1112", "1431", "1433"]
 date: "2023-03-15"

@@ -1,6 +1,6 @@
 ---
 title: "Pop!Tech: why do I feel inadequate?"
-subtitle: "Ok, [Pop!Tech](http://onsite.poptech.org/) is a wonderful conference, already, and I am learning and..."
+subtitle: "Ok, Pop!Tech is a wonderful conference, already, and I am learning and..."
 category: "1"
 tags: []
 date: "2006-10-19"

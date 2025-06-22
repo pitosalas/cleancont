@@ -1,6 +1,6 @@
 ---
 title: "Incogruous"
-subtitle: "[![](https://i0.wp.com/photos29.flickr.com/36772773_19828cc1b6_m.jpg?w=584)](http://www.flickr.com/p..."
+subtitle: "![](http://www.flickr.com/p..."
 category: "1"
 tags: []
 date: "2005-08-24"

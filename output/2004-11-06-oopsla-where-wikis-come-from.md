@@ -1,6 +1,6 @@
 ---
 title: "[OOPSLA] Where Wikis come from"
-subtitle: "I was lucky enough to meet and spend some time with [**Ward Cunningham **](http://c2.com/cgi/wiki?Wa..."
+subtitle: "I was lucky enough to meet and spend some time with **Ward Cunningham **"
 category: "538"
 tags: []
 date: "2004-11-06"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  10/15/2019"
-subtitle: "[6 Ways to Prevent Your Heroku App From Sleeping | Quick Left](https://quickleft.com/blog/6-easy-way..."
+subtitle: "6 Ways to Prevent Your Heroku App From Sleeping | Quick Left"
 category: "301"
 tags: []
 date: "2019-10-14"

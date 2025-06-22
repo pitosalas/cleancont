@@ -1,6 +1,6 @@
 ---
 title: "High speed balancing robot: introduction – Elexperiment.nl"
-subtitle: "[ High speed balancing robot: introduction – Elexperiment.nl](https://elexperiment.nl/2018/11/high-s..."
+subtitle: "High speed balancing robot: introduction – Elexperiment.nl"
 category: "42"
 tags: []
 date: "2022-01-07"

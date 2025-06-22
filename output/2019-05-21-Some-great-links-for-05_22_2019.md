@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  05/22/2019"
-subtitle: "* [Plotly | Make charts and dashboards online](<https://plot.ly/#/>)"
+subtitle: "* Plotly | Make charts and dashboards online"
 category: "uncategorized"
 tags: []
 date: "2019-05-21"

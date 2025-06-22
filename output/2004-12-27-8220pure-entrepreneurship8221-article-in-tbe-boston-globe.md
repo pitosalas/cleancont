@@ -1,6 +1,6 @@
 ---
 title: "“Pure Entrepreneurship” article in tbe Boston Globe"
-subtitle: "[“Pure Entrepeneurs”, according to this article in the Boston Globe,](http://www.boston.com/business..."
+subtitle: "“Pure Entrepeneurs”, according to this article in the Boston Globe,"
 category: "298"
 tags: []
 date: "2004-12-27"

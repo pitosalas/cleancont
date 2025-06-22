@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  12/30/2019"
-subtitle: "[Altair: Declarative Visualization in Python](https://altair-viz.github.io/index.html)"
+subtitle: "Altair: Declarative Visualization in Python"
 category: "301"
 tags: []
 date: "2019-12-29"

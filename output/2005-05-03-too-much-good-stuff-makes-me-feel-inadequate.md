@@ -1,6 +1,6 @@
 ---
 title: "Too much good stuff: makes me feel inadequate :-)"
-subtitle: "[![](https://i0.wp.com/online.wsj.com/public/resources/images/Google1_05042805022005145321.jpg?w=584..."
+subtitle: "!["
 category: "298"
 tags: []
 date: "2005-05-03"

@@ -1,6 +1,6 @@
 ---
 title: "Python behind the scenes #11: how the Python import system works"
-subtitle: "[ Python behind the scenes #11: how the Python import system works](https://tenthousandmeters.com/bl..."
+subtitle: "Python behind the scenes #11: how the Python import system works"
 category: "178"
 tags: []
 date: "2021-07-17"

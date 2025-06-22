@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  12/05/2018"
-subtitle: "[https://link.medium.com/LzL8HArenS](https://link.medium.com/LzL8HArenS)"
+subtitle: "https://link.medium.com/LzL8HArenS"
 category: "301"
 tags: []
 date: "2018-12-04"

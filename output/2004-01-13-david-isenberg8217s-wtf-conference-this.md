@@ -1,6 +1,6 @@
 ---
 title: "David Isenberg’s WTF Conference: This"
-subtitle: "**[David Isenberg’s WTF Conference](http://www.isen.com/blog/archives/2004_01_01_archive.html):** Th..."
+subtitle: "**David Isenberg’s WTF Conference:** Th..."
 category: "1"
 tags: []
 date: "2004-01-13"

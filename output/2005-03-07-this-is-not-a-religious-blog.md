@@ -1,6 +1,6 @@
 ---
 title: "This is not a religious blog"
-subtitle: "I thought [this was an interesting article](http://www.secularhumanism.org/library/fi/dawkins_18_3.h..."
+subtitle: "I thought this was an interesting article"
 category: "298"
 tags: []
 date: "2005-03-07"

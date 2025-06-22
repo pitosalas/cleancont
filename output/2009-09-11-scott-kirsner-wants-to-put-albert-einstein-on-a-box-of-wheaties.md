@@ -1,6 +1,6 @@
 ---
 title: "Scott Kirsner wants to put Albert Einstein on a box of wheaties"
-subtitle: "[This is actually a pretty cool idea](http://www.boston.com/business/technology/innoeco/2009/09/dear..."
+subtitle: "This is actually a pretty cool idea"
 category: "298"
 tags: []
 date: "2009-09-11"

@@ -1,6 +1,6 @@
 ---
 title: "5 Useful jq Commands to Parse JSON on the CLI"
-subtitle: "[ 5 Useful jq Commands to Parse JSON on the CLI](https://www.fabian-keller.de/blog/5-useful-jq-comma..."
+subtitle: "5 Useful jq Commands to Parse JSON on the CLI"
 category: "84"
 tags: []
 date: "2021-08-20"

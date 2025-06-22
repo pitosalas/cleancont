@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  03/02/2019"
-subtitle: "[The Easiest Programming Language To Learn Is… – Codesmith Development](https://codesmithdev.com/the..."
+subtitle: "The Easiest Programming Language To Learn Is… – Codesmith Development"
 category: "301"
 tags: []
 date: "2019-03-01"

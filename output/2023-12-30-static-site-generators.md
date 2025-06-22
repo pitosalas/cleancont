@@ -1,6 +1,6 @@
 ---
 title: "Static Site Generators"
-subtitle: "[ Static Site Generators]( https://www.fullstackpython.com/static-site-generator.html) –A static sit..."
+subtitle: "Static Site Generators –A static sit..."
 category: "1"
 tags: ["717", "2611", "1692", "2610", "2130"]
 date: "2023-12-30"

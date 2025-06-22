@@ -1,6 +1,6 @@
 ---
 title: "It’s Time to Say Goodbye to These Obsolete Python Libraries"
-subtitle: "[ It's Time to Say Goodbye to These Obsolete Python Libraries](<"
+subtitle: "It's Time to Say Goodbye to These Obsolete Python Libraries"
 category: "uncategorized"
 tags: []
 date: "2022-08-13"

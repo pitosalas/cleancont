@@ -1,6 +1,6 @@
 ---
 title: "Gender Equity at Harvard: great article"
-subtitle: "[Harvard Business School Case Study – Gender Equity – NYTimes.com](http://www.nytimes.com/2013/09/08..."
+subtitle: "Harvard Business School Case Study – Gender Equity – NYTimes.com"
 category: "1"
 tags: ["1012", "1124", "1191"]
 date: "2013-09-09"

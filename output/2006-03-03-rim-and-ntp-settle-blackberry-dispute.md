@@ -1,6 +1,6 @@
 ---
 title: "Rim and NTP Settle Blackberry Dispute!"
-subtitle: "From the [Wall Street Journal](http://online.wsj.com/article/SB114142276287788965.html?mod=home_what..."
+subtitle: "From the Wall Street Journal"
 category: "298"
 tags: []
 date: "2006-03-03"

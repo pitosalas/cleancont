@@ -1,6 +1,6 @@
 ---
 title: "BlogBridge Beta 2 is now available to play with"
-subtitle: "Hey, check out our [new and improved web site.](http://www.blogbridge.com) There is lots of new cont..."
+subtitle: "Hey, check out our new and improved web site. There is lots of new cont..."
 category: "50"
 tags: []
 date: "2004-07-10"

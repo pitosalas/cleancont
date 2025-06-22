@@ -1,6 +1,6 @@
 ---
 title: "Add Feature Flags in Ruby on Rails with Flipper | AppSignal Blog"
-subtitle: "[ Add Feature Flags in Ruby on Rails with Flipper | AppSignal Blog](https://blog.appsignal.com/2022/..."
+subtitle: "Add Feature Flags in Ruby on Rails with Flipper | AppSignal Blog"
 category: "184"
 tags: ["1711"]
 date: "2022-06-08"

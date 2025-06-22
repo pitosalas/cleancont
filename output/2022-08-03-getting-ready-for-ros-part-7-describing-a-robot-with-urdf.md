@@ -1,6 +1,6 @@
 ---
 title: "Getting Ready for ROS Part 7: Describing a robot with URDF"
-subtitle: "[ Getting Ready for ROS Part 7: Describing a robot with URDF]( https://articulatedrobotics.xyz/ready..."
+subtitle: "Getting Ready for ROS Part 7: Describing a robot with URDF"
 category: "1"
 tags: ["1221", "1747", "1754", "1755", "2222", "2169"]
 date: "2022-08-03"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  01/18/2019"
-subtitle: "* [101 Bash Commands and Tips for Beginners to Experts](<https://dev.to/awwsmm/101-bash-commands-and..."
+subtitle: "* 101 Bash Commands and Tips for Beginners to Experts"
 category: "uncategorized"
 tags: []
 date: "2019-01-17"

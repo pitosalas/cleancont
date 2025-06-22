@@ -1,6 +1,6 @@
 ---
 title: "The Growth Hacking Playbook: Your Ultimate List of Growth Hack Resources"
-subtitle: "[ The Growth Hacking Playbook: Your Ultimate List of Growth Hack Resources]( https://blog.hubspot.co..."
+subtitle: "The Growth Hacking Playbook: Your Ultimate List of Growth Hack Resources"
 category: "1"
 tags: []
 date: "2022-10-10"

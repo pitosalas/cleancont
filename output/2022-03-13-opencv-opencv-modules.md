@@ -1,6 +1,6 @@
 ---
 title: "OpenCV: OpenCV modules"
-subtitle: "[ OpenCV: OpenCV modules](https://docs.opencv.org/4.x/)"
+subtitle: "OpenCV: OpenCV modules"
 category: "155"
 tags: []
 date: "2022-03-13"

@@ -1,6 +1,6 @@
 ---
 title: "Efficient multi-SONAR with Arduino-like systems – Wimble Robotics"
-subtitle: "[ Efficient multi-SONAR with Arduino-like systems – Wimble Robotics]( https://wimblerobotics.wimble...."
+subtitle: "Efficient multi-SONAR with Arduino-like systems – Wimble Robotics"
 category: "1"
 tags: ["817", "2374", "1221", "1755", "2373"]
 date: "2022-12-23"

@@ -1,6 +1,6 @@
 ---
 title: "rosbot-on-gopigo3/Setup_Ubuntu20.04_64-bit.txt at main · slowrunner/rosbot-on-gopigo3"
-subtitle: "[ rosbot-on-gopigo3/Setup_Ubuntu20.04_64-bit.txt at main · slowrunner/rosbot-on-gopigo3](https://git..."
+subtitle: "rosbot-on-gopigo3/Setup_Ubuntu20.04_64-bit.txt at main · slowrunner/rosbot-on-gopigo3"
 category: "223"
 tags: []
 date: "2021-12-22"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  11/11/2018"
-subtitle: "[Crystal is not Ruby Pt. 2 – Runtime Revolution](https://revs.runtime-revolution.com/crystal-is-not-..."
+subtitle: "Crystal is not Ruby Pt. 2 – Runtime Revolution"
 category: "301"
 tags: []
 date: "2018-11-10"

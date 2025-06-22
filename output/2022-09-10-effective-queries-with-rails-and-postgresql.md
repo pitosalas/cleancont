@@ -1,6 +1,6 @@
 ---
 title: "Effective Queries with Rails and PostgreSQL"
-subtitle: "[ Effective Queries with Rails and PostgreSQL]( https://www.honeybadger.io/blog/rails-postgresql-que..."
+subtitle: "Effective Queries with Rails and PostgreSQL"
 category: "1"
 tags: ["909", "1261", "2256", "1656", "1908"]
 date: "2022-09-10"

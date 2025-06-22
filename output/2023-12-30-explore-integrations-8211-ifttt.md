@@ -1,6 +1,6 @@
 ---
 title: "Explore Integrations – IFTTT"
-subtitle: "[ Explore Integrations – IFTTT]( https://ifttt.com/explore) –Get more from the services you love on ..."
+subtitle: "Explore Integrations – IFTTT –Get more from the services you love on ..."
 category: "1"
 tags: ["2609", "2276"]
 date: "2023-12-30"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  11/02/2019"
-subtitle: "* [PyRobot: An Open Source Robotics Research Platform](<https://github.com/facebookresearch/pyrobot?..."
+subtitle: "* PyRobot: An Open Source Robotics Research Platform"
 category: "uncategorized"
 tags: []
 date: "2019-11-01"

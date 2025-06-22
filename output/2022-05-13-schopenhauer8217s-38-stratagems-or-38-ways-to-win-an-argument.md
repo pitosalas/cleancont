@@ -1,6 +1,6 @@
 ---
 title: "SCHOPENHAUER’S 38 STRATAGEMS, OR 38 WAYS TO WIN AN ARGUMENT"
-subtitle: "[ SCHOPENHAUER’S 38 STRATAGEMS, OR 38 WAYS TO WIN AN ARGUMENT](http://mnei.nl/schopenhauer/38-strata..."
+subtitle: "SCHOPENHAUER’S 38 STRATAGEMS, OR 38 WAYS TO WIN AN ARGUMENT"
 category: "20"
 tags: []
 date: "2022-05-13"

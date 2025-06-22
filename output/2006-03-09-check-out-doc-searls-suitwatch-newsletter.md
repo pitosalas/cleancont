@@ -1,6 +1,6 @@
 ---
 title: "Check out Doc Searls Suitwatch newsletter"
-subtitle: "There are  a few **really good** newsletters that have not moved over to a blog which I read religio..."
+subtitle: "There are a few **really good** newsletters that have not moved over to a blog which I read religio..."
 category: "410"
 tags: []
 date: "2006-03-09"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  01/13/2019"
-subtitle: "* [Scooter startup Bird tried to silence a journalist. It did not go well. – TechCrunch](<https://te..."
+subtitle: "* Scooter startup Bird tried to silence a journalist. It did not go well. – TechCrunch"
 category: "uncategorized"
 tags: []
 date: "2019-01-12"

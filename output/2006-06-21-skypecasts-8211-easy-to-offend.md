@@ -1,6 +1,6 @@
 ---
 title: "Skypecasts – easy to offend?"
-subtitle: "I just discovered [Skypecasts](https://skypecasts.skype.com/skypecasts/home). Cool new (free!) servi..."
+subtitle: "I just discovered Skypecasts. Cool new (free!) servi..."
 category: "538"
 tags: []
 date: "2006-06-21"

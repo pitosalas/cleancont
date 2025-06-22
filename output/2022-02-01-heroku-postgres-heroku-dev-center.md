@@ -1,6 +1,6 @@
 ---
 title: "Heroku Postgres | Heroku Dev Center"
-subtitle: "[ Heroku Postgres | Heroku Dev Center](https://devcenter.heroku.com/articles/heroku-postgresql#shari..."
+subtitle: "Heroku Postgres | Heroku Dev Center"
 category: "113"
 tags: ["1795"]
 date: "2022-02-01"

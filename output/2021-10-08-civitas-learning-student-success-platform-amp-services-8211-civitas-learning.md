@@ -1,6 +1,6 @@
 ---
 title: "Civitas Learning | Student Success Platform & Services – Civitas Learning"
-subtitle: "[ Civitas Learning | Student Success Platform & Services – Civitas Learning](https://www.civitaslear..."
+subtitle: "Civitas Learning | Student Success Platform & Services – Civitas Learning"
 category: "129"
 tags: ["1368"]
 date: "2021-10-08"

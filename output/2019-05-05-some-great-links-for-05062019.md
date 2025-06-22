@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  05/06/2019"
-subtitle: "[How to Schedule Cron Jobs in Ruby With the Whenever Gem](https://www.rubyguides.com/2019/04/ruby-wh..."
+subtitle: "How to Schedule Cron Jobs in Ruby With the Whenever Gem"
 category: "301"
 tags: []
 date: "2019-05-05"

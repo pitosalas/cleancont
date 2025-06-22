@@ -1,6 +1,6 @@
 ---
 title: "Virtual Cable takes your GPS and raises you a heads-up display"
-subtitle: "This is really cool! Check out [this post](http://feeds.autoblog.com/~r/weblogsinc/autoblog/~3/20244..."
+subtitle: "This is really cool! Check out this post"
 category: "50"
 tags: []
 date: "2008-02-04"

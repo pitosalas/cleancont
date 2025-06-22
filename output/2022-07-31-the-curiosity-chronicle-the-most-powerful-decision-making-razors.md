@@ -1,6 +1,6 @@
 ---
 title: "The Curiosity Chronicle | The Most Powerful Decision Making Razors"
-subtitle: "[ The Curiosity Chronicle | The Most Powerful Decision Making Razors]( https://www.sahilbloom.com/ne..."
+subtitle: "The Curiosity Chronicle | The Most Powerful Decision Making Razors"
 category: "1"
 tags: ["928", "929", "1221", "2217", "1780"]
 date: "2022-07-31"

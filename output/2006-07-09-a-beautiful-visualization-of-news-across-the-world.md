@@ -1,6 +1,6 @@
 ---
 title: "A beautiful visualization of news across the world"
-subtitle: "[![](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/images/Picture%2..."
+subtitle: "!["
 category: "538"
 tags: []
 date: "2006-07-09"

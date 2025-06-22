@@ -1,6 +1,6 @@
 ---
 title: "Who has a  life?"
-subtitle: "As you might have seen over at our **[BlogBridge blog](http://www.blogbridge.com/)**, we are experim..."
+subtitle: "As you might have seen over at our **BlogBridge blog**, we are experim..."
 category: "50"
 tags: []
 date: "2005-08-13"

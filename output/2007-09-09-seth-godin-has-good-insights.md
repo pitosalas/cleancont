@@ -1,6 +1,6 @@
 ---
 title: "Seth Godin has good insights"
-subtitle: "Check out [this post](http://feeds.feedburner.com/~r/typepad/sethsmainblog/~3/153853886/how-to-spend..."
+subtitle: "Check out this post"
 category: "298"
 tags: []
 date: "2007-09-09"

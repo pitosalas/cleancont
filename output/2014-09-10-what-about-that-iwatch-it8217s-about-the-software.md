@@ -1,6 +1,6 @@
 ---
 title: "What about that iWatch? It’s about the Software!"
-subtitle: "I’ve seen commentary that it’s [“disappointingly familiar”](https://twitter.com/tomgara/status/50941..."
+subtitle: "I’ve seen commentary that it’s “disappointingly familiar”"
 category: "1"
 tags: ["642", "937"]
 date: "2014-09-10"

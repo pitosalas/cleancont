@@ -1,6 +1,6 @@
 ---
 title: "How come no-one has invented this yet :?"
-subtitle: "I write a lot of emails and IMs with smileys  🙂 and big smileys 😀 in them. It’s very effective. But ..."
+subtitle: "I write a lot of emails and IMs with smileys 🙂 and big smileys 😀 in them. It’s very effective. But ..."
 category: "298"
 tags: []
 date: "2006-02-02"

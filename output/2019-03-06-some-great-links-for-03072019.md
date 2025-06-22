@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  03/07/2019"
-subtitle: "[Optimize animated GIF](https://ezgif.com/optimize/ezgif-5-bca12753301f.gif)"
+subtitle: "Optimize animated GIF"
 category: "301"
 tags: []
 date: "2019-03-06"

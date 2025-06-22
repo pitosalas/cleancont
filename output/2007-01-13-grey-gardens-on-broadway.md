@@ -1,6 +1,6 @@
 ---
 title: "Grey Gardens, on broadway"
-subtitle: "Here’s a [show with a plot that](http://www.greygardensthemusical.com/) is quite unusual, set as a m..."
+subtitle: "Here’s a show with a plot that is quite unusual, set as a m..."
 category: "298"
 tags: []
 date: "2007-01-13"

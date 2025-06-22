@@ -1,6 +1,6 @@
 ---
 title: "Opinion | The Alt-Right Manipulated My Comic. Then A.I. Claimed It."
-subtitle: "[ Opinion | The Alt-Right Manipulated My Comic. Then A.I. Claimed It.]( https://www.nytimes.com/2022..."
+subtitle: "Opinion | The Alt-Right Manipulated My Comic. Then A.I. Claimed It."
 category: "1"
 tags: ["654", "655", "2340", "889", "1542", "2342"]
 date: "2023-01-02"

@@ -1,6 +1,6 @@
 ---
 title: "Little children’s drawings turned into art – COOL!"
-subtitle: "Check [this link out, there are lots of really fun drawings](http://www.linkinn.com/wiki_101.php?add..."
+subtitle: "Check this link out, there are lots of really fun drawings"
 category: "298"
 tags: ["654", "968"]
 date: "2010-08-11"

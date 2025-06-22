@@ -1,6 +1,6 @@
 ---
 title: "Docker on MacOS is slow and how to fix it · Paolo Mainardi"
-subtitle: "[ Docker on MacOS is slow and how to fix it · Paolo Mainardi]( https://www.paolomainardi.com/posts/d..."
+subtitle: "Docker on MacOS is slow and how to fix it · Paolo Mainardi"
 category: "1"
 tags: ["956", "1221", "1415", "1605"]
 date: "2023-01-08"

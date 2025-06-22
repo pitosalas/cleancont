@@ -1,6 +1,6 @@
 ---
 title: "ActivityPub RFC"
-subtitle: "[ ActivityPub RFC]( https://avdi.codes/?ns_url=12B&mid=3695) –The ActivityPub protocol is a decentra..."
+subtitle: "ActivityPub RFC –The ActivityPub protocol is a decentra..."
 category: "1"
 tags: ["2415", "2284", "2416", "2417"]
 date: "2023-01-28"

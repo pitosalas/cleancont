@@ -1,6 +1,6 @@
 ---
 title: "Ruby 3.2 runtime now available in AWS Lambda | Amazon Web Services"
-subtitle: "[ Ruby 3.2 runtime now available in AWS Lambda | Amazon Web Services]( https://aws.amazon.com/blogs/..."
+subtitle: "Ruby 3.2 runtime now available in AWS Lambda | Amazon Web Services"
 category: "1"
 tags: ["604", "679", "2486", "1772"]
 date: "2023-06-08"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  11/19/2018"
-subtitle: "* [harelba/q](<https://github.com/harelba/q>)"
+subtitle: "* harelba/q"
 category: "uncategorized"
 tags: []
 date: "2018-11-18"

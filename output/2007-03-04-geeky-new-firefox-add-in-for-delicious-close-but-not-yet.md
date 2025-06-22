@@ -1,6 +1,6 @@
 ---
 title: "[GEEKY] New FireFox add-in for del.icio.us close but not yet"
-subtitle: "I was glad to see that the [FireFox add-in for del.icio.us](https://addons.mozilla.org/firefox/3615/..."
+subtitle: "I was glad to see that the FireFox add-in for del.icio.us"
 category: "538"
 tags: []
 date: "2007-03-04"

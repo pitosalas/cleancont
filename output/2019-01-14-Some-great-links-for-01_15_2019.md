@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  01/15/2019"
-subtitle: "* [CSS doesn’t suck - Andy Bell](<https://andy-bell.design/wrote/css-doesnt-suck/>)"
+subtitle: "* CSS doesn’t suck - Andy Bell"
 category: "uncategorized"
 tags: []
 date: "2019-01-14"

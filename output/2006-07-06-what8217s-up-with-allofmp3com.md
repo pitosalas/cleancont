@@ -1,6 +1,6 @@
 ---
 title: "What’s up with AllofMP3.com?"
-subtitle: "I was probably the last one to hear about [AllofMp3.com](http://www.allofmp3.com/). It’s this massiv..."
+subtitle: "I was probably the last one to hear about AllofMp3.com. It’s this massiv..."
 category: "298"
 tags: []
 date: "2006-07-06"

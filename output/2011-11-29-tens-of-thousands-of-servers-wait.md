@@ -1,6 +1,6 @@
 ---
 title: "Tens of Thousands of Servers. Wait."
-subtitle: "Just one phrase that jumped out of the [new missive from Zuck about privacy:](http://blog.facebook.c..."
+subtitle: "Just one phrase that jumped out of the new missive from Zuck about privacy:"
 category: "1"
 tags: ["1037", "1793", "1835", "1979", "2103"]
 date: "2011-11-29"

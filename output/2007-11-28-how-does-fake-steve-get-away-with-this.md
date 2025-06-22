@@ -1,6 +1,6 @@
 ---
 title: "How does Fake Steve get away with this?"
-subtitle: "Everyone by now has heard that the Diary of [Fake Steve Jobs is actually written](http://tech.monste..."
+subtitle: "Everyone by now has heard that the Diary of Fake Steve Jobs is actually written"
 category: "298"
 tags: []
 date: "2007-11-28"

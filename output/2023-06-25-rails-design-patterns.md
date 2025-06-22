@@ -1,6 +1,6 @@
 ---
 title: "Rails design patterns"
-subtitle: "[ Rails design patterns](https://rubyhero.dev/rails-design-patterns-the-big-picture) –This article i..."
+subtitle: "Rails design patterns –This article i..."
 category: "1"
 tags: ["1033", "1221", "2507", "1597", "2508", "1711"]
 date: "2023-06-25"

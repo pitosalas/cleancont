@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  03/08/2020"
-subtitle: "* [Integrate Bootstrap 4 and Font Awesome 5 in Rails 6](<https://medium.com/swlh/integrate-bootstrap..."
+subtitle: "* Integrate Bootstrap 4 and Font Awesome 5 in Rails 6"
 category: "uncategorized"
 tags: []
 date: "2020-03-07"

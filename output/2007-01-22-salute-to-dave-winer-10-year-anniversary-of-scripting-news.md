@@ -1,6 +1,6 @@
 ---
 title: "Salute to Dave Winer: 10 Year Anniversary of Scripting news"
-subtitle: "Check out [this post](http://www.scripting.com/2007/01/21.html#timeFliesWhenYoureHavingFun) from [Sc..."
+subtitle: "Check out this post from [Sc..."
 category: "51"
 tags: []
 date: "2007-01-22"

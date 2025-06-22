@@ -1,6 +1,6 @@
 ---
 title: "karpathy/nanoGPT: The simplest, fastest repository for training/finetuning medium-sized GPTs."
-subtitle: "[ karpathy/nanoGPT: The simplest, fastest repository for training/finetuning medium-sized GPTs.]( ht..."
+subtitle: "karpathy/nanoGPT: The simplest, fastest repository for training/finetuning medium-sized GPTs."
 category: "1"
 tags: ["2340", "817", "2399", "1221"]
 date: "2023-01-11"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  06/04/2020"
-subtitle: "[The Unreasonable Effectiveness of Method Chaining in Pandas](https://link.medium.com/1gv9kHV606)"
+subtitle: "The Unreasonable Effectiveness of Method Chaining in Pandas"
 category: "301"
 tags: []
 date: "2020-06-03"

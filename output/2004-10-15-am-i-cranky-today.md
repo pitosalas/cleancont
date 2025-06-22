@@ -1,6 +1,6 @@
 ---
 title: "Am I cranky today?"
-subtitle: "Here I go again, picking a out quote from a [blogger who I really like ](http://scoble.weblogs.com/)..."
+subtitle: "Here I go again, picking a out quote from a blogger who I really like ..."
 category: "538"
 tags: []
 date: "2004-10-15"

@@ -1,6 +1,6 @@
 ---
 title: "Get Started with Hotwire in Your Ruby on Rails App | AppSignal Blog"
-subtitle: "[ Get Started with Hotwire in Your Ruby on Rails App | AppSignal Blog]( https://blog.appsignal.com/2..."
+subtitle: "Get Started with Hotwire in Your Ruby on Rails App | AppSignal Blog"
 category: "1"
 tags: ["2185", "1221", "1311", "1711", "2186"]
 date: "2022-07-07"

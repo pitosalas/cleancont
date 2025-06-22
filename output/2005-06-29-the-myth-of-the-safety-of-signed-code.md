@@ -1,6 +1,6 @@
 ---
 title: "The myth of the safety of signed code"
-subtitle: "This is **commonly accepted wisdom**: When I download and install an application on my computer (any..."
+subtitle: "This is **commonly accepted wisdom**: When I download and install an application on my computer (any..."
 category: "538"
 tags: []
 date: "2005-06-29"

@@ -1,6 +1,6 @@
 ---
 title: "Center Cam Standard Package"
-subtitle: "[ Center Cam Standard Package](https://thecentercam.com/products/center-cam-standard-package) –Cente..."
+subtitle: "Center Cam Standard Package –Cente..."
 category: "1"
 tags: ["765", "871", "2511", "2149"]
 date: "2023-06-25"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  10/07/2019"
-subtitle: "[SQL queries don’t start with SELECT – Julia Evans](https://jvns.ca/blog/2019/10/03/sql-queries-don-..."
+subtitle: "SQL queries don’t start with SELECT – Julia Evans"
 category: "301"
 tags: []
 date: "2019-10-06"

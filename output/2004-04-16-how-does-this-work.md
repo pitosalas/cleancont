@@ -1,6 +1,6 @@
 ---
 title: "How does this work?"
-subtitle: "[Office XP for $59.95!](http://allofoem.biz/)"
+subtitle: "Office XP for $59.95!"
 category: "538"
 tags: []
 date: "2004-04-16"

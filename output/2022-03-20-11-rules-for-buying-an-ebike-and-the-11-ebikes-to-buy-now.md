@@ -1,6 +1,6 @@
 ---
 title: "11 rules for buying an ebike, and the 11 ebikes to buy now"
-subtitle: "[ 11 rules for buying an ebike, and the 11 ebikes to buy now](https://ryanj.substack.com/p/ebikes?s=..."
+subtitle: "11 rules for buying an ebike, and the 11 ebikes to buy now"
 category: "159"
 tags: ["992", "1853"]
 date: "2022-03-20"

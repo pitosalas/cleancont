@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  09/16/2019"
-subtitle: "* [Ganbreeder](<http://www.artbreeder.com/models>)"
+subtitle: "* Ganbreeder"
 category: "uncategorized"
 tags: []
 date: "2019-09-15"

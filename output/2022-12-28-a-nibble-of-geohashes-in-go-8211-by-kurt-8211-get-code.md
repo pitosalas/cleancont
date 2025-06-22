@@ -1,6 +1,6 @@
 ---
 title: "A Nibble of Geohashes in Go – by Kurt – Get Code"
-subtitle: "[ A Nibble of Geohashes in Go – by Kurt – Get Code]( https://getcode.substack.com/p/a-nibble-of-geoh..."
+subtitle: "A Nibble of Geohashes in Go – by Kurt – Get Code"
 category: "1"
 tags: ["619", "1033", "2384", "2386", "2385", "1221", "1355"]
 date: "2022-12-28"

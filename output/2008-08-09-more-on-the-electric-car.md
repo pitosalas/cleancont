@@ -1,6 +1,6 @@
 ---
 title: "More on the Electric Car"
-subtitle: "After an [interesting comment](/2008/08/06/who-killed-the-electric-car-and-why-wikipedia-is-great/#c..."
+subtitle: "After an interesting comment"
 category: "298"
 tags: []
 date: "2008-08-09"

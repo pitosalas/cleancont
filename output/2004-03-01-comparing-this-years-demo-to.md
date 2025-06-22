@@ -1,6 +1,6 @@
 ---
 title: "Comparing this years Demo to"
-subtitle: "**Comparing this years Demo to previous years (Demo 2004 Series – 7A)  **As I’ve been writing these ..."
+subtitle: "**Comparing this years Demo to previous years (Demo 2004 Series – 7A) **As I’ve been writing these ..."
 category: "1"
 tags: []
 date: "2004-03-01"

@@ -1,6 +1,6 @@
 ---
 title: "[GEEK] OPML Camp was a lot of fun!"
-subtitle: "[OPML Camp](http://www.opmlcamp.com/) was yesterday and today, so it’s over now. We had **good atten..."
+subtitle: "OPML Camp was yesterday and today, so it’s over now. We had **good atten..."
 category: "538"
 tags: []
 date: "2006-05-22"

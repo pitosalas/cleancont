@@ -1,6 +1,6 @@
 ---
 title: "Dan Bricklin doing some interesting podcasting"
-subtitle: "I just came off listening to [Dan Bricklin’s first podcast, an interview with Linda Hamel](http://ww..."
+subtitle: "I just came off listening to Dan Bricklin’s first podcast, an interview with Linda Hamel"
 category: "298"
 tags: []
 date: "2005-06-04"

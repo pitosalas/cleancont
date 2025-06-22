@@ -1,6 +1,6 @@
 ---
 title: "Birdhouse Dimensions and Sizes"
-subtitle: "[ Birdhouse Dimensions and Sizes](https://www.thespruce.com/bird-house-dimensions-385662)"
+subtitle: "Birdhouse Dimensions and Sizes"
 category: "47"
 tags: []
 date: "2021-05-28"

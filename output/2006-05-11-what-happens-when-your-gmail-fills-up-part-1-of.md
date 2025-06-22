@@ -1,6 +1,6 @@
 ---
 title: "What happens when your GMail fills up? (Part 1 of ?)"
-subtitle: "![Picture 1-33](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/image..."
+subtitle: "!Picture 1-33"
 category: "298"
 tags: []
 date: "2006-05-11"

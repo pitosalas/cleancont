@@ -1,6 +1,6 @@
 ---
 title: "The 7 deadly sins and 10 lessons of a failed startup"
-subtitle: "Check this post [The 7 deadly sins and 10 lessons of a failed startup](http://feeds.feedburner.com/~..."
+subtitle: "Check this post The 7 deadly sins and 10 lessons of a failed startup"
 category: "298"
 tags: ["963", "1918"]
 date: "2009-02-04"

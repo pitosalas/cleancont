@@ -1,6 +1,6 @@
 ---
 title: "Swallow Boathouse – Wikipedia"
-subtitle: "[ Swallow Boathouse - Wikipedia](<"
+subtitle: "Swallow Boathouse - Wikipedia"
 category: "uncategorized"
 tags: []
 date: "2023-08-22"

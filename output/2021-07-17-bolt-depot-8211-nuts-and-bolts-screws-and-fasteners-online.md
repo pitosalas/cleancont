@@ -1,6 +1,6 @@
 ---
 title: "Bolt Depot – Nuts and Bolts, Screws and Fasteners online"
-subtitle: "[ Bolt Depot – Nuts and Bolts, Screws and Fasteners online](https://www.boltdepot.com/)"
+subtitle: "Bolt Depot – Nuts and Bolts, Screws and Fasteners online"
 category: "182"
 tags: ["1853"]
 date: "2021-07-17"

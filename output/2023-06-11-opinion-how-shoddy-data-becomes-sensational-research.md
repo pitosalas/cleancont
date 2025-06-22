@@ -1,6 +1,6 @@
 ---
 title: "Opinion | How Shoddy Data Becomes Sensational Research"
-subtitle: "[ Opinion | How Shoddy Data Becomes Sensational Research]( https://www.chronicle.com/article/how-sho..."
+subtitle: "Opinion | How Shoddy Data Becomes Sensational Research"
 category: "1"
 tags: ["2489", "2487", "2488", "1800", "1920"]
 date: "2023-06-11"

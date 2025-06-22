@@ -1,6 +1,6 @@
 ---
 title: "Going to college?"
-subtitle: "Having someone in the family who applied to college (and got in) I really [appreciate this article](..."
+subtitle: "Having someone in the family who applied to college (and got in) I really appreciate this article"
 category: "1"
 tags: []
 date: "2004-03-30"

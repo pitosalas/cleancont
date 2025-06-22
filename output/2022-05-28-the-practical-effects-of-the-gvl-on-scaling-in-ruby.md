@@ -1,6 +1,6 @@
 ---
 title: "The Practical Effects of the GVL on Scaling in Ruby"
-subtitle: "[ The Practical Effects of the GVL on Scaling in Ruby](https://www.speedshop.co/2020/05/11/the-ruby-..."
+subtitle: "The Practical Effects of the GVL on Scaling in Ruby"
 category: "249"
 tags: ["1772"]
 date: "2022-05-28"

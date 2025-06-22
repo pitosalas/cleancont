@@ -1,6 +1,6 @@
 ---
 title: "Laurence Tratt: How Might Generative AI Change Programming?"
-subtitle: "[ Laurence Tratt: How Might Generative AI Change Programming?]( https://tratt.net/laurie/blog/2022/h..."
+subtitle: "Laurence Tratt: How Might Generative AI Change Programming?"
 category: "1"
 tags: ["2340", "2364", "1033", "1684"]
 date: "2022-12-15"

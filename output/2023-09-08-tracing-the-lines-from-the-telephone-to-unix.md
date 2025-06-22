@@ -1,6 +1,6 @@
 ---
 title: "Tracing the Lines: From the Telephone to Unix"
-subtitle: "[ Tracing the Lines: From the Telephone to Unix]( https://www.deusinmachina.net/p/history-of-unix?r=..."
+subtitle: "Tracing the Lines: From the Telephone to Unix"
 category: "1"
 tags: ["1207", "2383", "2223"]
 date: "2023-09-08"

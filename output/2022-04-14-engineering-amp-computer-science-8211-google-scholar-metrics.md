@@ -1,6 +1,6 @@
 ---
 title: "Engineering & Computer Science – Google Scholar Metrics"
-subtitle: "[ Engineering & Computer Science – Google Scholar Metrics](https://scholar.google.com/citations?view..."
+subtitle: "Engineering & Computer Science – Google Scholar Metrics"
 category: "100"
 tags: ["843", "1740"]
 date: "2022-04-14"

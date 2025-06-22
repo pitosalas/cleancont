@@ -1,6 +1,6 @@
 ---
 title: "It’s not all love and kisses"
-subtitle: "We all love [Wikipedia](http://www.wikipedia.org/) – I know I do. I’ve sung it’s praises to lots of ..."
+subtitle: "We all love Wikipedia – I know I do. I’ve sung it’s praises to lots of ..."
 category: "298"
 tags: []
 date: "2005-10-24"

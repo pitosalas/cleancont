@@ -1,6 +1,6 @@
 ---
 title: "Living in 3d? So here"
-subtitle: "**Living in 3d? **So [here are these really cool 3D Mars Pictures](http://marsrovers.jpl.nasa.gov/ga..."
+subtitle: "**Living in 3d? **So here are these really cool 3D Mars Pictures"
 category: "298"
 tags: []
 date: "2004-01-16"

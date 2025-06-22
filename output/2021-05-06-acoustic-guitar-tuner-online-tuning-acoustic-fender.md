@@ -1,6 +1,6 @@
 ---
 title: "Acoustic Guitar Tuner Online | Tuning Acoustic | Fender"
-subtitle: "[ Acoustic Guitar Tuner Online | Tuning Acoustic | Fender](https://www.fender.com/online-guitar-tune..."
+subtitle: "Acoustic Guitar Tuner Online | Tuning Acoustic | Fender"
 category: "6"
 tags: []
 date: "2021-05-06"

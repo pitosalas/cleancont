@@ -1,6 +1,6 @@
 ---
 title: "Had enough yet?"
-subtitle: "Hard to believe [what we are hearing these days](http://www.csmonitor.com/2004/0510/dailyUpdate.html..."
+subtitle: "Hard to believe what we are hearing these days"
 category: "410"
 tags: []
 date: "2004-05-11"

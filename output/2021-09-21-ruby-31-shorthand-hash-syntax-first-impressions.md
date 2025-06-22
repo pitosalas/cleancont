@@ -1,6 +1,6 @@
 ---
 title: "Ruby 3.1 – Shorthand Hash Syntax – First Impressions"
-subtitle: "[ Ruby 3.1 – Shorthand Hash Syntax – First Impressions](https://dev.to/baweaver/ruby-3-1-shorthand-h..."
+subtitle: "Ruby 3.1 – Shorthand Hash Syntax – First Impressions"
 category: "239"
 tags: ["1772"]
 date: "2021-09-21"

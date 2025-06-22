@@ -1,6 +1,6 @@
 ---
 title: "How to diagnose and control login and background items"
-subtitle: "[ How to diagnose and control login and background items](https://eclecticlight.co/2023/07/04/how-to..."
+subtitle: "How to diagnose and control login and background items"
 category: "1"
 tags: ["811", "1415", "1917"]
 date: "2023-07-06"

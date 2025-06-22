@@ -1,6 +1,6 @@
 ---
 title: "[EDUCATION] Booting up experienced technical talent who have dated skills"
-subtitle: "As you may know, I’ve been working on launching [**Bootup Academy**](http://www.webbootup.com/), whi..."
+subtitle: "As you may know, I’ve been working on launching **Bootup Academy**, whi..."
 category: "1"
 tags: ["728", "987", "1204", "1542"]
 date: "2012-06-29"

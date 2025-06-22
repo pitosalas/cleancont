@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  03/24/2019"
-subtitle: "[Redis streams as a pure data structure](http://antirez.com/news/128)"
+subtitle: "Redis streams as a pure data structure"
 category: "301"
 tags: []
 date: "2019-03-23"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  03/02/2020"
-subtitle: "[Google Interviewing Process for Software Developer Role in 2020 / Habr](https://habr.com/en/post/48..."
+subtitle: "Google Interviewing Process for Software Developer Role in 2020 / Habr"
 category: "301"
 tags: []
 date: "2020-03-01"

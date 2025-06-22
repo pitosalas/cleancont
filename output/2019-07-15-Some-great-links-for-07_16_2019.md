@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  07/16/2019"
-subtitle: "* [Linux Applications Performance: Introduction - Unixism](<https://unixism.net/2019/04/linux-applic..."
+subtitle: "* Linux Applications Performance: Introduction - Unixism"
 category: "uncategorized"
 tags: []
 date: "2019-07-15"

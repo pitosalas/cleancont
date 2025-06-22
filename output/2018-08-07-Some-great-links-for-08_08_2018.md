@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  08/08/2018"
-subtitle: "* [Javalin - A lightweight Java and Kotlin web framework](<https://javalin.io>)"
+subtitle: "* Javalin - A lightweight Java and Kotlin web framework"
 category: "uncategorized"
 tags: []
 date: "2018-08-07"

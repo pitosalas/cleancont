@@ -1,6 +1,6 @@
 ---
 title: "Why don’t you check your email?"
-subtitle: "A [very interesting piece](http://www.zephoria.org/thoughts/archives/2004/10/10/a_culture_of_feeds_s..."
+subtitle: "A very interesting piece"
 category: "538"
 tags: []
 date: "2004-10-13"

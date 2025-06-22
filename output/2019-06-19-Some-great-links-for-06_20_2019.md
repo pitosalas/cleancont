@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  06/20/2019"
-subtitle: "* [Behavior trees for AI: How they work](<https://www.gamasutra.com/blogs/ChrisSimpson/20140717/2213..."
+subtitle: "* Behavior trees for AI: How they work"
 category: "uncategorized"
 tags: []
 date: "2019-06-19"

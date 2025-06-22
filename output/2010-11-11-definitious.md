@@ -1,6 +1,6 @@
 ---
 title: "Definitious"
-subtitle: "Check out this [cool site developed](http://definitious.com) by some Brandeis students who participa..."
+subtitle: "Check out this cool site developed by some Brandeis students who participa..."
 category: "298"
 tags: []
 date: "2010-11-11"

@@ -1,6 +1,6 @@
 ---
 title: "Arches National Park"
-subtitle: "[![](https://i0.wp.com/static.flickr.com/103/253258189_be81f2e2a8_m.jpg?w=584)](http://www.flickr.co..."
+subtitle: "![](http://www.flickr.co..."
 category: "298"
 tags: []
 date: "2006-10-16"

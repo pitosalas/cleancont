@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  05/16/2018"
-subtitle: "* [Weekly Command: managing processes with htop](<https://monades.roperzh.com/weekly-command-managin..."
+subtitle: "* Weekly Command: managing processes with htop"
 category: "uncategorized"
 tags: []
 date: "2018-05-16"

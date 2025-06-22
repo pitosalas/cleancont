@@ -1,6 +1,6 @@
 ---
 title: "First useful info from Twitter for me :)"
-subtitle: "After sending an email to [Terroir Coffee](http://www.terroircoffee.com/) asking them to explain the..."
+subtitle: "After sending an email to Terroir Coffee asking them to explain the..."
 category: "298"
 tags: ["820", "1129", "1985"]
 date: "2009-12-07"

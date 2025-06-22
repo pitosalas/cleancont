@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  02/16/2019"
-subtitle: "[What’s coming to Rails 6.0? – Ruby Inside – Medium](https://medium.com/rubyinside/whats-coming-to-r..."
+subtitle: "What’s coming to Rails 6.0? – Ruby Inside – Medium"
 category: "301"
 tags: []
 date: "2019-02-15"

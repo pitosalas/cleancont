@@ -1,6 +1,6 @@
 ---
 title: "Amazing story about Virginia Postrel’s kidney"
-subtitle: "This is a [dramatic and well told story of one patient’s patient search for a kidney donor. ](http:/..."
+subtitle: "This is a dramatic and well told story of one patient’s patient search for a kidney donor."
 category: "298"
 tags: []
 date: "2008-02-09"

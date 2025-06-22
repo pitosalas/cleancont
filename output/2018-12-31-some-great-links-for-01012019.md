@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  01/01/2019"
-subtitle: "[Rethinking how we interview in Microsoft’s Developer Division](https://blog.usejournal.com/rethinki..."
+subtitle: "Rethinking how we interview in Microsoft’s Developer Division"
 category: "301"
 tags: []
 date: "2018-12-31"

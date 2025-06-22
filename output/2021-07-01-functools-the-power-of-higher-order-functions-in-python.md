@@ -1,6 +1,6 @@
 ---
 title: "Functools — The Power of Higher-Order Functions in Python"
-subtitle: "[ Functools — The Power of Higher-Order Functions in Python](https://link.medium.com/IEmqKFMjyhb)"
+subtitle: "Functools — The Power of Higher-Order Functions in Python"
 category: "178"
 tags: []
 date: "2021-07-01"

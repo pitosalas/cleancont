@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  11/18/2018"
-subtitle: "* [Fast line-following robots part 1: control](<https://www.a1k0n.net/2018/11/13/fast-line-following..."
+subtitle: "* Fast line-following robots part 1: control"
 category: "uncategorized"
 tags: []
 date: "2018-11-17"

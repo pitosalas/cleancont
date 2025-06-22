@@ -1,6 +1,6 @@
 ---
 title: "Late night funny"
-subtitle: "Ok so I am getting ready to wrap up and came [across this fun tool ](http://www.churchsigngenerator...."
+subtitle: "Ok so I am getting ready to wrap up and came across this fun tool"
 category: "1"
 tags: []
 date: "2006-10-18"

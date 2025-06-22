@@ -1,6 +1,6 @@
 ---
 title: "PyImageSearch University Courses: You can master Computer Vision, Deep Learning, and OpenCV"
-subtitle: "[ PyImageSearch University Courses: You can master Computer Vision, Deep Learning, and OpenCV](https..."
+subtitle: "PyImageSearch University Courses: You can master Computer Vision, Deep Learning, and OpenCV"
 category: "116"
 tags: []
 date: "2022-03-18"

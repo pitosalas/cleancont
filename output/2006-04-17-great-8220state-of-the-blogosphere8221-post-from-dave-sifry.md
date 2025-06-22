@@ -1,6 +1,6 @@
 ---
 title: "Great “State of the Blogosphere” Post from Dave Sifry"
-subtitle: "Dave Sifry, of [Technorati](http://www.technorati.com/), periodically reports **interesting statisti..."
+subtitle: "Dave Sifry, of Technorati, periodically reports **interesting statisti..."
 category: "298"
 tags: []
 date: "2006-04-17"

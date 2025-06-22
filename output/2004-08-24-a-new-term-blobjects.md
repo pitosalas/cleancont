@@ -1,6 +1,6 @@
 ---
 title: "A new term: Blobjects"
-subtitle: "[A very thought provoking speech by Bruce Sterling at SigGraph 2004. Recommended.](http://www.boingb..."
+subtitle: "A very thought provoking speech by Bruce Sterling at SigGraph 2004. Recommended."
 category: "538"
 tags: []
 date: "2004-08-24"

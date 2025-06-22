@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  04/15/2019"
-subtitle: "[How do I know whether my Rails app is thread-safe or not?](https://bearmetal.eu/theden/how-do-i-kno..."
+subtitle: "How do I know whether my Rails app is thread-safe or not?"
 category: "301"
 tags: []
 date: "2019-04-14"

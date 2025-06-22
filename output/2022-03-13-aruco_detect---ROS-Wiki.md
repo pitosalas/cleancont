@@ -1,6 +1,6 @@
 ---
 title: "aruco_detect – ROS Wiki"
-subtitle: "[ aruco_detect - ROS Wiki](<http://wiki.ros.org/aruco_detect>)"
+subtitle: "aruco_detect - ROS Wiki"
 category: "uncategorized"
 tags: []
 date: "2022-03-13"

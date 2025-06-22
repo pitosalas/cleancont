@@ -1,6 +1,6 @@
 ---
 title: "G+ Where Art Thou?"
-subtitle: "Here is a a [really good commentary on Google Plus (G+). ](http://techcrunch.com/2012/03/26/google-t..."
+subtitle: "Here is a a really good commentary on Google Plus (G+)."
 category: "1"
 tags: ["1107", "1145", "1978"]
 date: "2012-03-27"

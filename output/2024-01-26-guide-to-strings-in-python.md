@@ -1,6 +1,6 @@
 ---
 title: "Guide to Strings in Python"
-subtitle: "[ Guide to Strings in Python]( https://stackabuse.com/guide-to-strings-in-python/) –We’ve come far i..."
+subtitle: "Guide to Strings in Python –We’ve come far i..."
 category: "1"
 tags: ["817", "1033", "1221", "1692", "2630"]
 date: "2024-01-26"

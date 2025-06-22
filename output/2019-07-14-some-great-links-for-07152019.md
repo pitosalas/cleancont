@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  07/15/2019"
-subtitle: "[styd/apexcharts.rb](https://github.com/styd/apexcharts.rb)"
+subtitle: "styd/apexcharts.rb"
 category: "301"
 tags: []
 date: "2019-07-14"

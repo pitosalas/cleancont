@@ -1,6 +1,6 @@
 ---
 title: "[GEEKY] Alternative to Yahoo Pipes? Looks really interesting…"
-subtitle: "Check out [this post](http://lifehacker.com/software/rss/mash-up-rss-feeds-with-xfruits-239457.php) ..."
+subtitle: "Check out this post ..."
 category: "1"
 tags: []
 date: "2007-02-26"

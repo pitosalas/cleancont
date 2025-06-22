@@ -1,6 +1,6 @@
 ---
 title: "Katrina, New Orleans: Unforgivable"
-subtitle: "![Images-2](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/images/im..."
+subtitle: "!Images-2"
 category: "298"
 tags: []
 date: "2005-09-02"

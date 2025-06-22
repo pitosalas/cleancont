@@ -1,6 +1,6 @@
 ---
 title: "Google Maps traffic information"
-subtitle: "One more reason to Love Google! Check out [this post](http://lifehacker.com/software/google-maps/goo..."
+subtitle: "One more reason to Love Google! Check out this post"
 category: "298"
 tags: []
 date: "2007-02-28"

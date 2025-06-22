@@ -1,6 +1,6 @@
 ---
 title: "Jeff Jarvis on the whole Imus situation"
-subtitle: "Check out [this post](http://www.buzzmachine.com/2007/04/13/on-imus/) from [BuzzMachine](http://www...."
+subtitle: "Check out this post from BuzzMachine"
 category: "298"
 tags: []
 date: "2007-04-14"

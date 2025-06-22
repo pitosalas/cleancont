@@ -1,6 +1,6 @@
 ---
 title: "Social Networks and RSS Aggregators"
-subtitle: "[Dave Winer says](http://archive.scripting.com/2005/02/02#When:8:05:26PM) that there’s a bit of buzz..."
+subtitle: "Dave Winer says that there’s a bit of buzz..."
 category: "50"
 tags: []
 date: "2005-02-03"

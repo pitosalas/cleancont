@@ -1,6 +1,6 @@
 ---
 title: "Aw, come on: Apple iPhone spontaneously combusts aboard flight in Australia"
-subtitle: "This is just a [weird story:](http://www.bgr.com/2011/11/28/apple-iphone-spontaneously-combusts-aboa..."
+subtitle: "This is just a weird story:"
 category: "1"
 tags: ["1066", "1298", "2112"]
 date: "2011-11-28"

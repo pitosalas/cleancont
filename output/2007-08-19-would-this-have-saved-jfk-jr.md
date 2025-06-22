@@ -1,6 +1,6 @@
 ---
 title: "Would this have saved JFK Jr?"
-subtitle: "Check out [this post](http://jamesfallows.theatlantic.com/archives/2007/08/would_this_have_saved_jfk..."
+subtitle: "Check out this post"
 category: "298"
 tags: []
 date: "2007-08-19"

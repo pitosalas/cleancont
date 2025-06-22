@@ -1,6 +1,6 @@
 ---
 title: "Pmarchive · Pmarca Guide to Career Planning: Skills and education"
-subtitle: "[ Pmarchive · Pmarca Guide to Career Planning: Skills and education]( https://fictivekin.github.io/p..."
+subtitle: "Pmarchive · Pmarca Guide to Career Planning: Skills and education"
 category: "1"
 tags: ["608", "717", "775", "2206", "1221", "1564", "2205", "1931"]
 date: "2022-07-18"

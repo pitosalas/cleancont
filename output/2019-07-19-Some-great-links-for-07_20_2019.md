@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  07/20/2019"
-subtitle: "* [Goodbye ActiveRecord! - Inside Aircall - Medium](<https://medium.com/inside-aircall/goodbye-activ..."
+subtitle: "* Goodbye ActiveRecord! - Inside Aircall - Medium"
 category: "uncategorized"
 tags: []
 date: "2019-07-19"

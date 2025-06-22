@@ -1,6 +1,6 @@
 ---
 title: "[GEEKY] REST and the PATCH verb"
-subtitle: "Last year when teaching [REST](http://www.packetizer.com/ws/rest.html) concepts at Brandeis Universi..."
+subtitle: "Last year when teaching REST concepts at Brandeis Universi..."
 category: "538"
 tags: ["1121", "1224", "1591", "1652", "1691"]
 date: "2011-05-23"

@@ -1,6 +1,6 @@
 ---
 title: "What is Art For?"
-subtitle: "A really [good article in the New York Times Magazine today about Lewis Hyde](http://www.nytimes.com..."
+subtitle: "A really good article in the New York Times Magazine today about Lewis Hyde"
 category: "298"
 tags: []
 date: "2008-11-17"

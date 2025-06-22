@@ -1,6 +1,6 @@
 ---
 title: "Interesting blog survey"
-subtitle: "[Blogads has conducted a survey](http://www.blogads.com/survey/2005_blog_reader_survey.html) of peop..."
+subtitle: "Blogads has conducted a survey of peop..."
 category: "51"
 tags: []
 date: "2005-03-24"

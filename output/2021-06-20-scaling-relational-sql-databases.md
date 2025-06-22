@@ -1,6 +1,6 @@
 ---
 title: "Scaling relational SQL databases"
-subtitle: "[ Scaling relational SQL databases](https://stribny.name/blog/2020/07/scaling-relational-sql-databas..."
+subtitle: "Scaling relational SQL databases"
 category: "131"
 tags: ["1605", "1793"]
 date: "2021-06-20"

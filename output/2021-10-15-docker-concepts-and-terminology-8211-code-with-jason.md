@@ -1,6 +1,6 @@
 ---
 title: "Docker concepts and terminology – Code with Jason"
-subtitle: "[ Docker concepts and terminology – Code with Jason](https://www.codewithjason.com/docker-concepts-t..."
+subtitle: "Docker concepts and terminology – Code with Jason"
 category: "152"
 tags: []
 date: "2021-10-15"

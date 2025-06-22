@@ -1,6 +1,6 @@
 ---
 title: "Agenda for OPML Camp coming together"
-subtitle: "[Adam’s](http://www.darwinianweb.com/) been busy moving the plans for [OPML Camp](http://www.opmlcam..."
+subtitle: "Adam’s been busy moving the plans for OPML Camp"
 category: "538"
 tags: []
 date: "2006-04-12"

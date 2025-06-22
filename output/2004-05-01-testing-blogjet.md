@@ -1,6 +1,6 @@
 ---
 title: "Testing BlogJet"
-subtitle: "I have installed an interesting application – [BlogJet](http://blogjet.com/). It’s a cool Windows cl..."
+subtitle: "I have installed an interesting application – BlogJet. It’s a cool Windows cl..."
 category: "538"
 tags: []
 date: "2004-05-01"

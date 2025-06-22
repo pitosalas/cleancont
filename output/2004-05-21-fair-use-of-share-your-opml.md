@@ -1,6 +1,6 @@
 ---
 title: "Fair Use of Share-your-OPML?"
-subtitle: "One of the core goals of [BlogBridge ](http://www.blogbridge.com)is to give a newbie a quick and del..."
+subtitle: "One of the core goals of BlogBridge is to give a newbie a quick and del..."
 category: "50"
 tags: []
 date: "2004-05-21"

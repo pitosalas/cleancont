@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  05/26/2020"
-subtitle: "* [The Definitive Guide to Python import Statements | Chris Yeh](<https://chrisyeh96.github.io/2017/..."
+subtitle: "* The Definitive Guide to Python import Statements | Chris Yeh"
 category: "uncategorized"
 tags: []
 date: "2020-05-25"

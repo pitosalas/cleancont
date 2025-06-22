@@ -1,6 +1,6 @@
 ---
 title: "What you may not know"
-subtitle: "**What you may not know about Eclipse. (Demo 2004 Series 10) **If you are a Java developer and you h..."
+subtitle: "**What you may not know about Eclipse. (Demo 2004 Series 10) **If you are a Java developer and you h..."
 category: "1"
 tags: []
 date: "2004-03-11"

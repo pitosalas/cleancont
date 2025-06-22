@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  12/12/2018"
-subtitle: "* [Teaching Robotics With ROS | The Construct](<http://www.theconstructsim.com/teaching-robotics-ros..."
+subtitle: "* Teaching Robotics With ROS | The Construct"
 category: "uncategorized"
 tags: []
 date: "2018-12-11"

@@ -1,6 +1,6 @@
 ---
 title: "Memorial Day"
-subtitle: "![LastNightTogether](https://i0.wp.com/salas.com/wp-content/uploads/2012/05/60697-lastnighttogether...."
+subtitle: "!LastNightTogether"
 category: "1"
 tags: ["1435", "1454", "1785"]
 date: "2012-05-28"

@@ -1,6 +1,6 @@
 ---
 title: "Orthodoxy"
-subtitle: "I’d be the last one to wade into commentary on religious topics, so I just [share this link](http://..."
+subtitle: "I’d be the last one to wade into commentary on religious topics, so I just share this link"
 category: "1"
 tags: ["1331", "1568"]
 date: "2012-01-29"

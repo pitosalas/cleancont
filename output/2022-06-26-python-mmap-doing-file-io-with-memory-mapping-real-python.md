@@ -1,6 +1,6 @@
 ---
 title: "Python mmap: Doing File I/O With Memory Mapping – Real Python"
-subtitle: "[ Python mmap: Doing File I/O With Memory Mapping – Real Python]( https://realpython.com/courses/pyt..."
+subtitle: "Python mmap: Doing File I/O With Memory Mapping – Real Python"
 category: "1"
 tags: ["1221", "2168", "1692"]
 date: "2022-06-26"

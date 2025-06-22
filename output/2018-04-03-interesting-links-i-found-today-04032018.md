@@ -1,6 +1,6 @@
 ---
 title: "Interesting links I found today 04/03/2018"
-subtitle: "[IMSLP/Petrucci Music Library: Free Public Domain Sheet Music](http://imslp.org/wiki/Main_Page)"
+subtitle: "IMSLP/Petrucci Music Library: Free Public Domain Sheet Music"
 category: "1"
 tags: []
 date: "2018-04-03"

@@ -1,6 +1,6 @@
 ---
 title: "Swurl – Search everything instantly"
-subtitle: "[ Swurl – Search everything instantly]( https://swurl.com/) –Played with this a little. While google..."
+subtitle: "Swurl – Search everything instantly –Played with this a little. While google..."
 category: "1"
 tags: ["1145", "2328", "2327", "2329", "1383", "1814"]
 date: "2022-12-04"

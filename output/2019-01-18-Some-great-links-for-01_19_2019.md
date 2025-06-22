@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  01/19/2019"
-subtitle: "* [Using Ruby in 2019 - Jason Charnes](<https://jasoncharnes.com/using-ruby-in-2019/>)"
+subtitle: "* Using Ruby in 2019 - Jason Charnes"
 category: "uncategorized"
 tags: []
 date: "2019-01-18"

@@ -1,6 +1,6 @@
 ---
 title: "Pecking order? Puleeze! Joi Ito"
-subtitle: "**Pecking order? Puleeze! **[Joi Ito writes](http://joi.ito.com/archives/2004/02/12/pecking_at_etech..."
+subtitle: "**Pecking order? Puleeze! **Joi Ito writes"
 category: "1"
 tags: []
 date: "2004-02-13"

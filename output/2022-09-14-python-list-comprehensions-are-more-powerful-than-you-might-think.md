@@ -1,6 +1,6 @@
 ---
 title: "Python List Comprehensions Are More Powerful Than You Might Think"
-subtitle: "[ Python List Comprehensions Are More Powerful Than You Might Think]( https://betterprogramming.pub/..."
+subtitle: "Python List Comprehensions Are More Powerful Than You Might Think"
 category: "1"
 tags: ["1033", "1221", "2264", "1692"]
 date: "2022-09-14"

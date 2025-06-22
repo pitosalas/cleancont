@@ -1,6 +1,6 @@
 ---
 title: "Pivotal Tracker, watch out for Trajectory"
-subtitle: "I’ve been an avid user and recommender of [Pivotal Tracker](https://www.pivotaltracker.com), an exce..."
+subtitle: "I’ve been an avid user and recommender of Pivotal Tracker, an exce..."
 category: "538"
 tags: ["1627", "1810", "1929"]
 date: "2011-07-30"

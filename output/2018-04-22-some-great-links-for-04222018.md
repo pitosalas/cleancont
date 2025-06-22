@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  04/22/2018"
-subtitle: "[How to improve your workflow with VS Code and Jupyter Notebook](https://towardsdatascience.com/how-..."
+subtitle: "How to improve your workflow with VS Code and Jupyter Notebook"
 category: "538"
 tags: []
 date: "2018-04-22"

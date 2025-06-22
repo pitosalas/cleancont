@@ -1,6 +1,6 @@
 ---
 title: "How to build x86 (and others!) Docker images on an M1 Mac – Jaimyn’s Blog"
-subtitle: "[ How to build x86 (and others!) Docker images on an M1 Mac – Jaimyn’s Blog]( https://blog.jaimyn.de..."
+subtitle: "How to build x86 (and others!) Docker images on an M1 Mac – Jaimyn’s Blog"
 category: "1"
 tags: ["751", "956", "1221", "1247", "2183"]
 date: "2022-07-04"

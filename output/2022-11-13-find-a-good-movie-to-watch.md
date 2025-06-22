@@ -1,6 +1,6 @@
 ---
 title: "Find A Good Movie To Watch"
-subtitle: "[ Find A Good Movie To Watch]( https://agoodmovietowatch.com/all/) –A different movie recommender, w..."
+subtitle: "Find A Good Movie To Watch –A different movie recommender, w..."
 category: "1"
 tags: ["1489", "2298"]
 date: "2022-11-13"

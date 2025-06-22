@@ -1,6 +1,6 @@
 ---
 title: "Practical Stimulus: Building a Counter Component"
-subtitle: "[ Practical Stimulus: Building a Counter Component]( https://www.akshaykhot.com/build-counter-compon..."
+subtitle: "Practical Stimulus: Building a Counter Component"
 category: "1"
 tags: ["1221", "1311", "2497"]
 date: "2023-08-24"

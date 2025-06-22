@@ -1,6 +1,6 @@
 ---
 title: "Learn How to Test Third Party Services With Minitest & VCR"
-subtitle: "[ Learn How to Test Third Party Services With Minitest & VCR](https://blog.eduonix.com/web-programmi..."
+subtitle: "Learn How to Test Third Party Services With Minitest & VCR"
 category: "337"
 tags: ["635", "1986"]
 date: "2022-03-08"

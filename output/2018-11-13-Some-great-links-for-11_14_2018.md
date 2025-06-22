@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  11/14/2018"
-subtitle: "* [Getafix: How Facebook tools learn to fix bugs automatically - Facebook Code](<https://code.fb.com..."
+subtitle: "* Getafix: How Facebook tools learn to fix bugs automatically - Facebook Code"
 category: "uncategorized"
 tags: []
 date: "2018-11-13"

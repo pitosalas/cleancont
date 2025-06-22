@@ -1,6 +1,6 @@
 ---
 title: "Interesting: Best Buy Still Using Its Secret Website"
-subtitle: "Check out [this post](http://consumerist.com/consumer/best-buy/update-best-buy-still-using-its-secre..."
+subtitle: "Check out this post"
 category: "298"
 tags: []
 date: "2007-03-20"

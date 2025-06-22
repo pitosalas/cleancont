@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  08/30/2020"
-subtitle: "[Ruby style guide from Shopify. ](https://shopify.github.io/ruby-style-guide/)"
+subtitle: "Ruby style guide from Shopify."
 category: "301"
 tags: []
 date: "2020-08-29"

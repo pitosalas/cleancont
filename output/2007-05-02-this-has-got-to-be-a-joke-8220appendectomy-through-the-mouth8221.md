@@ -1,6 +1,6 @@
 ---
 title: "This has got to be a joke: “Appendectomy through the mouth”"
-subtitle: "Check out [this post](http://feeds.feedburner.com/~r/boingboing/iBag/~3/113698776/appendectomy_throu..."
+subtitle: "Check out this post"
 category: "298"
 tags: []
 date: "2007-05-02"

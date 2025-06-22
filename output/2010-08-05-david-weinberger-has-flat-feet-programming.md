@@ -1,6 +1,6 @@
 ---
 title: "David Weinberger has flat feet: Programming"
-subtitle: "Check this post [The flatfooted learning society](http://www.hyperorg.com/blogger/2010/08/02/the-fla..."
+subtitle: "Check this post The flatfooted learning society"
 category: "422"
 tags: ["914", "916", "917", "1683", "2080"]
 date: "2010-08-05"

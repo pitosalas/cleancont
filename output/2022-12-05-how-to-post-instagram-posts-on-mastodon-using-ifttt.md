@@ -1,6 +1,6 @@
 ---
 title: "How to post Instagram posts on Mastodon using IFTTT"
-subtitle: "[ How to post Instagram posts on Mastodon using IFTTT]( https://alephnaughtpix.github.io/deadjournal..."
+subtitle: "How to post Instagram posts on Mastodon using IFTTT"
 category: "1"
 tags: ["635", "2295", "2294", "2103", "2336"]
 date: "2022-12-05"

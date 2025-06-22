@@ -1,6 +1,6 @@
 ---
 title: "What is a Blog, redux"
-subtitle: "I just [came across a good summary](http://www.portalsmag.com/articles/default.asp?ArticleID=6159) o..."
+subtitle: "I just came across a good summary o..."
 category: "51"
 tags: []
 date: "2004-11-26"

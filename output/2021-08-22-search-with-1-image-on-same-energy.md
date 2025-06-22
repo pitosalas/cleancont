@@ -1,6 +1,6 @@
 ---
 title: "Search with 1 image on Same Energy"
-subtitle: "[ Search with 1 image on Same Energy](https://same.energy/)"
+subtitle: "Search with 1 image on Same Energy"
 category: "111"
 tags: ["1814"]
 date: "2021-08-22"

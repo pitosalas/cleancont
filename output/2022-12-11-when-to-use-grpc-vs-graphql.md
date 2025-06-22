@@ -1,6 +1,6 @@
 ---
 title: "When to use gRPC vs GraphQL"
-subtitle: "[ When to use gRPC vs GraphQL]( https://stackoverflow.blog/2022/11/28/when-to-use-grpc-vs-graphql/) ..."
+subtitle: "When to use gRPC vs GraphQL ..."
 category: "1"
 tags: ["635", "2191", "1163", "2357", "1742"]
 date: "2022-12-11"

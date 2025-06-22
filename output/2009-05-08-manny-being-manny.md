@@ -1,6 +1,6 @@
 ---
 title: "Manny being Manny"
-subtitle: "Check this post [Thank you Jason Bay](http://38pitches.weei.com/sports/boston/baseball/curt-schillin..."
+subtitle: "Check this post Thank you Jason Bay"
 category: "298"
 tags: []
 date: "2009-05-08"

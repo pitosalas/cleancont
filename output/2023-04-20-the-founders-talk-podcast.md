@@ -1,6 +1,6 @@
 ---
 title: "The Founders Talk podcast"
-subtitle: "[ The Founders Talk podcast]( https://changelog.com/founderstalk) –In-depth, one-on-one conversation..."
+subtitle: "The Founders Talk podcast –In-depth, one-on-one conversation..."
 category: "1"
 tags: []
 date: "2023-04-20"

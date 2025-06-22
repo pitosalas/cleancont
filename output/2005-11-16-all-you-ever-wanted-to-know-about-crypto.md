@@ -1,6 +1,6 @@
 ---
 title: "All you ever wanted to know about Crypto"
-subtitle: "Looks like this is [practically an online book](http://www.garykessler.net/library/crypto.html) on t..."
+subtitle: "Looks like this is practically an online book on t..."
 category: "538"
 tags: []
 date: "2005-11-16"

@@ -1,6 +1,6 @@
 ---
 title: "You’re the OS!"
-subtitle: "[ You're the OS!](< https://drfreckles42.itch.io/youre-the-"
+subtitle: "You're the OS!"
 category: "uncategorized"
 tags: []
 date: "2023-09-08"

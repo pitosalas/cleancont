@@ -1,6 +1,6 @@
 ---
 title: "A Complete Guide to Lock Convoys | Dave Kilian’s Blog"
-subtitle: "[ A Complete Guide to Lock Convoys | Dave Kilian’s Blog]( https://davekilian.com/lock-convoys.html?u..."
+subtitle: "A Complete Guide to Lock Convoys | Dave Kilian’s Blog"
 category: "1"
 tags: ["2319", "817", "2322", "2321", "2320", "1605", "1794"]
 date: "2022-11-29"

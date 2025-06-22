@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  10/22/2018"
-subtitle: "* [danburzo/percollate](<https://github.com/danburzo/percollate>)"
+subtitle: "* danburzo/percollate"
 category: "uncategorized"
 tags: []
 date: "2018-10-21"

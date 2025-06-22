@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  09/28/2019"
-subtitle: "* [Goodhart’s Law: Are Academic Metrics Being Gamed?](<https://thegradient.pub/over-optimization-of-..."
+subtitle: "* Goodhart’s Law: Are Academic Metrics Being Gamed?"
 category: "uncategorized"
 tags: []
 date: "2019-09-27"

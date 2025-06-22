@@ -1,6 +1,6 @@
 ---
 title: "St Maarten is such a small island that the airport runs right up to the beach"
-subtitle: "Check out [this picture! ](http://www.airliners.net/open.file?id=0385938&WxsIERv=Obrvat%20747-406&Wm..."
+subtitle: "Check out this picture!"
 category: "298"
 tags: []
 date: "2006-08-10"

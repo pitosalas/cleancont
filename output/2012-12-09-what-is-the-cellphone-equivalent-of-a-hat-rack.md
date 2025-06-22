@@ -1,6 +1,6 @@
 ---
 title: "What is the cellphone equivalent of a hat rack?"
-subtitle: "![Screen shot 2012 12 06 at 4 26 50 pm](https://i0.wp.com/salas.com/wp-content/uploads/2012/12/c5f2b..."
+subtitle: "!Screen shot 2012 12 06 at 4 26 50 pm"
 category: "1"
 tags: ["601", "664", "782", "949"]
 date: "2012-12-09"

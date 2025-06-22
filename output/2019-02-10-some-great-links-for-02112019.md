@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  02/11/2019"
-subtitle: "[How to be more productive on GitHub – freeCodeCamp.org](https://medium.freecodecamp.org/how-to-be-m..."
+subtitle: "How to be more productive on GitHub – freeCodeCamp.org"
 category: "301"
 tags: []
 date: "2019-02-10"

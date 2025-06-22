@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  08/06/2018"
-subtitle: "[r/webdev – How to prep your GitHub for job seeking](https://www.reddit.com/r/webdev/comments/90xmpw..."
+subtitle: "r/webdev – How to prep your GitHub for job seeking"
 category: "301"
 tags: []
 date: "2018-08-05"

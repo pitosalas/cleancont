@@ -1,6 +1,6 @@
 ---
 title: "Oddpost Sold to Yahoo!"
-subtitle: "[Dave Winer comments on the sale of OddPost to Yahoo](http://archive.scripting.com/2004/07/09). I’ve..."
+subtitle: "Dave Winer comments on the sale of OddPost to Yahoo. I’ve..."
 category: "538"
 tags: []
 date: "2004-07-10"

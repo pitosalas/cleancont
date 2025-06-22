@@ -1,6 +1,6 @@
 ---
 title: "ChatGPT Can’t Kill Anything Worth Preserving"
-subtitle: "[ ChatGPT Can't Kill Anything Worth Preserving](<"
+subtitle: "ChatGPT Can't Kill Anything Worth Preserving"
 category: "uncategorized"
 tags: []
 date: "2022-12-13"

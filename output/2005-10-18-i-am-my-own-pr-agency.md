@@ -1,6 +1,6 @@
 ---
 title: "I am my own PR agency"
-subtitle: "Over the last week or so I’ve been working around the clock preparing for [BlogBridge’s ](http://www..."
+subtitle: "Over the last week or so I’ve been working around the clock preparing for BlogBridge’s"
 category: "50"
 tags: []
 date: "2005-10-18"

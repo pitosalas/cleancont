@@ -1,6 +1,6 @@
 ---
 title: "Words borrowed from horse racing"
-subtitle: "I just finished reading the book [Seabiscuit](http://www.amazon.com/Seabiscuit-American-Legend-Laura..."
+subtitle: "I just finished reading the book Seabiscuit"
 category: "1"
 tags: ["1004", "1215", "1813"]
 date: "2012-01-12"

@@ -1,6 +1,6 @@
 ---
 title: "What’s a carrotmob?"
-subtitle: "A [Carrotmob](http://carrotmob.org/) is a network of consumers (?) who buy products in order to rewa..."
+subtitle: "A Carrotmob is a network of consumers (?) who buy products in order to rewa..."
 category: "298"
 tags: []
 date: "2010-02-14"

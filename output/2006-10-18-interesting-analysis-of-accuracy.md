@@ -1,6 +1,6 @@
 ---
 title: "Interesting analysis of accuracy"
-subtitle: "Bloggers and others are notoriously  obcessed with metrics: how many hits, what’s my rank etc. As a ..."
+subtitle: "Bloggers and others are notoriously obcessed with metrics: how many hits, what’s my rank etc. As a ..."
 category: "1"
 tags: []
 date: "2006-10-18"

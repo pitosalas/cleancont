@@ -1,6 +1,6 @@
 ---
 title: "A (fairly) understandable explanation of the math behind the market meltdown"
-subtitle: "This [article is somewhat mathematical](http://www.wired.com/techbiz/it/magazine/17-03/wp_quant) but..."
+subtitle: "This article is somewhat mathematical but..."
 category: "298"
 tags: []
 date: "2009-03-07"

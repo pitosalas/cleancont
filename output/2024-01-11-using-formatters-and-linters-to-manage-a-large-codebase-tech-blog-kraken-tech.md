@@ -1,6 +1,6 @@
 ---
 title: "Using formatters and linters to manage a large codebase | Tech blog | Kraken Tech"
-subtitle: "[ Using formatters and linters to manage a large codebase | Tech blog | Kraken Tech]( https://tech.o..."
+subtitle: "Using formatters and linters to manage a large codebase | Tech blog | Kraken Tech"
 category: "1"
 tags: ["2618", "2617", "2615", "1692", "2616"]
 date: "2024-01-11"

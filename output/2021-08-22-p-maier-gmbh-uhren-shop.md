@@ -1,6 +1,6 @@
 ---
 title: "P. Maier GmbH Uhren Shop"
-subtitle: "[ P. Maier GmbH Uhren Shop](https://www.maier-uhren.de/de/)"
+subtitle: "P. Maier GmbH Uhren Shop"
 category: "35"
 tags: []
 date: "2021-08-22"

@@ -1,6 +1,6 @@
 ---
 title: "Why Improv didn’t succeed, Part Deux"
-subtitle: "Seems like a dredged up some “old” (you know who you are) **Improv fans **with [my earlier posting](..."
+subtitle: "Seems like a dredged up some “old” (you know who you are) **Improv fans **with my earlier posting"
 category: "1"
 tags: []
 date: "2004-12-02"

@@ -1,6 +1,6 @@
 ---
 title: "Why we need new election technology"
-subtitle: "I work at the [Open Source Digital Voting Foundation](http://www.osdv.org), where we are creating ne..."
+subtitle: "I work at the Open Source Digital Voting Foundation, where we are creating ne..."
 category: "410"
 tags: ["990", "1569", "2036"]
 date: "2010-12-03"

@@ -1,6 +1,6 @@
 ---
 title: "Markdown in Ruby on Rails with RedCarpet – Mitch Craver"
-subtitle: "[ Markdown in Ruby on Rails with RedCarpet – Mitch Craver]( https://www.mitchcraver.com/2022/04/01/m..."
+subtitle: "Markdown in Ruby on Rails with RedCarpet – Mitch Craver"
 category: "1"
 tags: ["1122", "1221", "2159", "1711", "2275"]
 date: "2022-10-09"

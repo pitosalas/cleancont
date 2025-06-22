@@ -1,6 +1,6 @@
 ---
 title: "Great musical: Falsettos at the Huntington Theatre"
-subtitle: "![Htcfalsettosprod](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/h..."
+subtitle: "!Htcfalsettosprod"
 category: "298"
 tags: []
 date: "2005-05-25"

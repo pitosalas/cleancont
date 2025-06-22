@@ -1,6 +1,6 @@
 ---
 title: "A 3-Question Checklist for Better Course Design"
-subtitle: "[ A 3-Question Checklist for Better Course Design]( https://hbsp.harvard.edu/inspiring-minds/a-3-que..."
+subtitle: "A 3-Question Checklist for Better Course Design"
 category: "1"
 tags: ["2619", "1204", "1221", "1973"]
 date: "2024-01-16"

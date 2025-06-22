@@ -1,6 +1,6 @@
 ---
 title: "Inner Beauty"
-subtitle: "If you know or remember the great Inner Beauty hot sauce,  then you will be interested in this artic..."
+subtitle: "If you know or remember the great Inner Beauty hot sauce, then you will be interested in this artic..."
 category: "298"
 tags: []
 date: "2007-12-30"

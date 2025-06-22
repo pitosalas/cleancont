@@ -1,6 +1,6 @@
 ---
 title: "styleguide"
-subtitle: "[ styleguide](https://google.github.io/styleguide/pyguide.html)"
+subtitle: "styleguide"
 category: "427"
 tags: ["1145", "1938"]
 date: "2021-09-26"

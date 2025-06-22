@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  12/19/2020"
-subtitle: "[When Should You NOT Use Rails?](http://codefol.io/posts/when-should-you-not-use-rails/)"
+subtitle: "When Should You NOT Use Rails?"
 category: "301"
 tags: []
 date: "2020-12-18"

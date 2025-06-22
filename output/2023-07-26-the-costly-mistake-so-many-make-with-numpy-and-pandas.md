@@ -1,6 +1,6 @@
 ---
 title: "The costly mistake so many make with numpy and pandas"
-subtitle: "[ The costly mistake so many make with numpy and pandas]( https://open.substack.com/pub/bitecode/p/t..."
+subtitle: "The costly mistake so many make with numpy and pandas"
 category: "1"
 tags: ["2523", "2524", "2525", "1692"]
 date: "2023-07-26"

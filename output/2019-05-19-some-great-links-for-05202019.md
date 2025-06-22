@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  05/20/2019"
-subtitle: "[CSS Flexbox Nav Bar – Building a Blog, Part 1](https://dev.to/njericooper/flexbox-blog-part-1-the-n..."
+subtitle: "CSS Flexbox Nav Bar – Building a Blog, Part 1"
 category: "301"
 tags: []
 date: "2019-05-19"

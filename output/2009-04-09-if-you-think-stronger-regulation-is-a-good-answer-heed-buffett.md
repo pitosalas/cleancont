@@ -1,6 +1,6 @@
 ---
 title: "If you think stronger regulation is a good answer, heed Buffett"
-subtitle: "Check out this post [If you think stronger regulation is a good answer, heed Buffett](http://feeds.f..."
+subtitle: "Check out this post If you think stronger regulation is a good answer, heed Buffett"
 category: "298"
 tags: ["697", "1292", "1730"]
 date: "2009-04-09"

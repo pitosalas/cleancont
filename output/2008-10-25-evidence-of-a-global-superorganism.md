@@ -1,6 +1,6 @@
 ---
 title: "Evidence of a Global SuperOrganism"
-subtitle: "Check out this post [Evidence of a Global SuperOrganism](http://www.kk.org/thetechnium/archives/2008..."
+subtitle: "Check out this post Evidence of a Global SuperOrganism"
 category: "298"
 tags: ["1339"]
 date: "2008-10-25"

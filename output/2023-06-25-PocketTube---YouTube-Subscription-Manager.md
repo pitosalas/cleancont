@@ -1,6 +1,6 @@
 ---
 title: "PocketTube – YouTube Subscription Manager"
-subtitle: "[ PocketTube - YouTube Subscription Manager](<https://pockettube.io/>) –The"
+subtitle: "PocketTube - YouTube Subscription Manager –The"
 category: "uncategorized"
 tags: []
 date: "2023-06-25"

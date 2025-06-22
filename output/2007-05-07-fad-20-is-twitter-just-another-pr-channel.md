@@ -1,6 +1,6 @@
 ---
 title: "Fad 2.0: Is Twitter just another PR channel?"
-subtitle: "You’ve seen and heard of [Twitter](http://twitter.com/home), haven’t you? If not, congratulations fo..."
+subtitle: "You’ve seen and heard of Twitter, haven’t you? If not, congratulations fo..."
 category: "298"
 tags: []
 date: "2007-05-07"

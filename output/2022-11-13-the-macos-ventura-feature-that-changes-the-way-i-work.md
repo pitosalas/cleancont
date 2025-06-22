@@ -1,6 +1,6 @@
 ---
 title: "The macOS Ventura Feature that Changes the Way I Work"
-subtitle: "[ The macOS Ventura Feature that Changes the Way I Work]( https://medium.com/@_alecfox/the-macos-ven..."
+subtitle: "The macOS Ventura Feature that Changes the Way I Work"
 category: "1"
 tags: ["1415", "1747", "2300", "2119"]
 date: "2022-11-13"

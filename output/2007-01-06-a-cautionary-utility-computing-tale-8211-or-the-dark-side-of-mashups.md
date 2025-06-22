@@ -1,6 +1,6 @@
 ---
 title: "A cautionary utility computing tale – or the dark side of Mashups"
-subtitle: "Check out [this post](http://feeds.feedburner.com/~r/zdnet/BTL/~3/71375022/) from [Between the Lines..."
+subtitle: "Check out this post from [Between the Lines..."
 category: "298"
 tags: []
 date: "2007-01-06"

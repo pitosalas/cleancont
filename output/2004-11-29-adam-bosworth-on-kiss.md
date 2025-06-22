@@ -1,6 +1,6 @@
 ---
 title: "Adam Bosworth on KISS"
-subtitle: "[Adam Bosworth’s speech](http://www.adambosworth.net/archives/000031.html)"
+subtitle: "Adam Bosworth’s speech"
 category: "538"
 tags: []
 date: "2004-11-29"

@@ -1,6 +1,6 @@
 ---
 title: "A9’s Photographic Yellow Pages"
-subtitle: "[Quite a bit](http://blogs.linux.ie/xeer/2005/01/27/a9com-yellow-pages-copyrighted-buildings/) [has ..."
+subtitle: "Quite a bit [has ..."
 category: "298"
 tags: []
 date: "2005-02-01"

@@ -1,6 +1,6 @@
 ---
 title: "Remix Remixed"
-subtitle: "*[I wrote this in response [to this post](http://www.brianstorms.com/archives/000555.html), which ha..."
+subtitle: "*I wrote this in response [to this post, which ha..."
 category: "538"
 tags: []
 date: "2005-03-25"

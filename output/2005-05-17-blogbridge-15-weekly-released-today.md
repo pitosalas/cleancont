@@ -1,6 +1,6 @@
 ---
 title: "BlogBridge 1.5 Weekly released today"
-subtitle: "Check out the [BlogBridge blog](http://www.blogbridge.com/weblog/archives/000671.html) and [site](ht..."
+subtitle: "Check out the BlogBridge blog and site"
 category: "50"
 tags: []
 date: "2005-05-17"

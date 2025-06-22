@@ -1,6 +1,6 @@
 ---
 title: "Good Grades Certainly Don’t Hurt"
-subtitle: "[How to Get a Job at Google – NYTimes.com](http://nyti.ms/1jTJavh):"
+subtitle: "How to Get a Job at Google – NYTimes.com:"
 category: "1"
 tags: ["823", "1152", "1156", "1368"]
 date: "2014-02-23"

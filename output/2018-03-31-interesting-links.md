@@ -1,6 +1,6 @@
 ---
 title: "Interesting Links"
-subtitle: "[5 Tips To Write Idiomatic Pandas Code (article) – DataCamp](https://www.datacamp.com/community/tuto..."
+subtitle: "5 Tips To Write Idiomatic Pandas Code (article) – DataCamp"
 category: "1"
 tags: []
 date: "2018-03-31"

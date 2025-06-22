@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  04/02/2019"
-subtitle: "* [Untangling Ruby Threads](<https://thoughtbot.com/blog/untangling-ruby-threads>)"
+subtitle: "* Untangling Ruby Threads"
 category: "uncategorized"
 tags: []
 date: "2019-04-01"

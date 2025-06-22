@@ -1,6 +1,6 @@
 ---
 title: "Awesome VS Code Extensions For Python"
-subtitle: "[ Awesome VS Code Extensions For Python](https://link.medium.com/cTLnfCMdYmb)"
+subtitle: "Awesome VS Code Extensions For Python"
 category: "180"
 tags: []
 date: "2022-01-20"

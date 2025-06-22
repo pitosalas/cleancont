@@ -1,6 +1,6 @@
 ---
 title: "Teaching Journal Articles | Poorvu Center for Teaching and Learning"
-subtitle: "[ Teaching Journal Articles | Poorvu Center for Teaching and Learning]( https://poorvucenter.yale.ed..."
+subtitle: "Teaching Journal Articles | Poorvu Center for Teaching and Learning"
 category: "1"
 tags: ["1328", "1582", "1973"]
 date: "2024-01-13"

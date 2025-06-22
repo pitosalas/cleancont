@@ -1,6 +1,6 @@
 ---
 title: "[GEEKY] Cool open source product analogous to Yahoo Pipes"
-subtitle: "[SnapLogic](http://www.snaplogic.com) is an open source product (at least in it’s base edition) prov..."
+subtitle: "SnapLogic is an open source product (at least in it’s base edition) prov..."
 category: "538"
 tags: ["1875"]
 date: "2008-05-05"

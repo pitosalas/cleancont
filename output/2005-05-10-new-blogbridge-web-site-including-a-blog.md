@@ -1,6 +1,6 @@
 ---
 title: "New BlogBridge web site, including a blog"
-subtitle: "Good morning sports-fans. We recently [totally revamped the BlogBridge](http://www.blogbridge.com/) ..."
+subtitle: "Good morning sports-fans. We recently totally revamped the BlogBridge ..."
 category: "50"
 tags: []
 date: "2005-05-10"

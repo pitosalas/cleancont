@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  03/03/2021"
-subtitle: "[Standard Deviation is an Inferior Measurement*](https://link.medium.com/gbpcSJtCieb)"
+subtitle: "Standard Deviation is an Inferior Measurement*"
 category: "301"
 tags: []
 date: "2021-03-02"

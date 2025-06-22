@@ -1,6 +1,6 @@
 ---
 title: "What’s the world coming to?"
-subtitle: "Someone just pointed [me to this item on Mike Zellers blog](http://www.mikezellers.com/archives/0006..."
+subtitle: "Someone just pointed me to this item on Mike Zellers blog"
 category: "1"
 tags: []
 date: "2004-12-07"

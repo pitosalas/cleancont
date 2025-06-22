@@ -1,6 +1,6 @@
 ---
 title: "From Demo 2008: Cool research site – SiloBreaker"
-subtitle: "Take a look at [SiloBreaker](<http://www.silobreaker.com/>) (don't ask me why"
+subtitle: "Take a look at SiloBreaker (don't ask me why"
 category: "uncategorized"
 tags: []
 date: "2008-02-13"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  08/14/2019"
-subtitle: "* [A Complete Guide to the Ruby Programming World - Learn Worthy](<https://learnworthy.net/a-complet..."
+subtitle: "* A Complete Guide to the Ruby Programming World - Learn Worthy"
 category: "uncategorized"
 tags: []
 date: "2019-08-13"

@@ -1,6 +1,6 @@
 ---
 title: "Delayed Job vs. Sidekiq: Which Is Better? | AppSignal Blog"
-subtitle: "[ Delayed Job vs. Sidekiq: Which Is Better? | AppSignal Blog](https://blog.appsignal.com/2022/02/15/..."
+subtitle: "Delayed Job vs. Sidekiq: Which Is Better? | AppSignal Blog"
 category: "39"
 tags: ["1711", "1772", "2010"]
 date: "2022-02-17"

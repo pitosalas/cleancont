@@ -1,6 +1,6 @@
 ---
 title: "Swurl – Search everything"
-subtitle: "[ Swurl - Search everything](< https://swurl.com>) –Search Google, YouTube,"
+subtitle: "Swurl - Search everything –Search Google, YouTube,"
 category: "uncategorized"
 tags: []
 date: "2023-09-08"

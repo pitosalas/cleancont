@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  03/30/2019"
-subtitle: "* [Scaling a Ruby on Rails app on Heroku](<https://scottbartell.com/2019/03/26/how-to-scale-ruby-on-..."
+subtitle: "* Scaling a Ruby on Rails app on Heroku"
 category: "uncategorized"
 tags: []
 date: "2019-03-29"

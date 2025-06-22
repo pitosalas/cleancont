@@ -1,6 +1,6 @@
 ---
 title: "[ETECH] Reasonableness"
-subtitle: "A memorable quote ([from George Bernard Shaw](http://www.elise.com/quotes/quotes/shawquotes.htm))"
+subtitle: "A memorable quote (from George Bernard Shaw)"
 category: "298"
 tags: []
 date: "2005-03-15"

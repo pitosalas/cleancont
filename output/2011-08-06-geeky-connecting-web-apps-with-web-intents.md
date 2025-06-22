@@ -1,6 +1,6 @@
 ---
 title: "[GEEKY] Connecting Web Apps with Web Intents"
-subtitle: "Check this post [Connecting Web Apps with Web Intents](http://blog.chromium.org/2011/08/connecting-w..."
+subtitle: "Check this post Connecting Web Apps with Web Intents"
 category: "422"
 tags: []
 date: "2011-08-06"

@@ -1,6 +1,6 @@
 ---
 title: "Collections"
-subtitle: "[ Collections](https://publicdomainreview.org/collections/) –We curate collections of images, books,..."
+subtitle: "Collections –We curate collections of images, books,..."
 category: "1"
 tags: ["654", "725", "889"]
 date: "2023-07-09"

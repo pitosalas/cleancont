@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  09/29/2018"
-subtitle: "* [ebobby/has-many-with-set](<https://github.com/ebobby/has-many-with-set>)"
+subtitle: "* ebobby/has-many-with-set"
 category: "uncategorized"
 tags: []
 date: "2018-09-28"

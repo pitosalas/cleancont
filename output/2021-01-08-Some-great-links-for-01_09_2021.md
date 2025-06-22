@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  01/09/2021"
-subtitle: "* [Python Code Tips: 4 Ways to Debug Your Python Code Without IDE](<https://link.medium.com/ZTFY7ysz..."
+subtitle: "* Python Code Tips: 4 Ways to Debug Your Python Code Without IDE"
 category: "uncategorized"
 tags: []
 date: "2021-01-08"

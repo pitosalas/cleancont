@@ -1,6 +1,6 @@
 ---
 title: "Superbowl Social Media"
-subtitle: "Here’s a really interesting [article about how the Superbowl used Social Media ](http://socialmediat..."
+subtitle: "Here’s a really interesting article about how the Superbowl used Social Media"
 category: "1"
 tags: ["677", "1884", "1953"]
 date: "2012-02-10"

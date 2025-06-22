@@ -1,6 +1,6 @@
 ---
 title: "Rosetta Code"
-subtitle: "[ Rosetta Code]( https://rosettacode.org/wiki/Rosetta_Code) –Rosetta Code is a programming chrestoma..."
+subtitle: "Rosetta Code –Rosetta Code is a programming chrestoma..."
 category: "1"
 tags: ["1028", "1684", "2290"]
 date: "2022-10-23"

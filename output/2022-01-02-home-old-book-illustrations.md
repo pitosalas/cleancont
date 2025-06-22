@@ -1,6 +1,6 @@
 ---
 title: "Home | Old Book Illustrations"
-subtitle: "[ Home | Old Book Illustrations](https://www.oldbookillustrations.com/?utm_campaign=Recomendo&utm_me..."
+subtitle: "Home | Old Book Illustrations"
 category: "111"
 tags: ["1091", "1250"]
 date: "2022-01-02"

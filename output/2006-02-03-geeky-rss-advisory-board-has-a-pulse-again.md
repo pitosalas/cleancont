@@ -1,6 +1,6 @@
 ---
 title: "[GEEKY] RSS Advisory board has a pulse again!"
-subtitle: "For those of you (like me) who have [lots of dependency](http://www.blogbridge.com/) on RSS, this is..."
+subtitle: "For those of you (like me) who have lots of dependency on RSS, this is..."
 category: "538"
 tags: []
 date: "2006-02-03"

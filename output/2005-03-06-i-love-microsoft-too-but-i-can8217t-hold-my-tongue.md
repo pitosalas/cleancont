@@ -1,6 +1,6 @@
 ---
 title: "I love Microsoft too, but I can’t hold my tongue"
-subtitle: "[Dave Winer](http://archive.scripting.com/2005/03/06#When:2:29:16AM) points to [Kevin Shofield’s def..."
+subtitle: "Dave Winer points to [Kevin Shofield’s def..."
 category: "538"
 tags: []
 date: "2005-03-06"

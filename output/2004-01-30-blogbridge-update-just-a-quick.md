@@ -1,6 +1,6 @@
 ---
 title: "BlogBridge update: Just a quick"
-subtitle: "**BlogBridge update: **Just a quick note about what’s up with [BlogBridge](http://www.blogbridge.com..."
+subtitle: "**BlogBridge update: **Just a quick note about what’s up with BlogBridge"
 category: "1"
 tags: []
 date: "2004-01-30"

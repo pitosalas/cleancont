@@ -1,6 +1,6 @@
 ---
 title: "AI-generated answers temporarily banned on coding Q&A site Stack Overflow"
-subtitle: "[ AI-generated answers temporarily banned on coding Q&A site Stack Overflow](<"
+subtitle: "AI-generated answers temporarily banned on coding Q&A site Stack Overflow"
 category: "uncategorized"
 tags: []
 date: "2022-12-05"

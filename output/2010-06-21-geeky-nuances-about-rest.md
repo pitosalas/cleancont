@@ -1,6 +1,6 @@
 ---
 title: "[GEEKY] Nuances about REST"
-subtitle: "While teaching at Brandeis University this summer (see [Cosi JBS Web Site](http://iceland.cs.brandei..."
+subtitle: "While teaching at Brandeis University this summer (see Cosi JBS Web Site"
 category: "538"
 tags: []
 date: "2010-06-21"

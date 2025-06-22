@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  10/15/2018"
-subtitle: "[Ruby goes Serverless! – Apache OpenWhisk adds native support for Ruby](https://medium.com/openwhisk..."
+subtitle: "Ruby goes Serverless! – Apache OpenWhisk adds native support for Ruby"
 category: "301"
 tags: []
 date: "2018-10-14"

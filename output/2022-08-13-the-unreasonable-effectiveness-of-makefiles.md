@@ -1,6 +1,6 @@
 ---
 title: "The Unreasonable Effectiveness of Makefiles"
-subtitle: "[ The Unreasonable Effectiveness of Makefiles]( https://matt-rickard.com/the-unreasonable-effectiven..."
+subtitle: "The Unreasonable Effectiveness of Makefiles"
 category: "1"
 tags: ["2233", "1221", "1425"]
 date: "2022-08-13"

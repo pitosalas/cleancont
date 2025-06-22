@@ -1,6 +1,6 @@
 ---
 title: "All I need is a pair of pants"
-subtitle: "Check out [this post](http://feeds.feedburner.com/~r/zephoria/thoughts/~3/207694274/all_i_need_is_a...."
+subtitle: "Check out this post"
 category: "298"
 tags: []
 date: "2007-12-29"

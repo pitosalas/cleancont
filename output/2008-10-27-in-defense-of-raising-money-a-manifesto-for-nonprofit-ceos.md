@@ -1,6 +1,6 @@
 ---
 title: "In Defense of Raising Money: a Manifesto for NonProfit CEOs"
-subtitle: "Check out this post [In Defense of Raising Money: a Manifesto for NonProfit CEOs:](http://feeds.feed..."
+subtitle: "Check out this post In Defense of Raising Money: a Manifesto for NonProfit CEOs:"
 category: "298"
 tags: []
 date: "2008-10-27"

@@ -1,6 +1,6 @@
 ---
 title: "[QUASI-GEEK]A trip to the market"
-subtitle: "Do you follow [Ben Hyde’s blog](http://enthusiasm.cozy.org/)? I **recommend** it – he has always fas..."
+subtitle: "Do you follow Ben Hyde’s blog? I **recommend** it – he has always fas..."
 category: "298"
 tags: []
 date: "2005-09-11"

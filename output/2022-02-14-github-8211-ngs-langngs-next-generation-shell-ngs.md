@@ -1,6 +1,6 @@
 ---
 title: "GitHub – ngs-lang/ngs: Next Generation Shell (NGS)"
-subtitle: "[ GitHub – ngs-lang/ngs: Next Generation Shell (NGS)](https://github.com/ngs-lang/ngs/)"
+subtitle: "GitHub – ngs-lang/ngs: Next Generation Shell (NGS)"
 category: "30"
 tags: []
 date: "2022-02-14"

@@ -1,6 +1,6 @@
 ---
 title: "How To Use RTK GPS On A ROS Robot"
-subtitle: "[ How To Use RTK GPS On A ROS Robot]( https://medium.com/exploring-ros-robotics/how-to-use-rtk-gps-o..."
+subtitle: "How To Use RTK GPS On A ROS Robot"
 category: "1"
 tags: ["1154", "1221", "1755", "2600"]
 date: "2023-11-16"

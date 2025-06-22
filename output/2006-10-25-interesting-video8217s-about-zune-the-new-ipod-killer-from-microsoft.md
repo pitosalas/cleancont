@@ -1,6 +1,6 @@
 ---
 title: "Interesting video’s about Zune, the new iPod killer from Microsoft"
-subtitle: "Scoble [writes about the Zune](http://scobleizer.wordpress.com/2006/10/24/microsoft-zune-in-depth/)...."
+subtitle: "Scoble writes about the Zune...."
 category: "1"
 tags: []
 date: "2006-10-25"

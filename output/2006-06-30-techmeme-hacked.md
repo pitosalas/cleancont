@@ -1,6 +1,6 @@
 ---
 title: "Techmeme Hacked"
-subtitle: "I am at [Gnomedex](http://www.gnomedex.com/) and the news is spreading like wildfire: [TechMeme](htt..."
+subtitle: "I am at Gnomedex and the news is spreading like wildfire: TechMeme"
 category: "298"
 tags: []
 date: "2006-06-30"

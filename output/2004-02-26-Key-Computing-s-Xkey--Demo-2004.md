@@ -1,6 +1,6 @@
 ---
 title: "Key Computing’s Xkey: (Demo 2004"
-subtitle: ">> [**Key Computing 's Xkey:**](<http://www.key-computing.com/XKey.asp>)"
+subtitle: ">> **Key Computing 's Xkey:**"
 category: "uncategorized"
 tags: []
 date: "2004-02-26"

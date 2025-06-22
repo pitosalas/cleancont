@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  01/11/2019"
-subtitle: "* [Bindings and Lexical Scope in Ruby](<https://blog.appsignal.com/2019/01/08/ruby-magic-bindings-an..."
+subtitle: "* Bindings and Lexical Scope in Ruby"
 category: "uncategorized"
 tags: []
 date: "2019-01-10"

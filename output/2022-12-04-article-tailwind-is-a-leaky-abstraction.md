@@ -1,6 +1,6 @@
 ---
 title: "Article: Tailwind is a Leaky Abstraction"
-subtitle: "[ Article: Tailwind is a Leaky Abstraction]( https://jakelazaroff.com/words/tailwind-is-a-leaky-abst..."
+subtitle: "Article: Tailwind is a Leaky Abstraction"
 category: "1"
 tags: ["896", "2333", "2334"]
 date: "2022-12-04"

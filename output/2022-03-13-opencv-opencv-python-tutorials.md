@@ -1,6 +1,6 @@
 ---
 title: "OpenCV: OpenCV-Python Tutorials"
-subtitle: "[ OpenCV: OpenCV-Python Tutorials](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)"
+subtitle: "OpenCV: OpenCV-Python Tutorials"
 category: "370"
 tags: []
 date: "2022-03-13"

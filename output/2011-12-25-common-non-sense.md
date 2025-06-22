@@ -1,6 +1,6 @@
 ---
 title: "Common Non-sense"
-subtitle: "I just finished reading a great book, “[Everything Is Obvious: *Once You Know the Answer](http://www..."
+subtitle: "I just finished reading a great book, “Everything Is Obvious: *Once You Know the Answer"
 category: "1"
 tags: ["832", "1548"]
 date: "2011-12-25"

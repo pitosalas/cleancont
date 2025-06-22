@@ -1,6 +1,6 @@
 ---
 title: "Insights on the world of mashups"
-subtitle: "[Adam Green](//www.darwinianweb.com/) has two very insightful posts about Mashups inspired at [Mashu..."
+subtitle: "Adam Green has two very insightful posts about Mashups inspired at [Mashu..."
 category: "538"
 tags: []
 date: "2006-02-21"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  10/16/2019"
-subtitle: "[How to Write Fast Code in Ruby on Rails – Shopify Engineering](https://engineering.shopify.com/blog..."
+subtitle: "How to Write Fast Code in Ruby on Rails – Shopify Engineering"
 category: "301"
 tags: []
 date: "2019-10-15"

@@ -1,6 +1,6 @@
 ---
 title: "Social Networking (Demo 2004 Series"
-subtitle: "**Social Networking (Demo 2004 Series – 8) **[I’ve written a few times](/2004/01/24.html#a155) about..."
+subtitle: "**Social Networking (Demo 2004 Series – 8) **I’ve written a few times about..."
 category: "1"
 tags: []
 date: "2004-03-05"

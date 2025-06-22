@@ -1,6 +1,6 @@
 ---
 title: "teaxyz/cli: the unified package manager (brew2)"
-subtitle: "[ teaxyz/cli: the unified package manager (brew2)]( https://github.com/teaxyz/cli) –This is pretty c..."
+subtitle: "teaxyz/cli: the unified package manager (brew2) –This is pretty c..."
 category: "1"
 tags: ["2316", "1033", "2317", "1575", "2315"]
 date: "2022-11-27"

@@ -1,6 +1,6 @@
 ---
 title: "BlogBridge on the radar screen?"
-subtitle: "This is pretty cool: [BlogBridge was picked up by Sun’s monthly ‘Swing Sightings’ ](http://java.sun...."
+subtitle: "This is pretty cool: BlogBridge was picked up by Sun’s monthly ‘Swing Sightings’"
 category: "50"
 tags: []
 date: "2004-11-20"

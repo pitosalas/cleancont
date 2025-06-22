@@ -1,6 +1,6 @@
 ---
 title: "How Kubernetes Reinvented Virtual Machines (in a good sense)"
-subtitle: "[ How Kubernetes Reinvented Virtual Machines (in a good sense)]( https://iximiuz.com/en/posts/kubern..."
+subtitle: "How Kubernetes Reinvented Virtual Machines (in a good sense)"
 category: "1"
 tags: ["1033", "2178", "1347"]
 date: "2022-08-14"

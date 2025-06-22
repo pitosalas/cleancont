@@ -1,6 +1,6 @@
 ---
 title: "Check out WriteThatName"
-subtitle: "I’ve been using a app called “[WriteThatName](https://writethat.name/live/webapp/en/settings.html?pi..."
+subtitle: "I’ve been using a app called “WriteThatName"
 category: "1"
 tags: ["998", "1857", "2010", "2135"]
 date: "2012-11-07"

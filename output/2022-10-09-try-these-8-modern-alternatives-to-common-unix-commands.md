@@ -1,6 +1,6 @@
 ---
 title: "Try These 8 Modern Alternatives to Common Unix Commands"
-subtitle: "[ Try These 8 Modern Alternatives to Common Unix Commands]( https://link.medium.com/9sglvcTqZtb) –I ..."
+subtitle: "Try These 8 Modern Alternatives to Common Unix Commands –I ..."
 category: "1"
 tags: ["699", "811", "1221", "1387", "2274"]
 date: "2022-10-09"

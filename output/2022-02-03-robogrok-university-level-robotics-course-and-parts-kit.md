@@ -1,6 +1,6 @@
 ---
 title: "RoboGrok University-Level Robotics Course and Parts Kit"
-subtitle: "[ RoboGrok University-Level Robotics Course and Parts Kit](http://robogrok.com/)"
+subtitle: "RoboGrok University-Level Robotics Course and Parts Kit"
 category: "98"
 tags: ["1406"]
 date: "2022-02-03"

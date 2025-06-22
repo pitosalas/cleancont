@@ -1,6 +1,6 @@
 ---
 title: "Top Ten Lies"
-subtitle: "Guy Kawasaki with [another one of his great posts](http://blog.guykawasaki.com/2006/05/the_top_ten_l..."
+subtitle: "Guy Kawasaki with another one of his great posts"
 category: "298"
 tags: []
 date: "2006-06-19"

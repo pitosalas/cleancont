@@ -1,6 +1,6 @@
 ---
 title: "Provocative article about a sensitive topic"
-subtitle: "[Eric Ries ](http://www.crunchbase.com/person/eric-ries)is locally famous as being one of the strong..."
+subtitle: "Eric Ries is locally famous as being one of the strong..."
 category: "1"
 tags: ["1007", "1707", "1843", "1868", "2126"]
 date: "2011-11-24"

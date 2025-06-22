@@ -1,6 +1,6 @@
 ---
 title: "Scoble on Search. Robert Scoble"
-subtitle: "**Scoble on Search.** Robert Scoble (of Microsoft fame) [writes about a new search utility](http://r..."
+subtitle: "**Scoble on Search.** Robert Scoble (of Microsoft fame) writes about a new search utility"
 category: "1"
 tags: []
 date: "2004-03-01"

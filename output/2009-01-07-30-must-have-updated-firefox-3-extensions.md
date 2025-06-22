@@ -1,6 +1,6 @@
 ---
 title: "30+ Must-Have Updated Firefox 3 Extensions"
-subtitle: "Check this post [30+ Must-Have Updated Firefox 3 Extensions](http://mashable.com/2008/06/26/firefox-..."
+subtitle: "Check this post 30+ Must-Have Updated Firefox 3 Extensions"
 category: "538"
 tags: ["1067", "1637"]
 date: "2009-01-07"

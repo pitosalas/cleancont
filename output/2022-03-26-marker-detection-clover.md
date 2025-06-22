@@ -1,6 +1,6 @@
 ---
 title: "Marker detection · Clover"
-subtitle: "[ Marker detection · Clover](https://clover.coex.tech/en/aruco_marker.html)"
+subtitle: "Marker detection · Clover"
 category: "26"
 tags: []
 date: "2022-03-26"

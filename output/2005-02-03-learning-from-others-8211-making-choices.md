@@ -1,6 +1,6 @@
 ---
 title: "Learning from others – Making choices"
-subtitle: "[Dave Winer makes a point](http://archive.scripting.com/2005/02/03#When:7:09:19AM) which I **totally..."
+subtitle: "Dave Winer makes a point which I **totally..."
 category: "50"
 tags: []
 date: "2005-02-03"

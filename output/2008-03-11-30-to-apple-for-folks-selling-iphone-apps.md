@@ -1,6 +1,6 @@
 ---
 title: "30% to Apple for folks selling iPhone apps??"
-subtitle: "Check out [this post](http://feeds.feedburner.com/%7Er/jutopia/%7E3/247128668/) from [Planet RubyOnR..."
+subtitle: "Check out this post from [Planet RubyOnR..."
 category: "538"
 tags: []
 date: "2008-03-11"

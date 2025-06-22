@@ -1,6 +1,6 @@
 ---
 title: "Remove Background From Images For Free – Erase.bg"
-subtitle: "[ Remove Background From Images For Free – Erase.bg](https://www.erase.bg/en/)"
+subtitle: "Remove Background From Images For Free – Erase.bg"
 category: "39"
 tags: ["1091"]
 date: "2021-11-22"

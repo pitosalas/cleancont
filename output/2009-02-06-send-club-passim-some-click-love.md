@@ -1,6 +1,6 @@
 ---
 title: "Send Club Passim some click love"
-subtitle: "![passimlogo](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-content/uplo..."
+subtitle: "!passimlogo"
 category: "298"
 tags: []
 date: "2009-02-06"

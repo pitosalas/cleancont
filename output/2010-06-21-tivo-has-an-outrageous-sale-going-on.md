@@ -1,6 +1,6 @@
 ---
 title: "TIvo has an outrageous sale going on"
-subtitle: "Right now, take a look at [Tivo’s Site](https://www3.tivo.com/store/clearance.do?WT.ac=tivohome_clea..."
+subtitle: "Right now, take a look at Tivo’s Site"
 category: "538"
 tags: []
 date: "2010-06-21"

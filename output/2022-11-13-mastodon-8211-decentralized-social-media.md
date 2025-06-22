@@ -1,6 +1,6 @@
 ---
 title: "Mastodon – Decentralized social media"
-subtitle: "[ Mastodon – Decentralized social media]( https://joinmastodon.org/) –Learn more about Mastodon, the..."
+subtitle: "Mastodon – Decentralized social media –Learn more about Mastodon, the..."
 category: "1"
 tags: ["1221", "1288", "2294"]
 date: "2022-11-13"

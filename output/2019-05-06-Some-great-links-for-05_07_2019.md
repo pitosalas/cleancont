@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  05/07/2019"
-subtitle: "* [Instrumenting Ruby on Rails with Prometheus](<https://www.firehydrant.io/blog/instrumenting-ruby-..."
+subtitle: "* Instrumenting Ruby on Rails with Prometheus"
 category: "uncategorized"
 tags: []
 date: "2019-05-06"

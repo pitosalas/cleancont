@@ -1,6 +1,6 @@
 ---
 title: "Puzzle Master Inc – #1 Platform to Buy Puzzles Online"
-subtitle: "[ Puzzle Master Inc – #1 Platform to Buy Puzzles Online]( https://www.puzzlemaster.ca/?utm_campaign=..."
+subtitle: "Puzzle Master Inc – #1 Platform to Buy Puzzles Online"
 category: "1"
 tags: ["2253", "2254", "1851"]
 date: "2022-09-04"

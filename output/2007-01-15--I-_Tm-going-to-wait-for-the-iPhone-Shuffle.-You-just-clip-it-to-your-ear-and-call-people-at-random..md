@@ -1,6 +1,6 @@
 ---
 title: "“I�_Tm going to wait for the iPhone Shuffle. You just clip it to your ear and call people at random.”"
-subtitle: ">  body { font-variant: normal; font-size: 11pt; font-style: normal; font-"
+subtitle: "> body { font-variant: normal; font-size: 11pt; font-style: normal; font-"
 category: "uncategorized"
 tags: []
 date: "2007-01-15"

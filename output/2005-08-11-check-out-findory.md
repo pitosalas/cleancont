@@ -1,6 +1,6 @@
 ---
 title: "Check out Findory"
-subtitle: "I was talking about search engines [the other day](/weblogs/archives/000805.html). I guess Findory i..."
+subtitle: "I was talking about search engines the other day. I guess Findory i..."
 category: "51"
 tags: []
 date: "2005-08-11"

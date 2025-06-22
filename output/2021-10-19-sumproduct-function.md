@@ -1,6 +1,6 @@
 ---
 title: "SUMPRODUCT function"
-subtitle: "[ SUMPRODUCT function](https://support.microsoft.com/en-us/office/sumproduct-function-16753e75-9f68-..."
+subtitle: "SUMPRODUCT function"
 category: "21"
 tags: ["1029", "1145"]
 date: "2021-10-19"

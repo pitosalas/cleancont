@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  08/11/2018"
-subtitle: "[Why we don’t trust software for voting](https://www.diigo.com/item/image/7lk/14970513)"
+subtitle: "Why we don’t trust software for voting"
 category: "301"
 tags: []
 date: "2018-08-10"

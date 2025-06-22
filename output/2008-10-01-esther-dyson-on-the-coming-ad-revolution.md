@@ -1,6 +1,6 @@
 ---
 title: "Esther Dyson on the Coming Ad Revolution"
-subtitle: "[Esther Dyson](http://www.edventure.com/) wrote this very interesting [Wall Street Journal article a..."
+subtitle: "Esther Dyson wrote this very interesting [Wall Street Journal article a..."
 category: "298"
 tags: []
 date: "2008-10-01"

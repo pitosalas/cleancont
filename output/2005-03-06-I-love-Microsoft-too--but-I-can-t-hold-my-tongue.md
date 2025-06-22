@@ -1,6 +1,6 @@
 ---
 title: "I love Microsoft too, but I can’t hold my tongue"
-subtitle: "[Dave Winer](<http://archive.scripting.com/2005/03/06#When:2:29:16AM>) points"
+subtitle: "Dave Winer points"
 category: "uncategorized"
 tags: []
 date: "2005-03-06"

@@ -1,6 +1,6 @@
 ---
 title: "Falsehoods Programmers Believe About Names | Kalzumeus Software"
-subtitle: "[ Falsehoods Programmers Believe About Names | Kalzumeus Software]( https://www.kalzumeus.com/2010/0..."
+subtitle: "Falsehoods Programmers Believe About Names | Kalzumeus Software"
 category: "1"
 tags: []
 date: "2023-03-28"

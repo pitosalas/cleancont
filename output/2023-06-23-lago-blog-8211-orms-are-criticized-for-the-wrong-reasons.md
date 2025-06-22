@@ -1,6 +1,6 @@
 ---
 title: "Lago Blog – ORMs are criticized for the wrong reasons"
-subtitle: "[ Lago Blog – ORMs are criticized for the wrong reasons](https://www.getlago.com/blog/orms-are-criti..."
+subtitle: "Lago Blog – ORMs are criticized for the wrong reasons"
 category: "1"
 tags: ["1033", "2506", "1605", "1772", "1908"]
 date: "2023-06-23"

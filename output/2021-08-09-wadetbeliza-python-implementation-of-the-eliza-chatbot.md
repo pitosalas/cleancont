@@ -1,6 +1,6 @@
 ---
 title: "wadetb/eliza: Python implementation of the Eliza chatbot"
-subtitle: "[ wadetb/eliza: Python implementation of the Eliza chatbot](https://github.com/wadetb/eliza)"
+subtitle: "wadetb/eliza: Python implementation of the Eliza chatbot"
 category: "75"
 tags: ["611"]
 date: "2021-08-09"

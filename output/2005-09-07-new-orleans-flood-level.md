@@ -1,6 +1,6 @@
 ---
 title: "New Orleans Flood Level"
-subtitle: "[![](https://i0.wp.com/static.flickr.com/29/41024989_ae9f18d3fd_m.jpg?w=584)](http://www.flickr.com/..."
+subtitle: "![](http://www.flickr.com/..."
 category: "1"
 tags: []
 date: "2005-09-07"

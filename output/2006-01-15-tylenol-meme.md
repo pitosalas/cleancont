@@ -1,6 +1,6 @@
 ---
 title: "Tylenol meme"
-subtitle: "[Amusingly](http://doc.weblogs.com/2006/01/15#coincidence), [several](http://doc.weblogs.com/2006/01..."
+subtitle: "Amusingly, several"
 category: "298"
 tags: []
 date: "2006-01-15"

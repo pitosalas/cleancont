@@ -1,6 +1,6 @@
 ---
 title: "Really good article about the music business"
-subtitle: "[Robin Good](http://www.masternewmedia.org/) [points to:](http://www.masternewmedia.org/independent_..."
+subtitle: "Robin Good points to:"
 category: "298"
 tags: []
 date: "2005-09-08"

@@ -1,6 +1,6 @@
 ---
 title: "Harper’s on torture"
-subtitle: "Came across this [interesting article](http://harpers.org/archive/2007/12/hbc-90001917). You may agr..."
+subtitle: "Came across this interesting article. You may agr..."
 category: "298"
 tags: []
 date: "2008-08-16"

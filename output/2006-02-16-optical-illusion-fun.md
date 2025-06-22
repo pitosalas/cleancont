@@ -1,6 +1,6 @@
 ---
 title: "Optical illusion fun"
-subtitle: "I got this in an email, not sure exactly where it came from but it’s pretty cool. The image  looks l..."
+subtitle: "I got this in an email, not sure exactly where it came from but it’s pretty cool. The image looks l..."
 category: "298"
 tags: []
 date: "2006-02-16"

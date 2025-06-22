@@ -1,6 +1,6 @@
 ---
 title: "Transparency is the new objectivity: Really good post from David Weinberger"
-subtitle: "Check this excerpt from a post by [David Weinberger](http://en.wikipedia.org/wiki/David_Weinberger) ..."
+subtitle: "Check this excerpt from a post by David Weinberger ..."
 category: "50"
 tags: []
 date: "2009-07-20"

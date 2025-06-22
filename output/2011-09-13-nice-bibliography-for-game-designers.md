@@ -1,6 +1,6 @@
 ---
 title: "Nice bibliography for game designers"
-subtitle: "I got some of this list from [Lee Sheldon’s course syllabus.](http://gamingtheclassroom.wordpress.co..."
+subtitle: "I got some of this list from Lee Sheldon’s course syllabus."
 category: "298"
 tags: ["937", "1113"]
 date: "2011-09-13"

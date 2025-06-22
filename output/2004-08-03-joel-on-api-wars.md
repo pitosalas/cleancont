@@ -1,6 +1,6 @@
 ---
 title: "Joel on API Wars"
-subtitle: "[Joel writes a good analysis](http://www.joelonsoftware.com/articles/APIWar.html) of some of the dyn..."
+subtitle: "Joel writes a good analysis of some of the dyn..."
 category: "538"
 tags: []
 date: "2004-08-03"

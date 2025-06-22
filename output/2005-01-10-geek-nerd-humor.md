@@ -1,6 +1,6 @@
 ---
 title: "[GEEK] Nerd Humor"
-subtitle: "[Amusing. ](http://www.ariel.com.au/jokes/The_Evolution_of_a_Programmer.html) Do you recognize yours..."
+subtitle: "Amusing. Do you recognize yours..."
 category: "422"
 tags: []
 date: "2005-01-10"

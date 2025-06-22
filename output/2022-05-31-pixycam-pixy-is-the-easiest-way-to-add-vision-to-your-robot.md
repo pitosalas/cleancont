@@ -1,6 +1,6 @@
 ---
 title: "PixyCam – Pixy is the easiest way to add vision to your robot!"
-subtitle: "[ PixyCam – Pixy is the easiest way to add vision to your robot!](https://pixycam.com/)"
+subtitle: "PixyCam – Pixy is the easiest way to add vision to your robot!"
 category: "127"
 tags: []
 date: "2022-05-31"

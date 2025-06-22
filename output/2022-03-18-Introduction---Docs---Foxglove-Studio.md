@@ -1,6 +1,6 @@
 ---
 title: "Introduction – Docs – Foxglove Studio"
-subtitle: "[ Introduction - Docs - Foxglove Studio](<https://foxglove.dev/docs/studio>)"
+subtitle: "Introduction - Docs - Foxglove Studio"
 category: "uncategorized"
 tags: []
 date: "2022-03-18"

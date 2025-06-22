@@ -1,6 +1,6 @@
 ---
 title: "How hard is it to cheat with ChatGPT in technical interviews? We ran an experiment."
-subtitle: "[ How hard is it to cheat with ChatGPT in technical interviews? We ran an experiment.]( https://inte..."
+subtitle: "How hard is it to cheat with ChatGPT in technical interviews? We ran an experiment."
 category: "1"
 tags: []
 date: "2024-02-02"

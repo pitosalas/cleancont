@@ -1,6 +1,6 @@
 ---
 title: "Lightbulb about Podcasting (“Some stuff I just figured out”)"
-subtitle: "I attended a Podcasting meeting at [Berkman ](http://cyber.law.harvard.edu/home/)a [couple of days a..."
+subtitle: "I attended a Podcasting meeting at Berkman a [couple of days a..."
 category: "538"
 tags: []
 date: "2004-12-18"

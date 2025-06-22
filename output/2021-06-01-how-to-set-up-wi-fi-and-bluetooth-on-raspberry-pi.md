@@ -1,6 +1,6 @@
 ---
 title: "How to Set Up Wi-Fi and Bluetooth on Raspberry Pi"
-subtitle: "[ How to Set Up Wi-Fi and Bluetooth on Raspberry Pi](https://www.makeuseof.com/tag/setup-wi-fi-bluet..."
+subtitle: "How to Set Up Wi-Fi and Bluetooth on Raspberry Pi"
 category: "249"
 tags: []
 date: "2021-06-01"

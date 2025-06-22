@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  12/16/2018"
-subtitle: "[Introducing Action Mailbox for Rails 6](https://weblog.rubyonrails.org/2018/12/13/introducing-actio..."
+subtitle: "Introducing Action Mailbox for Rails 6"
 category: "301"
 tags: []
 date: "2018-12-15"

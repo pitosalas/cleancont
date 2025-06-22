@@ -1,6 +1,6 @@
 ---
 title: "New in Git: switch and restore"
-subtitle: "[ New in Git: switch and restore](https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/..."
+subtitle: "New in Git: switch and restore"
 category: "77"
 tags: ["1134", "1135"]
 date: "2021-08-08"

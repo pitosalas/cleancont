@@ -1,6 +1,6 @@
 ---
 title: "BlogBridge Starz!"
-subtitle: "Finally. Ever since we started working on [BlogBridge](http://www.blogbridge.com), I’ve been talking..."
+subtitle: "Finally. Ever since we started working on BlogBridge, I’ve been talking..."
 category: "50"
 tags: []
 date: "2004-08-20"

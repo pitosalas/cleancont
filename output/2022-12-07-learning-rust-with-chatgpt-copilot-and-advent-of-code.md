@@ -1,6 +1,6 @@
 ---
 title: "Learning Rust with ChatGPT, Copilot and Advent of Code"
-subtitle: "[ Learning Rust with ChatGPT, Copilot and Advent of Code]( https://simonwillison.net/2022/Dec/5/rust..."
+subtitle: "Learning Rust with ChatGPT, Copilot and Advent of Code"
 category: "1"
 tags: ["2352", "611", "2340", "1020", "1033", "1368", "1782"]
 date: "2022-12-07"

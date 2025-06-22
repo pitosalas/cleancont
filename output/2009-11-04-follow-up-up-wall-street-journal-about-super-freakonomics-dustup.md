@@ -1,6 +1,6 @@
 ---
 title: "Follow-up up Wall Street Journal about Super Freakonomics Dustup"
-subtitle: "I [wrote the other day about the ‘amusing’ dust-up between](/2009/10/30/oh-snap-detailed-take-down-o..."
+subtitle: "I wrote the other day about the ‘amusing’ dust-up between"
 category: "410"
 tags: []
 date: "2009-11-04"

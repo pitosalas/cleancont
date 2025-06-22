@@ -1,6 +1,6 @@
 ---
 title: "OpenCV: Canny Edge Detection"
-subtitle: "[ OpenCV: Canny Edge Detection](https://docs.opencv.org/4.x/da/d22/tutorial_py_canny.html)"
+subtitle: "OpenCV: Canny Edge Detection"
 category: "67"
 tags: []
 date: "2022-03-13"

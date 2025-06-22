@@ -1,6 +1,6 @@
 ---
 title: "Is the world ready for a replacement to Outlook?"
-subtitle: "[Everyone loves](http://reviews-zdnet.com.com/AnchorDesk/4520-7297_16-5141451.html?tag=adts) to beat..."
+subtitle: "Everyone loves to beat..."
 category: "538"
 tags: []
 date: "2004-06-28"

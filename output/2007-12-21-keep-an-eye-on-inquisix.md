@@ -1,6 +1,6 @@
 ---
 title: "Keep an eye on Inquisix"
-subtitle: "Here’s an interesting new product, just into beta: [Inquisix](http://inquisix.com/). This is a servi..."
+subtitle: "Here’s an interesting new product, just into beta: Inquisix. This is a servi..."
 category: "298"
 tags: []
 date: "2007-12-21"

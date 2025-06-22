@@ -1,6 +1,6 @@
 ---
 title: "What Should You Do with Your Life? Directions and Advice – Alexey Guzey"
-subtitle: "[ What Should You Do with Your Life? Directions and Advice – Alexey Guzey]( https://guzey.com/person..."
+subtitle: "What Should You Do with Your Life? Directions and Advice – Alexey Guzey"
 category: "1"
 tags: ["608", "2203", "2204"]
 date: "2022-07-17"

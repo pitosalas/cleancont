@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  12/26/2018"
-subtitle: "* [Everything I've learned in 10 years of Blogging](<https://ferrucc.io/posts/starting-a-blog/?utm_s..."
+subtitle: "* Everything I've learned in 10 years of Blogging"
 category: "uncategorized"
 tags: []
 date: "2018-12-25"

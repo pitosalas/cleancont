@@ -1,6 +1,6 @@
 ---
 title: "Enterprise 2.0 – What’s in it for you?"
-subtitle: "[Enterprise 2.0](<http://en.wikipedia.org/wiki/Enterprise_2.0>) is one of"
+subtitle: "Enterprise 2.0 is one of"
 category: "uncategorized"
 tags: []
 date: "2007-09-29"

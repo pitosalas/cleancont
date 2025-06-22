@@ -1,6 +1,6 @@
 ---
 title: "Comparing Ruby Background Processing Libraries: Delayed Job – SitePoint"
-subtitle: "[ Comparing Ruby Background Processing Libraries: Delayed Job – SitePoint](https://www.sitepoint.com..."
+subtitle: "Comparing Ruby Background Processing Libraries: Delayed Job – SitePoint"
 category: "40"
 tags: ["1605", "1772"]
 date: "2022-03-28"

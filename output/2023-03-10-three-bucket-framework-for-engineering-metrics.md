@@ -1,6 +1,6 @@
 ---
 title: "Three-Bucket Framework for Engineering Metrics"
-subtitle: "[ Three-Bucket Framework for Engineering Metrics]( https://newsletter.abinoda.com/p/choosing-enginee..."
+subtitle: "Three-Bucket Framework for Engineering Metrics"
 category: "1"
 tags: ["2440", "1428", "2439", "1678", "1888"]
 date: "2023-03-10"

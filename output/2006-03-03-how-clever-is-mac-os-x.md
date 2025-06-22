@@ -1,6 +1,6 @@
 ---
 title: "How clever is Mac OS X?"
-subtitle: "I guess because **deep down** I am still a paranoid **Windows** user, my OS X  is configured to **au..."
+subtitle: "I guess because **deep down** I am still a paranoid **Windows** user, my OS X is configured to **au..."
 category: "538"
 tags: []
 date: "2006-03-03"

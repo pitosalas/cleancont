@@ -1,6 +1,6 @@
 ---
 title: "Intro to web scraping with Ruby"
-subtitle: "[ Intro to web scraping with Ruby](https://longliveruby.com/articles/intro-to-webscrapping-with-ruby..."
+subtitle: "Intro to web scraping with Ruby"
 category: "249"
 tags: ["1772", "2103"]
 date: "2021-11-05"

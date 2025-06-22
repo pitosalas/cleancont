@@ -1,6 +1,6 @@
 ---
 title: "Interesting Wired article about War Blogs"
-subtitle: "I [came across this a little](http://www.wired.com/wired/archive/13.08/milblogs.html) while ago in W..."
+subtitle: "I came across this a little while ago in W..."
 category: "298"
 tags: []
 date: "2005-11-15"

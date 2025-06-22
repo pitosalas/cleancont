@@ -1,6 +1,6 @@
 ---
 title: "A Quick and Easy Guide to the Asset Pipeline in Rails 7 | Mix & Go"
-subtitle: "[ A Quick and Easy Guide to the Asset Pipeline in Rails 7 | Mix & Go](<"
+subtitle: "A Quick and Easy Guide to the Asset Pipeline in Rails 7 | Mix & Go"
 category: "uncategorized"
 tags: []
 date: "2022-09-17"

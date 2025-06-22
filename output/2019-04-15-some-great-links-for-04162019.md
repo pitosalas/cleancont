@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  04/16/2019"
-subtitle: "[Faster PostgreSQL Counting](https://www.citusdata.com/blog/2016/10/12/count-performance/)"
+subtitle: "Faster PostgreSQL Counting"
 category: "301"
 tags: []
 date: "2019-04-15"

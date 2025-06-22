@@ -1,6 +1,6 @@
 ---
 title: "Testing network services in Ruby is easier than you think"
-subtitle: "[ Testing network services in Ruby is easier than you think](https://www.justinweiss.com/articles/te..."
+subtitle: "Testing network services in Ruby is easier than you think"
 category: "113"
 tags: ["966", "1772", "1986"]
 date: "2022-03-04"

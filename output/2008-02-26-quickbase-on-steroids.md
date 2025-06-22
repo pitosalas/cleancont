@@ -1,6 +1,6 @@
 ---
 title: "Quickbase on steroids?"
-subtitle: "Here’s a new online light weight database product that picks up where [QuickBase](http://www.quickba..."
+subtitle: "Here’s a new online light weight database product that picks up where QuickBase"
 category: "298"
 tags: []
 date: "2008-02-26"

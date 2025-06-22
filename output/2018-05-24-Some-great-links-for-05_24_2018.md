@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  05/24/2018"
-subtitle: "* [Caching in Ruby on Rails 5.2 – Ruby Inside – Medium](<https://medium.com/rubyinside/https-medium-..."
+subtitle: "* Caching in Ruby on Rails 5.2 – Ruby Inside – Medium"
 category: "uncategorized"
 tags: []
 date: "2018-05-24"

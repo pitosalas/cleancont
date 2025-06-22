@@ -1,6 +1,6 @@
 ---
 title: "Don’t work. Avoid telling the truth. Be hated. Love someone."
-subtitle: "Ok, I don’t agree with all of “[Don’t work. Avoid telling the truth. Be hated. Love someone”](http:/..."
+subtitle: "Ok, I don’t agree with all of “Don’t work. Avoid telling the truth. Be hated. Love someone”"
 category: "1"
 tags: ["603", "1372", "1378", "2124"]
 date: "2012-04-14"

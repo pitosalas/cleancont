@@ -1,6 +1,6 @@
 ---
 title: "Follow-up on my iPod Rant"
-subtitle: "After [my rant a few days ago](/weblogs/archives/000891.php) about the **quality** of new-fangled el..."
+subtitle: "After my rant a few days ago about the **quality** of new-fangled el..."
 category: "298"
 tags: []
 date: "2005-10-07"

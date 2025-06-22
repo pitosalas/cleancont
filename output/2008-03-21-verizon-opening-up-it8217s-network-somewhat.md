@@ -1,6 +1,6 @@
 ---
 title: "Verizon opening up it’s network somewhat"
-subtitle: "I am starting to follow the world of [mesh networks](http://del.icio.us/tag/meshnetworks) and things..."
+subtitle: "I am starting to follow the world of mesh networks and things..."
 category: "298"
 tags: []
 date: "2008-03-21"

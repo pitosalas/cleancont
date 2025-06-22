@@ -1,6 +1,6 @@
 ---
 title: "World’s Tallest Man Lends a Hand"
-subtitle: ">  body { line-height: normal; font-family: Lucida Grande; font-style: normal;"
+subtitle: "> body { line-height: normal; font-family: Lucida Grande; font-style: normal;"
 category: "uncategorized"
 tags: []
 date: "2006-12-18"

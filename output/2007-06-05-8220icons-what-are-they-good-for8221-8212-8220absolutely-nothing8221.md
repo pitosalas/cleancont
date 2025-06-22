@@ -1,6 +1,6 @@
 ---
 title: "“Icons: What are they good for?” — “Absolutely Nothing!”"
-subtitle: "[Jeremy Wagstaff, in his regular “Loose Wires”](http://online.wsj.com/article/SB118064841957620556.h..."
+subtitle: "Jeremy Wagstaff, in his regular “Loose Wires”"
 category: "298"
 tags: []
 date: "2007-06-05"

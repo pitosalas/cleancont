@@ -1,6 +1,6 @@
 ---
 title: "rethinking gladwell’s model of influence"
-subtitle: "Check out [this post](http://www.influxinsights.com/index.php?id=1165) from [Influx Insights Weblog]..."
+subtitle: "Check out this post from [Influx Insights Weblog]..."
 category: "298"
 tags: []
 date: "2007-02-12"

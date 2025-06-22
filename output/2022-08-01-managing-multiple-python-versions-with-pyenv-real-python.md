@@ -1,6 +1,6 @@
 ---
 title: "Managing Multiple Python Versions With pyenv – Real Python"
-subtitle: "[ Managing Multiple Python Versions With pyenv – Real Python]( https://realpython.com/intro-to-pyenv..."
+subtitle: "Managing Multiple Python Versions With pyenv – Real Python"
 category: "1"
 tags: ["1221", "2221", "2218", "1692", "2220", "2219"]
 date: "2022-08-01"

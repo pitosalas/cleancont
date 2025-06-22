@@ -1,6 +1,6 @@
 ---
 title: "A great look back at Napster’s history"
-subtitle: "Today we hear that [EMI is going to sell DRM-free music over the iTunes Store](http://www.bloomberg...."
+subtitle: "Today we hear that EMI is going to sell DRM-free music over the iTunes Store"
 category: "298"
 tags: []
 date: "2007-04-02"

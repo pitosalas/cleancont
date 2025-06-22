@@ -1,6 +1,6 @@
 ---
 title: "Python Modules and Packages – An Introduction – Real Python"
-subtitle: "[ Python Modules and Packages – An Introduction – Real Python](https://realpython.com/python-modules..."
+subtitle: "Python Modules and Packages – An Introduction – Real Python"
 category: "249"
 tags: []
 date: "2021-06-29"

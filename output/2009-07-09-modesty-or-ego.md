@@ -1,6 +1,6 @@
 ---
 title: "Modesty or ego?"
-subtitle: "Check this post [Food for thought](http://krugman.blogs.nytimes.com/2009/07/09/food-for-thought/) fr..."
+subtitle: "Check this post Food for thought fr..."
 category: "298"
 tags: []
 date: "2009-07-09"

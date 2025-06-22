@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  07/30/2018"
-subtitle: "[Keyword (Named) Arguments in Python: How to Use Them – Trey Hunner](http://treyhunner.com/2018/04/k..."
+subtitle: "Keyword (Named) Arguments in Python: How to Use Them – Trey Hunner"
 category: "538"
 tags: []
 date: "2018-07-30"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  09/02/2019"
-subtitle: "[WTF :: WTF – the terminal dashboard](https://wtfutil.com)"
+subtitle: "WTF :: WTF – the terminal dashboard"
 category: "301"
 tags: []
 date: "2019-09-01"

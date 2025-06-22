@@ -1,6 +1,6 @@
 ---
 title: "OpenSourceRails.org"
-subtitle: "[ OpenSourceRails.org](https://opensourcerails.org/)"
+subtitle: "OpenSourceRails.org"
 category: "175"
 tags: ["1123", "1562", "1711", "1772"]
 date: "2021-09-02"

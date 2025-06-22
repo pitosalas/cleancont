@@ -1,6 +1,6 @@
 ---
 title: "MiniTest – Writing Test Code In Ruby (2/3)"
-subtitle: "[ MiniTest – Writing Test Code In Ruby (2/3)](https://dev.to/exampro/minitest-writing-test-code-in-r..."
+subtitle: "MiniTest – Writing Test Code In Ruby (2/3)"
 category: "113"
 tags: ["1772", "1986"]
 date: "2022-03-04"

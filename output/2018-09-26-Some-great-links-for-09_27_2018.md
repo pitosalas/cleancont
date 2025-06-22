@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  09/27/2018"
-subtitle: "* [10 practices for writing readable code](<https://dev.to/gonedark/10-practices-for-readable-code-1..."
+subtitle: "* 10 practices for writing readable code"
 category: "uncategorized"
 tags: []
 date: "2018-09-26"

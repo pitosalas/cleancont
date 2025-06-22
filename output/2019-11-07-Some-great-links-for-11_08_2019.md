@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  11/08/2019"
-subtitle: "* [A Recipe for Training Neural Networks](<https://karpathy.github.io/2019/04/25/recipe/>)"
+subtitle: "* A Recipe for Training Neural Networks"
 category: "uncategorized"
 tags: []
 date: "2019-11-07"

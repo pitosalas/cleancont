@@ -1,6 +1,6 @@
 ---
 title: "Oh, great, now I have to choose between lowering cholesterol and exercise"
-subtitle: "[Can Cholesterol Drugs Undo Exercise Benefits? – NYTimes.com](http://well.blogs.nytimes.com/2013/05/..."
+subtitle: "Can Cholesterol Drugs Undo Exercise Benefits? – NYTimes.com"
 category: "1"
 tags: ["799", "1030", "1451", "1919"]
 date: "2013-05-23"

@@ -1,6 +1,6 @@
 ---
 title: "ibraheemdev/modern-unix"
-subtitle: "[ ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix)"
+subtitle: "ibraheemdev/modern-unix"
 category: "45"
 tags: ["1387"]
 date: "2021-06-20"

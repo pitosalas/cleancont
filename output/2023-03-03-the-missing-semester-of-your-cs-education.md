@@ -1,6 +1,6 @@
 ---
 title: "The Missing Semester of Your CS Education"
-subtitle: "[ The Missing Semester of Your CS Education]( https://missing.csail.mit.edu/?utm_source=hackernewsle..."
+subtitle: "The Missing Semester of Your CS Education"
 category: "1"
 tags: ["843", "882", "987", "1033", "1888"]
 date: "2023-03-03"

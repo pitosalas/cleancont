@@ -1,6 +1,6 @@
 ---
 title: "I agree with Tom Friedman"
-subtitle: "[![](https://i0.wp.com/farm4.static.flickr.com/3038/2555325935_dbcd7283e3.jpg?w=584)](http://www.fli..."
+subtitle: "![](http://www.fli..."
 category: "298"
 tags: []
 date: "2008-06-23"

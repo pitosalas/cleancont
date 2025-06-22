@@ -1,6 +1,6 @@
 ---
 title: "Another interesting post at the ‘TSA’ Blog"
-subtitle: "Another really interesting [post](<http://www.tsa.gov/blog/2008/02/truth-"
+subtitle: "Another really interesting post"
 category: "uncategorized"
 tags: []
 date: "2008-03-02"

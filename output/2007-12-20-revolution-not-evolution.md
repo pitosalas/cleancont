@@ -1,6 +1,6 @@
 ---
 title: "Revolution, Not Evolution"
-subtitle: "Check out [this post](http://www.pbs.org/cringely/pulpit/2007/pulpit_20071214_003618.html) from [I, ..."
+subtitle: "Check out this post from [I, ..."
 category: "538"
 tags: []
 date: "2007-12-20"

@@ -1,6 +1,6 @@
 ---
 title: "Why you should build on Kubernetes from day one – Stack Overflow Blog"
-subtitle: "[ Why you should build on Kubernetes from day one – Stack Overflow Blog](https://stackoverflow.blog/..."
+subtitle: "Why you should build on Kubernetes from day one – Stack Overflow Blog"
 category: "108"
 tags: ["1793"]
 date: "2021-08-01"

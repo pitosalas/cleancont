@@ -1,6 +1,6 @@
 ---
 title: "Using Rust at a startup: A cautionary tale"
-subtitle: "[ Using Rust at a startup: A cautionary tale]( https://scribe.rip/using-rust-at-a-startup-a-cautiona..."
+subtitle: "Using Rust at a startup: A cautionary tale"
 category: "1"
 tags: ["819", "1684", "2314", "1782"]
 date: "2022-11-27"

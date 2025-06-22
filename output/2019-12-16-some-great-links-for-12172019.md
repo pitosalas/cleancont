@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  12/17/2019"
-subtitle: "[The Lesson to Unlearn](http://paulgraham.com/lesson.html)"
+subtitle: "The Lesson to Unlearn"
 category: "301"
 tags: []
 date: "2019-12-16"

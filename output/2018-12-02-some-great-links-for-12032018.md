@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  12/03/2018"
-subtitle: "[jarun/nnn](https://github.com/jarun/nnn)"
+subtitle: "jarun/nnn"
 category: "301"
 tags: []
 date: "2018-12-02"

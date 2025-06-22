@@ -1,6 +1,6 @@
 ---
 title: "Overv/outrun: Execute a local command using the processing power of another Linux machine."
-subtitle: "[ Overv/outrun: Execute a local command using the processing power of another Linux machine.](https:..."
+subtitle: "Overv/outrun: Execute a local command using the processing power of another Linux machine."
 category: "84"
 tags: ["1387", "2010"]
 date: "2021-08-22"

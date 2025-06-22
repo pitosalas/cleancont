@@ -1,6 +1,6 @@
 ---
 title: "The Sudden Rise of the Lab-Leak Theory"
-subtitle: "[ The Sudden Rise of the Lab-Leak Theory](https://www.newyorker.com/news/annals-of-inquiry/the-sudde..."
+subtitle: "The Sudden Rise of the Lab-Leak Theory"
 category: "23"
 tags: ["1800"]
 date: "2021-05-28"

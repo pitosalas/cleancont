@@ -1,6 +1,6 @@
 ---
 title: "[GEEKY] The Most Popular Anchor Phrases for Your Site"
-subtitle: "Useful and interesting information from Google for Webmasters. Chec out [this post](http://googlesys..."
+subtitle: "Useful and interesting information from Google for Webmasters. Chec out this post"
 category: "538"
 tags: []
 date: "2007-03-16"

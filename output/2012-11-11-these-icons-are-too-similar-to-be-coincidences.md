@@ -1,6 +1,6 @@
 ---
 title: "These icons are too similar to be coincidences"
-subtitle: "One of these two is from Apple and one is from Google. They both contain  coupons and cards. Which i..."
+subtitle: "One of these two is from Apple and one is from Google. They both contain coupons and cards. Which i..."
 category: "1"
 tags: ["639", "740", "1145", "1159", "1236", "1298", "1402"]
 date: "2012-11-11"

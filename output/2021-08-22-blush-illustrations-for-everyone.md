@@ -1,6 +1,6 @@
 ---
 title: "Blush: Illustrations for everyone"
-subtitle: "[ Blush: Illustrations for everyone](https://blush.design/)"
+subtitle: "Blush: Illustrations for everyone"
 category: "87"
 tags: ["1250"]
 date: "2021-08-22"

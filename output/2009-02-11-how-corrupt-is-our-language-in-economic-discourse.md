@@ -1,6 +1,6 @@
 ---
 title: "How Corrupt is Our Language in Economic Discourse?"
-subtitle: "Check out this post [How Corrupt is Our Language in Economic Discourse?](http://austrianeconomists.t..."
+subtitle: "Check out this post How Corrupt is Our Language in Economic Discourse?"
 category: "410"
 tags: []
 date: "2009-02-11"

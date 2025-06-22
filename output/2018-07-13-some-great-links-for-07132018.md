@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  07/13/2018"
-subtitle: "[Measuring Performance Metrics in Rails – via @codeship](https://blog.codeship.com/measuring-perform..."
+subtitle: "Measuring Performance Metrics in Rails – via @codeship"
 category: "538"
 tags: []
 date: "2018-07-13"

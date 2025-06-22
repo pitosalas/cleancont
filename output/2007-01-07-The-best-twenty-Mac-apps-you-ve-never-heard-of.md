@@ -1,6 +1,6 @@
 ---
 title: "The best twenty Mac apps you’ve never heard of"
-subtitle: ">  body { font-variant: normal; font-style: normal; font-family: Lucida"
+subtitle: "> body { font-variant: normal; font-style: normal; font-family: Lucida"
 category: "uncategorized"
 tags: []
 date: "2007-01-07"

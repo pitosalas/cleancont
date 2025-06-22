@@ -1,6 +1,6 @@
 ---
 title: "ServoCity – Servos, Actobotics, Gears, Motors and More!"
-subtitle: "[ ServoCity – Servos, Actobotics, Gears, Motors and More!](https://www.servocity.com/)"
+subtitle: "ServoCity – Servos, Actobotics, Gears, Motors and More!"
 category: "388"
 tags: []
 date: "2022-01-11"

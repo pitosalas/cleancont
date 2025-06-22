@@ -1,6 +1,6 @@
 ---
 title: "Creating a Chart"
-subtitle: "[ Creating a Chart]( https://docs.preset.io/docs/creating-a-chart) –I’ve been experimenting with Apa..."
+subtitle: "Creating a Chart –I’ve been experimenting with Apa..."
 category: "1"
 tags: ["2349", "2351", "2350", "2348", "1908", "2347", "2081"]
 date: "2022-12-06"

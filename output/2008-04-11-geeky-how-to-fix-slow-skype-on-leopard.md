@@ -1,6 +1,6 @@
 ---
 title: "[GEEKY] How to fix slow Skype on Leopard"
-subtitle: "[![](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-content/uploads/image..."
+subtitle: "!["
 category: "298"
 tags: ["1408"]
 date: "2008-04-11"

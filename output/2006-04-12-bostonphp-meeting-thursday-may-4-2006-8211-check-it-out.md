@@ -1,6 +1,6 @@
 ---
 title: "BostonPHP Meeting: Thursday May 4, 2006 – Check it out!"
-subtitle: "I met Mark Mark Withington at the last Geek Dinner. He runs the [Boston PHP Group](http://www.boston..."
+subtitle: "I met Mark Mark Withington at the last Geek Dinner. He runs the Boston PHP Group"
 category: "298"
 tags: []
 date: "2006-04-12"

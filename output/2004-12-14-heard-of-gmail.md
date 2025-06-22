@@ -1,6 +1,6 @@
 ---
 title: "Heard of GMail?"
-subtitle: "There are many interesting things about [GMail](http://gmail.google.com/gmail), so this is either go..."
+subtitle: "There are many interesting things about GMail, so this is either go..."
 category: "538"
 tags: []
 date: "2004-12-14"

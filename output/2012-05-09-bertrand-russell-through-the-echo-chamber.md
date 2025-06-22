@@ -1,6 +1,6 @@
 ---
 title: "Bertrand Russell through the echo chamber"
-subtitle: "I saw this in [Marginal Revolution](http://marginalrevolution.com/marginalrevolution/2012/05/bertran..."
+subtitle: "I saw this in Marginal Revolution"
 category: "1"
 tags: ["698", "717", "976"]
 date: "2012-05-09"

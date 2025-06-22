@@ -1,6 +1,6 @@
 ---
 title: "Color laser printers consume lots of consumables"
-subtitle: "Color laser printers are **wonderful**. The one I use is a [Konica Minolta QMS 2200](http://www.amaz..."
+subtitle: "Color laser printers are **wonderful**. The one I use is a Konica Minolta QMS 2200"
 category: "538"
 tags: []
 date: "2005-08-11"

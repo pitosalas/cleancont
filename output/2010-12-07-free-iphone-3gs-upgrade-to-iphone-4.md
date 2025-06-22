@@ -1,6 +1,6 @@
 ---
 title: "Free iPhone 3GS upgrade to iPhone 4?"
-subtitle: "So [Radioshack is offering $50 off the price of an iPhone](http://gigaom.com/apple/save-up-to-175-on..."
+subtitle: "So Radioshack is offering $50 off the price of an iPhone"
 category: "298"
 tags: ["639", "1298", "1709"]
 date: "2010-12-07"

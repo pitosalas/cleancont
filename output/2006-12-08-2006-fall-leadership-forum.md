@@ -1,6 +1,6 @@
 ---
 title: "2006 Fall Leadership Forum"
-subtitle: "I am at the [2006 Fall Leadership Forum](http://www.guidewiregroup.com/site/fallforum/) in Sonoma, C..."
+subtitle: "I am at the 2006 Fall Leadership Forum in Sonoma, C..."
 category: "298"
 tags: []
 date: "2006-12-08"

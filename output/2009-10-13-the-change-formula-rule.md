@@ -1,6 +1,6 @@
 ---
 title: "The Change Formula: Rule"
-subtitle: "I attended [BIF-5 (The Business Information Factory’s Annual Summit)](http://www.businessinnovationf..."
+subtitle: "I attended BIF-5 (The Business Information Factory’s Annual Summit)"
 category: "298"
 tags: []
 date: "2009-10-13"

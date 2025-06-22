@@ -1,6 +1,6 @@
 ---
 title: "[ETECH] Yahoo Buzz Game – Hacked!"
-subtitle: "There was some buzz here at ETECH about Yahoo Research’s announcement of the [Buzz Game](http://buzz..."
+subtitle: "There was some buzz here at ETECH about Yahoo Research’s announcement of the Buzz Game"
 category: "298"
 tags: []
 date: "2005-03-17"

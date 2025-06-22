@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  08/31/2018"
-subtitle: "* [iridakos - Creating a Linux Desktop application with Ruby](<https://iridakos.com/tutorials/2018/0..."
+subtitle: "* iridakos - Creating a Linux Desktop application with Ruby"
 category: "uncategorized"
 tags: []
 date: "2018-08-30"

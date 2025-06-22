@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  10/07/2019"
-subtitle: "* [SQL queries don't start with SELECT - Julia Evans](<https://jvns.ca/blog/2019/10/03/sql-queries-d..."
+subtitle: "* SQL queries don't start with SELECT - Julia Evans"
 category: "uncategorized"
 tags: []
 date: "2019-10-06"

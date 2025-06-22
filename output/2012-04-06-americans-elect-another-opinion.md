@@ -1,6 +1,6 @@
 ---
 title: "Americans Elect: Another Opinion"
-subtitle: "A month or two ago I read an [article by Thomas Friedman introducing Americans Elect,](http://www.ny..."
+subtitle: "A month or two ago I read an article by Thomas Friedman introducing Americans Elect,"
 category: "1"
 tags: ["625", "990", "1108", "1645", "1972", "2001"]
 date: "2012-04-06"

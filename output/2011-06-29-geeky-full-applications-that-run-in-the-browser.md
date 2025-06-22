@@ -1,6 +1,6 @@
 ---
 title: "[GEEKY] Full Applications that run in the browser"
-subtitle: "[Sproutcore](http://www.sproutcore.com/about/) is a JavaScript framework for writing powerful web ap..."
+subtitle: "Sproutcore is a JavaScript framework for writing powerful web ap..."
 category: "538"
 tags: ["1311", "1471", "1684", "1905"]
 date: "2011-06-29"

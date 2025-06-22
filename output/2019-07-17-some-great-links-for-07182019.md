@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  07/18/2019"
-subtitle: "[Best Selling Watches on Sale: Top Men’s & Women’s Watches Online](https://www.creationwatches.com/p..."
+subtitle: "Best Selling Watches on Sale: Top Men’s & Women’s Watches Online"
 category: "301"
 tags: []
 date: "2019-07-17"

@@ -1,6 +1,6 @@
 ---
 title: "VCs and Aggregators"
-subtitle: "[An interesting article in News.Com](http://news.com.com/RSS+feeds+attract+venture+dollars/2100-1038..."
+subtitle: "An interesting article in News.Com"
 category: "538"
 tags: []
 date: "2005-02-05"

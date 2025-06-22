@@ -1,6 +1,6 @@
 ---
 title: "Update on Jobs’ health"
-subtitle: "In case you didn’t see this, [it’s kind of interesting if you follow Apple and our pal Steve Jobs:](..."
+subtitle: "In case you didn’t see this, it’s kind of interesting if you follow Apple and our pal Steve Jobs:"
 category: "298"
 tags: ["640", "1194", "1922"]
 date: "2009-01-07"

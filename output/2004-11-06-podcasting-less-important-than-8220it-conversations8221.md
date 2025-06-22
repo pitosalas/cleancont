@@ -1,6 +1,6 @@
 ---
 title: "Podcasting less important than “IT Conversations”"
-subtitle: "I was working out, listening an [IT Conversations ](http://www.itconversations.com/)interview with [..."
+subtitle: "I was working out, listening an IT Conversations interview with [..."
 category: "538"
 tags: []
 date: "2004-11-06"

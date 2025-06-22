@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  04/12/2019"
-subtitle: "[Don’t confuse Ruby’s ‘throw’ statement with ‘raise’ (Example)](https://coderwall.com/p/lhkkug/don-t..."
+subtitle: "Don’t confuse Ruby’s ‘throw’ statement with ‘raise’ (Example)"
 category: "301"
 tags: []
 date: "2019-04-11"

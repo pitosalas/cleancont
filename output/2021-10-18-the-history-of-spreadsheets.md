@@ -1,6 +1,6 @@
 ---
 title: "The history of spreadsheets"
-subtitle: "[ The history of spreadsheets](https://blog.sheetgo.com/spreadsheets-tips/history-of-spreadsheets/)"
+subtitle: "The history of spreadsheets"
 category: "405"
 tags: ["1029", "1207", "1254"]
 date: "2021-10-18"

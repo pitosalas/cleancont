@@ -1,6 +1,6 @@
 ---
 title: "Tips for writing Rails tasks with Thor instead of Rake"
-subtitle: "[ Tips for writing Rails tasks with Thor instead of Rake](https://mattbrictson.com/blog/rails-tasks-..."
+subtitle: "Tips for writing Rails tasks with Thor instead of Rake"
 category: "1"
 tags: ["811", "1221", "2509", "1772", "2510"]
 date: "2023-06-25"

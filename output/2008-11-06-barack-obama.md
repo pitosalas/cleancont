@@ -1,6 +1,6 @@
 ---
 title: "Barack Obama"
-subtitle: "[![](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-content/uploads/2008/..."
+subtitle: "!["
 category: "298"
 tags: []
 date: "2008-11-06"

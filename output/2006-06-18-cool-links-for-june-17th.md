@@ -1,6 +1,6 @@
 ---
 title: "Cool links for June 17th"
-subtitle: "[ Guy Kawasaki — Bona tempora volvantu](http://blog.guykawasaki.com/index.rdf)"
+subtitle: "Guy Kawasaki — Bona tempora volvantu"
 category: "51"
 tags: []
 date: "2006-06-18"

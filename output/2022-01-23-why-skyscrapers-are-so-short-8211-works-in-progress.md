@@ -1,6 +1,6 @@
 ---
 title: "Why skyscrapers are so short – Works in Progress"
-subtitle: "[ Why skyscrapers are so short – Works in Progress](https://www.worksinprogress.co/issue/why-skyscra..."
+subtitle: "Why skyscrapers are so short – Works in Progress"
 category: "61"
 tags: []
 date: "2022-01-23"

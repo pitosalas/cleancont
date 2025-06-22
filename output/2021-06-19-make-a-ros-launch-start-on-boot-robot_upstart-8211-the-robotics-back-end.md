@@ -1,6 +1,6 @@
 ---
 title: "Make a ROS Launch Start on Boot (robot_upstart) – The Robotics Back-End"
-subtitle: "[ Make a ROS Launch Start on Boot (robot_upstart) – The Robotics Back-End](https://roboticsbackend.c..."
+subtitle: "Make a ROS Launch Start on Boot (robot_upstart) – The Robotics Back-End"
 category: "249"
 tags: []
 date: "2021-06-19"

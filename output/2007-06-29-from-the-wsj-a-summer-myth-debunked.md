@@ -1,6 +1,6 @@
 ---
 title: "From the WSJ: A Summer Myth Debunked"
-subtitle: "Check out [this post](http://feeds.wsjonline.com/~r/wsj/health/feed/~3/128465127/) from [WSJ.com: He..."
+subtitle: "Check out this post from [WSJ.com: He..."
 category: "298"
 tags: []
 date: "2007-06-29"

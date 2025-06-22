@@ -1,6 +1,6 @@
 ---
 title: "[GEEK] The BIG LIE of certificate checking"
-subtitle: "[![](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/archives/Screens..."
+subtitle: "!["
 category: "422"
 tags: []
 date: "2005-05-02"

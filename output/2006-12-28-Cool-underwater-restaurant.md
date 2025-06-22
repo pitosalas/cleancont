@@ -1,6 +1,6 @@
 ---
 title: "Cool underwater restaurant…"
-subtitle: ">  body { font-size: 11pt; line-height: normal; font-weight: normal; font-"
+subtitle: "> body { font-size: 11pt; line-height: normal; font-weight: normal; font-"
 category: "uncategorized"
 tags: []
 date: "2006-12-28"

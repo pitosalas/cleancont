@@ -1,6 +1,6 @@
 ---
 title: "BookFinder.com: New & Used Books, Rare Books, Textbooks"
-subtitle: "[ BookFinder.com: New & Used Books, Rare Books, Textbooks](<"
+subtitle: "BookFinder.com: New & Used Books, Rare Books, Textbooks"
 category: "uncategorized"
 tags: []
 date: "2023-03-12"

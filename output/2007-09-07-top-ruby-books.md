@@ -1,6 +1,6 @@
 ---
 title: "Top Ruby Books"
-subtitle: "![toprubybooks1.jpg](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-conte..."
+subtitle: "!toprubybooks1.jpg"
 category: "298"
 tags: []
 date: "2007-09-07"

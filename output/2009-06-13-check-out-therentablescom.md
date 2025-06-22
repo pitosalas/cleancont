@@ -1,6 +1,6 @@
 ---
 title: "Check out TheRentables.com"
-subtitle: "I was shown a promising new site called [TheRentables](http://www.therentables.com/about.php), for p..."
+subtitle: "I was shown a promising new site called TheRentables, for p..."
 category: "298"
 tags: []
 date: "2009-06-13"

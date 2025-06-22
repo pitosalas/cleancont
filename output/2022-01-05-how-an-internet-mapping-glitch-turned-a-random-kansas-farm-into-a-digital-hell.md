@@ -1,6 +1,6 @@
 ---
 title: "How an internet mapping glitch turned a random Kansas farm into a digital hell"
-subtitle: "[ How an internet mapping glitch turned a random Kansas farm into a digital hell](https://splinterne..."
+subtitle: "How an internet mapping glitch turned a random Kansas farm into a digital hell"
 category: "217"
 tags: ["1104", "1154", "1284"]
 date: "2022-01-05"

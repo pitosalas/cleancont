@@ -1,6 +1,6 @@
 ---
 title: "“Iterate in the marketplace, not in the conference room”"
-subtitle: "Chris Herot tells the [story of Convoq](http://herot.typepad.com/cherot/2007/12/convoq-and-zing.html..."
+subtitle: "Chris Herot tells the story of Convoq"
 category: "298"
 tags: []
 date: "2007-12-11"

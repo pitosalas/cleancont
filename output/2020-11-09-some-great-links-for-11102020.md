@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  11/10/2020"
-subtitle: "[Bilgin’s Blog | Kalman Filter For Dummies](http://bilgin.esme.org/BitsAndBytes/KalmanFilterforDummi..."
+subtitle: "Bilgin’s Blog | Kalman Filter For Dummies"
 category: "301"
 tags: []
 date: "2020-11-09"

@@ -1,6 +1,6 @@
 ---
 title: "Blogging 101 article in NYT"
-subtitle: "[Scripting News: 7/15/2005](http://archive.scripting.com/2005/07/15#When:9:36:10AM): Dave points to ..."
+subtitle: "Scripting News: 7/15/2005: Dave points to ..."
 category: "51"
 tags: []
 date: "2005-07-15"

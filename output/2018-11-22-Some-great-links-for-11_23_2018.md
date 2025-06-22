@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  11/23/2018"
-subtitle: "* [TabNine | Install TabNine](<https://tabnine.com/install>)"
+subtitle: "* TabNine | Install TabNine"
 category: "uncategorized"
 tags: []
 date: "2018-11-22"

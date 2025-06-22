@@ -1,6 +1,6 @@
 ---
 title: "screencasting – Screen + Voice = demo"
-subtitle: "[Jon Udell](<http://weblog.infoworld.com/udell/>) [coins a"
+subtitle: "Jon Udell [coins a"
 category: "uncategorized"
 tags: []
 date: "2005-02-23"

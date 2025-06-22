@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  06/22/2019"
-subtitle: "* [Open-sourcing Sorbet: a fast, powerful type checker for Ruby · Sorbet](<https://sorbet.org/blog/2..."
+subtitle: "* Open-sourcing Sorbet: a fast, powerful type checker for Ruby · Sorbet"
 category: "uncategorized"
 tags: []
 date: "2019-06-21"

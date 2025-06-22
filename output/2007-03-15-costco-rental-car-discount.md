@@ -1,6 +1,6 @@
 ---
 title: "Costco rental car discount"
-subtitle: "I’ve been a member of [Costco](http://www.costco.com/) for years. Yeah, you always buy more stuff th..."
+subtitle: "I’ve been a member of Costco for years. Yeah, you always buy more stuff th..."
 category: "298"
 tags: []
 date: "2007-03-15"

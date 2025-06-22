@@ -1,6 +1,6 @@
 ---
 title: "Targeted Copyright Enforcement: Deterring Many Users with a Few Lawsuits"
-subtitle: "Check out [Targeted Copyright Enforcement: Deterring Many Users with a Few Lawsuits](http://freedom-..."
+subtitle: "Check out Targeted Copyright Enforcement: Deterring Many Users with a Few Lawsuits"
 category: "410"
 tags: ["873", "982", "1265"]
 date: "2009-11-09"

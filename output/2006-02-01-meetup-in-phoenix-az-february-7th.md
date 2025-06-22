@@ -1,6 +1,6 @@
 ---
 title: "Meetup in Phoenix AZ, February 7th"
-subtitle: "I’m trying something – organize a [bloggie meetup](http://www.blogbridge.com/archives/2006/01/meetup..."
+subtitle: "I’m trying something – organize a bloggie meetup"
 category: "298"
 tags: []
 date: "2006-02-01"

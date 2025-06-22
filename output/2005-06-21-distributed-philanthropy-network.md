@@ -1,6 +1,6 @@
 ---
 title: "Distributed philanthropy network"
-subtitle: "I came across a good story about [ModestNeeds.org](http://www.modestneeds.org/) from [Deborah Finn’s..."
+subtitle: "I came across a good story about ModestNeeds.org from [Deborah Finn’s..."
 category: "298"
 tags: []
 date: "2005-06-21"

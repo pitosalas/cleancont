@@ -1,6 +1,6 @@
 ---
 title: "The Semantic Web, RDF, Freebase and now, DBpedia"
-subtitle: "I was talking with [Noah Mendelsohn](http://www.arcanedomain.com/) this morning and we got into a di..."
+subtitle: "I was talking with Noah Mendelsohn this morning and we got into a di..."
 category: "538"
 tags: []
 date: "2010-02-24"

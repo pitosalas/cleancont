@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  07/20/2018"
-subtitle: "* [The hotel bathroom puzzle](<https://nevalalee.wordpress.com/2015/11/27/the-hotel-bathroom-puzzle/..."
+subtitle: "* The hotel bathroom puzzle"
 category: "uncategorized"
 tags: []
 date: "2018-07-20"

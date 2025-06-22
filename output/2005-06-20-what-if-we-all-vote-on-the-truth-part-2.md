@@ -1,6 +1,6 @@
 ---
 title: "What if we all vote on the  truth, part 2"
-subtitle: "I [wrote a few days](/weblogs/archives/000753.html) ago about the coming LA Times initiative to crea..."
+subtitle: "I wrote a few days ago about the coming LA Times initiative to crea..."
 category: "298"
 tags: []
 date: "2005-06-20"

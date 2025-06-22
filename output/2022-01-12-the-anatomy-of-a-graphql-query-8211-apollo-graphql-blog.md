@@ -1,6 +1,6 @@
 ---
 title: "The Anatomy of a GraphQL Query – Apollo GraphQL Blog"
-subtitle: "[ The Anatomy of a GraphQL Query – Apollo GraphQL Blog](https://www.apollographql.com/blog/graphql/b..."
+subtitle: "The Anatomy of a GraphQL Query – Apollo GraphQL Blog"
 category: "113"
 tags: ["635"]
 date: "2022-01-12"

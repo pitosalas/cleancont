@@ -1,6 +1,6 @@
 ---
 title: "Interesting behind-the-scenes look at NSA"
-subtitle: "[Zegart joins scholars at NSA for rare briefing on spy agency’s woes – CISAC](http://cisac.stanford...."
+subtitle: "Zegart joins scholars at NSA for rare briefing on spy agency’s woes – CISAC"
 category: "1"
 tags: ["1539", "1906"]
 date: "2013-10-01"

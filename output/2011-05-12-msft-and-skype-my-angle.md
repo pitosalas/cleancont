@@ -1,6 +1,6 @@
 ---
 title: "MSFT and Skype, my angle"
-subtitle: "Check this post [Why Microsoft bought Skype](http://www.cringely.com/2011/05/why-microsoft-bought-sk..."
+subtitle: "Check this post Why Microsoft bought Skype"
 category: "298"
 tags: []
 date: "2011-05-12"

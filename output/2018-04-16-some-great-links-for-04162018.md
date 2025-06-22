@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  04/16/2018"
-subtitle: "[Top 5 Python IDEs For Data Science (article) – DataCamp](https://www.datacamp.com/community/tutoria..."
+subtitle: "Top 5 Python IDEs For Data Science (article) – DataCamp"
 category: "538"
 tags: []
 date: "2018-04-16"

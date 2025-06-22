@@ -1,6 +1,6 @@
 ---
 title: "Grou.ps Launches Public Beta"
-subtitle: "Check this post [Grou.ps Launches Public Beta](http://feeds.feedburner.com/~r/readwriteweb/~3/276267..."
+subtitle: "Check this post Grou.ps Launches Public Beta"
 category: "538"
 tags: []
 date: "2008-04-25"

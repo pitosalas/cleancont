@@ -1,6 +1,6 @@
 ---
 title: "Comment! Spam! Again!"
-subtitle: "A really [interesting article](http://www.thebishop.net/geodog/archives/2004/09/18/anatomy_of_commen..."
+subtitle: "A really interesting article"
 category: "51"
 tags: []
 date: "2005-05-11"

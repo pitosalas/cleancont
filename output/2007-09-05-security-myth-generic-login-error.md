@@ -1,6 +1,6 @@
 ---
 title: "Security Myth: Generic Login Error"
-subtitle: "Check out [this post](http://blog.jayfields.com/2007/09/security-myth-generic-login-error.html) from..."
+subtitle: "Check out this post from..."
 category: "538"
 tags: []
 date: "2007-09-05"

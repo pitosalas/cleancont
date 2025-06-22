@@ -1,6 +1,6 @@
 ---
 title: "Are Your Students Ready for AI?"
-subtitle: "[ Are Your Students Ready for AI?](https://hbsp.harvard.edu/inspiring-minds/are-your-students-ready-..."
+subtitle: "Are Your Students Ready for AI?"
 category: "1"
 tags: ["2340", "1033", "1564", "1973"]
 date: "2023-07-07"

@@ -1,6 +1,6 @@
 ---
 title: "Gaia Gold and Taxes?"
-subtitle: "I recently had occasion to learn all about a really cool [MMORPG](http://en.wikipedia.org/wiki/MMORP..."
+subtitle: "I recently had occasion to learn all about a really cool MMORPG"
 category: "298"
 tags: []
 date: "2006-01-10"

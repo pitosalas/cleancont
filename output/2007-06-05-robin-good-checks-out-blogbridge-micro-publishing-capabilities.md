@@ -1,6 +1,6 @@
 ---
 title: "Robin Good checks out BlogBridge micro publishing capabilities"
-subtitle: "Today a major review came out in [Robin Good’s influential Master New Media blog](http://www.mastern..."
+subtitle: "Today a major review came out in Robin Good’s influential Master New Media blog"
 category: "51"
 tags: []
 date: "2007-06-05"

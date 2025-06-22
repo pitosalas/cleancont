@@ -1,6 +1,6 @@
 ---
 title: "MSFT and APPL"
-subtitle: "I saw this bit today: “[Apple: Will Steve Balmer Show Up At The WWDC Keynote?”.](http://blogs.barron..."
+subtitle: "I saw this bit today: “Apple: Will Steve Balmer Show Up At The WWDC Keynote?”."
 category: "410"
 tags: []
 date: "2010-05-27"

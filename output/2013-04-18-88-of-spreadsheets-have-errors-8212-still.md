@@ -1,6 +1,6 @@
 ---
 title: "88% of spreadsheets have errors — Still!"
-subtitle: "A long long time ago there was a product called [Lotus Improv](http://en.wikipedia.org/wiki/Lotus_Im..."
+subtitle: "A long long time ago there was a product called Lotus Improv"
 category: "1"
 tags: ["1016", "1254", "1904"]
 date: "2013-04-18"

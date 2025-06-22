@@ -1,6 +1,6 @@
 ---
 title: "What To Watch On Streaming – A Good Movie To Watch"
-subtitle: "[ What To Watch On Streaming - A Good Movie To Watch](<"
+subtitle: "What To Watch On Streaming - A Good Movie To Watch"
 category: "uncategorized"
 tags: []
 date: "2023-09-08"

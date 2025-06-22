@@ -1,6 +1,6 @@
 ---
 title: "The family of anonymous functions – blocks, procs and lambdas"
-subtitle: "[ The family of anonymous functions – blocks, procs and lambdas](https://longliveruby.com/articles/t..."
+subtitle: "The family of anonymous functions – blocks, procs and lambdas"
 category: "48"
 tags: ["1772"]
 date: "2021-11-05"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  03/26/2020"
-subtitle: "* [Facade Pattern in Rails for Performance and Maintainability | AppSignal Blog](<https://blog.appsi..."
+subtitle: "* Facade Pattern in Rails for Performance and Maintainability | AppSignal Blog"
 category: "uncategorized"
 tags: []
 date: "2020-03-25"

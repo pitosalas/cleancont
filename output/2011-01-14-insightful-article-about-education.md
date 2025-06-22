@@ -1,6 +1,6 @@
 ---
 title: "Insightful article about education"
-subtitle: "An insightful article about higher education in the USA: [The Disadvantages of an Elite Education](h..."
+subtitle: "An insightful article about higher education in the USA: The Disadvantages of an Elite Education"
 category: "298"
 tags: ["987", "1156", "1277"]
 date: "2011-01-14"

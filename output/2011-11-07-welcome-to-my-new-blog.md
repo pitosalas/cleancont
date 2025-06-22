@@ -1,6 +1,6 @@
 ---
 title: "Welcome to my new blog"
-subtitle: "So after some trouble porting the content I am now running my blog on [Squarespace](http://www.squar..."
+subtitle: "So after some trouble porting the content I am now running my blog on Squarespace"
 category: "1"
 tags: ["719", "1828", "1909", "2130"]
 date: "2011-11-07"

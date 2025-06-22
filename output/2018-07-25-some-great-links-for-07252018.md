@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  07/25/2018"
-subtitle: "[Orange Computers – HP ProLiant and Dell PowerEdge Servers](https://www.orangecomputers.com/node/)"
+subtitle: "Orange Computers – HP ProLiant and Dell PowerEdge Servers"
 category: "538"
 tags: []
 date: "2018-07-25"

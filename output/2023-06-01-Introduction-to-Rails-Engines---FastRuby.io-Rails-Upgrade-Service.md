@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Rails Engines – FastRuby.io | Rails Upgrade Service"
-subtitle: "[ Introduction to Rails Engines - FastRuby.io | Rails Upgrade Service](<"
+subtitle: "Introduction to Rails Engines - FastRuby.io | Rails Upgrade Service"
 category: "uncategorized"
 tags: []
 date: "2023-06-01"

@@ -1,6 +1,6 @@
 ---
 title: "The Basics of Database Sharding – Brent Ozar Unlimited®"
-subtitle: "[ The Basics of Database Sharding – Brent Ozar Unlimited®](https://www.brentozar.com/archive/2013/05..."
+subtitle: "The Basics of Database Sharding – Brent Ozar Unlimited®"
 category: "17"
 tags: ["1795"]
 date: "2022-03-24"

@@ -1,6 +1,6 @@
 ---
 title: "CapRover · Free and Open Source PaaS!"
-subtitle: "[ CapRover · Free and Open Source PaaS!]( https://caprover.com/?utm_source=abyteofcodingnewsletter) ..."
+subtitle: "CapRover · Free and Open Source PaaS! ..."
 category: "1"
 tags: ["811", "2197", "1033", "1203", "1221", "2318", "2010"]
 date: "2022-11-28"

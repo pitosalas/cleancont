@@ -1,6 +1,6 @@
 ---
 title: "YOLO object detection with OpenCV – PyImageSearc"
-subtitle: "[ YOLO object detection with OpenCV – PyImageSearc](https://pyimagesearch.com/2018/11/12/yolo-object..."
+subtitle: "YOLO object detection with OpenCV – PyImageSearc"
 category: "127"
 tags: []
 date: "2022-03-13"

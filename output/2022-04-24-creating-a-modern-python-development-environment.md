@@ -1,6 +1,6 @@
 ---
 title: "Creating A Modern Python Development Environment"
-subtitle: "[ Creating A Modern Python Development Environment](https://link.medium.com/JW0ZwTUGupb)"
+subtitle: "Creating A Modern Python Development Environment"
 category: "105"
 tags: []
 date: "2022-04-24"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  04/29/2018"
-subtitle: "[Essential RubyOnRails patterns — part 4: Form Objects](https://medium.com/selleo/essential-rubyonra..."
+subtitle: "Essential RubyOnRails patterns — part 4: Form Objects"
 category: "538"
 tags: []
 date: "2018-04-29"

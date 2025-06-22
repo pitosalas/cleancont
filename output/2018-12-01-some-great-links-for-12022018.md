@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  12/02/2018"
-subtitle: "[https://link.medium.com/Cd6lBUGriS](https://link.medium.com/Cd6lBUGriS)"
+subtitle: "https://link.medium.com/Cd6lBUGriS"
 category: "301"
 tags: []
 date: "2018-12-01"

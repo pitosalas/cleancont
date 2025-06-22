@@ -1,6 +1,6 @@
 ---
 title: "Custom Shirts – Design Custom T-Shirts Online | 40% OFF"
-subtitle: "[ Custom Shirts – Design Custom T-Shirts Online | 40% OFF](https://www.alliedshirts.com/)"
+subtitle: "Custom Shirts – Design Custom T-Shirts Online | 40% OFF"
 category: "126"
 tags: []
 date: "2022-04-24"

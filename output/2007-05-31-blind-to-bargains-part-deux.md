@@ -1,6 +1,6 @@
 ---
 title: "Blind to Bargains, part deux"
-subtitle: "I follow [Chris Pirillo’s blog](http://chris.pirillo.com/) and other writings religiously. Two recen..."
+subtitle: "I follow Chris Pirillo’s blog and other writings religiously. Two recen..."
 category: "538"
 tags: []
 date: "2007-05-31"

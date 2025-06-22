@@ -1,6 +1,6 @@
 ---
 title: "Git Timeline Generator | Preceden"
-subtitle: "[ Git Timeline Generator | Preceden](https://www.preceden.com/git)"
+subtitle: "Git Timeline Generator | Preceden"
 category: "96"
 tags: ["1091", "1134", "2010", "2081"]
 date: "2022-06-05"

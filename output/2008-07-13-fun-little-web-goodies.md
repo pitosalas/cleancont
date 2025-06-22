@@ -1,6 +1,6 @@
 ---
 title: "Fun little web goodies"
-subtitle: "Check out “[Forget Photoshop: 15 Online Graphics Generators](http://mashable.com/2007/05/28/generato..."
+subtitle: "Check out “Forget Photoshop: 15 Online Graphics Generators"
 category: "298"
 tags: ["1162"]
 date: "2008-07-13"

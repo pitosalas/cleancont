@@ -1,6 +1,6 @@
 ---
 title: "Daylife’s Universe: Eye Candy or Brain Food?"
-subtitle: "[Daylife](<http://www.daylife.com>) is a new news oriented web site that came"
+subtitle: "Daylife is a new news oriented web site that came"
 category: "uncategorized"
 tags: []
 date: "2007-03-14"

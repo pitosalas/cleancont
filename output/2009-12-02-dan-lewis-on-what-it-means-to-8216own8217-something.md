@@ -1,6 +1,6 @@
 ---
 title: "Dan Lewis, on what it means to ‘own’ something"
-subtitle: "[This post talks about the difference between owning, possessing and accessing a book](http://dlewis..."
+subtitle: "This post talks about the difference between owning, possessing and accessing a book"
 category: "298"
 tags: ["725", "975", "1342", "1532"]
 date: "2009-12-02"

@@ -1,6 +1,6 @@
 ---
 title: "Siri and Text Messaging"
-subtitle: "A lot has been written about [Siri (the new voice activated assistant in the iPhone 4s)](http://www...."
+subtitle: "A lot has been written about Siri (the new voice activated assistant in the iPhone 4s)"
 category: "1"
 tags: ["1298", "1863", "1979", "1992", "2084"]
 date: "2011-12-04"

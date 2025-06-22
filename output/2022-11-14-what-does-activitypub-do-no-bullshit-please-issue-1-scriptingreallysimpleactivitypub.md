@@ -1,6 +1,6 @@
 ---
 title: "What does ActivityPub do, no bullshit please. · Issue #1 · scripting/reallySimpleActivityPub"
-subtitle: "[ What does ActivityPub do, no bullshit please. · Issue #1 · scripting/reallySimpleActivityPub]( htt..."
+subtitle: "What does ActivityPub do, no bullshit please. · Issue #1 · scripting/reallySimpleActivityPub"
 category: "1"
 tags: ["1033", "2294"]
 date: "2022-11-14"

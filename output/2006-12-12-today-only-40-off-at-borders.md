@@ -1,6 +1,6 @@
 ---
 title: "Today only: 40% off at Borders"
-subtitle: "This is a public service to my readers. [Here’s the coupon.](http://f.chtah.com/i/9/276579820/coupon..."
+subtitle: "This is a public service to my readers. Here’s the coupon."
 category: "1"
 tags: []
 date: "2006-12-12"

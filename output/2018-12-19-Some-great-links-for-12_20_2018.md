@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  12/20/2018"
-subtitle: "* [Stop Learning Frameworks – Lifehacks for Developers by Eduards Sizovs](<https://sizovs.net/2018/1..."
+subtitle: "* Stop Learning Frameworks – Lifehacks for Developers by Eduards Sizovs"
 category: "uncategorized"
 tags: []
 date: "2018-12-19"

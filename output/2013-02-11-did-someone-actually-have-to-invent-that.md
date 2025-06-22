@@ -1,6 +1,6 @@
 ---
 title: "Did someone actually have to invent that?"
-subtitle: "![NewImage](https://i0.wp.com/salas.com/wp-content/uploads/2013/02/2cb42-newimage.png?resize=190%2C1..."
+subtitle: "!NewImage"
 category: "1"
 tags: ["695", "1290", "1982", "2014", "2060", "2064"]
 date: "2013-02-11"

@@ -1,6 +1,6 @@
 ---
 title: "Bill Gates Foundation supports Intelligent Design?"
-subtitle: "The New York Times is [running a series](http://www.nytimes.com/pages/science/sciencespecial2/index...."
+subtitle: "The New York Times is running a series"
 category: "298"
 tags: []
 date: "2005-08-22"

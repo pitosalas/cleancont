@@ -1,6 +1,6 @@
 ---
 title: "[Geeky] RMagick and memory leaks"
-subtitle: "A [recent post talked about creating a “Domain Specific Language” for image processing of ballots](/..."
+subtitle: "A recent post talked about creating a “Domain Specific Language” for image processing of ballots"
 category: "298"
 tags: []
 date: "2009-06-19"

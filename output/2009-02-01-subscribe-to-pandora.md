@@ -1,6 +1,6 @@
 ---
 title: "Subscribe to Pandora!"
-subtitle: "I’ve known about [Pandora](http://www.pandora.com) for ages, and the last month or so have been usin..."
+subtitle: "I’ve known about Pandora for ages, and the last month or so have been usin..."
 category: "298"
 tags: ["1091", "1492", "1580"]
 date: "2009-02-01"

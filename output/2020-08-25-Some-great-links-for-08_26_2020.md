@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  08/26/2020"
-subtitle: "* [ajeetdsouza/zoxide](<https://github.com/ajeetdsouza/zoxide>)"
+subtitle: "* ajeetdsouza/zoxide"
 category: "uncategorized"
 tags: []
 date: "2020-08-25"

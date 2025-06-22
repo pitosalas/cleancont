@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  09/02/2018"
-subtitle: "* [westonganger (Weston Ganger)](<https://github.com/westonganger>)"
+subtitle: "* westonganger (Weston Ganger)"
 category: "uncategorized"
 tags: []
 date: "2018-09-01"

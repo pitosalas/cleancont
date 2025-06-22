@@ -1,6 +1,6 @@
 ---
 title: "June 26 – Cool stuff!"
-subtitle: ">>   * [InfoQ - Tracking change and innovation in the enterprise software"
+subtitle: ">> * [InfoQ - Tracking change and innovation in the enterprise software"
 category: "uncategorized"
 tags: []
 date: "2006-06-25"

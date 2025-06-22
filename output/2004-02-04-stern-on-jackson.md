@@ -1,6 +1,6 @@
 ---
 title: "Stern on Jackson"
-subtitle: "**Stern on Jackson: **What total sillyness, all the outrage over [Janet Jackson’s](http://story.news..."
+subtitle: "**Stern on Jackson: **What total sillyness, all the outrage over Janet Jackson’s"
 category: "298"
 tags: []
 date: "2004-02-04"

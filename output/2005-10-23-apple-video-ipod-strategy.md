@@ -1,6 +1,6 @@
 ---
 title: "Apple Video iPod Strategy"
-subtitle: "For you Apple and iPod afficionados, [here’s an **interesting** article ](http://www.apcmag.com/apc/..."
+subtitle: "For you Apple and iPod afficionados, here’s an **interesting** article"
 category: "538"
 tags: []
 date: "2005-10-23"

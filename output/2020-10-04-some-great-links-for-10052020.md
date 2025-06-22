@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  10/05/2020"
-subtitle: "[One-liner introduction – Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_onel..."
+subtitle: "One-liner introduction – Ruby one-liners cookbook"
 category: "301"
 tags: []
 date: "2020-10-04"

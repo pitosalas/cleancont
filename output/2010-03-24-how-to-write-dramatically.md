@@ -1,6 +1,6 @@
 ---
 title: "How to write dramatically"
-subtitle: "[David Mamet (supposedly) wrote this compelling note to tv writers](http://www.slashfilm.com/2010/03..."
+subtitle: "David Mamet (supposedly) wrote this compelling note to tv writers"
 category: "298"
 tags: []
 date: "2010-03-24"

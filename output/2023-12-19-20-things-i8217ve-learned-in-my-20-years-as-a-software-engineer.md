@@ -1,6 +1,6 @@
 ---
 title: "20 Things I’ve Learned in my 20 Years as a Software Engineer"
-subtitle: "[ 20 Things I’ve Learned in my 20 Years as a Software Engineer]( https://www.simplethread.com/20-thi..."
+subtitle: "20 Things I’ve Learned in my 20 Years as a Software Engineer"
 category: "1"
 tags: ["608", "2607", "1888"]
 date: "2023-12-19"

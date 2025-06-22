@@ -1,6 +1,6 @@
 ---
 title: "BlogOn Conference: I’m on the advisory board"
-subtitle: "![Blogonbuttonsm](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/ima..."
+subtitle: "!Blogonbuttonsm"
 category: "uncategorized"
 tags: []
 date: "2005-08-03"

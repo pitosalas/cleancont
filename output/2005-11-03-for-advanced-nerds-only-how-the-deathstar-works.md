@@ -1,6 +1,6 @@
 ---
 title: "For advanced nerds only: How the deathstar works"
-subtitle: "From **[How Stuff Works](http://www.howstuffworks.com/)**:"
+subtitle: "From **How Stuff Works**:"
 category: "298"
 tags: []
 date: "2005-11-03"

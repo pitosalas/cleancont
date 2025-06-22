@@ -1,6 +1,6 @@
 ---
 title: "Climate Change Education Across the Curricula, Across the Globe"
-subtitle: "[ Climate Change Education Across the Curricula, Across the Globe](https://tropicsu.org/)"
+subtitle: "Climate Change Education Across the Curricula, Across the Globe"
 category: "86"
 tags: ["987"]
 date: "2021-12-03"

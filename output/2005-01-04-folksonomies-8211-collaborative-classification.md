@@ -1,6 +1,6 @@
 ---
 title: "Folksonomies – Collaborative Classification"
-subtitle: "There has been a lot of traffic on this new meme “Folksonomies”. This [Slashdot bit ](http://slashdo..."
+subtitle: "There has been a lot of traffic on this new meme “Folksonomies”. This Slashdot bit"
 category: "50"
 tags: []
 date: "2005-01-04"

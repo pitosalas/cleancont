@@ -1,6 +1,6 @@
 ---
 title: "[DESIGN] Typography Cheat Sheet"
-subtitle: "If you are into fonts and typography, you might enjoy this [Infographic that will help you choose](h..."
+subtitle: "If you are into fonts and typography, you might enjoy this Infographic that will help you choose"
 category: "298"
 tags: ["937", "1076", "2049"]
 date: "2010-10-28"

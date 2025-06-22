@@ -1,6 +1,6 @@
 ---
 title: "GitHub – volution/z-tokens: z-tokens — random tokens generation and related tools"
-subtitle: "[ GitHub – volution/z-tokens: z-tokens — random tokens generation and related tools]( https://github..."
+subtitle: "GitHub – volution/z-tokens: z-tokens — random tokens generation and related tools"
 category: "1"
 tags: ["811", "2407", "1782", "2408"]
 date: "2023-01-15"

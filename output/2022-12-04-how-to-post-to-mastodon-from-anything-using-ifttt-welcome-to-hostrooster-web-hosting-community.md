@@ -1,6 +1,6 @@
 ---
 title: "How to Post to Mastodon From Anything Using IFTTT – Welcome to HostRooster web hosting community"
-subtitle: "[ How to Post to Mastodon From Anything Using IFTTT – Welcome to HostRooster web hosting community](..."
+subtitle: "How to Post to Mastodon From Anything Using IFTTT – Welcome to HostRooster web hosting community"
 category: "1"
 tags: ["635", "1221", "2295", "2294"]
 date: "2022-12-04"

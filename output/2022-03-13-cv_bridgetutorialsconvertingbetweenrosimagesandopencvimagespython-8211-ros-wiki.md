@@ -1,6 +1,6 @@
 ---
 title: "cv_bridge/Tutorials/ConvertingBetweenROSImagesAndOpenCVImagesPython – ROS Wiki"
-subtitle: "[ cv_bridge/Tutorials/ConvertingBetweenROSImagesAndOpenCVImagesPython – ROS Wiki](http://wiki.ros.or..."
+subtitle: "cv_bridge/Tutorials/ConvertingBetweenROSImagesAndOpenCVImagesPython – ROS Wiki"
 category: "57"
 tags: []
 date: "2022-03-13"

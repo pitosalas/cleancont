@@ -1,6 +1,6 @@
 ---
 title: "What’s a beta, anyway?"
-subtitle: ">> [BlogBridge ](<http://www.blogbridge.com>)is getting ready to go into a"
+subtitle: ">> BlogBridge is getting ready to go into a"
 category: "uncategorized"
 tags: []
 date: "2004-06-03"

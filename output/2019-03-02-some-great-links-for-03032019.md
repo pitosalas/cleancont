@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  03/03/2019"
-subtitle: "[Adrian Boeing: Blog: Dynamic Window Algorithm motion planning](https://adrianboeing.blogspot.com/20..."
+subtitle: "Adrian Boeing: Blog: Dynamic Window Algorithm motion planning"
 category: "301"
 tags: []
 date: "2019-03-02"

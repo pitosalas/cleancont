@@ -1,6 +1,6 @@
 ---
 title: "BillGuard"
-subtitle: "This [site looks really good](http://www.billguard.com/), but I am not signing up yet."
+subtitle: "This site looks really good, but I am not signing up yet."
 category: "298"
 tags: ["708", "1820", "1822"]
 date: "2011-07-17"

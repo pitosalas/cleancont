@@ -1,6 +1,6 @@
 ---
 title: "All you never wanted to know about colonoscopies"
-subtitle: "Our friend Dave Weinberger [shares](http://www.hyperorg.com/blogger/mtarchive/colonoscopy_more_than_..."
+subtitle: "Our friend Dave Weinberger shares"
 category: "298"
 tags: []
 date: "2006-05-11"

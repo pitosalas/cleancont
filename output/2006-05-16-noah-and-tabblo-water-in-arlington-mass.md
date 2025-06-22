@@ -1,6 +1,6 @@
 ---
 title: "Noah and Tabblo (Water in Arlington Mass)"
-subtitle: "![Picture 1-34](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/image..."
+subtitle: "!Picture 1-34"
 category: "298"
 tags: []
 date: "2006-05-16"

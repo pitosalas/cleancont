@@ -1,6 +1,6 @@
 ---
 title: "Information Diet: Focus"
-subtitle: "While I am in the mood to reveal some of my weaknesses ([see post on Dieting ](/imported-20111103233..."
+subtitle: "While I am in the mood to reveal some of my weaknesses (see post on Dieting"
 category: "1"
 tags: ["849", "947", "1264", "1574"]
 date: "2012-01-23"

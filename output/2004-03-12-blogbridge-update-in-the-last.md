@@ -1,6 +1,6 @@
 ---
 title: "BlogBridge update. In the last"
-subtitle: "**[BlogBridge ](http://www.blogbridge.com)update. **In the last few days I’ve made some reasonable p..."
+subtitle: "**BlogBridge update. **In the last few days I’ve made some reasonable p..."
 category: "1"
 tags: []
 date: "2004-03-12"

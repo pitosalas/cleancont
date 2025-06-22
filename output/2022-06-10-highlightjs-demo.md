@@ -1,6 +1,6 @@
 ---
 title: "highlight.js demo"
-subtitle: "[ highlight.js demo](https://highlightjs.org/static/demo/)"
+subtitle: "highlight.js demo"
 category: "93"
 tags: ["817"]
 date: "2022-06-10"

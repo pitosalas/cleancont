@@ -1,6 +1,6 @@
 ---
 title: "Double Agents"
-subtitle: "I am reading a really cool book right now: [Review & Outlook: Loose Lips on Syria – WSJ.com](http://..."
+subtitle: "I am reading a really cool book right now: Review & Outlook: Loose Lips on Syria – WSJ.com"
 category: "1"
 tags: []
 date: "2014-06-27"

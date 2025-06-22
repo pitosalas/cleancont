@@ -1,6 +1,6 @@
 ---
 title: "4 Books For Intermediate Ruby And Rails Developers."
-subtitle: "[ 4 Books For Intermediate Ruby And Rails Developers.]( https://manny.codes/4-books-for-intermediate..."
+subtitle: "4 Books For Intermediate Ruby And Rails Developers."
 category: "1"
 tags: ["604", "725", "1221", "1772"]
 date: "2022-07-18"

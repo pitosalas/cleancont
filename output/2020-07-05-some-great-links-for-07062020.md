@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  07/06/2020"
-subtitle: "[Welcome to Streamlit — Streamlit 0.62.1 documentation](https://docs.streamlit.io/en/stable/)"
+subtitle: "Welcome to Streamlit — Streamlit 0.62.1 documentation"
 category: "301"
 tags: []
 date: "2020-07-05"

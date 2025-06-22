@@ -1,6 +1,6 @@
 ---
 title: "The Case for Models | Concerning Quality"
-subtitle: "[ The Case for Models | Concerning Quality]( https://concerningquality.com/models/) –An interesting ..."
+subtitle: "The Case for Models | Concerning Quality –An interesting ..."
 category: "1"
 tags: ["937", "1033", "2363", "1986"]
 date: "2022-12-14"

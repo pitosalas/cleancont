@@ -1,6 +1,6 @@
 ---
 title: "Deploying Flask App with WSGI and Apache Server on Ubuntu 20.04"
-subtitle: "[ Deploying Flask App with WSGI and Apache Server on Ubuntu 20.04](https://asdkazmi.medium.com/deplo..."
+subtitle: "Deploying Flask App with WSGI and Apache Server on Ubuntu 20.04"
 category: "14"
 tags: []
 date: "2021-07-16"

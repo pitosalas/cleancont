@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  08/12/2018"
-subtitle: "* [Webmentions: Enabling Better Communication on the Internet](<https://alistapart.com/article/webme..."
+subtitle: "* Webmentions: Enabling Better Communication on the Internet"
 category: "uncategorized"
 tags: []
 date: "2018-08-11"

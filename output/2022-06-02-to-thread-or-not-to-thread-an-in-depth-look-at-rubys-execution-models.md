@@ -1,6 +1,6 @@
 ---
 title: "To Thread or Not to Thread: An In-Depth Look at Ruby’s Execution Models"
-subtitle: "[ To Thread or Not to Thread: An In-Depth Look at Ruby’s Execution Models](https://shopify.engineeri..."
+subtitle: "To Thread or Not to Thread: An In-Depth Look at Ruby’s Execution Models"
 category: "113"
 tags: ["1711", "1772"]
 date: "2022-06-02"

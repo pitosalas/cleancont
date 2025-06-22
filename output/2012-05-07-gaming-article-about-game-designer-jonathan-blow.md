@@ -1,6 +1,6 @@
 ---
 title: "[GAMING] Article about game designer Jonathan Blow"
-subtitle: "A good [article in the Atlantic about game designer Jonathan Blow](http://www.theatlantic.com/magazi..."
+subtitle: "A good article in the Atlantic about game designer Jonathan Blow"
 category: "1"
 tags: ["653", "869", "937", "1085", "1113"]
 date: "2012-05-07"

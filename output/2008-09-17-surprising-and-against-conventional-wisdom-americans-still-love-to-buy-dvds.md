@@ -1,6 +1,6 @@
 ---
 title: "Surprising and against conventional wisdom: Americans still love to buy DVDs"
-subtitle: "[Interesting article about the sale of DVDs](http://www.alleyinsider.com/2008/9/forget-itunes-americ..."
+subtitle: "Interesting article about the sale of DVDs"
 category: "298"
 tags: []
 date: "2008-09-17"

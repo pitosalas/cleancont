@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  12/01/2019"
-subtitle: "[Markov Localization for Mobile Robots in Dynamic Environments](http://www.cs.cmu.edu/afs/cs/project..."
+subtitle: "Markov Localization for Mobile Robots in Dynamic Environments"
 category: "301"
 tags: []
 date: "2019-11-30"

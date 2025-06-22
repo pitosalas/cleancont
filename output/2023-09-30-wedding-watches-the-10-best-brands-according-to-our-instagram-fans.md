@@ -1,6 +1,6 @@
 ---
 title: "Wedding Watches: The 10 Best Brands According to Our Instagram Fans"
-subtitle: "[ Wedding Watches: The 10 Best Brands According to Our Instagram Fans]( https://teddybaldassarre.com..."
+subtitle: "Wedding Watches: The 10 Best Brands According to Our Instagram Fans"
 category: "1"
 tags: ["2581", "1171", "1851", "2098"]
 date: "2023-09-30"

@@ -1,6 +1,6 @@
 ---
 title: "[PRETTY-GEEKY] Interesting article about secure elections"
-subtitle: "Check out [Fort Knox vs. the Barking Dog](http://benlog.com/articles/2010/10/06/fort-knox-vs-the-bar..."
+subtitle: "Check out Fort Knox vs. the Barking Dog"
 category: "538"
 tags: []
 date: "2010-10-08"

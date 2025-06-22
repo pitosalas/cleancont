@@ -1,6 +1,6 @@
 ---
 title: "lbaitemple/ubuntu_server_rpi"
-subtitle: "[ lbaitemple/ubuntu_server_rpi](https://github.com/lbaitemple/ubuntu_server_rpi#step-8-gpio-run-as-n..."
+subtitle: "lbaitemple/ubuntu_server_rpi"
 category: "249"
 tags: []
 date: "2021-05-31"

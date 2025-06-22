@@ -1,6 +1,6 @@
 ---
 title: "Cool Photography"
-subtitle: "![NewImage](https://i0.wp.com/salas.com/wp-content/uploads/2011/07/98d63-newimage.png?resize=584%2C3..."
+subtitle: "!NewImage"
 category: "298"
 tags: ["1320", "1614"]
 date: "2011-07-26"

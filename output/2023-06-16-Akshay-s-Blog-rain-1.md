@@ -1,6 +1,6 @@
 ---
 title: "Akshay’s Blog"
-subtitle: "[ Akshay's Blog](<https://www.akshaykhot.com/>) –I am a Ruby on Rails"
+subtitle: "Akshay's Blog –I am a Ruby on Rails"
 category: "uncategorized"
 tags: []
 date: "2023-06-16"

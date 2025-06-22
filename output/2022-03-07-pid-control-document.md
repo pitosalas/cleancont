@@ -1,6 +1,6 @@
 ---
 title: "Pid control document"
-subtitle: "[ Pid control document](http://smithcsrobot.weebly.com/uploads/6/0/9/5/60954939/pid_control_document..."
+subtitle: "Pid control document"
 category: "249"
 tags: []
 date: "2022-03-07"

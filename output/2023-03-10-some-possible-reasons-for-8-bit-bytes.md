@@ -1,6 +1,6 @@
 ---
 title: "Some possible reasons for 8-bit bytes"
-subtitle: "[ Some possible reasons for 8-bit bytes]( https://jvns.ca/blog/2023/03/06/possible-reasons-8-bit-byt..."
+subtitle: "Some possible reasons for 8-bit bytes"
 category: "1"
 tags: ["645", "842", "1033", "1187"]
 date: "2023-03-10"

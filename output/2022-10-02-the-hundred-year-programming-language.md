@@ -1,6 +1,6 @@
 ---
 title: "The Hundred-Year Programming Language"
-subtitle: "[ The Hundred-Year Programming Language]( https://codefol.io/posts/the-hundred-year-programming-lang..."
+subtitle: "The Hundred-Year Programming Language"
 category: "1"
 tags: []
 date: "2022-10-02"

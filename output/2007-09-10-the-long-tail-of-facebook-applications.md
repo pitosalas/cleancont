@@ -1,6 +1,6 @@
 ---
 title: "The Long Tail of Facebook Applications"
-subtitle: "Check out [this post](http://herot.typepad.com/cherot/2007/09/the-long-tail-o.html) about the distri..."
+subtitle: "Check out this post about the distri..."
 category: "298"
 tags: []
 date: "2007-09-10"

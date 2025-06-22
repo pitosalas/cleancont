@@ -1,6 +1,6 @@
 ---
 title: "Sharing a keyboard, mouse and multiple screens"
-subtitle: "Check out [Synergy](http://synergy2.sourceforge.net/):"
+subtitle: "Check out Synergy:"
 category: "538"
 tags: []
 date: "2005-05-24"

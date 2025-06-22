@@ -1,6 +1,6 @@
 ---
 title: "“Society doesn’t need newspapers. What we need is journalism”"
-subtitle: "[Clay Shirkey writes an article called “Newspapers and Thinking the Unthinkable”.](http://www.shirky..."
+subtitle: "Clay Shirkey writes an article called “Newspapers and Thinking the Unthinkable”."
 category: "298"
 tags: []
 date: "2009-03-16"

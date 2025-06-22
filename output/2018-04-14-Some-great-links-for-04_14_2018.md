@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  04/14/2018"
-subtitle: "* [Build a Text Classification Program: An NLP Tutorial](<https://www.toptal.com/machine-learning/nl..."
+subtitle: "* Build a Text Classification Program: An NLP Tutorial"
 category: "uncategorized"
 tags: []
 date: "2018-04-14"

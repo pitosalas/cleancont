@@ -1,6 +1,6 @@
 ---
 title: "On the business impact of Web 2.0"
-subtitle: "[Bill Ives of the Portals and KM Blog](http://billives.typepad.com/) writes an interesting two-part ..."
+subtitle: "Bill Ives of the Portals and KM Blog writes an interesting two-part ..."
 category: "298"
 tags: ["757"]
 date: "2008-05-01"

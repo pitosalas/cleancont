@@ -1,6 +1,6 @@
 ---
 title: "Arduino: Open source hardware"
-subtitle: "Check out [Arduino](http://www.arduino.cc/), a totally cool tiny embedded computer suitable for crea..."
+subtitle: "Check out Arduino, a totally cool tiny embedded computer suitable for crea..."
 category: "538"
 tags: ["647"]
 date: "2008-05-19"

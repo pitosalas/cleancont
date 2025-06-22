@@ -1,6 +1,6 @@
 ---
 title: "Bob Tedeschi on using RSS for travel information"
-subtitle: "Here’s an [interesting article](http://www.nytimes.com/2006/01/29/travel/29prac.html?ei=5088&en=ccb1..."
+subtitle: "Here’s an interesting article"
 category: "50"
 tags: []
 date: "2006-01-29"

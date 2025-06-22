@@ -1,6 +1,6 @@
 ---
 title: "Neat Bank of America site security feature doesn’t do anything !"
-subtitle: "If you use the Bank of America online banking site  you’ve seen what they call the ‘Site Identity’ f..."
+subtitle: "If you use the Bank of America online banking site you’ve seen what they call the ‘Site Identity’ f..."
 category: "298"
 tags: []
 date: "2007-02-05"

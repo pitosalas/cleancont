@@ -1,6 +1,6 @@
 ---
 title: "[GEEKY] List of Siri Commands"
-subtitle: "[How to Use Siri – Full list of Siri Commands for iPhone, iPad, Video](http://techblog.tv/full-list-..."
+subtitle: "How to Use Siri – Full list of Siri Commands for iPhone, iPad, Video"
 category: "1"
 tags: ["639", "1121", "1298", "1863"]
 date: "2013-08-22"

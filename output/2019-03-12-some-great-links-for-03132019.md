@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  03/13/2019"
-subtitle: "[Scalable architecture without magic (and how to build it if you’re not Google)](https://dev.to/uyou..."
+subtitle: "Scalable architecture without magic (and how to build it if you’re not Google)"
 category: "301"
 tags: []
 date: "2019-03-12"

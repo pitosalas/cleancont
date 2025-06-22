@@ -1,6 +1,6 @@
 ---
 title: "Interesting new search engines"
-subtitle: "There was a recent [interesting article in the New York Times](http://www.nytimes.com/2005/06/12/bus..."
+subtitle: "There was a recent interesting article in the New York Times"
 category: "298"
 tags: []
 date: "2005-07-27"

@@ -1,6 +1,6 @@
 ---
 title: "Wikipedia’s tenets"
-subtitle: "Flying back home yesterday I read this article about Wikipedia in the New York Times: [Wikipedia, Wh..."
+subtitle: "Flying back home yesterday I read this article about Wikipedia in the New York Times: [Wikipedia, Wh..."
 category: "1"
 tags: ["1542", "2117"]
 date: "2014-01-10"

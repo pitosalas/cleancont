@@ -1,6 +1,6 @@
 ---
 title: "Roku Roku Roku: Aint Technology Great?"
-subtitle: "[![Sb-M1000-Small](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/im..."
+subtitle: "![Sb-M1000-Small"
 category: "298"
 tags: []
 date: "2005-11-11"

@@ -1,6 +1,6 @@
 ---
 title: "Free Coffee and Bad Marketing"
-subtitle: "First the **punchline**: [go to this link, fill out a short questionaire,](http://www.successandyou...."
+subtitle: "First the **punchline**: go to this link, fill out a short questionaire,"
 category: "298"
 tags: []
 date: "2004-12-22"

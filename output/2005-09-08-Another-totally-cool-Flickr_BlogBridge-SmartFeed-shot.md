@@ -1,6 +1,6 @@
 ---
 title: "Another totally cool Flickr/BlogBridge SmartFeed shot"
-subtitle: "[![](https://i0.wp.com/static.flickr.com/29/41511313_50725fd590_m.jpg?w=584)](<http://www.flickr.com..."
+subtitle: "![](<http://www.flickr.com..."
 category: "uncategorized"
 tags: []
 date: "2005-09-08"

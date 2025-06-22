@@ -1,6 +1,6 @@
 ---
 title: "Who thought of it first? Who cares?"
-subtitle: "Microsoft and Apple are [arguing](http://news.zdnet.com/2100-3513_22-5675681.html?tag=nl.e589) about..."
+subtitle: "Microsoft and Apple are arguing about..."
 category: "538"
 tags: []
 date: "2005-04-19"

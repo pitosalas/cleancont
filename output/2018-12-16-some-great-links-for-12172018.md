@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  12/17/2018"
-subtitle: "[typicode/json-server](https://github.com/typicode/json-server)"
+subtitle: "typicode/json-server"
 category: "301"
 tags: []
 date: "2018-12-16"

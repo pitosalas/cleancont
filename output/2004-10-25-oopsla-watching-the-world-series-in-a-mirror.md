@@ -1,6 +1,6 @@
 ---
 title: "[OOPSLA] Watching the World Series in a mirror"
-subtitle: "Just got to Vancouver for [OOPSLA](http://www.oopsla.org/2004/ShowPage.do?id=Home). Just checked int..."
+subtitle: "Just got to Vancouver for OOPSLA. Just checked int..."
 category: "298"
 tags: []
 date: "2004-10-25"

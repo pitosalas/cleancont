@@ -1,6 +1,6 @@
 ---
 title: "Guitar Scientist: Create Free Guitar Diagrams Online"
-subtitle: "[ Guitar Scientist: Create Free Guitar Diagrams Online](https://guitarscientist.com/generator/?v=191..."
+subtitle: "Guitar Scientist: Create Free Guitar Diagrams Online"
 category: "147"
 tags: []
 date: "2021-05-06"

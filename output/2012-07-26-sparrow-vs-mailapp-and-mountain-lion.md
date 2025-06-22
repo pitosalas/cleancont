@@ -1,6 +1,6 @@
 ---
 title: "Sparrow vs. Mail.app and Mountain Lion"
-subtitle: "Did you hear that [Google bought Sparrow?](http://sparrowmailapp.com) Sparrow is a really cool email..."
+subtitle: "Did you hear that Google bought Sparrow? Sparrow is a really cool email..."
 category: "1"
 tags: ["639", "998", "1407", "1423", "1570", "1896"]
 date: "2012-07-26"

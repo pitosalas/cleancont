@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  11/25/2019"
-subtitle: "[How to Process Passwords as a Software Developer – DEV Community ](https://dev.to/nathilia_pierce/h..."
+subtitle: "How to Process Passwords as a Software Developer – DEV Community"
 category: "301"
 tags: []
 date: "2019-11-24"

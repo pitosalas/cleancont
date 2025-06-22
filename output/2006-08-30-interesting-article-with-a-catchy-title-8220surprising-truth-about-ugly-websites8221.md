@@ -1,6 +1,6 @@
 ---
 title: "Interesting article with a catchy title: “Surprising Truth about Ugly Websites”"
-subtitle: "Someone forwarded [this](http://www.site-reference.com/articles/Website-Development/The-Surprising-T..."
+subtitle: "Someone forwarded this"
 category: "538"
 tags: []
 date: "2006-08-30"

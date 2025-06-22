@@ -1,6 +1,6 @@
 ---
 title: "Something I’ve been looking for: Finder Window Manager"
-subtitle: "Check out [this post](http://feeds.tuaw.com/~r/weblogsinc/tuaw/~3/113219781/) from [The Unofficial A..."
+subtitle: "Check out this post from [The Unofficial A..."
 category: "538"
 tags: []
 date: "2007-05-01"

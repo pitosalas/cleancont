@@ -1,6 +1,6 @@
 ---
 title: "Are smartphone apps “applications” or “features”?"
-subtitle: "Andy [Payne wrote an interesting analysis about the future of the “software industry”](http://blog.p..."
+subtitle: "Andy Payne wrote an interesting analysis about the future of the “software industry”"
 category: "1"
 tags: ["981", "1050", "1263", "1873"]
 date: "2013-02-17"

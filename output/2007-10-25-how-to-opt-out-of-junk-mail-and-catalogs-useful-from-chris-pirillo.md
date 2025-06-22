@@ -1,6 +1,6 @@
 ---
 title: "How to Opt Out of Junk Mail and Catalogs: Useful from Chris Pirillo"
-subtitle: "Check out [this post](http://chris.pirillo.com/2007/10/24/how-to-opt-out-of-junk-mail-and-catalogs-2..."
+subtitle: "Check out this post"
 category: "298"
 tags: []
 date: "2007-10-25"

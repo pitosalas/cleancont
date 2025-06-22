@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  04/12/2018"
-subtitle: "* [Micromessaging: Connecting Heroku Microservices w/Redis and RabbitMQ](<https://blog.carbonfive.co..."
+subtitle: "* Micromessaging: Connecting Heroku Microservices w/Redis and RabbitMQ"
 category: "uncategorized"
 tags: []
 date: "2018-04-12"

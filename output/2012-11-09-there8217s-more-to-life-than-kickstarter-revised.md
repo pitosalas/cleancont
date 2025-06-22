@@ -1,6 +1,6 @@
 ---
 title: "There’s more to life than Kickstarter (revised)"
-subtitle: "Everyone (almost) has heard of [Kickstarter](http://www.kickstarter.com), right? It’s the best known..."
+subtitle: "Everyone (almost) has heard of Kickstarter, right? It’s the best known..."
 category: "1"
 tags: ["893", "894", "1341"]
 date: "2012-11-09"

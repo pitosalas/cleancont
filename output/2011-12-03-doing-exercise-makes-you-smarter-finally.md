@@ -1,6 +1,6 @@
 ---
 title: "Doing exercise makes you smarter. Finally!"
-subtitle: "From the New York Times, [How Exercise Benefits the Brain:](http://well.blogs.nytimes.com/2011/11/30..."
+subtitle: "From the New York Times, How Exercise Benefits the Brain:"
 category: "1"
 tags: ["1030", "1194", "1542"]
 date: "2011-12-03"

@@ -1,6 +1,6 @@
 ---
 title: "Chris Jordan and the law of large numbers"
-subtitle: "I saw [Chris Jordan](http://www.google.com/url?sa=t&ct=res&cd=1&url=http%3A%2F%2Fwww.chrisjordan.com..."
+subtitle: "I saw Chris Jordan"
 category: "298"
 tags: []
 date: "2008-01-29"

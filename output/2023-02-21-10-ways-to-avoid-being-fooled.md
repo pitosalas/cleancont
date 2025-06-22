@@ -1,6 +1,6 @@
 ---
 title: "10 Ways to Avoid Being Fooled"
-subtitle: "[ 10 Ways to Avoid Being Fooled]( https://open.substack.com/pub/gurwinder/p/10-ways-to-avoid-being-f..."
+subtitle: "10 Ways to Avoid Being Fooled"
 category: "1"
 tags: ["2435", "1033", "1221", "1999"]
 date: "2023-02-21"

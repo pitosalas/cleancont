@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  02/13/2021"
-subtitle: "* [15 Python Packages You Probably Don’t Know Exits](<https://link.medium.com/csSHSvZHOdb>)"
+subtitle: "* 15 Python Packages You Probably Don’t Know Exits"
 category: "uncategorized"
 tags: []
 date: "2021-02-12"

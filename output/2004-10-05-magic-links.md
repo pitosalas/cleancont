@@ -1,6 +1,6 @@
 ---
 title: "Magic Links"
-subtitle: "Here’s a really cool idea (via [Boing Boing ](http://www.boingboing.net/)– see their [story](http://..."
+subtitle: "Here’s a really cool idea (via Boing Boing – see their story"
 category: "50"
 tags: []
 date: "2004-10-05"

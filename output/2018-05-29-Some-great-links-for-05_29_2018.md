@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  05/29/2018"
-subtitle: "* [Automated Machine Learning on the Cloud in Python – Towards Data Science](<https://towardsdatasci..."
+subtitle: "* Automated Machine Learning on the Cloud in Python – Towards Data Science"
 category: "uncategorized"
 tags: []
 date: "2018-05-29"

@@ -1,6 +1,6 @@
 ---
 title: "OpenCV: Detection of ArUco Markers"
-subtitle: "[ OpenCV: Detection of ArUco Markers](https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.ht..."
+subtitle: "OpenCV: Detection of ArUco Markers"
 category: "101"
 tags: []
 date: "2022-03-18"

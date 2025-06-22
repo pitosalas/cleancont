@@ -1,6 +1,6 @@
 ---
 title: "Noteflakes: Embracing Infinite Loops with Ruby and Polyphony"
-subtitle: "[ Noteflakes: Embracing Infinite Loops with Ruby and Polyphony](https://noteflakes.com/articles/2021..."
+subtitle: "Noteflakes: Embracing Infinite Loops with Ruby and Polyphony"
 category: "102"
 tags: ["1605", "1772"]
 date: "2021-10-15"

@@ -1,6 +1,6 @@
 ---
 title: "BlogBridge T-shirts"
-subtitle: "This may be a first! [Get your cool BlogBridge t-shirts here!](http://www.cafepress.com/blogbridge)"
+subtitle: "This may be a first! Get your cool BlogBridge t-shirts here!"
 category: "298"
 tags: []
 date: "2005-02-01"

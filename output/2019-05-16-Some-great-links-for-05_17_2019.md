@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  05/17/2019"
-subtitle: "* [We Can Do Better Than SQL](<https://edgedb.com/blog/we-can-do-better-than-sql/>)"
+subtitle: "* We Can Do Better Than SQL"
 category: "uncategorized"
 tags: []
 date: "2019-05-16"

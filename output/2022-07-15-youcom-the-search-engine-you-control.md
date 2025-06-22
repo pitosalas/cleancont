@@ -1,6 +1,6 @@
 ---
 title: "You.com | The search engine you control."
-subtitle: "[ You.com | The search engine you control.]( https://you.com/) –Good luck to the world with another ..."
+subtitle: "You.com | The search engine you control. –Good luck to the world with another ..."
 category: "1"
 tags: ["871", "1221", "1814", "2010"]
 date: "2022-07-15"

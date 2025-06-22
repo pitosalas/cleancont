@@ -1,6 +1,6 @@
 ---
 title: "What’s up with Orkut? There’s"
-subtitle: "**What’s up with [Orkut](http://www.orkut.com/terms.html)? **There’s this new [“online community tha..."
+subtitle: "**What’s up with Orkut? **There’s this new [“online community tha..."
 category: "1"
 tags: []
 date: "2004-01-24"

@@ -1,6 +1,6 @@
 ---
 title: "The death of spam?"
-subtitle: "My friend [Paul English](http://www.paulenglish.com/) has [written an interesting bit about](http://..."
+subtitle: "My friend Paul English has written an interesting bit about"
 category: "298"
 tags: []
 date: "2005-08-06"

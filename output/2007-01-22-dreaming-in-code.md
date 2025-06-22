@@ -1,6 +1,6 @@
 ---
 title: "Dreaming in code"
-subtitle: "I heard about this book, [“Dreaming in Code”](http://www.dreamingincode.com/)… it looks really inter..."
+subtitle: "I heard about this book, “Dreaming in Code”… it looks really inter..."
 category: "538"
 tags: []
 date: "2007-01-22"

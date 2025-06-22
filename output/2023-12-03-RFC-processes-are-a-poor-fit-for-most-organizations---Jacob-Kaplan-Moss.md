@@ -1,6 +1,6 @@
 ---
 title: "RFC processes are a poor fit for most organizations – Jacob Kaplan-Moss"
-subtitle: "[ RFC processes are a poor fit for most organizations - Jacob Kaplan-Moss](<"
+subtitle: "RFC processes are a poor fit for most organizations - Jacob Kaplan-Moss"
 category: "uncategorized"
 tags: []
 date: "2023-12-03"

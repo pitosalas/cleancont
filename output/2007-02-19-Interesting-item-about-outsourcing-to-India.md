@@ -1,6 +1,6 @@
 ---
 title: "Interesting item about outsourcing to India…"
-subtitle: "Check out [this post](<http://feeds.feedburner.com/~r/OmMalik/~3/92632691/>)"
+subtitle: "Check out this post"
 category: "uncategorized"
 tags: []
 date: "2007-02-19"

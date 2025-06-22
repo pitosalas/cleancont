@@ -1,6 +1,6 @@
 ---
 title: "What is Standards-based Grading? – TeacherEase"
-subtitle: "[ What is Standards-based Grading? – TeacherEase](https://www.teacherease.com/standards-based-gradin..."
+subtitle: "What is Standards-based Grading? – TeacherEase"
 category: "1"
 tags: []
 date: "2023-06-29"

@@ -1,6 +1,6 @@
 ---
 title: "Is Eclipse too “Windows-esque”?"
-subtitle: ">  body { font-style: normal; line-height: normal; font-variant: normal; font-"
+subtitle: "> body { font-style: normal; line-height: normal; font-variant: normal; font-"
 category: "uncategorized"
 tags: []
 date: "2007-01-23"

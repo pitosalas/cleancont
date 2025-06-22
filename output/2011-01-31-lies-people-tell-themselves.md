@@ -1,6 +1,6 @@
 ---
 title: "Lies people tell themselves"
-subtitle: "[Michael Arrington ](http://en.wikipedia.org/wiki/Michael_Arrington)is a famous Tech-pundit-commenta..."
+subtitle: "Michael Arrington is a famous Tech-pundit-commenta..."
 category: "1"
 tags: ["652", "1858", "1872", "1918", "1979"]
 date: "2011-01-31"

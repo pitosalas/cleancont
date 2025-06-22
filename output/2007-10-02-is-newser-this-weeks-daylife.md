@@ -1,6 +1,6 @@
 ---
 title: "Is Newser this weeks Daylife?"
-subtitle: "[Newser.com](http://www.newser.com/) is a new news site, with the tag line: “Faster, Smarter News.” ..."
+subtitle: "Newser.com is a new news site, with the tag line: “Faster, Smarter News.” ..."
 category: "298"
 tags: []
 date: "2007-10-02"

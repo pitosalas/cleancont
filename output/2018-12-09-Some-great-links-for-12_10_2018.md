@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  12/10/2018"
-subtitle: "* [Qt 5.12 LTS Released - Qt Blog](<http://blog.qt.io/blog/2018/12/06/qt-5-12-lts-released/>)"
+subtitle: "* Qt 5.12 LTS Released - Qt Blog"
 category: "uncategorized"
 tags: []
 date: "2018-12-09"

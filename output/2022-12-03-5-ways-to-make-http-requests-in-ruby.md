@@ -1,6 +1,6 @@
 ---
 title: "5 ways to make HTTP requests in Ruby"
-subtitle: "[ 5 ways to make HTTP requests in Ruby]( https://www.twilio.com/blog/5-ways-make-http-requests-ruby)..."
+subtitle: "5 ways to make HTTP requests in Ruby..."
 category: "1"
 tags: ["1033", "1122", "1221", "1224", "1772", "2326"]
 date: "2022-12-03"

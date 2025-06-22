@@ -1,6 +1,6 @@
 ---
 title: "Really good advice"
-subtitle: "[Robert Krulwich gave this graduation speech](http://blogs.discovermagazine.com/notrocketscience/201..."
+subtitle: "Robert Krulwich gave this graduation speech"
 category: "298"
 tags: ["1318", "1325"]
 date: "2011-06-11"

@@ -1,6 +1,6 @@
 ---
 title: "Rails initializers you don’t know about – Inflections"
-subtitle: "[ Rails initializers you don’t know about – Inflections]( https://blog.saeloun.com/2023/02/09/rails-..."
+subtitle: "Rails initializers you don’t know about – Inflections"
 category: "1"
 tags: ["1033", "1100", "2429", "2428", "1711", "1772", "2427"]
 date: "2023-02-17"

@@ -1,6 +1,6 @@
 ---
 title: "June 27th – Wonderful miraculous stuff"
-subtitle: "[Wikipedia – How to milk the ole cow](http://forums.digitalpoint.com/showthread.php?t=76925)"
+subtitle: "Wikipedia – How to milk the ole cow"
 category: "298"
 tags: []
 date: "2006-06-27"

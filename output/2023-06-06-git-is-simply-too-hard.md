@@ -1,6 +1,6 @@
 ---
 title: "Git is simply too hard"
-subtitle: "[ Git is simply too hard]( https://changelog.com/posts/git-is-simply-too-hard) –Git is actually sooo..."
+subtitle: "Git is simply too hard –Git is actually sooo..."
 category: "1"
 tags: ["1134", "1564"]
 date: "2023-06-06"

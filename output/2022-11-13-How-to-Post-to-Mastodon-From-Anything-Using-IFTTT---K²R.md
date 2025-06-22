@@ -1,6 +1,6 @@
 ---
 title: "How to Post to Mastodon From Anything Using IFTTT – K²R"
-subtitle: "[ How to Post to Mastodon From Anything Using IFTTT - K²R](<"
+subtitle: "How to Post to Mastodon From Anything Using IFTTT - K²R"
 category: "uncategorized"
 tags: []
 date: "2022-11-13"

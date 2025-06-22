@@ -1,6 +1,6 @@
 ---
 title: "Talking points memo: who’s obsessed now?"
-subtitle: "I’m a huge fan of [Talking Points Memo](http://www.talkingpointsmemo.com/), Josh Marshall’s blog. In..."
+subtitle: "I’m a huge fan of Talking Points Memo, Josh Marshall’s blog. In..."
 category: "298"
 tags: []
 date: "2004-10-15"

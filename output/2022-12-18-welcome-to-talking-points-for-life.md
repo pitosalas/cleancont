@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Talking Points for Life"
-subtitle: "[ Welcome to Talking Points for Life]( https://www.talkingpointsforlife.com/?utm_campaign=Recomendo&..."
+subtitle: "Welcome to Talking Points for Life"
 category: "1"
 tags: ["2366", "1221", "1285", "2367"]
 date: "2022-12-18"

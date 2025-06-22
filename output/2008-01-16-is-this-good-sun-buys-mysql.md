@@ -1,6 +1,6 @@
 ---
 title: "Is this good? Sun buys MySql!"
-subtitle: "From the [Wall Street Journal:](http://online.wsj.com/article/SB120049014746494511.html?mod=hps_us_w..."
+subtitle: "From the Wall Street Journal:"
 category: "538"
 tags: []
 date: "2008-01-16"

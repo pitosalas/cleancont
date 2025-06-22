@@ -1,6 +1,6 @@
 ---
 title: "[GEEKY] Interesting collection of algorithms and great Ruby tutorial"
-subtitle: "Over the last several months I’ve been following a series of blog postings by [Jamis Buck ](http://w..."
+subtitle: "Over the last several months I’ve been following a series of blog postings by Jamis Buck"
 category: "422"
 tags: ["620", "1449", "1772"]
 date: "2011-02-15"

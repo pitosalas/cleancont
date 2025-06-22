@@ -1,6 +1,6 @@
 ---
 title: "20 Type Hinting Techniques and Tools for Better Python Code"
-subtitle: "[ 20 Type Hinting Techniques and Tools for Better Python Code]( https://betterprogramming.pub/twenty..."
+subtitle: "20 Type Hinting Techniques and Tools for Better Python Code"
 category: "1"
 tags: ["1221", "1692", "2215"]
 date: "2022-07-22"

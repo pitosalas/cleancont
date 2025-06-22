@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  12/09/2020"
-subtitle: "* [7 Deadly Sins Python Developers Do](<https://link.medium.com/s5bCXwQa3bb>)"
+subtitle: "* 7 Deadly Sins Python Developers Do"
 category: "uncategorized"
 tags: []
 date: "2020-12-08"

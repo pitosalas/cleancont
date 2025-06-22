@@ -1,6 +1,6 @@
 ---
 title: "Refactoring: Improving the Design of Existing Code (My Notes and Highlights)"
-subtitle: "[ Refactoring: Improving the Design of Existing Code (My Notes and Highlights)]( https://www.akshayk..."
+subtitle: "Refactoring: Improving the Design of Existing Code (My Notes and Highlights)"
 category: "1"
 tags: ["2476", "2583", "1221", "1727", "1747", "1888"]
 date: "2023-10-06"

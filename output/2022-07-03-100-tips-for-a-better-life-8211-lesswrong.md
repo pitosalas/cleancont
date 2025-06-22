@@ -1,6 +1,6 @@
 ---
 title: "100 Tips for a Better Life – LessWrong"
-subtitle: "[ 100 Tips for a Better Life – LessWrong]( https://www.lesswrong.com/posts/7hFeMWC6Y5eaSixbD/100-tip..."
+subtitle: "100 Tips for a Better Life – LessWrong"
 category: "1"
 tags: ["1378", "2181"]
 date: "2022-07-03"

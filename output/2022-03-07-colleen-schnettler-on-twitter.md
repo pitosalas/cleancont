@@ -1,6 +1,6 @@
 ---
 title: "Colleen Schnettler on Twitter"
-subtitle: "[ Colleen Schnettler on Twitter](https://twitter.com/leenyburger/status/1499444001564413953/photo/1)"
+subtitle: "Colleen Schnettler on Twitter"
 category: "7"
 tags: ["1711"]
 date: "2022-03-07"

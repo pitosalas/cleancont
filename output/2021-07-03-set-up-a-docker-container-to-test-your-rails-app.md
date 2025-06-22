@@ -1,6 +1,6 @@
 ---
 title: "Set Up A Docker Container To Test Your Rails App"
-subtitle: "[ Set Up A Docker Container To Test Your Rails App](https://www.honeybadger.io/blog/testing-rails-wi..."
+subtitle: "Set Up A Docker Container To Test Your Rails App"
 category: "152"
 tags: ["1711", "1772"]
 date: "2021-07-03"

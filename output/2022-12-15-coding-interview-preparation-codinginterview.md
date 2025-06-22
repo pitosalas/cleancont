@@ -1,6 +1,6 @@
 ---
 title: "Coding Interview Preparation | Codinginterview"
-subtitle: "[ Coding Interview Preparation | Codinginterview]( https://www.codinginterview.com/) –A very interes..."
+subtitle: "Coding Interview Preparation | Codinginterview –A very interes..."
 category: "1"
 tags: ["2365", "1285"]
 date: "2022-12-15"

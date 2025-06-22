@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  09/11/2018"
-subtitle: "[Ruby one-liners](http://benoithamelin.tumblr.com/ruby1line/)"
+subtitle: "Ruby one-liners"
 category: "301"
 tags: []
 date: "2018-09-10"

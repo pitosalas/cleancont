@@ -1,6 +1,6 @@
 ---
 title: "How The Post is replacing Mapbox with open source solutions – Kevin Schaul"
-subtitle: "[ How The Post is replacing Mapbox with open source solutions – Kevin Schaul]( https://www.kschaul.c..."
+subtitle: "How The Post is replacing Mapbox with open source solutions – Kevin Schaul"
 category: "1"
 tags: ["1431", "2430", "2431", "1558", "2432"]
 date: "2023-02-17"

@@ -1,6 +1,6 @@
 ---
 title: "File: Advanced I/O with Polyphony  Documentation for polyphony (1.1.1)"
-subtitle: "[ File: Advanced I/O with Polyphony — Documentation for polyphony (1.1.1)](https://www.rubydoc.info/..."
+subtitle: "File: Advanced I/O with Polyphony — Documentation for polyphony (1.1.1)"
 category: "1"
 tags: ["1122", "2495", "1605", "1772", "2494", "2496", "2223"]
 date: "2023-06-16"

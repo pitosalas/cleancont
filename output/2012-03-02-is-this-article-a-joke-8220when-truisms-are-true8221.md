@@ -1,6 +1,6 @@
 ---
 title: "Is this article a joke? “When Truisms are true”"
-subtitle: "![26GRAYMATTER-articleInline.jpg](https://i0.wp.com/graphics8.nytimes.com/images/2012/02/26/sunday-r..."
+subtitle: "!26GRAYMATTER-articleInline.jpg"
 category: "1"
 tags: ["734", "1230", "1305", "1324", "1542", "1740"]
 date: "2012-03-02"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  03/04/2020"
-subtitle: "[Ruby on Rails Mistakes that could kill Your Production Servers](https://pawelurbanek.com/rails-mist..."
+subtitle: "Ruby on Rails Mistakes that could kill Your Production Servers"
 category: "301"
 tags: []
 date: "2020-03-03"

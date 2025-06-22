@@ -1,6 +1,6 @@
 ---
 title: "Robin Good has interesting predictions"
-subtitle: "[Robin Good](http://www.masternewmedia.org/index.html) has some [interesting predictions and prognos..."
+subtitle: "Robin Good has some [interesting predictions and prognos..."
 category: "538"
 tags: []
 date: "2005-12-12"

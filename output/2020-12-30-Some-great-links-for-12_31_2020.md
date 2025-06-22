@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  12/31/2020"
-subtitle: "* [Git Commands to Live By](<https://link.medium.com/sbnKSHQCDcb>)"
+subtitle: "* Git Commands to Live By"
 category: "uncategorized"
 tags: []
 date: "2020-12-30"

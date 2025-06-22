@@ -1,6 +1,6 @@
 ---
 title: "[SILLY] Beards and Facial Hair"
-subtitle: "![beard20084.jpg](https://i0.wp.com/www.dyers.org/images/beard2008/beard20084.jpg?w=584)"
+subtitle: "!beard20084.jpg"
 category: "298"
 tags: ["694", "1038", "1859"]
 date: "2010-12-31"

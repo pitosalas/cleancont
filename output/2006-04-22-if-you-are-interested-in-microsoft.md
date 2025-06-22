@@ -1,6 +1,6 @@
 ---
 title: "If you are interested in Microsoft"
-subtitle: "A friend of mine who used to work at **Microsoft** sent me a link to a [very interesting posting](ht..."
+subtitle: "A friend of mine who used to work at **Microsoft** sent me a link to a very interesting posting"
 category: "298"
 tags: []
 date: "2006-04-22"

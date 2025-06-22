@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  10/02/2019"
-subtitle: "* [Understanding Zeitwerk in Rails 6](<https://link.medium.com/4v0KyHERq0>)"
+subtitle: "* Understanding Zeitwerk in Rails 6"
 category: "uncategorized"
 tags: []
 date: "2019-10-01"

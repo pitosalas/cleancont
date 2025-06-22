@@ -1,6 +1,6 @@
 ---
 title: "Followup: Upgraded my iPhone from 3GS to 4 for MINUS $40.00"
-subtitle: "Following up [from yesterday’s post](/2010/12/07/free-iphone-3gs-upgrade-to-iphone-4/), in fact, I w..."
+subtitle: "Following up from yesterday’s post, in fact, I w..."
 category: "298"
 tags: ["1298", "1709"]
 date: "2010-12-09"

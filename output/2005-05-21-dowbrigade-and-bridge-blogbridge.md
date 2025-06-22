@@ -1,6 +1,6 @@
 ---
 title: "Dowbrigade and Bridge BlogBridge"
-subtitle: "Just a quick note of the **very nice** mention of BlogBridge by almost-famous [Dowbrigade](http://bl..."
+subtitle: "Just a quick note of the **very nice** mention of BlogBridge by almost-famous Dowbrigade"
 category: "50"
 tags: []
 date: "2005-05-21"

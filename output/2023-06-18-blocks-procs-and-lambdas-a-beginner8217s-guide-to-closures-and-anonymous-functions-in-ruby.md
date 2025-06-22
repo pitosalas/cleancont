@@ -1,6 +1,6 @@
 ---
 title: "Blocks Procs and Lambdas: A Beginner’s Guide to Closures and Anonymous Functions in Ruby"
-subtitle: "[ Blocks, Procs, and Lambdas: A Beginner’s Guide to Closures and Anonymous Functions in Ruby](https:..."
+subtitle: "Blocks, Procs, and Lambdas: A Beginner’s Guide to Closures and Anonymous Functions in Ruby"
 category: "1"
 tags: ["2502", "716", "1033", "2176", "2500", "2501", "1772"]
 date: "2023-06-18"

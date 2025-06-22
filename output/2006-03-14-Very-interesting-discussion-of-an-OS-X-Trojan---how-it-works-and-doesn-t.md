@@ -1,6 +1,6 @@
 ---
 title: "Very interesting discussion of an OS X Trojan – how it works and doesn’t"
-subtitle: '>> [Via MetaFilter](<http://www.metafilter.com/mefi/49232>): "Barbarians are'
+subtitle: '>> Via MetaFilter: "Barbarians are'
 category: "uncategorized"
 tags: []
 date: "2006-03-14"

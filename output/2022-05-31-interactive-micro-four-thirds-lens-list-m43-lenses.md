@@ -1,6 +1,6 @@
 ---
 title: "Interactive Micro Four Thirds Lens List | M43 Lenses"
-subtitle: "[ Interactive Micro Four Thirds Lens List | M43 Lenses](https://www.m43lenses.com/)"
+subtitle: "Interactive Micro Four Thirds Lens List | M43 Lenses"
 category: "233"
 tags: ["1853"]
 date: "2022-05-31"

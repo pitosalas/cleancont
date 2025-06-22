@@ -1,6 +1,6 @@
 ---
 title: "Geometry (Points, Vectors and Normals)"
-subtitle: "[ Geometry (Points, Vectors and Normals)](https://www.scratchapixel.com/lessons/mathematics-physics-..."
+subtitle: "Geometry (Points, Vectors and Normals)"
 category: "178"
 tags: ["1445"]
 date: "2021-06-08"

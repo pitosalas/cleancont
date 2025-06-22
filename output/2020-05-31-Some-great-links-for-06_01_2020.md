@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  06/01/2020"
-subtitle: "* [GGather](<https://ggather.com>)"
+subtitle: "* GGather"
 category: "uncategorized"
 tags: []
 date: "2020-05-31"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  04/06/2020"
-subtitle: "[The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README.md)"
+subtitle: "The Art of Command Line"
 category: "301"
 tags: []
 date: "2020-04-05"

@@ -1,6 +1,6 @@
 ---
 title: "Amazing pictures of an old Russian Submarine Base"
-subtitle: "[![Bal-825-39-S](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/webl..."
+subtitle: "![Bal-825-39-S"
 category: "298"
 tags: []
 date: "2006-04-07"

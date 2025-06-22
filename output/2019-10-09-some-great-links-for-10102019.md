@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  10/10/2019"
-subtitle: "[Rails Performance Tips](https://link.medium.com/cgTBPZxXD0)"
+subtitle: "Rails Performance Tips"
 category: "301"
 tags: []
 date: "2019-10-09"

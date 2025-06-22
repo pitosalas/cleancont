@@ -1,6 +1,6 @@
 ---
 title: "Why did the #TwitterMigration fail?"
-subtitle: "[ Why did the #TwitterMigration fail?](https://blog.bloonface.com/2023/06/12/why-did-the-twittermigr..."
+subtitle: "Why did the #TwitterMigration fail?"
 category: "1"
 tags: ["1033", "2325", "2324", "2294", "1793", "2047"]
 date: "2023-06-15"

@@ -1,6 +1,6 @@
 ---
 title: "Scary Software, Part Deux"
-subtitle: "[Continuing my complaints ](/weblogs/archives/000457.html)about Java Web Start, as if the message di..."
+subtitle: "Continuing my complaints about Java Web Start, as if the message di..."
 category: "538"
 tags: []
 date: "2004-07-12"

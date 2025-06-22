@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  08/07/2020"
-subtitle: "[Noticed Gem: Notifications for Ruby on Rails applications](https://github.com/excid3/noticed)"
+subtitle: "Noticed Gem: Notifications for Ruby on Rails applications"
 category: "301"
 tags: []
 date: "2020-08-06"

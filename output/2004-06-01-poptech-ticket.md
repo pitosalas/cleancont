@@ -1,6 +1,6 @@
 ---
 title: "Pop!Tech Ticket!"
-subtitle: "[Pop!Tech](http://www.poptech.com/) is [one of my all time favorite conferences](/weblogs/archives/0..."
+subtitle: "Pop!Tech is one of my all time favorite conferences"
 category: "298"
 tags: []
 date: "2004-06-01"

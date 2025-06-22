@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  06/08/2020"
-subtitle: "* [datas-frame – Modern Pandas (Part 2): Method Chaining](<https://tomaugspurger.github.io/method-ch..."
+subtitle: "* datas-frame – Modern Pandas (Part 2): Method Chaining"
 category: "uncategorized"
 tags: []
 date: "2020-06-07"

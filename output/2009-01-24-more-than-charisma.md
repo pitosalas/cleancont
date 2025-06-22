@@ -1,6 +1,6 @@
 ---
 title: "More than Charisma"
-subtitle: "From [Bob Herbert, in today’s New York Times](http://www.nytimes.com/2009/01/24/opinion/24herbert.ht..."
+subtitle: "From Bob Herbert, in today’s New York Times"
 category: "298"
 tags: ["795", "1202", "1543"]
 date: "2009-01-24"

@@ -1,6 +1,6 @@
 ---
 title: "DayLife: very nice new News Site"
-subtitle: "Notwithstanding the fact that Mike Arrington, an investor, doesn’t like [DayLife](http://www.daylife..."
+subtitle: "Notwithstanding the fact that Mike Arrington, an investor, doesn’t like DayLife"
 category: "298"
 tags: []
 date: "2007-01-05"

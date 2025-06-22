@@ -1,6 +1,6 @@
 ---
 title: "Google+ – Professional Social Network?"
-subtitle: "Some people are starting to wonder whether [Google+ ](/)will continue to grow and become a major soc..."
+subtitle: "Some people are starting to wonder whether Google+ will continue to grow and become a major soc..."
 category: "298"
 tags: ["1148", "1885"]
 date: "2011-09-23"

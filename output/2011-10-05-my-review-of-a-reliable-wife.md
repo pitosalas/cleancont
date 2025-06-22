@@ -1,6 +1,6 @@
 ---
 title: "My review of A Reliable Wife"
-subtitle: "[![A Reliable Wife](https://i0.wp.com/photo.goodreads.com/books/1267035347m/4929705.jpg?w=584)](http..."
+subtitle: "!A Reliable Wife"
 category: "298"
 tags: ["725"]
 date: "2011-10-05"

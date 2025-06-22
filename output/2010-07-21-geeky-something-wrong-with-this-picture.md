@@ -1,6 +1,6 @@
 ---
 title: "[GEEKY] Something wrong with this picture?"
-subtitle: "This is from my  OSX Activity Monitor.app. See how it shows that one process is using 659.9% of the ..."
+subtitle: "This is from my OSX Activity Monitor.app. See how it shows that one process is using 659.9% of the ..."
 category: "298"
 tags: []
 date: "2010-07-21"

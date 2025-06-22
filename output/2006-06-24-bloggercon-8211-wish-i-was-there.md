@@ -1,6 +1,6 @@
 ---
 title: "BloggerCon – Wish I was there"
-subtitle: "BloggerCon IV is going on right now, in California. This is Dave Winer’s original ‘[UnConference](ht..."
+subtitle: "BloggerCon IV is going on right now, in California. This is Dave Winer’s original ‘UnConference"
 category: "51"
 tags: []
 date: "2006-06-24"

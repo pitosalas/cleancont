@@ -1,6 +1,6 @@
 ---
 title: "Musings on Open Source licensing"
-subtitle: "As I continue to make rapid progress on [BlogBridge](http://www.blogbridge.com/), now with a signifi..."
+subtitle: "As I continue to make rapid progress on BlogBridge, now with a signifi..."
 category: "50"
 tags: []
 date: "2004-05-28"

@@ -1,6 +1,6 @@
 ---
 title: "Wiki as in Wikipedia"
-subtitle: "I assume you know about [Wikis](http://en.wikipedia.org/wiki/Wiki) and the [Wikipedia](http://www.wi..."
+subtitle: "I assume you know about Wikis and the Wikipedia"
 category: "298"
 tags: []
 date: "2005-11-04"

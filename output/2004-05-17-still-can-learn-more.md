@@ -1,6 +1,6 @@
 ---
 title: "Still can learn more,,,"
-subtitle: "If you are doing Java programming, check out [Hardcore Java](http://store.yahoo.com/softpro/0-596-00..."
+subtitle: "If you are doing Java programming, check out Hardcore Java"
 category: "538"
 tags: []
 date: "2004-05-17"

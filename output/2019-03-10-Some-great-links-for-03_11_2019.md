@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  03/11/2019"
-subtitle: "* [How to scale Ruby on Rails with Redis | Opensource.com](<https://opensource.com/article/18/4/ruby..."
+subtitle: "* How to scale Ruby on Rails with Redis | Opensource.com"
 category: "uncategorized"
 tags: []
 date: "2019-03-10"

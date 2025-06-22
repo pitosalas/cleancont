@@ -1,6 +1,6 @@
 ---
 title: "Use Postgres for everything!"
-subtitle: "[ Use Postgres for everything!]( https://www.amazingcto.com/postgres-for-everything/) –Insights abou..."
+subtitle: "Use Postgres for everything! –Insights abou..."
 category: "1"
 tags: ["645", "2370", "1656", "2371", "2368", "2369"]
 date: "2022-12-18"

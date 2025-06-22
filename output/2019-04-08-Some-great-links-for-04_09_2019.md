@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  04/09/2019"
-subtitle: "* [codercom/code-server](<https://github.com/codercom/code-server>)"
+subtitle: "* codercom/code-server"
 category: "uncategorized"
 tags: []
 date: "2019-04-08"

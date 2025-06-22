@@ -1,6 +1,6 @@
 ---
 title: "[POLITICS] McChrystal self-sabotage"
-subtitle: "You can’t have missed the [whole General Stanley McChrystal affair,](http://www.washingtonpost.com/w..."
+subtitle: "You can’t have missed the whole General Stanley McChrystal affair,"
 category: "410"
 tags: []
 date: "2010-06-26"

@@ -1,6 +1,6 @@
 ---
 title: "myAGV – Mecanum wheels Lidar High-precision camera carkit"
-subtitle: "[ myAGV – Mecanum wheels Lidar High-precision camera carkit](https://shop.elephantrobotics.com/produ..."
+subtitle: "myAGV – Mecanum wheels Lidar High-precision camera carkit"
 category: "65"
 tags: []
 date: "2022-04-14"

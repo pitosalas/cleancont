@@ -1,6 +1,6 @@
 ---
 title: "New words: COTS and GOTS"
-subtitle: "In my work with the [Open Source Digital Voting foundation](http://www.osdv.org), and [TrustTheVote]..."
+subtitle: "In my work with the Open Source Digital Voting foundation, and [TrustTheVote]..."
 category: "538"
 tags: ["1025", "1562", "1569", "2036"]
 date: "2010-01-04"

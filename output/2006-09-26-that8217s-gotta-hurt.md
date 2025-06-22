@@ -1,6 +1,6 @@
 ---
 title: "That’s gotta hurt!"
-subtitle: "[Click here to see the picture. OUCH! No additional words needed!](http://news.yahoo.com/news?tmpl=s..."
+subtitle: "Click here to see the picture. OUCH! No additional words needed!"
 category: "298"
 tags: []
 date: "2006-09-26"

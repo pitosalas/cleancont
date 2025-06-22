@@ -1,6 +1,6 @@
 ---
 title: "Your teens should be on the phone | Semafor"
-subtitle: "[ Your teens should be on the phone | Semafor]( https://www.semafor.com/article/04/21/2023/teens-sma..."
+subtitle: "Your teens should be on the phone | Semafor"
 category: "1"
 tags: ["2463", "2462", "2461", "2460"]
 date: "2023-04-23"

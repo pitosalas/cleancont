@@ -1,6 +1,6 @@
 ---
 title: "git-sim: Visually simulate Git operations in your own repos"
-subtitle: "[ git-sim: Visually simulate Git operations in your own repos]( https://initialcommit.com/blog/git-s..."
+subtitle: "git-sim: Visually simulate Git operations in your own repos"
 category: "1"
 tags: ["1033", "1134", "1221", "1367"]
 date: "2023-01-29"

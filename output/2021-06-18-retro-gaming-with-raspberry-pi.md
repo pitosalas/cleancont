@@ -1,6 +1,6 @@
 ---
 title: "Retro Gaming with Raspberry Pi"
-subtitle: "[ Retro Gaming with Raspberry Pi](https://learn.adafruit.com/retro-gaming-with-raspberry-pi/adding-c..."
+subtitle: "Retro Gaming with Raspberry Pi"
 category: "109"
 tags: []
 date: "2021-06-18"

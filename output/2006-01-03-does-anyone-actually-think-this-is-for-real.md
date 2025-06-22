@@ -1,6 +1,6 @@
 ---
 title: "Does anyone actually think this is for real?"
-subtitle: "Did you see this [clever site](http://www.milliondollarhomepage.com/)? [Million Dollar Home Page](ht..."
+subtitle: "Did you see this clever site? Million Dollar Home Page"
 category: "298"
 tags: []
 date: "2006-01-03"

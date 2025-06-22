@@ -1,6 +1,6 @@
 ---
 title: "How To Learn Any New Skill Fast: 26 Tips and Tricks – Jeremy Fielding 105"
-subtitle: "[ How To Learn Any New Skill Fast: 26 Tips and Tricks – Jeremy Fielding 105]( https://youtu.be/DPbKu..."
+subtitle: "How To Learn Any New Skill Fast: 26 Tips and Tricks – Jeremy Fielding 105"
 category: "1"
 tags: ["1367", "1368", "2263"]
 date: "2022-09-12"

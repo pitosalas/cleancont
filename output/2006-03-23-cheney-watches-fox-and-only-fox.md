@@ -1,6 +1,6 @@
 ---
 title: "Cheney watches Fox and Only Fox"
-subtitle: "This is just silly-funny. [Here are what ](http://www.thesmokinggun.com/archive/0322061cheney1.html)..."
+subtitle: "This is just silly-funny. Here are what ..."
 category: "298"
 tags: []
 date: "2006-03-23"

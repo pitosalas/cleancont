@@ -1,6 +1,6 @@
 ---
 title: "Freedom Robotics"
-subtitle: "[ Freedom Robotics](https://www.freedomrobotics.com/?gclid=Cj0KCQjwjN-SBhCkARIsACsrBz54AJzvyDKOTrGKi..."
+subtitle: "Freedom Robotics"
 category: "65"
 tags: []
 date: "2022-04-14"

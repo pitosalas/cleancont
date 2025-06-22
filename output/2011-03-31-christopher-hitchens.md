@@ -1,6 +1,6 @@
 ---
 title: "Christopher Hitchens"
-subtitle: "A really excellent [interview/review of Christopher Hitchens and his memoir, “Hitch-22”:](http://www..."
+subtitle: "A really excellent interview/review of Christopher Hitchens and his memoir, “Hitch-22”:"
 category: "298"
 tags: ["1208", "1209"]
 date: "2011-03-31"

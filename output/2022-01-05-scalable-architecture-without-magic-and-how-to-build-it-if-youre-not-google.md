@@ -1,6 +1,6 @@
 ---
 title: "Scalable architecture without magic (and how to build it if you’re not Google)"
-subtitle: "[ Scalable architecture without magic (and how to build it if you’re not Google)](https://miloslav.w..."
+subtitle: "Scalable architecture without magic (and how to build it if you’re not Google)"
 category: "17"
 tags: ["817", "1003", "1795"]
 date: "2022-01-05"

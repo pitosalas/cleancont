@@ -1,6 +1,6 @@
 ---
 title: "Interesting article  about Open Source in the Financial Times"
-subtitle: "And in classic **Blogosphere** form, you can find a [report on the report](http://www.worldchanging...."
+subtitle: "And in classic **Blogosphere** form, you can find a report on the report"
 category: "298"
 tags: []
 date: "2005-09-22"

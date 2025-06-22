@@ -1,6 +1,6 @@
 ---
 title: "Sequoia Voting System Witch Hunt, err… Study Project"
-subtitle: "Check this post [Sequoia Voting System Witch Hunt, err… Study Project](http://www.codersrevolution.c..."
+subtitle: "Check this post Sequoia Voting System Witch Hunt, err… Study Project"
 category: "538"
 tags: []
 date: "2010-04-27"

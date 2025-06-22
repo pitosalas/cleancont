@@ -1,6 +1,6 @@
 ---
 title: "Introducing scikit-geometry"
-subtitle: "[ Introducing scikit-geometry]( https://wolfv.medium.com/introducing-scikit-geometry-ae1dccaad5fd) –..."
+subtitle: "Introducing scikit-geometry –..."
 category: "1"
 tags: ["871", "1128", "1221", "1575", "1692", "1755"]
 date: "2022-07-15"

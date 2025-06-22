@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  08/25/2019"
-subtitle: "* [The GVL and C Extensions - a cooperative partnership](<https://mailchi.mp/railsspeed/the-gvl-and-..."
+subtitle: "* The GVL and C Extensions - a cooperative partnership"
 category: "uncategorized"
 tags: []
 date: "2019-08-24"

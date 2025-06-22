@@ -1,6 +1,6 @@
 ---
 title: "[GEEKY] Why, oh, Why, Mr. Macintosh?"
-subtitle: "This is one of those handy dandy [tips that you wish were not hidden](http://homepage.mac.com/butler..."
+subtitle: "This is one of those handy dandy tips that you wish were not hidden"
 category: "538"
 tags: []
 date: "2005-09-30"

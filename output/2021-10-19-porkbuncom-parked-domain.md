@@ -1,6 +1,6 @@
 ---
 title: "porkbun.com | parked domain"
-subtitle: "[ porkbun.com | parked domain](http://film.ai/)"
+subtitle: "porkbun.com | parked domain"
 category: "301"
 tags: []
 date: "2021-10-19"

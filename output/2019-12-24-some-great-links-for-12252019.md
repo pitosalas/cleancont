@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  12/25/2019"
-subtitle: "[more handy python snippets ](https://link.medium.com/U8bjsYsqG2)"
+subtitle: "more handy python snippets"
 category: "301"
 tags: []
 date: "2019-12-24"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  02/04/2021"
-subtitle: "* [10 Ultimate Programming Jokes](<https://link.medium.com/gybRfn32zdb>)"
+subtitle: "* 10 Ultimate Programming Jokes"
 category: "uncategorized"
 tags: []
 date: "2021-02-03"

@@ -1,6 +1,6 @@
 ---
 title: "Interesting view on Tumblr/Yahoo deal"
-subtitle: "[Yahoo, Tumblr, and the Loyalty Factor – Ben Gomes-Casseres – Harvard Business Review](http://blogs...."
+subtitle: "Yahoo, Tumblr, and the Loyalty Factor – Ben Gomes-Casseres – Harvard Business Review"
 category: "1"
 tags: ["599", "1882", "1931", "2040", "2140"]
 date: "2013-05-20"

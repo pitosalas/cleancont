@@ -1,6 +1,6 @@
 ---
 title: "Curaçao’s Historic Synagogue"
-subtitle: "Recently I visited [Curaçao](http://maps.google.com/maps?f=q&hl=en&geocode=&q=curacao+netherlands+an..."
+subtitle: "Recently I visited Curaçao"
 category: "298"
 tags: []
 date: "2007-06-04"

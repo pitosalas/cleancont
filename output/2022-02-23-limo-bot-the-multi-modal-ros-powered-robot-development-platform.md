@@ -1,6 +1,6 @@
 ---
 title: "Limo Bot | The Multi-modal ROS Powered Robot Development Platform"
-subtitle: "[ Limo Bot | The Multi-modal ROS Powered Robot Development Platform](https://limo-bot.com/)"
+subtitle: "Limo Bot | The Multi-modal ROS Powered Robot Development Platform"
 category: "66"
 tags: []
 date: "2022-02-23"

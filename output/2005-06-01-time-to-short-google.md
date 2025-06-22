@@ -1,6 +1,6 @@
 ---
 title: "Time to short Google?"
-subtitle: "This can’t be good: [Google closed at $288 today. ](http://finance.yahoo.com/q?d=t&s=GOOG)"
+subtitle: "This can’t be good: Google closed at $288 today."
 category: "298"
 tags: []
 date: "2005-06-01"

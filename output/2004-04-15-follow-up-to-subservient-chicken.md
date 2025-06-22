@@ -1,6 +1,6 @@
 ---
 title: "Follow-up to Subservient Chicken"
-subtitle: "The true story comes out about the most excellent subservient chicken gimick. [I mentioned it ](/web..."
+subtitle: "The true story comes out about the most excellent subservient chicken gimick. I mentioned it"
 category: "298"
 tags: []
 date: "2004-04-15"

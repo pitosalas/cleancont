@@ -1,6 +1,6 @@
 ---
 title: "The Open Mind"
-subtitle: "[ The Open Mind]( https://www.theatlantic.com/magazine/archive/1949/02/the-open-mind/305431/) –None"
+subtitle: "The Open Mind –None"
 category: "1"
 tags: []
 date: "2023-09-23"

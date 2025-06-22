@@ -1,6 +1,6 @@
 ---
 title: "Check out CityPockets"
-subtitle: "I’ve been using various Groupon-ish web sites to **great advantage.** Whether it’s [Groupon](http://..."
+subtitle: "I’ve been using various Groupon-ish web sites to **great advantage.** Whether it’s Groupon"
 category: "298"
 tags: ["805", "1169"]
 date: "2011-10-01"

@@ -1,6 +1,6 @@
 ---
 title: "[GEEK] OPML Validator"
-subtitle: "I just came across [Dave Winer’s](http://www.scripting.com/) new, [beta, OPML Validator](http://www...."
+subtitle: "I just came across Dave Winer’s new, beta, OPML Validator"
 category: "538"
 tags: []
 date: "2005-10-30"

@@ -1,6 +1,6 @@
 ---
 title: "[GEEKY] RSS is about as dead as XML or 120V AC"
-subtitle: "I’ve seen a couple of “[RSS is dead](http://www.pehub.com/49053/rss-is-dead-so-is-the-rss-fund/)” he..."
+subtitle: "I’ve seen a couple of “RSS is dead” he..."
 category: "538"
 tags: []
 date: "2009-09-03"

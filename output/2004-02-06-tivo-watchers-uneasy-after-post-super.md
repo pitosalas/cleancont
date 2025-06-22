@@ -1,6 +1,6 @@
 ---
 title: "TiVo watchers uneasy after post-Super"
-subtitle: "[**TiVo watchers uneasy after post-Super Bowl reports:** CNET News.com](http://news.com.com/2100-104..."
+subtitle: "**TiVo watchers uneasy after post-Super Bowl reports:** CNET News.com"
 category: "1"
 tags: []
 date: "2004-02-06"

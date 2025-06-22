@@ -1,6 +1,6 @@
 ---
 title: "Interesting item about outsourcing to India…"
-subtitle: "Check out [this post](http://feeds.feedburner.com/~r/OmMalik/~3/92632691/) from [GigaOM](http://giga..."
+subtitle: "Check out this post from GigaOM"
 category: "538"
 tags: []
 date: "2007-02-19"

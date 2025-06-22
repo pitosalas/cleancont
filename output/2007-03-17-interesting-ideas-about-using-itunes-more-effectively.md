@@ -1,6 +1,6 @@
 ---
 title: "Interesting ideas about using iTunes more effectively"
-subtitle: "Check out [this post](http://www.applegazette.com/itunes/dockart-change-your-itunes-icon-to-album-ar..."
+subtitle: "Check out this post"
 category: "298"
 tags: []
 date: "2007-03-17"

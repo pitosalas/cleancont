@@ -1,6 +1,6 @@
 ---
 title: "Getting Started on Okteto Cloud in 5 minutes | Okteto Documentation"
-subtitle: "[ Getting Started on Okteto Cloud in 5 minutes | Okteto Documentation](https://okteto.com/docs/getti..."
+subtitle: "Getting Started on Okteto Cloud in 5 minutes | Okteto Documentation"
 category: "111"
 tags: []
 date: "2021-08-07"

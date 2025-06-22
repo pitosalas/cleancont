@@ -1,6 +1,6 @@
 ---
 title: "Every Woodworker—From Rookie to Pro—Needs These Essential Hand Tools in Their Arsenal – Wood"
-subtitle: "[ Every Woodworker—From Rookie to Pro—Needs These Essential Hand Tools in Their Arsenal – Wood](http..."
+subtitle: "Every Woodworker—From Rookie to Pro—Needs These Essential Hand Tools in Their Arsenal – Wood"
 category: "71"
 tags: []
 date: "2021-10-11"

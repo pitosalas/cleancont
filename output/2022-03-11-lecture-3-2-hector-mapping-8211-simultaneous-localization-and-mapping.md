@@ -1,6 +1,6 @@
 ---
 title: "Lecture 3 2: Hector Mapping – Simultaneous Localization and Mapping"
-subtitle: "[ Lecture 3 2: Hector Mapping – Simultaneous Localization and Mapping](https://www.youtube.com/watch..."
+subtitle: "Lecture 3 2: Hector Mapping – Simultaneous Localization and Mapping"
 category: "240"
 tags: ["620"]
 date: "2022-03-11"

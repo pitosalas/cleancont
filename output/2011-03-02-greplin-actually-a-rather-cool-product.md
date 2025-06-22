@@ -1,6 +1,6 @@
 ---
 title: "Greplin, actually a rather cool product!"
-subtitle: "After attending the [Lean Startup Machine weekend](http://boston.theleanstartupmachine.com/) a few d..."
+subtitle: "After attending the Lean Startup Machine weekend a few d..."
 category: "298"
 tags: ["1166", "1258", "1814"]
 date: "2011-03-02"

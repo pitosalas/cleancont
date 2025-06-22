@@ -1,6 +1,6 @@
 ---
 title: "Meeting24.tv Keeps Online Meetings Simple"
-subtitle: "Check out this post [Meeting24.tv Keeps Online Meetings Simple](http://feedproxy.google.com/~r/Techc..."
+subtitle: "Check out this post Meeting24.tv Keeps Online Meetings Simple"
 category: "50"
 tags: []
 date: "2009-04-03"

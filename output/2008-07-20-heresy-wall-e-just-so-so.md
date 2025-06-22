@@ -1,6 +1,6 @@
 ---
 title: "Heresy: Wall-E just so-so"
-subtitle: "Yeah I know all the [reviews have been raving](http://www.rottentomatoes.com/m/wall_e/) – “Best movi..."
+subtitle: "Yeah I know all the reviews have been raving – “Best movi..."
 category: "298"
 tags: []
 date: "2008-07-20"

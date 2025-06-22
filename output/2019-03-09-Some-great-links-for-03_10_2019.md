@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  03/10/2019"
-subtitle: "* [David Dollar](<http://blog.daviddollar.org/2011/05/06/introducing-foreman.html>)"
+subtitle: "* David Dollar"
 category: "uncategorized"
 tags: []
 date: "2019-03-09"

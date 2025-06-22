@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  04/14/2019"
-subtitle: "[Maintain the “GitHub flow” with Gitpod, an online, browser IDE – JAXenter](https://jaxenter.com/git..."
+subtitle: "Maintain the “GitHub flow” with Gitpod, an online, browser IDE – JAXenter"
 category: "301"
 tags: []
 date: "2019-04-13"

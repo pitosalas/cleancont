@@ -1,6 +1,6 @@
 ---
 title: "Meet Zig: The modern alternative to C"
-subtitle: "[ Meet Zig: The modern alternative to C]( https://www.infoworld.com/article/3689648/meet-the-zig-pro..."
+subtitle: "Meet Zig: The modern alternative to C"
 category: "1"
 tags: ["2355", "2437", "1352", "1684", "2438"]
 date: "2023-03-10"

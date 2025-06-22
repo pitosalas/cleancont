@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  05/31/2018"
-subtitle: "[wrotniak.net: Lenses for Olympus E-System Cameras](http://wrotniak.net/photo/43/lenses.html)"
+subtitle: "wrotniak.net: Lenses for Olympus E-System Cameras"
 category: "538"
 tags: []
 date: "2018-05-31"

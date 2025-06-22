@@ -1,6 +1,6 @@
 ---
 title: "Another funny video for your entertainment: luckiest guy in the world?"
-subtitle: "If you ever thought it might be fun to learn how to skydive, [check this out](http://www.flurl.com/i..."
+subtitle: "If you ever thought it might be fun to learn how to skydive, check this out"
 category: "298"
 tags: []
 date: "2006-07-12"

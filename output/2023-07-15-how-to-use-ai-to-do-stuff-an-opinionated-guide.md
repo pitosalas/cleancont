@@ -1,6 +1,6 @@
 ---
 title: "How to Use AI to Do Stuff: An Opinionated Guide"
-subtitle: "[ How to Use AI to Do Stuff: An Opinionated Guide]( https://www.oneusefulthing.org/p/how-to-use-ai-t..."
+subtitle: "How to Use AI to Do Stuff: An Opinionated Guide"
 category: "1"
 tags: ["611", "2340", "2504", "2479", "1747"]
 date: "2023-07-15"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  01/29/2019"
-subtitle: "* [40 Best Ruby Gems We Can’t Live Without](<https://www.codica.com/blog/top-ruby-gems-we-cant-live-..."
+subtitle: "* 40 Best Ruby Gems We Can’t Live Without"
 category: "uncategorized"
 tags: []
 date: "2019-01-28"

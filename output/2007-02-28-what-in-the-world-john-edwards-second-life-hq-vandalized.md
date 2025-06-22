@@ -1,6 +1,6 @@
 ---
 title: "What in the world??? John Edwards Second Life HQ vandalized."
-subtitle: "Check out [this post](http://blog.johnedwards.com/story/2007/2/27/21847/2507) from [John Edwards ’08..."
+subtitle: "Check out this post from [John Edwards ’08..."
 category: "50"
 tags: []
 date: "2007-02-28"

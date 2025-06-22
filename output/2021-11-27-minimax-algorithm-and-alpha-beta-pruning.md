@@ -1,6 +1,6 @@
 ---
 title: "Minimax algorithm and alpha-beta pruning"
-subtitle: "[ Minimax algorithm and alpha-beta pruning](https://mathspp.com/blog/minimax-algorithm-and-alpha-bet..."
+subtitle: "Minimax algorithm and alpha-beta pruning"
 category: "178"
 tags: ["619"]
 date: "2021-11-27"

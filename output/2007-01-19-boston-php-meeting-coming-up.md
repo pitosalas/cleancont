@@ -1,6 +1,6 @@
 ---
 title: "Boston PHP meeting coming up"
-subtitle: "A quick reminder of the upcoming BostonPHP meeting: [BostonPHP will host a panel](//www.bostonphp.or..."
+subtitle: "A quick reminder of the upcoming BostonPHP meeting: BostonPHP will host a panel"
 category: "538"
 tags: []
 date: "2007-01-19"

@@ -1,6 +1,6 @@
 ---
 title: "Maybe I hate my iPhone"
-subtitle: "[This is from today’s New York Times Magazine](http://www.nytimes.com/2009/04/05/magazine/05wwln-med..."
+subtitle: "This is from today’s New York Times Magazine"
 category: "298"
 tags: ["1298"]
 date: "2009-04-05"

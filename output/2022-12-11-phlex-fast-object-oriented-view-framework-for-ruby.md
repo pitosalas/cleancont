@@ -1,6 +1,6 @@
 ---
 title: "Phlex — fast, object-oriented view framework for Ruby"
-subtitle: "[ Phlex — fast, object-oriented view framework for Ruby]( https://www.phlex.fun/) –If youve done a b..."
+subtitle: "Phlex — fast, object-oriented view framework for Ruby –If youve done a b..."
 category: "1"
 tags: ["1122", "1221", "2358", "1772", "2359"]
 date: "2022-12-11"

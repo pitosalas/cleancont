@@ -1,6 +1,6 @@
 ---
 title: "The Impending Flash Crisis?"
-subtitle: "An interesting article about this [impending crisis.](http://blog.vivekhaldar.com/) Although it’s im..."
+subtitle: "An interesting article about this impending crisis. Although it’s im..."
 category: "422"
 tags: ["891", "953", "1912"]
 date: "2011-10-26"

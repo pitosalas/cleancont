@@ -1,6 +1,6 @@
 ---
 title: "Who comes to your thanksgiving dinner?"
-subtitle: "[Kottke points to an ](http://www.kottke.org/06/11/rope-burning-logic-problem)amusing set of logic q..."
+subtitle: "Kottke points to an amusing set of logic q..."
 category: "298"
 tags: []
 date: "2006-11-22"

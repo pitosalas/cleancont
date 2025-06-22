@@ -1,6 +1,6 @@
 ---
 title: "58 bytes of css to look great nearly everywhere"
-subtitle: "[ 58 bytes of css to look great nearly everywhere]( https://gist.github.com/JoeyBurzynski/617fb62013..."
+subtitle: "58 bytes of css to look great nearly everywhere"
 category: "1"
 tags: ["896", "937", "1221"]
 date: "2022-11-13"

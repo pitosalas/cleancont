@@ -1,6 +1,6 @@
 ---
 title: "Orkut Revisited: I had been"
-subtitle: "**Orkut Revisited: **I had been wondering whether my [negative vibes](/2004/01/24.html) [about Orkut..."
+subtitle: "**Orkut Revisited: **I had been wondering whether my negative vibes [about Orkut..."
 category: "1"
 tags: []
 date: "2004-02-02"

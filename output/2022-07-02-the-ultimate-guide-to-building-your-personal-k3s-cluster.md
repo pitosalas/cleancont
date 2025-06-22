@@ -1,6 +1,6 @@
 ---
 title: "The Ultimate Guide to Building Your Personal K3S Cluster"
-subtitle: "[The Ultimate Guide to Building Your Personal K3S Cluster](https://itnext.io/the-ultimate-guide-to-b..."
+subtitle: "The Ultimate Guide to Building Your Personal K3S Cluster"
 category: "1"
 tags: ["2178", "1347", "1716"]
 date: "2022-07-02"

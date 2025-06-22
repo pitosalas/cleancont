@@ -1,6 +1,6 @@
 ---
 title: "TechCrunch Boston"
-subtitle: "Two nights ago, Friday, I got to go to the **[TechCrunch Boston party](http://www.techcrunch.com/200..."
+subtitle: "Two nights ago, Friday, I got to go to the **TechCrunch Boston party"
 category: "538"
 tags: []
 date: "2007-11-19"

@@ -1,6 +1,6 @@
 ---
 title: "secretGeek/AwesomeCSV: 🕶️A curated list of awesome tools for dealing with CSV."
-subtitle: "[ secretGeek/AwesomeCSV: 🕶️A curated list of awesome tools for dealing with CSV.](https://github.com..."
+subtitle: "secretGeek/AwesomeCSV: 🕶️A curated list of awesome tools for dealing with CSV."
 category: "123"
 tags: []
 date: "2022-01-24"

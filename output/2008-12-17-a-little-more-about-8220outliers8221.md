@@ -1,6 +1,6 @@
 ---
 title: "A little more about “Outliers”"
-subtitle: "Since I wrote a [somewhat negative post mentioning Outliers and Malcolm Gladwell](/2008/12/07/joel-o..."
+subtitle: "Since I wrote a somewhat negative post mentioning Outliers and Malcolm Gladwell"
 category: "298"
 tags: []
 date: "2008-12-17"

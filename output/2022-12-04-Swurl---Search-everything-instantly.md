@@ -1,6 +1,6 @@
 ---
 title: "Swurl – Search everything instantly"
-subtitle: "[ Swurl - Search everything instantly](< https://swurl.com/>) –Played with"
+subtitle: "Swurl - Search everything instantly –Played with"
 category: "uncategorized"
 tags: []
 date: "2022-12-04"

@@ -1,6 +1,6 @@
 ---
 title: "Whats the point of setting a goal for 2050?"
-subtitle: "How lame and do-nothing can you get when the best you can do is to [set a goal to be met in 2050,](h..."
+subtitle: "How lame and do-nothing can you get when the best you can do is to set a goal to be met in 2050,"
 category: "298"
 tags: []
 date: "2008-07-08"

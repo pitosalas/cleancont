@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  05/28/2020"
-subtitle: "* [Very impressive data transformation tool](<https://www.visidata.org/install/>)"
+subtitle: "* Very impressive data transformation tool"
 category: "uncategorized"
 tags: []
 date: "2020-05-27"

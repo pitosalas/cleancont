@@ -1,6 +1,6 @@
 ---
 title: "Wikileaks: Truth or Truthy or something entirely different?"
-subtitle: "[David Weinberger](http://www.hyperorg.com/blogger/) has, as usual, an interesting take, and some in..."
+subtitle: "David Weinberger has, as usual, an interesting take, and some in..."
 category: "298"
 tags: ["1322", "2111", "2116"]
 date: "2010-12-06"

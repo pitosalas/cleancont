@@ -1,6 +1,6 @@
 ---
 title: "Google Sightseeing: Target in my neighborhood"
-subtitle: "![Picture 2-4](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/images..."
+subtitle: "!Picture 2-4"
 category: "298"
 tags: []
 date: "2008-06-05"

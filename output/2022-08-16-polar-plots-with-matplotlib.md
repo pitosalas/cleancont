@@ -1,6 +1,6 @@
 ---
 title: "Polar plots with Matplotlib"
-subtitle: "[ Polar plots with Matplotlib]( http://www.chiark.greenend.org.uk/~peterb/python/polar/index2) –If y..."
+subtitle: "Polar plots with Matplotlib –If y..."
 category: "1"
 tags: ["1221", "2236", "1636", "2237", "2081"]
 date: "2022-08-16"

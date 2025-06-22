@@ -1,6 +1,6 @@
 ---
 title: "We go full circle: Google Command Line Tool"
-subtitle: "Check out [Introducing the Google Command Line Tool](http://feedproxy.google.com/~r/GoogleOpenSource..."
+subtitle: "Check out Introducing the Google Command Line Tool"
 category: "51"
 tags: []
 date: "2010-06-18"

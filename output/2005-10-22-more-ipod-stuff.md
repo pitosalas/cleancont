@@ -1,6 +1,6 @@
 ---
 title: "More iPod stuff"
-subtitle: "Continuing my [iPod thoughts](/weblogs/archives/000895.php), today I read that a [lawsuit has been b..."
+subtitle: "Continuing my iPod thoughts, today I read that a [lawsuit has been b..."
 category: "298"
 tags: []
 date: "2005-10-22"

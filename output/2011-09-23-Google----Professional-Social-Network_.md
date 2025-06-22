@@ -1,6 +1,6 @@
 ---
 title: "Google+ – Professional Social Network?"
-subtitle: "Some people are starting to wonder whether [Google+ ](</>)will continue to"
+subtitle: "Some people are starting to wonder whether Google+ will continue to"
 category: "uncategorized"
 tags: []
 date: "2011-09-23"

@@ -1,6 +1,6 @@
 ---
 title: "Twitter Week on Portals and KM"
-subtitle: "Bill Ives has been running “twitter week” this week on his blog [Portals and KM](http://billives.typ..."
+subtitle: "Bill Ives has been running “twitter week” this week on his blog Portals and KM"
 category: "538"
 tags: []
 date: "2009-02-28"

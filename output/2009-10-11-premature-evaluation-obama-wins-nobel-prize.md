@@ -1,6 +1,6 @@
 ---
 title: "Premature Evaluation?: Obama Wins Nobel Prize"
-subtitle: "Check out [Premature Evaluation?: Obama Wins Nobel Prize](http://www.bradblog.com/?p=7458)(**from** ..."
+subtitle: "Check out Premature Evaluation?: Obama Wins Nobel Prize(**from** ..."
 category: "51"
 tags: []
 date: "2009-10-11"

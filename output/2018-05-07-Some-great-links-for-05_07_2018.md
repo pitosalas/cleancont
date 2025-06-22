@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  05/07/2018"
-subtitle: "* [Frontier AI: How far are we from artificial “general” intelligence, really?](<https://hackernoon...."
+subtitle: "* Frontier AI: How far are we from artificial “general” intelligence, really?"
 category: "uncategorized"
 tags: []
 date: "2018-05-07"

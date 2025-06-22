@@ -1,6 +1,6 @@
 ---
 title: "GPT Engineer: Build an Entire App with a Single Prompt"
-subtitle: "[ GPT Engineer: Build an Entire App with a Single Prompt](https://levelup.gitconnected.com/gpt-engin..."
+subtitle: "GPT Engineer: Build an Entire App with a Single Prompt"
 category: "1"
 tags: ["671", "2340", "871", "1684", "1692"]
 date: "2023-07-07"

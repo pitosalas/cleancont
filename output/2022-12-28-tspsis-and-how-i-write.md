@@ -1,6 +1,6 @@
 ---
 title: "TSPSIs and How I Write"
-subtitle: "[ TSPSIs and How I Write]( https://universalprior.substack.com/p/tspsis-and-how-i-write?utm_source=s..."
+subtitle: "TSPSIs and How I Write"
 category: "1"
 tags: ["2228", "611", "1221", "2382", "2136"]
 date: "2022-12-28"

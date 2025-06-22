@@ -1,6 +1,6 @@
 ---
 title: "Good article about TechCrunch and Michael Arrington in Wired"
-subtitle: "I haven’t seen anyone pointing to this [article about TechCrunch and Professor Arrington](http://www..."
+subtitle: "I haven’t seen anyone pointing to this article about TechCrunch and Professor Arrington"
 category: "298"
 tags: ["1978"]
 date: "2008-06-24"

@@ -1,6 +1,6 @@
 ---
 title: "ChatPDF – Chat with any PDF!"
-subtitle: "[ ChatPDF - Chat with any PDF!](< https://www.chatpdf.com/>) –ChatPDF is the"
+subtitle: "ChatPDF - Chat with any PDF! –ChatPDF is the"
 category: "uncategorized"
 tags: []
 date: "2023-04-23"

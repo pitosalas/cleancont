@@ -1,6 +1,6 @@
 ---
 title: "How to be creative"
-subtitle: "I just came across [this thoughtprovoking ](http://www.gapingvoid.com/Moveable_Type/archives/000876...."
+subtitle: "I just came across this thoughtprovoking"
 category: "298"
 tags: []
 date: "2007-11-29"

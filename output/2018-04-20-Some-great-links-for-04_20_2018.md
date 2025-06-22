@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  04/20/2018"
-subtitle: "* [7 Practical Tips for Cheating at Design – Refactoring UI – Medium](<https://medium.com/refactorin..."
+subtitle: "* 7 Practical Tips for Cheating at Design – Refactoring UI – Medium"
 category: "uncategorized"
 tags: []
 date: "2018-04-20"

@@ -1,6 +1,6 @@
 ---
 title: "From Mashable: The beat goes on"
-subtitle: "Check out [10 Tools for Distributed Developer Teams](http://feedproxy.google.com/~r/Mashable/~3/zZdy..."
+subtitle: "Check out 10 Tools for Distributed Developer Teams"
 category: "51"
 tags: []
 date: "2010-07-15"

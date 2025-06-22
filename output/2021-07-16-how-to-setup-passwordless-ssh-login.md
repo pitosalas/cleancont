@@ -1,6 +1,6 @@
 ---
 title: "How to Setup Passwordless SSH Login"
-subtitle: "[ How to Setup Passwordless SSH Login](https://linuxize.com/post/how-to-setup-passwordless-ssh-login..."
+subtitle: "How to Setup Passwordless SSH Login"
 category: "104"
 tags: ["1387"]
 date: "2021-07-16"

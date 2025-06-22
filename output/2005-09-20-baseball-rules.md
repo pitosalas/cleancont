@@ -1,6 +1,6 @@
 ---
 title: "Baseball rules"
-subtitle: "I guess it’s the time of year, but I came across [this site for Baseball umpires](http://www.macrowe..."
+subtitle: "I guess it’s the time of year, but I came across this site for Baseball umpires"
 category: "298"
 tags: []
 date: "2005-09-20"

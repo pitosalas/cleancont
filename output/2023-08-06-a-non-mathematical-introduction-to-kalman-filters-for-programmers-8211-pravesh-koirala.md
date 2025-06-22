@@ -1,6 +1,6 @@
 ---
 title: "A non-mathematical introduction to Kalman Filters for programmers – Pravesh Koirala"
-subtitle: "[ A non-mathematical introduction to Kalman Filters for programmers – Pravesh Koirala]( https://prav..."
+subtitle: "A non-mathematical introduction to Kalman Filters for programmers – Pravesh Koirala"
 category: "1"
 tags: ["817", "1033", "1335", "1754", "1755"]
 date: "2023-08-06"

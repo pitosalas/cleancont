@@ -1,6 +1,6 @@
 ---
 title: "Cartoon Madness"
-subtitle: "The [Freakonomics blog](http://www.freakonomics.com/) often has good stuff in it, even if you haven’..."
+subtitle: "The Freakonomics blog often has good stuff in it, even if you haven’..."
 category: "298"
 tags: []
 date: "2006-02-19"

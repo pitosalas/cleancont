@@ -1,6 +1,6 @@
 ---
 title: "“We might as well have a good time while we’re here, don’t you think?”"
-subtitle: "This is from a play we saw last year at the [Huntington Theatre.](http://www.huntingtontheatre.org) ..."
+subtitle: "This is from a play we saw last year at the Huntington Theatre. ..."
 category: "1"
 tags: ["887", "1663", "1995"]
 date: "2012-03-28"

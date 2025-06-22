@@ -1,6 +1,6 @@
 ---
 title: "Two really interesting bits missed by MSM"
-subtitle: "![capt.rom10501301246.vatican_pope_rom105.jpg](https://i0.wp.com/s3.media.squarespace.com/production..."
+subtitle: "!capt.rom10501301246.vatican_pope_rom105.jpg"
 category: "298"
 tags: []
 date: "2005-02-09"

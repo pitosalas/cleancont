@@ -1,6 +1,6 @@
 ---
 title: "Facebook joins the API crowd"
-subtitle: "It is said that you can’t be a true [Web 2.0 ](http://en.wikipedia.org/wiki/Web2.0)application witho..."
+subtitle: "It is said that you can’t be a true Web 2.0 application witho..."
 category: "538"
 tags: []
 date: "2006-08-16"

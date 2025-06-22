@@ -1,6 +1,6 @@
 ---
 title: "Load one physical CD, get two icons on my desktop"
-subtitle: "![Picture 1-24](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/image..."
+subtitle: "!Picture 1-24"
 category: "538"
 tags: []
 date: "2005-12-22"

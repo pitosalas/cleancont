@@ -1,6 +1,6 @@
 ---
 title: "Yes but was it charged?"
-subtitle: "Check out [Actor Tony Curtis Was Buried With His iPhone](http://www.iphonedownloadblog.com/2010/10/0..."
+subtitle: "Check out Actor Tony Curtis Was Buried With His iPhone"
 category: "298"
 tags: []
 date: "2010-10-05"

@@ -1,6 +1,6 @@
 ---
 title: "Our software sucks"
-subtitle: "[Dave Winer](http://stories.scripting.com/2007/03/05/wordpressIsShittySoftware.html) says it well (a..."
+subtitle: "Dave Winer says it well (a..."
 category: "538"
 tags: []
 date: "2007-03-05"

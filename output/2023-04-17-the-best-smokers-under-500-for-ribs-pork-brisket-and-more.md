@@ -1,6 +1,6 @@
 ---
 title: "The Best Smokers Under $500 for Ribs, Pork, Brisket, and More"
-subtitle: "[ The Best Smokers Under $500 for Ribs, Pork, Brisket, and More]( https://www.seriouseats.com/best-s..."
+subtitle: "The Best Smokers Under $500 for Ribs, Pork, Brisket, and More"
 category: "1"
 tags: ["2455", "2188", "2454"]
 date: "2023-04-17"

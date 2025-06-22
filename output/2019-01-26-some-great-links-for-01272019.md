@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  01/27/2019"
-subtitle: "[Beware of Java Stream API Habits when Writing Kotlin Code | Codementor](https://www.codementor.io/p..."
+subtitle: "Beware of Java Stream API Habits when Writing Kotlin Code | Codementor"
 category: "301"
 tags: []
 date: "2019-01-26"

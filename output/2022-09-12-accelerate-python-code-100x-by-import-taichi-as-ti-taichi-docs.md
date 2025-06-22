@@ -1,6 +1,6 @@
 ---
 title: "Accelerate Python code 100x by import taichi as ti | Taichi Docs"
-subtitle: "[ Accelerate Python code 100x by import taichi as ti | Taichi Docs]( https://docs.taichi-lang.org/bl..."
+subtitle: "Accelerate Python code 100x by import taichi as ti | Taichi Docs"
 category: "1"
 tags: ["1605", "1692"]
 date: "2022-09-12"

@@ -1,6 +1,6 @@
 ---
 title: "The Difference Between load, autoload, require, and require_relative in Ruby 📖"
-subtitle: "[ The Difference Between load, autoload, require, and require_relative in Ruby 📖]( https://www.aksha..."
+subtitle: "The Difference Between load, autoload, require, and require_relative in Ruby 📖"
 category: "1"
 tags: ["1033", "2421", "2422", "1772"]
 date: "2023-02-03"

@@ -1,6 +1,6 @@
 ---
 title: "[GEEKY] Alternative to Yahoo Pipes? Looks really interesting…"
-subtitle: "Check out [this post](<http://lifehacker.com/software/rss/mash-up-rss-feeds-"
+subtitle: "Check out this post"
 category: "uncategorized"
 tags: []
 date: "2007-02-26"

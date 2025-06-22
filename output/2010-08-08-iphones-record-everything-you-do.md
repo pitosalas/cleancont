@@ -1,6 +1,6 @@
 ---
 title: "iPhones record everything you do?"
-subtitle: "Check this post [iPhones Help Cops Solve Crimes By Capturing Everything You Type, Do](http://consume..."
+subtitle: "Check this post iPhones Help Cops Solve Crimes By Capturing Everything You Type, Do"
 category: "298"
 tags: []
 date: "2010-08-08"

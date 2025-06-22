@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  02/28/2020"
-subtitle: "[How to write Javascript in Rails 6 | Webpacker, Yarn and Sprockets](https://blog.capsens.eu/how-to-..."
+subtitle: "How to write Javascript in Rails 6 | Webpacker, Yarn and Sprockets"
 category: "301"
 tags: []
 date: "2020-02-27"

@@ -1,6 +1,6 @@
 ---
 title: "Walt Mossberg: “You may never"
-subtitle: "**[Walt Mossberg:](http://online.wsj.com/article/0,,SB107351380768717600,00.html?mod=technology%5Ffe..."
+subtitle: "**Walt Mossberg:"
 category: "1"
 tags: []
 date: "2004-01-08"

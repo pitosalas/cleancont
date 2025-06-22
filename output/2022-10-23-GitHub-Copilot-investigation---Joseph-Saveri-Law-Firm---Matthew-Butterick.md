@@ -1,6 +1,6 @@
 ---
 title: "GitHub Copilot investigation · Joseph Saveri Law Firm & Matthew Butterick"
-subtitle: "[ GitHub Copilot investigation · Joseph Saveri Law Firm & Matthew Butterick](<"
+subtitle: "GitHub Copilot investigation · Joseph Saveri Law Firm & Matthew Butterick"
 category: "uncategorized"
 tags: []
 date: "2022-10-23"

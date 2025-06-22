@@ -1,6 +1,6 @@
 ---
 title: "A brief tour of the PDP-11, the most influential minicomputer of all time | Ars Technica"
-subtitle: "[ A brief tour of the PDP-11, the most influential minicomputer of all time | Ars Technica]( https:/..."
+subtitle: "A brief tour of the PDP-11, the most influential minicomputer of all time | Ars Technica"
 category: "1"
 tags: ["645", "1033", "1187", "2383"]
 date: "2022-12-28"

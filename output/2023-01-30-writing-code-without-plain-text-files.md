@@ -1,6 +1,6 @@
 ---
 title: "Writing Code Without Plain Text Files"
-subtitle: "[ Writing Code Without Plain Text Files]( https://link.medium.com/lN9CG2AK0wb) –Many years ago there..."
+subtitle: "Writing Code Without Plain Text Files –Many years ago there..."
 category: "1"
 tags: ["2419", "1684", "2418"]
 date: "2023-01-30"

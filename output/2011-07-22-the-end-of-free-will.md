@@ -1,6 +1,6 @@
 ---
 title: "The End of Free Will"
-subtitle: "Check out [The End of Free Will](http://dilbert.com/blog/entry/the_end_of_free_will/)(**from** [Dilb..."
+subtitle: "Check out The End of Free Will(**from** [Dilb..."
 category: "298"
 tags: []
 date: "2011-07-22"

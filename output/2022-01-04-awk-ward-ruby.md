@@ -1,6 +1,6 @@
 ---
 title: "AWK-ward Ruby"
-subtitle: "[ AWK-ward Ruby](https://tomayko.com/blog/2011/awkward-ruby)"
+subtitle: "AWK-ward Ruby"
 category: "36"
 tags: ["1772"]
 date: "2022-01-04"

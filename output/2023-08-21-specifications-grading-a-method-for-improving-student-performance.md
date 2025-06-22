@@ -1,6 +1,6 @@
 ---
 title: "Specifications Grading: A Method for Improving Student Performance"
-subtitle: "[ Specifications Grading: A Method for Improving Student Performance]( https://kb.ecampus.uconn.edu/..."
+subtitle: "Specifications Grading: A Method for Improving Student Performance"
 category: "1"
 tags: ["2559", "1157", "1221", "2558"]
 date: "2023-08-21"

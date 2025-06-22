@@ -1,6 +1,6 @@
 ---
 title: "Flipstart from Vulcan (Demo 2004"
-subtitle: "**[Flipstart](http://www.flipstartpc.com/) from Vulcan (Demo 2004 Series – 9): **This is a **weird l..."
+subtitle: "**Flipstart from Vulcan (Demo 2004 Series – 9): **This is a **weird l..."
 category: "1"
 tags: []
 date: "2004-03-08"

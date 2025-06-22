@@ -1,6 +1,6 @@
 ---
 title: "Six Rules of Thumb for Scaling Software Architectures"
-subtitle: "[ Six Rules of Thumb for Scaling Software Architectures](https://medium.com/@i.gorton/six-rules-of-t..."
+subtitle: "Six Rules of Thumb for Scaling Software Architectures"
 category: "467"
 tags: ["1003", "1795", "1886"]
 date: "2022-01-05"

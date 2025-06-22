@@ -1,6 +1,6 @@
 ---
 title: "[GEEKY] Great classic article about Mocks and Subs (non-geeks: don’t ask!)"
-subtitle: "A seminal article about an [advanced topic in software testing: Mocks aren’t Subs](http://martinfowl..."
+subtitle: "A seminal article about an advanced topic in software testing: Mocks aren’t Subs"
 category: "298"
 tags: ["966", "1479", "1942", "1971", "1986"]
 date: "2011-02-04"

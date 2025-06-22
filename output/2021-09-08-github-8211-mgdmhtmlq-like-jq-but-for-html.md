@@ -1,6 +1,6 @@
 ---
 title: "GitHub – mgdm/htmlq: Like jq, but for HTML."
-subtitle: "[ GitHub – mgdm/htmlq: Like jq, but for HTML.](https://github.com/mgdm/htmlq)"
+subtitle: "GitHub – mgdm/htmlq: Like jq, but for HTML."
 category: "84"
 tags: ["2010"]
 date: "2021-09-08"

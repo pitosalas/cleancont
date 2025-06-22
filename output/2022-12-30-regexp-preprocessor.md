@@ -1,6 +1,6 @@
 ---
 title: "Regexp Preprocessor"
-subtitle: "[ Regexp Preprocessor]( https://pomsky-lang.org/docs/get-started/introduction/) –Interesting but not..."
+subtitle: "Regexp Preprocessor –Interesting but not..."
 category: "1"
 tags: ["1221", "2394", "2393", "1729"]
 date: "2022-12-30"

@@ -1,6 +1,6 @@
 ---
 title: "Federal judge orders halt to NSA spy program"
-subtitle: "From ZDNet: [Federal judge orders halt to NSA spy program | Tech News on ZDNet](http://news.zdnet.co..."
+subtitle: "From ZDNet: Federal judge orders halt to NSA spy program | Tech News on ZDNet"
 category: "1"
 tags: []
 date: "2006-08-17"

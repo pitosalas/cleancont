@@ -1,6 +1,6 @@
 ---
 title: "I am convinced by this"
-subtitle: "Sergey Brin of Google has an op-ed in today’s [New York Times](http://www.nytimes.com/2009/10/09/opi..."
+subtitle: "Sergey Brin of Google has an op-ed in today’s New York Times"
 category: "298"
 tags: []
 date: "2009-10-09"

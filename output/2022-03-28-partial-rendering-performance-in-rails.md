@@ -1,6 +1,6 @@
 ---
 title: "Partial rendering performance in Rails"
-subtitle: "[ Partial rendering performance in Rails](https://medium.com/@coorasse/partial-rendering-performance..."
+subtitle: "Partial rendering performance in Rails"
 category: "249"
 tags: ["1605", "1711"]
 date: "2022-03-28"

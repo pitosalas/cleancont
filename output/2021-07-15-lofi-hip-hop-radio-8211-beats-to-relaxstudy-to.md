@@ -1,6 +1,6 @@
 ---
 title: "lofi hip hop radio – beats to relax/study to"
-subtitle: "[ lofi hip hop radio – beats to relax/study to](https://www.youtube.com/watch?v=5qap5aO4i9A)"
+subtitle: "lofi hip hop radio – beats to relax/study to"
 category: "79"
 tags: ["1492"]
 date: "2021-07-15"

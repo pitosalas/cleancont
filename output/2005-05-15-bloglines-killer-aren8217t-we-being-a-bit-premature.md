@@ -1,6 +1,6 @@
 ---
 title: "Bloglines Killer? Aren’t we being a bit premature?"
-subtitle: "[Richard MacManus made a statement](http://www.readwriteweb.com/archives/002719.php#comments) in a p..."
+subtitle: "Richard MacManus made a statement in a p..."
 category: "50"
 tags: []
 date: "2005-05-15"

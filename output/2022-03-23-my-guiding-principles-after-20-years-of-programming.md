@@ -1,6 +1,6 @@
 ---
 title: "My guiding principles after 20 years of programming"
-subtitle: "[ My guiding principles after 20 years of programming](https://link.medium.com/TBEn3DfbDob)"
+subtitle: "My guiding principles after 20 years of programming"
 category: "46"
 tags: ["1684"]
 date: "2022-03-23"

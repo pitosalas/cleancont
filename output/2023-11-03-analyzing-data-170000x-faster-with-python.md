@@ -1,6 +1,6 @@
 ---
 title: "Analyzing Data 170,000x Faster with Python"
-subtitle: "[ Analyzing Data 170,000x Faster with Python]( https://sidsite.com/posts/python-corrset-optimization..."
+subtitle: "Analyzing Data 170,000x Faster with Python"
 category: "1"
 tags: ["1221", "2591", "2523", "1566", "1692", "1893"]
 date: "2023-11-03"

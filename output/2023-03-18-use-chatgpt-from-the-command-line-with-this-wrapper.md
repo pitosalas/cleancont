@@ -1,6 +1,6 @@
 ---
 title: "Use ChatGPT From The Command Line With This Wrapper"
-subtitle: "[ Use ChatGPT From The Command Line With This Wrapper]( https://www.linuxuprising.com/2023/01/use-ch..."
+subtitle: "Use ChatGPT From The Command Line With This Wrapper"
 category: "1"
 tags: ["2331", "811", "871", "2446"]
 date: "2023-03-18"

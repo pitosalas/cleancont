@@ -1,6 +1,6 @@
 ---
 title: "Australian police testing super cruiser"
-subtitle: "Check out [this post](http://feeds.autoblog.com/~r/weblogsinc/autoblog/~3/210114751/) from [Autoblog..."
+subtitle: "Check out this post from [Autoblog..."
 category: "298"
 tags: []
 date: "2008-02-02"

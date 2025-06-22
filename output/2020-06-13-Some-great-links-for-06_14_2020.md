@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  06/14/2020"
-subtitle: "* [Free illustrations for developers. - DEV](<https://dev.to/sasidharan/free-illustrations-for-devel..."
+subtitle: "* Free illustrations for developers. - DEV"
 category: "uncategorized"
 tags: []
 date: "2020-06-13"

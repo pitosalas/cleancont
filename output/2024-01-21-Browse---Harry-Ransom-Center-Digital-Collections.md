@@ -1,6 +1,6 @@
 ---
 title: "Browse – Harry Ransom Center Digital Collections"
-subtitle: "[ Browse - Harry Ransom Center Digital Collections](<"
+subtitle: "Browse - Harry Ransom Center Digital Collections"
 category: "uncategorized"
 tags: []
 date: "2024-01-21"

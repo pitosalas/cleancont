@@ -1,6 +1,6 @@
 ---
 title: "Radical Simplicity in Technology | Join the movement"
-subtitle: "[ Radical Simplicity in Technology | Join the movement]( http://www.radicalsimpli.city/) –For me, a ..."
+subtitle: "Radical Simplicity in Technology | Join the movement –For me, a ..."
 category: "1"
 tags: ["645", "2370", "1656", "1711", "2368", "2369"]
 date: "2022-12-18"

@@ -1,6 +1,6 @@
 ---
 title: "Words DO matter"
-subtitle: "I was scanning [Jon Udell’s blog](http://weblog.infoworld.com/udell/2004/05/17.html) and came across..."
+subtitle: "I was scanning Jon Udell’s blog and came across..."
 category: "298"
 tags: []
 date: "2004-05-18"

@@ -1,6 +1,6 @@
 ---
 title: "Goody, Goody! Mary, over at"
-subtitle: "**Goody, Goody! **[Mary, over at LockerGnome](http://channels.lockergnome.com/news/archives/008603.p..."
+subtitle: "**Goody, Goody! **Mary, over at LockerGnome"
 category: "1"
 tags: []
 date: "2004-01-17"

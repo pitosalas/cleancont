@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  10/13/2019"
-subtitle: "[Postgres Is Underrated—It Handles More than You Think – DEV Community ](https://dev.to/heroku/postg..."
+subtitle: "Postgres Is Underrated—It Handles More than You Think – DEV Community"
 category: "301"
 tags: []
 date: "2019-10-12"

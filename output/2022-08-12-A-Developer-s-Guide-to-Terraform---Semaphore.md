@@ -1,6 +1,6 @@
 ---
 title: "A Developer’s Guide to Terraform – Semaphore"
-subtitle: "[ A Developer's Guide to Terraform - Semaphore](<"
+subtitle: "A Developer's Guide to Terraform - Semaphore"
 category: "uncategorized"
 tags: []
 date: "2022-08-12"

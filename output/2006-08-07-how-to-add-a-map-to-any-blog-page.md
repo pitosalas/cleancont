@@ -1,6 +1,6 @@
 ---
 title: "How to add a map to any blog page"
-subtitle: "I came across this interesting bit in [LifeHacker: ](http://www.lifehacker.com) [WikiMapia – The geo..."
+subtitle: "I came across this interesting bit in LifeHacker: [WikiMapia – The geo..."
 category: "298"
 tags: []
 date: "2006-08-07"

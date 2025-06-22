@@ -1,6 +1,6 @@
 ---
 title: "Zed – Code at the speed of thought"
-subtitle: "[ Zed - Code at the speed of thought](< https://zed.dev/>) –Just to prove that"
+subtitle: "Zed - Code at the speed of thought –Just to prove that"
 category: "uncategorized"
 tags: []
 date: "2023-03-19"

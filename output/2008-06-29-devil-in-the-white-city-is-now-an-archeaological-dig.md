@@ -1,6 +1,6 @@
 ---
 title: "Devil in the White City is now an archeaological dig!"
-subtitle: "I am just finished reading [Devil In The White City](http://www.amazon.com/Devil-White-City-Madness-..."
+subtitle: "I am just finished reading Devil In The White City"
 category: "298"
 tags: []
 date: "2008-06-29"

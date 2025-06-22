@@ -1,6 +1,6 @@
 ---
 title: "Why You Should Use Data Classes in Python | Giuliano Pertile"
-subtitle: "[ Why You Should Use Data Classes in Python | Giuliano Pertile]( https://www.giulianopertile.com/blo..."
+subtitle: "Why You Should Use Data Classes in Python | Giuliano Pertile"
 category: "1"
 tags: ["907", "1033", "1221", "2268", "1692"]
 date: "2022-09-22"

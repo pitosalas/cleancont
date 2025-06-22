@@ -1,6 +1,6 @@
 ---
 title: "Cool idea: Skillshare"
-subtitle: "Check this post [With Skillshare, everyone can be a teacher](http://feedproxy.google.com/~r/OmMalik/..."
+subtitle: "Check this post With Skillshare, everyone can be a teacher"
 category: "298"
 tags: []
 date: "2011-08-10"

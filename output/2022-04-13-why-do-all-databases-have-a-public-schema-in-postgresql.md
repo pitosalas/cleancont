@@ -1,6 +1,6 @@
 ---
 title: "Why do all databases have a public schema in PostgreSQL?"
-subtitle: "[ Why do all databases have a public schema in PostgreSQL?](https://stackoverflow.com/questions/2134..."
+subtitle: "Why do all databases have a public schema in PostgreSQL?"
 category: "301"
 tags: []
 date: "2022-04-13"

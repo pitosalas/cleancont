@@ -1,6 +1,6 @@
 ---
 title: "3 ways to detect slow queries in PostgreSQL"
-subtitle: "[ 3 ways to detect slow queries in PostgreSQL](https://www.cybertec-postgresql.com/en/3-ways-to-dete..."
+subtitle: "3 ways to detect slow queries in PostgreSQL"
 category: "416"
 tags: ["1605"]
 date: "2022-03-16"

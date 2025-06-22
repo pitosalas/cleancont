@@ -1,6 +1,6 @@
 ---
 title: "Something wrong with this picture?"
-subtitle: "![Take a close look at the url and the page](https://i0.wp.com/s3.media.squarespace.com/production/1..."
+subtitle: "!Take a close look at the url and the page"
 category: "298"
 tags: ["1834", "2137"]
 date: "2009-01-09"

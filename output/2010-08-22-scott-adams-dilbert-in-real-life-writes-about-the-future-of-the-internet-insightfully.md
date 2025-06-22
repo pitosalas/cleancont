@@ -1,6 +1,6 @@
 ---
 title: "Scott Adams (Dilbert in real life) Writes about the future of the internet. Insightfully."
-subtitle: "Check out this post [Chefs and Editors](http://dilbert.com/blog/entry/chefs_and_editors/) from [Dilb..."
+subtitle: "Check out this post Chefs and Editors from [Dilb..."
 category: "298"
 tags: []
 date: "2010-08-22"

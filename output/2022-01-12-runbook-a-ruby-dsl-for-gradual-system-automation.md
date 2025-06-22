@@ -1,6 +1,6 @@
 ---
 title: "Runbook: A Ruby DSL for Gradual System Automation"
-subtitle: "[ Runbook: A Ruby DSL for Gradual System Automation](https://medium.com/@patrick.blesi/https-medium-..."
+subtitle: "Runbook: A Ruby DSL for Gradual System Automation"
 category: "30"
 tags: []
 date: "2022-01-12"

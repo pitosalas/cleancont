@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  09/23/2018"
-subtitle: "[FREE Tutorials on React.js, Ruby on Rails, JavaScript](https://learnetto.com/?utm_source=Learnetto&..."
+subtitle: "FREE Tutorials on React.js, Ruby on Rails, JavaScript"
 category: "301"
 tags: []
 date: "2018-09-22"

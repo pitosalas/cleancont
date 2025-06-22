@@ -1,6 +1,6 @@
 ---
 title: "Real Virtual Reality! (Demo 2004"
-subtitle: "**Real Virtual Reality! (Demo 2004 Series – 6)** I am not clear as to whether [Total Immersion](http..."
+subtitle: "**Real Virtual Reality! (Demo 2004 Series – 6)** I am not clear as to whether Total Immersion"
 category: "1"
 tags: []
 date: "2004-02-27"

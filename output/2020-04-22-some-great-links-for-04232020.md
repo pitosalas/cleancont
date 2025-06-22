@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  04/23/2020"
-subtitle: "[Stripe is Silently Recording Your Movements On its Customers’ Websites · mtlynch.io](https://mtlync..."
+subtitle: "Stripe is Silently Recording Your Movements On its Customers’ Websites · mtlynch.io"
 category: "301"
 tags: []
 date: "2020-04-22"

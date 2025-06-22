@@ -1,6 +1,6 @@
 ---
 title: "Did the NSA “break the law”?"
-subtitle: "I know that [this blog](http://powerlineblog.com/) ([Power Line](http://powerlineblog.com/)) is pret..."
+subtitle: "I know that this blog (Power Line) is pret..."
 category: "298"
 tags: []
 date: "2006-01-05"

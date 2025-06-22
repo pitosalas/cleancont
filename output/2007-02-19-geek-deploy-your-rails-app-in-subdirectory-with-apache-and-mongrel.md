@@ -1,6 +1,6 @@
 ---
 title: "[GEEK] Deploy your Rails app in subdirectory with Apache and Mongrel"
-subtitle: "If you are a Ruby On Rails developer you might want to check out [this post](http://www.dzone.com/rs..."
+subtitle: "If you are a Ruby On Rails developer you might want to check out this post"
 category: "298"
 tags: []
 date: "2007-02-19"

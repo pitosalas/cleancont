@@ -1,6 +1,6 @@
 ---
 title: "[GEEK] Maybe Attention.xml and OPML shouldn’t always travel together"
-subtitle: "[Cori Schiegel convinced me](http://kinrowan.net/blog/wp/archives/2005/12/02/attention-in-opml-nick-..."
+subtitle: "Cori Schiegel convinced me"
 category: "50"
 tags: []
 date: "2005-12-05"

@@ -1,6 +1,6 @@
 ---
 title: "verlab/gazebo_ros_model_color"
-subtitle: "[ verlab/gazebo_ros_model_color](https://github.com/verlab/gazebo_ros_model_color/blob/master/src/ga..."
+subtitle: "verlab/gazebo_ros_model_color"
 category: "208"
 tags: []
 date: "2021-05-28"

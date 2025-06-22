@@ -1,6 +1,6 @@
 ---
 title: "[GEEKY] Ajax? Flash? Java? What’s the best way to create a rich browser based application?"
-subtitle: "[![Ss Inbox Tn](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/image..."
+subtitle: "![Ss Inbox Tn"
 category: "538"
 tags: []
 date: "2005-09-30"

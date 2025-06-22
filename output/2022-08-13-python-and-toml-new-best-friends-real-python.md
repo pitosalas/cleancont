@@ -1,6 +1,6 @@
 ---
 title: "Python and TOML: New Best Friends – Real Python"
-subtitle: "[ Python and TOML: New Best Friends – Real Python]( https://realpython.com/python-toml/?__s=42c1cgai..."
+subtitle: "Python and TOML: New Best Friends – Real Python"
 category: "1"
 tags: ["854", "2235", "1330", "2234"]
 date: "2022-08-13"

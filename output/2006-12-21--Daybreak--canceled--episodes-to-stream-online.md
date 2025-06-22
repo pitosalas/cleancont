@@ -1,6 +1,6 @@
 ---
 title: "‘Daybreak’ canceled, episodes to stream online"
-subtitle: ">  body { font-variant: normal; font-family: Lucida Grande; font-weight:"
+subtitle: "> body { font-variant: normal; font-family: Lucida Grande; font-weight:"
 category: "uncategorized"
 tags: []
 date: "2006-12-21"

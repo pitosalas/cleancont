@@ -1,6 +1,6 @@
 ---
 title: "iPhone crowd control: Top Secret Plans"
-subtitle: "Check out [this post](http://feeds.tuaw.com/~r/weblogsinc/tuaw/~3/126525047/) from [The Unofficial A..."
+subtitle: "Check out this post from [The Unofficial A..."
 category: "298"
 tags: []
 date: "2007-06-20"

@@ -1,6 +1,6 @@
 ---
 title: "Booting MS Windows on Intel Macs: Interesting bit of analysis"
-subtitle: "To be honest, hardly followed the [pages and pages](http://del.icio.us/search/?setcount=100&all=boot..."
+subtitle: "To be honest, hardly followed the pages and pages"
 category: "298"
 tags: []
 date: "2006-04-08"

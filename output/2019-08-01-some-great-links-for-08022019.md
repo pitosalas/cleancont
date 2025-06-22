@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  08/02/2019"
-subtitle: "[piotrmurach/tty-box](https://github.com/piotrmurach/tty-box)"
+subtitle: "piotrmurach/tty-box"
 category: "301"
 tags: []
 date: "2019-08-01"

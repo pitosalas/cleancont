@@ -1,6 +1,6 @@
 ---
 title: "Release 2.5.0 · Shopify/ruby-style-guide"
-subtitle: "[ Release 2.5.0 · Shopify/ruby-style-guide](https://github.com/Shopify/ruby-style-guide/releases/tag..."
+subtitle: "Release 2.5.0 · Shopify/ruby-style-guide"
 category: "233"
 tags: ["819", "1772", "1938"]
 date: "2022-03-07"

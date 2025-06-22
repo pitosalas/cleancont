@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  03/04/2019"
-subtitle: "* [80 Characters per Line Is a Standard Worth Sticking to Even Today](<https://nickjanetakis.com/blo..."
+subtitle: "* 80 Characters per Line Is a Standard Worth Sticking to Even Today"
 category: "uncategorized"
 tags: []
 date: "2019-03-03"

@@ -1,6 +1,6 @@
 ---
 title: "Argo (oceanography) – Wikipedia"
-subtitle: "[ Argo (oceanography) – Wikipedia](https://en.wikipedia.org/wiki/Argo_(oceanography))"
+subtitle: "Argo (oceanography) – Wikipedia)"
 category: "19"
 tags: []
 date: "2021-12-03"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  04/23/2018"
-subtitle: "[Why Scrum is the Wrong Way to Build Software – Adam Ard – Medium](https://medium.com/@ard_adam/why-..."
+subtitle: "Why Scrum is the Wrong Way to Build Software – Adam Ard – Medium"
 category: "538"
 tags: []
 date: "2018-04-23"

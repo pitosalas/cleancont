@@ -1,6 +1,6 @@
 ---
 title: "How I test Rails applications"
-subtitle: "[ How I test Rails applications](https://m.patrikonrails.com/how-i-test-my-rails-applications-cf150e..."
+subtitle: "How I test Rails applications"
 category: "249"
 tags: ["1711", "1971", "1986"]
 date: "2022-03-14"

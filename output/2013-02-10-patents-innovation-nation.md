@@ -1,6 +1,6 @@
 ---
 title: "Patents: Innovation Nation"
-subtitle: "An [interesting view on patents from Judge Posner](http://www.nytimes.com/2013/02/09/opinion/nocera-..."
+subtitle: "An interesting view on patents from Judge Posner"
 category: "1"
 tags: ["1276", "1332", "1517", "1592"]
 date: "2013-02-10"

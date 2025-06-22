@@ -1,6 +1,6 @@
 ---
 title: "Robotics Lab @ Brandeis"
-subtitle: "[ Robotics Lab @ Brandeis]( https://sites.google.com/d/1yj-E1Bl4PBcIQEi07JF4clswagcPsWAp/p/1Y0RH0ZT7..."
+subtitle: "Robotics Lab @ Brandeis"
 category: "1"
 tags: ["738", "1264", "1348", "1755"]
 date: "2022-12-05"

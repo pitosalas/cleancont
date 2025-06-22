@@ -1,6 +1,6 @@
 ---
 title: "Help us find out what’s going on in enterprise blogging"
-subtitle: "[Here’s a survey](http://www.surveymonkey.com/Users/70157786/Surveys/665601347079/3BE2D80C-38A7-456E..."
+subtitle: "Here’s a survey"
 category: "298"
 tags: []
 date: "2005-09-28"

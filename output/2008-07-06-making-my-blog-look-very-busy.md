@@ -1,6 +1,6 @@
 ---
 title: "Making my blog look very busy"
-subtitle: "![Wordpress Timestamp](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-con..."
+subtitle: "!Wordpress Timestamp"
 category: "51"
 tags: []
 date: "2008-07-06"

@@ -1,6 +1,6 @@
 ---
 title: "The funny thing about iPhone apps"
-subtitle: "So a friend of mine told me of his iPhone app, called [Etude](http://etudeapp.com/). He sung the pra..."
+subtitle: "So a friend of mine told me of his iPhone app, called Etude. He sung the pra..."
 category: "298"
 tags: ["1091", "1094", "1298"]
 date: "2010-05-02"

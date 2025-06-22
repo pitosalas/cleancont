@@ -1,6 +1,6 @@
 ---
 title: "Stewart Alsop, Droid Doesn’t, Google UI"
-subtitle: "This is an [insider’s three-fer](http://alsop-louie.com/gadgets/droid-doesnt-its-not-ready-for-prime..."
+subtitle: "This is an insider’s three-fer"
 category: "298"
 tags: []
 date: "2009-12-01"

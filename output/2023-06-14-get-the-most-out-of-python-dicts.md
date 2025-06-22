@@ -1,6 +1,6 @@
 ---
 title: "Get the most out of Python dicts"
-subtitle: "[ Get the most out of Python dicts](https://open.substack.com/pub/bitecode/p/get-the-most-out-of-pyt..."
+subtitle: "Get the most out of Python dicts"
 category: "1"
 tags: ["2492", "1221", "1692", "2493"]
 date: "2023-06-14"

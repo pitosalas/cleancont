@@ -1,6 +1,6 @@
 ---
 title: "Learn something new on Wyzant.com!"
-subtitle: "[ Learn something new on Wyzant.com!]( https://www.wyzant.com) –With over 10 million hours of instru..."
+subtitle: "Learn something new on Wyzant.com! –With over 10 million hours of instru..."
 category: "1"
 tags: ["1318", "1814", "2202"]
 date: "2023-09-08"

@@ -1,6 +1,6 @@
 ---
 title: "LinkedIn: Highly connected?"
-subtitle: "[![Picture 1-1](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/image..."
+subtitle: "![Picture 1-1"
 category: "298"
 tags: []
 date: "2005-05-05"

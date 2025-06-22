@@ -1,6 +1,6 @@
 ---
 title: "Check out a tutorial on locating the best news blogs"
-subtitle: "I wrote this [really simple introduction to locating and following news and current affairs blogs](h..."
+subtitle: "I wrote this really simple introduction to locating and following news and current affairs blogs"
 category: "298"
 tags: []
 date: "2007-06-29"

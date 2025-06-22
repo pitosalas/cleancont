@@ -1,6 +1,6 @@
 ---
 title: "Tower Git Client – The most powerful Git client for Mac and Windows"
-subtitle: "[ Tower Git Client – The most powerful Git client for Mac and Windows](https://www.git-tower.com/mac..."
+subtitle: "Tower Git Client – The most powerful Git client for Mac and Windows"
 category: "111"
 tags: ["1134", "1135"]
 date: "2021-08-12"

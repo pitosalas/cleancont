@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  06/16/2019"
-subtitle: "[Ten Reasons Why I Don’t Like Golang](https://www.teamten.com/lawrence/writings/why-i-dont-like-go.h..."
+subtitle: "Ten Reasons Why I Don’t Like Golang"
 category: "301"
 tags: []
 date: "2019-06-15"

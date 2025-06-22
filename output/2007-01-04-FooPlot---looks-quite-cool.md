@@ -1,6 +1,6 @@
 ---
 title: "FooPlot – looks quite cool!"
-subtitle: ">  body { font-style: normal; font-family: Lucida Grande; font-weight: normal;"
+subtitle: "> body { font-style: normal; font-family: Lucida Grande; font-weight: normal;"
 category: "uncategorized"
 tags: []
 date: "2007-01-04"

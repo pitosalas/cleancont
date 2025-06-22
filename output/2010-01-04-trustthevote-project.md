@@ -1,6 +1,6 @@
 ---
 title: "TrustTheVote project"
-subtitle: "I’ve been part of the core tech team of the [TrustTheVote project](http://www.trustthevote.org) and ..."
+subtitle: "I’ve been part of the core tech team of the TrustTheVote project and ..."
 category: "410"
 tags: ["1025", "1562", "1569", "2036"]
 date: "2010-01-04"

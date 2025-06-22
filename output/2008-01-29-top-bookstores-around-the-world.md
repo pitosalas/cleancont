@@ -1,6 +1,6 @@
 ---
 title: "Top bookstores around the world"
-subtitle: "You like [Barnes and Noble](http://www.barnesandnoble.com/)? How about [Border’s?](http://www.amazon..."
+subtitle: "You like Barnes and Noble? How about Border’s?"
 category: "298"
 tags: []
 date: "2008-01-29"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  10/12/2020"
-subtitle: "[Hello from Kuby | Kuby](https://getkuby.io)"
+subtitle: "Hello from Kuby | Kuby"
 category: "301"
 tags: []
 date: "2020-10-11"

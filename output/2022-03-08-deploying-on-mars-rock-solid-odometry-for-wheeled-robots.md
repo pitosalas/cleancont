@@ -1,6 +1,6 @@
 ---
 title: "Deploying on Mars: Rock solid Odometry for Wheeled Robots"
-subtitle: "[ Deploying on Mars: Rock solid Odometry for Wheeled Robots](https://www.freedomrobotics.com/blog/tu..."
+subtitle: "Deploying on Mars: Rock solid Odometry for Wheeled Robots"
 category: "63"
 tags: []
 date: "2022-03-08"

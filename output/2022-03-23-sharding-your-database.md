@@ -1,6 +1,6 @@
 ---
 title: "Sharding your database"
-subtitle: "[ Sharding your database](https://www.craigkerstiens.com/2012/11/30/sharding-your-database/)"
+subtitle: "Sharding your database"
 category: "131"
 tags: ["1605", "1795"]
 date: "2022-03-23"

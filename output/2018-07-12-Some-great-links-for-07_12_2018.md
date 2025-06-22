@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  07/12/2018"
-subtitle: "* [Goodbye Microservices: From 100s of problem children to 1 superstar · Segment Blog](<https://segm..."
+subtitle: "* Goodbye Microservices: From 100s of problem children to 1 superstar · Segment Blog"
 category: "uncategorized"
 tags: []
 date: "2018-07-12"

@@ -1,6 +1,6 @@
 ---
 title: "The What, the Why, and the How of Bloom Filter – The Lean Software Boutique"
-subtitle: "[ The What, the Why, and the How of Bloom Filter – The Lean Software Boutique]( https://www.ombulabs..."
+subtitle: "The What, the Why, and the How of Bloom Filter – The Lean Software Boutique"
 category: "1"
 tags: ["619", "2257", "1221", "2258"]
 date: "2022-09-10"

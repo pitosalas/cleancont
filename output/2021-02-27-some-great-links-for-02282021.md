@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  02/28/2021"
-subtitle: "[Different Ways to Handle JSON in a Linux Shell](https://link.medium.com/9FvuL4gneeb)"
+subtitle: "Different Ways to Handle JSON in a Linux Shell"
 category: "301"
 tags: []
 date: "2021-02-27"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  02/13/2019"
-subtitle: "* [Understanding Database Sharding | DigitalOcean](<https://www.digitalocean.com/community/tutorials..."
+subtitle: "* Understanding Database Sharding | DigitalOcean"
 category: "uncategorized"
 tags: []
 date: "2019-02-12"

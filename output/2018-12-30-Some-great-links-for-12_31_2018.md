@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  12/31/2018"
-subtitle: "* [learn PID without a PhD!](<https://www.diigo.com/item/pdf/7lk/d24fdf37>)"
+subtitle: "* learn PID without a PhD!"
 category: "uncategorized"
 tags: []
 date: "2018-12-30"

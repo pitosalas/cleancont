@@ -1,6 +1,6 @@
 ---
 title: "Video made by and for robots"
-subtitle: "[http://images.travelpod.com/bin/tripwow/flash/tripwow.swf](http://images.travelpod.com/bin/tripwow/..."
+subtitle: "http://images.travelpod.com/bin/tripwow/flash/tripwow.swf"
 category: "1"
 tags: ["607", "1109", "2032", "2033"]
 date: "2012-10-22"

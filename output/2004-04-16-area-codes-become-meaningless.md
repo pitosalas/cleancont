@@ -1,6 +1,6 @@
 ---
 title: "Area codes become meaningless"
-subtitle: "A [good little insight from Rafe Needleman ](http://reviews-zdnet.com.com/AnchorDesk/4520-7297_16-51..."
+subtitle: "A good little insight from Rafe Needleman"
 category: "538"
 tags: []
 date: "2004-04-16"

@@ -1,6 +1,6 @@
 ---
 title: "Raspberry Pi Arduino Serial Communication – Everything You Need To Know – The Robotics Back-End"
-subtitle: "[ Raspberry Pi Arduino Serial Communication – Everything You Need To Know – The Robotics Back-End](h..."
+subtitle: "Raspberry Pi Arduino Serial Communication – Everything You Need To Know – The Robotics Back-End"
 category: "18"
 tags: []
 date: "2022-01-28"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  12/08/2018"
-subtitle: "* [Picking a colour scale for scientific graphics | Better Figures](<https://betterfigures.org/2015/..."
+subtitle: "* Picking a colour scale for scientific graphics | Better Figures"
 category: "uncategorized"
 tags: []
 date: "2018-12-07"

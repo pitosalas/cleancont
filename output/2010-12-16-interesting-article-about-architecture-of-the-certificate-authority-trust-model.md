@@ -1,6 +1,6 @@
 ---
 title: "Interesting article about Architecture of the Certificate Authority Trust Model"
-subtitle: "Check out [The Flawed Legal Architecture of the Certificate Authority Trust Model](http://freedom-to..."
+subtitle: "Check out The Flawed Legal Architecture of the Certificate Authority Trust Model"
 category: "51"
 tags: []
 date: "2010-12-16"

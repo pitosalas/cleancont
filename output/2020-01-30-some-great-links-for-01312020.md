@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  01/31/2020"
-subtitle: "[Different Ways to Set Attributes in ActiveRecord (Rails 6)](https://scottbartell.com/2020/01/30/set..."
+subtitle: "Different Ways to Set Attributes in ActiveRecord (Rails 6)"
 category: "301"
 tags: []
 date: "2020-01-30"

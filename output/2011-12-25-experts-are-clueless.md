@@ -1,6 +1,6 @@
 ---
 title: "Experts are clueless"
-subtitle: "One of the [lessons that Guy Kawasaki learned from Steve Jobs](http://blog.guykawasaki.com/2011/10/w..."
+subtitle: "One of the lessons that Guy Kawasaki learned from Steve Jobs"
 category: "1"
 tags: ["832", "1177", "1548", "1924"]
 date: "2011-12-25"

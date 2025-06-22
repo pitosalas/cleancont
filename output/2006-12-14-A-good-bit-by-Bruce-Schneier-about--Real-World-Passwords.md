@@ -1,6 +1,6 @@
 ---
 title: "A good bit by Bruce Schneier about “Real-World Passwords”"
-subtitle: ">  body { font-weight: normal; font-family: Lucida Grande; font-variant:"
+subtitle: "> body { font-weight: normal; font-family: Lucida Grande; font-variant:"
 category: "uncategorized"
 tags: []
 date: "2006-12-14"

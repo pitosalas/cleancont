@@ -1,6 +1,6 @@
 ---
 title: "Losing Our Way"
-subtitle: "This [New York Times Op-Ed piece by Bob Herbert](http://www.nytimes.com/2011/03/26/opinion/26herbert..."
+subtitle: "This New York Times Op-Ed piece by Bob Herbert"
 category: "298"
 tags: ["1542", "1668", "2094"]
 date: "2011-03-31"

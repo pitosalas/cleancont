@@ -1,6 +1,6 @@
 ---
 title: "I Read 2,216 Resumes. Here’s How You Stand Out 🚀"
-subtitle: "[This is a really good video which anyone who is looking for a new position should watch!](https://w..."
+subtitle: "This is a really good video which anyone who is looking for a new position should watch!"
 category: "1"
 tags: []
 date: "2022-06-26"

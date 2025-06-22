@@ -1,6 +1,6 @@
 ---
 title: "Scoble, Technorati and Bloglines (and Dow Jones and Nasdaq AGAIN different?! What’s going on?)"
-subtitle: "**Scoble** has been [really](http://padawan.info/weblog/weapons_of_mass_delusion.html) picking on Te..."
+subtitle: "**Scoble** has been really picking on Te..."
 category: "51"
 tags: []
 date: "2005-07-19"

@@ -1,6 +1,6 @@
 ---
 title: "The world is flat, part deux"
-subtitle: "[![](https://i0.wp.com/www.bobcongdon.net/images/sinking.jpg?w=584)](http://www.bobcongdon.net/media..."
+subtitle: "![](http://www.bobcongdon.net/media..."
 category: "298"
 tags: []
 date: "2006-02-17"

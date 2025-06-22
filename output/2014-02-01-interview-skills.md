@@ -1,6 +1,6 @@
 ---
 title: "Interview Skills"
-subtitle: "This article: [The Only Interview Question That Matters](http://www.inc.com/lou-adler/best-interview..."
+subtitle: "This article: The Only Interview Question That Matters"
 category: "1"
 tags: ["776", "1286", "1318"]
 date: "2014-02-01"

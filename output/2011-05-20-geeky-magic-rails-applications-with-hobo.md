@@ -1,6 +1,6 @@
 ---
 title: "[GEEKY] Magic Rails Applications with Hobo"
-subtitle: "Another tidbit I came across at RailsConf is [Hobo](http://www.hobocentral.net/about/). I haven’t tr..."
+subtitle: "Another tidbit I came across at RailsConf is Hobo. I haven’t tr..."
 category: "538"
 tags: ["1211", "1421", "1711", "1713"]
 date: "2011-05-20"

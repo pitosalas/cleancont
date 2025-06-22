@@ -1,6 +1,6 @@
 ---
 title: "Outlook Haters, anyone?"
-subtitle: "[David Coursey writes an interesting bit ](http://blog.ziffdavis.com/coursey/archive/2004/04/28/739...."
+subtitle: "David Coursey writes an interesting bit"
 category: "538"
 tags: []
 date: "2004-05-01"

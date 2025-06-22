@@ -1,6 +1,6 @@
 ---
 title: "Life Lock’s CEO Identity Stolen"
-subtitle: "Check this post [Life Lock’s CEO Identity Stolen](http://www.metafilter.com/72057/Life-Locks-CEO-Ide..."
+subtitle: "Check this post Life Lock’s CEO Identity Stolen"
 category: "50"
 tags: []
 date: "2008-05-30"

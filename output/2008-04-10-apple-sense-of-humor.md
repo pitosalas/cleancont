@@ -1,6 +1,6 @@
 ---
 title: "Apple sense of humor"
-subtitle: "![Funny comment by Apple about Windoze](https://i0.wp.com/s3.media.squarespace.com/production/107572..."
+subtitle: "!Funny comment by Apple about Windoze"
 category: "538"
 tags: ["746"]
 date: "2008-04-10"

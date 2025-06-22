@@ -1,6 +1,6 @@
 ---
 title: "Amazing(ly unpleasant) story about a car"
-subtitle: "My friend [Francois](http://www.emergencemarketing.com) posts a [horrifying real-life story](http://..."
+subtitle: "My friend Francois posts a horrifying real-life story"
 category: "298"
 tags: []
 date: "2006-03-30"

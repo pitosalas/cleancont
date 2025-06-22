@@ -1,6 +1,6 @@
 ---
 title: "CBS News’ Bob Schieffer"
-subtitle: "**CBS News’ Bob Schieffer Speaking at Cambridge Forum 7:30 p.m March 31.**  Should be interesting. [..."
+subtitle: "**CBS News’ Bob Schieffer Speaking at Cambridge Forum 7:30 p.m March 31.** Should be interesting. [..."
 category: "1"
 tags: []
 date: "2004-03-23"

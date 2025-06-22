@@ -1,6 +1,6 @@
 ---
 title: "Cracking the Facebook System"
-subtitle: "So we’ve all heard about [Facebook](http://www.facebook.com/) but only the ones of us who have a .ed..."
+subtitle: "So we’ve all heard about Facebook but only the ones of us who have a .ed..."
 category: "298"
 tags: []
 date: "2006-01-24"

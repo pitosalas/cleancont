@@ -1,6 +1,6 @@
 ---
 title: "What’s up with Orkut? There’s"
-subtitle: ">> **What 's up with [Orkut](<http://www.orkut.com/terms.html>)? **There's"
+subtitle: ">> **What 's up with Orkut? **There's"
 category: "uncategorized"
 tags: []
 date: "2004-01-24"

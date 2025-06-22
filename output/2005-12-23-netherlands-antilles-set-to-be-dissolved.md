@@ -1,6 +1,6 @@
 ---
 title: "Netherlands Antilles set to be dissolved"
-subtitle: "I don’t know how I [missed this article](http://www.miami.com/mld/miamiherald/news/13271891.htm), bu..."
+subtitle: "I don’t know how I missed this article, bu..."
 category: "298"
 tags: []
 date: "2005-12-23"

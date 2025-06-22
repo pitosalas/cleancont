@@ -1,6 +1,6 @@
 ---
 title: "Check out Inquisitor for the web"
-subtitle: "I’ve [written](/weblogs/archives/000920.php) about a **very cool** Safari (Mac OS X) add-on called I..."
+subtitle: "I’ve written about a **very cool** Safari (Mac OS X) add-on called I..."
 category: "538"
 tags: []
 date: "2006-05-21"

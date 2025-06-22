@@ -1,6 +1,6 @@
 ---
 title: "[geeky] Dang – I was looking for one of these just last week"
-subtitle: "[13 port USB hub](http://www.coolest-gadgets.com/20071126/13-port-usb-hub-keeps-everything-connected..."
+subtitle: "13 port USB hub"
 category: "538"
 tags: []
 date: "2007-11-27"

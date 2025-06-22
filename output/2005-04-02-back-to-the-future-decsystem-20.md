@@ -1,6 +1,6 @@
 ---
 title: "Back to the future: DECSYSTEM-20?"
-subtitle: "Would you believe that [someone is reading blogs](http://smokey.rhs.com/web/blog/PowerOfTheSchwartz...."
+subtitle: "Would you believe that someone is reading blogs"
 category: "538"
 tags: []
 date: "2005-04-02"

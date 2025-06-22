@@ -1,6 +1,6 @@
 ---
 title: "Checking Raspberry Pi Revision Number & Board Version – Raspberry Pi Spy"
-subtitle: "[ Checking Raspberry Pi Revision Number & Board Version – Raspberry Pi Spy](https://www.raspberrypi-..."
+subtitle: "Checking Raspberry Pi Revision Number & Board Version – Raspberry Pi Spy"
 category: "339"
 tags: []
 date: "2021-05-21"

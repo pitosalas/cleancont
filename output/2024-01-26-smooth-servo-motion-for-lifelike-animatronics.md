@@ -1,6 +1,6 @@
 ---
 title: "Smooth Servo Motion For Lifelike Animatronics"
-subtitle: "[ Smooth Servo Motion For Lifelike Animatronics]( https://hackaday.com/2021/09/03/smooth-servo-motio..."
+subtitle: "Smooth Servo Motion For Lifelike Animatronics"
 category: "1"
 tags: ["646", "817", "2626", "2623", "2624"]
 date: "2024-01-26"

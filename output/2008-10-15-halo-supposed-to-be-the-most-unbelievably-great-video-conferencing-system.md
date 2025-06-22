@@ -1,6 +1,6 @@
 ---
 title: "Halo: Supposed to be the most unbelievably great Video Conferencing system"
-subtitle: "[Halo, from HP. Really?](http://www.hp.com/halo/what_is.html)"
+subtitle: "Halo, from HP. Really?"
 category: "298"
 tags: []
 date: "2008-10-15"

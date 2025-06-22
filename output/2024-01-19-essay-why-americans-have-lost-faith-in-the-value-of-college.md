@@ -1,6 +1,6 @@
 ---
 title: "Essay | Why Americans Have Lost Faith in the Value of College"
-subtitle: "[ Essay | Why Americans Have Lost Faith in the Value of College]( https://www.wsj.com/us-news/educat..."
+subtitle: "Essay | Why Americans Have Lost Faith in the Value of College"
 category: "1"
 tags: ["823", "2621", "2054", "2137"]
 date: "2024-01-19"

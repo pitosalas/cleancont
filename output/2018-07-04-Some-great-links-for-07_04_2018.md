@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  07/04/2018"
-subtitle: "* [Editors | Drifting Ruby](<https://www.driftingruby.com/episodes/editors>)"
+subtitle: "* Editors | Drifting Ruby"
 category: "uncategorized"
 tags: []
 date: "2018-07-04"

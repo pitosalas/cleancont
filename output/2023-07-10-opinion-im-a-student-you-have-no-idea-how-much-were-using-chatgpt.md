@@ -1,6 +1,6 @@
 ---
 title: "Opinion | Im a Student. You Have No Idea How Much Were Using ChatGPT."
-subtitle: "[ Opinion | I’m a Student. You Have No Idea How Much We’re Using ChatGPT.](https://www.chronicle.com..."
+subtitle: "Opinion | I’m a Student. You Have No Idea How Much We’re Using ChatGPT."
 category: "1"
 tags: ["2340", "2341", "1564", "1973"]
 date: "2023-07-10"

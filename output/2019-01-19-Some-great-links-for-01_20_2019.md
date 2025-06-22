@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  01/20/2019"
-subtitle: "* [Download Trial | SimpleDiagrams](<https://www.simplediagrams.com/trial>)"
+subtitle: "* Download Trial | SimpleDiagrams"
 category: "uncategorized"
 tags: []
 date: "2019-01-19"

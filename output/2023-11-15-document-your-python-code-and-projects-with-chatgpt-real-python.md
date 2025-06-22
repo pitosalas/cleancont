@@ -1,6 +1,6 @@
 ---
 title: "Document Your Python Code and Projects With ChatGPT – Real Python"
-subtitle: "[ Document Your Python Code and Projects With ChatGPT – Real Python]( https://realpython.com/documen..."
+subtitle: "Document Your Python Code and Projects With ChatGPT – Real Python"
 category: "1"
 tags: ["2340", "2599", "2238", "1692"]
 date: "2023-11-15"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  02/19/2019"
-subtitle: "[How Microservices Saved the Internet – Hacker Noon](https://hackernoon.com/how-microservices-saved-..."
+subtitle: "How Microservices Saved the Internet – Hacker Noon"
 category: "301"
 tags: []
 date: "2019-02-18"

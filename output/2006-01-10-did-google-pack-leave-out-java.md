@@ -1,6 +1,6 @@
 ---
 title: "Did Google Pack leave out Java?"
-subtitle: "A little while ago there was a lot of press about how Google and Sun were forming a [partnership](ht..."
+subtitle: "A little while ago there was a lot of press about how Google and Sun were forming a partnership"
 category: "538"
 tags: []
 date: "2006-01-10"

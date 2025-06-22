@@ -1,6 +1,6 @@
 ---
 title: "Can I Let One Kid Play Violent Video Games and Not the Other? — The Information"
-subtitle: "[ Can I Let One Kid Play Violent Video Games and Not the Other? — The Information](https://www.thein..."
+subtitle: "Can I Let One Kid Play Violent Video Games and Not the Other? — The Information"
 category: "78"
 tags: ["987", "1113", "2072"]
 date: "2021-12-21"

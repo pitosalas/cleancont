@@ -1,6 +1,6 @@
 ---
 title: "More weapons of civic mass destruction"
-subtitle: "A while ago I wrote about [weapons of civic mass destruction](/2009/04/25/weapons-of-civic-mass-dest..."
+subtitle: "A while ago I wrote about weapons of civic mass destruction"
 category: "298"
 tags: []
 date: "2009-08-10"

@@ -1,6 +1,6 @@
 ---
 title: "Software Developer Meat Market"
-subtitle: "An interesting article in Forbes about Software Developers and Development in general, [The Rise of ..."
+subtitle: "An interesting article in Forbes about Software Developers and Development in general, [The Rise of ..."
 category: "1"
 tags: ["942", "978", "1080", "1886"]
 date: "2012-02-04"

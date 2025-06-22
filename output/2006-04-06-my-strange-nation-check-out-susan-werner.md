@@ -1,6 +1,6 @@
 ---
 title: "My Strange Nation? Check out Susan Werner"
-subtitle: "[![Sw-00039-T](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/images..."
+subtitle: "![Sw-00039-T"
 category: "298"
 tags: []
 date: "2006-04-06"

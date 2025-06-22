@@ -1,6 +1,6 @@
 ---
 title: "Heroku Alternatives for Python-based Applications"
-subtitle: "[ Heroku Alternatives for Python-based Applications]( https://testdriven.io/blog/heroku-alternatives..."
+subtitle: "Heroku Alternatives for Python-based Applications"
 category: "1"
 tags: ["2285", "1203", "1692", "1747"]
 date: "2022-10-20"

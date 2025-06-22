@@ -1,6 +1,6 @@
 ---
 title: "Pixoo Fixes Your Face: Wow, totally cool. I gotta try this :)"
-subtitle: "Check out [this post](http://mashable.com/2007/10/18/pixoo/) from [Mashable!](http://mashable.com):"
+subtitle: "Check out this post from Mashable!:"
 category: "298"
 tags: []
 date: "2007-10-19"

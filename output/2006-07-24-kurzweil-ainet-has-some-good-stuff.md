@@ -1,6 +1,6 @@
 ---
 title: "Kurzweil AI.net has some good stuff"
-subtitle: "I knew about [this site](http://www.kurzweilai.net/) but recently came across a link to another quit..."
+subtitle: "I knew about this site but recently came across a link to another quit..."
 category: "298"
 tags: []
 date: "2006-07-24"

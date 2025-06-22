@@ -1,6 +1,6 @@
 ---
 title: "braintree/runbook: A framework for gradual system automation"
-subtitle: "[ braintree/runbook: A framework for gradual system automation](https://github.com/braintree/runbook..."
+subtitle: "braintree/runbook: A framework for gradual system automation"
 category: "30"
 tags: []
 date: "2022-01-12"

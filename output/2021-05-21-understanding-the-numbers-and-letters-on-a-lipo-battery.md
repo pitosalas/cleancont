@@ -1,6 +1,6 @@
 ---
 title: "Understanding the Numbers and Letters on a LiPo Battery"
-subtitle: "[ Understanding the Numbers and Letters on a LiPo Battery](https://hobbyking.com/en_us/blog/cat/batt..."
+subtitle: "Understanding the Numbers and Letters on a LiPo Battery"
 category: "249"
 tags: ["692"]
 date: "2021-05-21"

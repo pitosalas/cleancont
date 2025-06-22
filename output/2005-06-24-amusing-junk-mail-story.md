@@ -1,6 +1,6 @@
 ---
 title: "Amusing junk mail story"
-subtitle: "About 3 months ago I subscribed to [Atlantic Magazine](http://www.theatlantic.com/), which I really ..."
+subtitle: "About 3 months ago I subscribed to Atlantic Magazine, which I really ..."
 category: "298"
 tags: []
 date: "2005-06-24"

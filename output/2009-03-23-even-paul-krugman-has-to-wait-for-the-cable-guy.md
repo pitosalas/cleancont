@@ -1,6 +1,6 @@
 ---
 title: "Even Paul Krugman has to wait for the cable guy"
-subtitle: "Check out this post [Incommunicado, probably](http://krugman.blogs.nytimes.com/2009/03/23/incommunic..."
+subtitle: "Check out this post Incommunicado, probably"
 category: "50"
 tags: []
 date: "2009-03-23"

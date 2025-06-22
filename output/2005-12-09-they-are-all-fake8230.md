@@ -1,6 +1,6 @@
 ---
 title: "They are all fake…"
-subtitle: "Check out these amusing images which I came across on the [Advertising/Design Goodness Blog](http://..."
+subtitle: "Check out these amusing images which I came across on the Advertising/Design Goodness Blog"
 category: "298"
 tags: []
 date: "2005-12-09"

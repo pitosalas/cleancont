@@ -1,6 +1,6 @@
 ---
 title: "Home – Meet Edgar"
-subtitle: "[ Home - Meet Edgar](< https://meetedgar.com/>) –Social Media automatic"
+subtitle: "Home - Meet Edgar –Social Media automatic"
 category: "uncategorized"
 tags: []
 date: "2022-10-22"

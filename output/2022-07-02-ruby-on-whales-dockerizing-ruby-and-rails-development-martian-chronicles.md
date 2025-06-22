@@ -1,6 +1,6 @@
 ---
 title: "Ruby on Whales: Dockerizing Ruby and Rails development — Martian Chronicles"
-subtitle: "[RUby on Whales: Dockerizing Ruby and Rails](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=..."
+subtitle: "RUby on Whales: Dockerizing Ruby and Rails"
 category: "1"
 tags: ["956", "2177", "2178", "1347", "1711", "1772"]
 date: "2022-07-02"

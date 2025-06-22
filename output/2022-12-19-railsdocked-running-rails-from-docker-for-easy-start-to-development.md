@@ -1,6 +1,6 @@
 ---
 title: "rails/docked: Running Rails from Docker for easy start to development"
-subtitle: "[ rails/docked: Running Rails from Docker for easy start to development]( https://github.com/rails/d..."
+subtitle: "rails/docked: Running Rails from Docker for easy start to development"
 category: "1"
 tags: ["871", "956", "1711", "2010"]
 date: "2022-12-19"

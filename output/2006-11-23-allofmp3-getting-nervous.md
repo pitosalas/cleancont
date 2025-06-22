@@ -1,6 +1,6 @@
 ---
 title: "AllofMp3 Getting nervous"
-subtitle: "I’ve written about [AllOfMp3.com](http://www.allofmp3.com) before. I can’t say other than it’s a pir..."
+subtitle: "I’ve written about AllOfMp3.com before. I can’t say other than it’s a pir..."
 category: "298"
 tags: []
 date: "2006-11-23"

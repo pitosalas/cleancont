@@ -1,6 +1,6 @@
 ---
 title: "Opera and RSS"
-subtitle: "[Various people ](http://channels.lockergnome.com/rss/archives/software/010330.phtml)are [saying tha..."
+subtitle: "Various people are [saying tha..."
 category: "51"
 tags: []
 date: "2004-05-17"

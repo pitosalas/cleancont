@@ -1,6 +1,6 @@
 ---
 title: "Scott Adams writres about Spasmodic Dysphonia…"
-subtitle: ">  body { font-size: 11pt; line-height: normal; font-family: Lucida Grande;"
+subtitle: "> body { font-size: 11pt; line-height: normal; font-family: Lucida Grande;"
 category: "uncategorized"
 tags: []
 date: "2007-01-15"

@@ -1,6 +1,6 @@
 ---
 title: "Do I need yet another site doing life streaming?"
-subtitle: "First it was [Facebook](https://www.facebook.com), then (I think) it was [Plaxo](http://pulse.plaxo...."
+subtitle: "First it was Facebook, then (I think) it was Plaxo"
 category: "298"
 tags: []
 date: "2008-03-05"

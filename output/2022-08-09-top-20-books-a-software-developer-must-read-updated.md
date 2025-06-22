@@ -1,6 +1,6 @@
 ---
 title: "Top 20 Books a Software Developer Must Read (Updated)"
-subtitle: "[ Top 20 Books a Software Developer Must Read (Updated)]( https://link.medium.com/QrUk4lpkmsb) –A co..."
+subtitle: "Top 20 Books a Software Developer Must Read (Updated) –A co..."
 category: "1"
 tags: ["725", "871", "1888"]
 date: "2022-08-09"

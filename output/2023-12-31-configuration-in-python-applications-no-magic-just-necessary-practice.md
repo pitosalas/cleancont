@@ -1,6 +1,6 @@
 ---
 title: "Configuration in Python Applications: No Magic, Just Necessary Practice"
-subtitle: "[ Configuration in Python Applications: No Magic, Just Necessary Practice]( https://robertrode.com/2..."
+subtitle: "Configuration in Python Applications: No Magic, Just Necessary Practice"
 category: "1"
 tags: ["1221", "1692", "2181"]
 date: "2023-12-31"

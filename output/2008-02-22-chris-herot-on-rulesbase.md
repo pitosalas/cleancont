@@ -1,6 +1,6 @@
 ---
 title: "Chris Herot on RulesBase"
-subtitle: "Chris Herot writes about a new product called RulesBase: Check out [this post](http://herot.typepad...."
+subtitle: "Chris Herot writes about a new product called RulesBase: Check out this post"
 category: "538"
 tags: []
 date: "2008-02-22"

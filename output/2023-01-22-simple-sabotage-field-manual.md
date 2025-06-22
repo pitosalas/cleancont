@@ -1,6 +1,6 @@
 ---
 title: "Simple sabotage field manual"
-subtitle: "[ Simple sabotage field manual]( https://user.fm/files/v2-f56b9a8ed2ee68f48c1ad491fd2c8745/simple_sa..."
+subtitle: "Simple sabotage field manual"
 category: "1"
 tags: ["2414", "1033", "1207", "2413"]
 date: "2023-01-22"

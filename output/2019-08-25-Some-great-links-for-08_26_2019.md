@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  08/26/2019"
-subtitle: "* [4 Rules for Intuitive UX – Learn UI Design](<https://learnui.design/blog/4-rules-intuitive-ux.htm..."
+subtitle: "* 4 Rules for Intuitive UX – Learn UI Design"
 category: "uncategorized"
 tags: []
 date: "2019-08-25"

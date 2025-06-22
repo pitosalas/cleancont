@@ -1,6 +1,6 @@
 ---
 title: "Back from Barcamp Boston"
-subtitle: "[![](https://i0.wp.com/farm4.static.flickr.com/3569/3480291552_47e25d7520_m.jpg?resize=240%2C118)](h..."
+subtitle: "![](h..."
 category: "298"
 tags: []
 date: "2009-04-27"

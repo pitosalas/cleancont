@@ -1,6 +1,6 @@
 ---
 title: "Interesting article about Moocs and Higher Ed"
-subtitle: "[Master’s Degree Is New Frontier of Study Online – NYTimes.com](http://www.nytimes.com/2013/08/18/ed..."
+subtitle: "Master’s Degree Is New Frontier of Study Online – NYTimes.com"
 category: "1"
 tags: ["1204", "1486"]
 date: "2013-08-22"

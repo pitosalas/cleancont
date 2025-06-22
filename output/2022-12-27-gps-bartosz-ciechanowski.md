@@ -1,6 +1,6 @@
 ---
 title: "GPS – Bartosz Ciechanowski"
-subtitle: "[ GPS – Bartosz Ciechanowski]( https://ciechanow.ski/gps/?utm_source=abyteofcodingnewsletter) –GPS i..."
+subtitle: "GPS – Bartosz Ciechanowski –GPS i..."
 category: "1"
 tags: ["1033", "1154", "2381", "2380", "1979"]
 date: "2022-12-27"

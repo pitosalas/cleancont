@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  08/07/2019"
-subtitle: "* [Installing Ubuntu on an external SSD drive on a Macbook – Floris van Breugel](<https://florisvanb..."
+subtitle: "* Installing Ubuntu on an external SSD drive on a Macbook – Floris van Breugel"
 category: "uncategorized"
 tags: []
 date: "2019-08-06"

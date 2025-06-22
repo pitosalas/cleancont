@@ -1,6 +1,6 @@
 ---
 title: "Really interesting story about why good used cars don’t sell"
-subtitle: "Ok it’s not exactly about that, but the answer to that question is answered. Check out [this post](h..."
+subtitle: "Ok it’s not exactly about that, but the answer to that question is answered. Check out this post"
 category: "538"
 tags: []
 date: "2007-04-19"

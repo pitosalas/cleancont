@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  05/02/2019"
-subtitle: "[How I Almost Destroyed a £50 million War Plane and The Normalisation of Deviance.](https://fastjetp..."
+subtitle: "How I Almost Destroyed a £50 million War Plane and The Normalisation of Deviance."
 category: "301"
 tags: []
 date: "2019-05-01"

@@ -1,6 +1,6 @@
 ---
 title: "Will the App Store Accept Java Applications?"
-subtitle: "Check out [Apple Begins Accepting Submissions for Mac App Store](http://feedproxy.google.com/~r/TheA..."
+subtitle: "Check out Apple Begins Accepting Submissions for Mac App Store"
 category: "51"
 tags: []
 date: "2010-11-04"

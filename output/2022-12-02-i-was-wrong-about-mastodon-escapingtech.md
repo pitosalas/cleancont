@@ -1,6 +1,6 @@
 ---
 title: "I Was Wrong About Mastodon – EscapingTech"
-subtitle: "[ I Was Wrong About Mastodon – EscapingTech]( https://escapingtech.com/tech/opinions/i-was-wrong-abo..."
+subtitle: "I Was Wrong About Mastodon – EscapingTech"
 category: "1"
 tags: ["1033", "2325", "2324", "2294", "2323"]
 date: "2022-12-02"

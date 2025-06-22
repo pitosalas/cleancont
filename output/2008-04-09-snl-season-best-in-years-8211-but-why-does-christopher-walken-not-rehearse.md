@@ -1,6 +1,6 @@
 ---
 title: "SNL Season best in years – but why does Christopher Walken not rehearse?"
-subtitle: "[Saturday Night Live ](http://www.nbc.com/Saturday_Night_Live/)is having the **best season in years*..."
+subtitle: "Saturday Night Live is having the **best season in years*..."
 category: "298"
 tags: ["1876"]
 date: "2008-04-09"

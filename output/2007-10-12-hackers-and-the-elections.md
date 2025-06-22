@@ -1,6 +1,6 @@
 ---
 title: "Hackers and the elections"
-subtitle: "In [New Scientist Tech](http://technology.newscientist.com/home.ns), an interesting article about [h..."
+subtitle: "In New Scientist Tech, an interesting article about [h..."
 category: "298"
 tags: []
 date: "2007-10-12"

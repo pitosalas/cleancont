@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  11/24/2020"
-subtitle: "[Building Your Color Palette](https://refactoringui.com/previews/building-your-color-palette/)"
+subtitle: "Building Your Color Palette"
 category: "301"
 tags: []
 date: "2020-11-23"

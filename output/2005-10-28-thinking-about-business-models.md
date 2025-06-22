@@ -1,6 +1,6 @@
 ---
 title: "Thinking about business models"
-subtitle: "[Inquisitor is a really cool](http://www.inquisitorx.com/safari/) program that augments the search b..."
+subtitle: "Inquisitor is a really cool program that augments the search b..."
 category: "298"
 tags: []
 date: "2005-10-28"

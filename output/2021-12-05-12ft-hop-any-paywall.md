@@ -1,6 +1,6 @@
 ---
 title: "12ft – Hop any paywall"
-subtitle: "[ 12ft – Hop any paywall](https://12ft.io/)"
+subtitle: "12ft – Hop any paywall"
 category: "393"
 tags: ["2103"]
 date: "2021-12-05"

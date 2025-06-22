@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  03/29/2020"
-subtitle: "* [How to do multi-step forms in Rails - Code with Jason](<https://www.codewithjason.com/rails-multi..."
+subtitle: "* How to do multi-step forms in Rails - Code with Jason"
 category: "uncategorized"
 tags: []
 date: "2020-03-28"

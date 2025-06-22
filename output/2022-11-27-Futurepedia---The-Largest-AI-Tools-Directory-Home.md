@@ -1,6 +1,6 @@
 ---
 title: "Futurepedia – The Largest AI Tools Directory | Home"
-subtitle: "[ Futurepedia - The Largest AI Tools Directory | Home](<"
+subtitle: "Futurepedia - The Largest AI Tools Directory | Home"
 category: "uncategorized"
 tags: []
 date: "2022-11-27"

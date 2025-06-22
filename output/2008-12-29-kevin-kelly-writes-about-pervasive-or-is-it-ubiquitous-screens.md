@@ -1,6 +1,6 @@
 ---
 title: "Kevin Kelly writes about pervasive (or is it ubiquitous) screens"
-subtitle: "I always love [Kevin Kelly’s writing](http://www.nytimes.com/2008/11/23/magazine/23wwln-future-t.htm..."
+subtitle: "I always love Kevin Kelly’s writing"
 category: "298"
 tags: []
 date: "2008-12-29"

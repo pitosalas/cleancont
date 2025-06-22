@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  11/12/2020"
-subtitle: "[App Downloads – GeoGebra](http://Amazing trigonometry visual calculator)"
+subtitle: "App Downloads – GeoGebra"
 category: "301"
 tags: []
 date: "2020-11-11"

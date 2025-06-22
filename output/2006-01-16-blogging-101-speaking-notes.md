@@ -1,6 +1,6 @@
 ---
 title: "Blogging 101: Speaking Notes"
-subtitle: "Over on the [BlogBridge blog](http://www.blogbridge.com/archives/2006/01/blogging_101_sp.php), I pos..."
+subtitle: "Over on the BlogBridge blog, I pos..."
 category: "538"
 tags: []
 date: "2006-01-16"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  02/25/2019"
-subtitle: "* [The Testing Introduction I Wish I Had](<https://dev.to/maxwell_dev/the-testing-introduction-i-wis..."
+subtitle: "* The Testing Introduction I Wish I Had"
 category: "uncategorized"
 tags: []
 date: "2019-02-24"

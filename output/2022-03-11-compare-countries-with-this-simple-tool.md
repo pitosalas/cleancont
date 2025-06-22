@@ -1,6 +1,6 @@
 ---
 title: "Compare Countries With This Simple Tool"
-subtitle: "[ Compare Countries With This Simple Tool](https://thetruesize.com/?mc_cid=cc91a2f852&mc_eid=194a888..."
+subtitle: "Compare Countries With This Simple Tool"
 category: "199"
 tags: ["1264"]
 date: "2022-03-11"

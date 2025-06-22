@@ -1,6 +1,6 @@
 ---
 title: "Glickr Makes It Easy to Make Cheap Animations"
-subtitle: "[![Gif animations at Gickr.com](https://i0.wp.com/gickr.com/results/anim_84feb77e-c76a-8274-6d1f-f44..."
+subtitle: "![Gif animations at Gickr.com"
 category: "298"
 tags: []
 date: "2006-11-21"

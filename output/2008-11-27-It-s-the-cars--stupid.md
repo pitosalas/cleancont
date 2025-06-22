@@ -1,6 +1,6 @@
 ---
 title: "It’s the cars, stupid"
-subtitle: "Robert X. Cringely's  [prescription for Detroit"
+subtitle: "Robert X. Cringely's [prescription for Detroit"
 category: "uncategorized"
 tags: []
 date: "2008-11-27"

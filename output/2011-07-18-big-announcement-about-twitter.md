@@ -1,6 +1,6 @@
 ---
 title: "Big announcement about twitter"
-subtitle: "Actually it’s about [Twitter Support in BlogBridge](http://www.blogbridge.com/2011/07/18/new-twitter..."
+subtitle: "Actually it’s about Twitter Support in BlogBridge"
 category: "298"
 tags: ["718", "2047"]
 date: "2011-07-18"

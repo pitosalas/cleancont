@@ -1,6 +1,6 @@
 ---
 title: "Why are you reading?"
-subtitle: "If you are a hardcore blog reader like I am, and like [BlogBridge fans](http://www.blogbridge.com) a..."
+subtitle: "If you are a hardcore blog reader like I am, and like BlogBridge fans a..."
 category: "298"
 tags: ["1719"]
 date: "2010-08-02"

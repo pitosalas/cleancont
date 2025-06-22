@@ -1,6 +1,6 @@
 ---
 title: "[RubyConf] Percentage of Windows users"
-subtitle: "Odd thing happened in a talk at [RubyConf](http://www.rubyconf.org). Speaker asks all attendees who ..."
+subtitle: "Odd thing happened in a talk at RubyConf. Speaker asks all attendees who ..."
 category: "422"
 tags: []
 date: "2010-11-12"

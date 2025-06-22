@@ -1,6 +1,6 @@
 ---
 title: "Update on Digital Photography. When"
-subtitle: "**Update on Digital Photography. **When I [wrote a few days ago](/2004/02/27.html#a176) about [OurPi..."
+subtitle: "**Update on Digital Photography. **When I wrote a few days ago about [OurPi..."
 category: "1"
 tags: []
 date: "2004-03-09"

@@ -1,6 +1,6 @@
 ---
 title: "Descript | All-in-one audio/video editing, as easy as a doc."
-subtitle: "[ Descript | All-in-one audio/video editing, as easy as a doc.](https://www.descript.com/)"
+subtitle: "Descript | All-in-one audio/video editing, as easy as a doc."
 category: "111"
 tags: ["665", "2072"]
 date: "2021-08-12"

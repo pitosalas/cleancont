@@ -1,6 +1,6 @@
 ---
 title: "Patriots win, I am souring on Football and the NFL"
-subtitle: "Reading this article about [The Casualties Of the NFL, in Men’s Journal](http://www.mensjournal.com/..."
+subtitle: "Reading this article about The Casualties Of the NFL, in Men’s Journal"
 category: "298"
 tags: []
 date: "2007-09-17"

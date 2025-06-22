@@ -1,6 +1,6 @@
 ---
 title: "Java Web Start Sucks Eggs"
-subtitle: "I’ve written [about this before](/weblogs/archives/000450.html), and after all it is fairly (no, ver..."
+subtitle: "I’ve written about this before, and after all it is fairly (no, ver..."
 category: "538"
 tags: []
 date: "2004-07-10"

@@ -1,6 +1,6 @@
 ---
 title: "Scott Kirsner of the Boston"
-subtitle: "**[Scott Kirsner of the Boston Globe:](http://www.boston.com/business/technology/articles/2004/01/12..."
+subtitle: "**Scott Kirsner of the Boston Globe:"
 category: "1"
 tags: []
 date: "2004-01-12"

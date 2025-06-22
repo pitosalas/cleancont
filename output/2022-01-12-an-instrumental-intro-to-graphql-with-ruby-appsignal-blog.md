@@ -1,6 +1,6 @@
 ---
 title: "An instrumental intro to GraphQL with Ruby | AppSignal Blog"
-subtitle: "[ An instrumental intro to GraphQL with Ruby | AppSignal Blog](https://blog.appsignal.com/2019/01/29..."
+subtitle: "An instrumental intro to GraphQL with Ruby | AppSignal Blog"
 category: "113"
 tags: ["1772"]
 date: "2022-01-12"

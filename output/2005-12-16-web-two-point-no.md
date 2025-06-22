@@ -1,6 +1,6 @@
 ---
 title: "Web Two Point No?"
-subtitle: "Om Malik [writes](http://gigaom.com/2005/12/16/the-web-20-hit-by-outages/) that “The Web 2.0 Hit By ..."
+subtitle: "Om Malik writes that “The Web 2.0 Hit By ..."
 category: "538"
 tags: []
 date: "2005-12-16"

@@ -1,6 +1,6 @@
 ---
 title: "How are the presidential debates like a Nascar race?"
-subtitle: "I am looking forward to watching the Presidential debates tonight. But for all the **wrong** reasons..."
+subtitle: "I am looking forward to watching the Presidential debates tonight. But for all the **wrong** reasons..."
 category: "1"
 tags: ["759", "925", "1502", "1645", "1665"]
 date: "2012-10-16"

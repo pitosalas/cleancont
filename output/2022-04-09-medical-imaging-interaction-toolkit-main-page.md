@@ -1,6 +1,6 @@
 ---
 title: "Medical Imaging Interaction Toolkit: Main Page"
-subtitle: "[ Medical Imaging Interaction Toolkit: Main Page](https://docs.mitk.org/2021.10/index.html)"
+subtitle: "Medical Imaging Interaction Toolkit: Main Page"
 category: "101"
 tags: ["2010"]
 date: "2022-04-09"

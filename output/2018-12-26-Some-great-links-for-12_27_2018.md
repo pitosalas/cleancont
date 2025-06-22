@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  12/27/2018"
-subtitle: "* [Deep Rails: How to use Abstract Classes](<https://link.medium.com/qwR3chzoYS>)"
+subtitle: "* Deep Rails: How to use Abstract Classes"
 category: "uncategorized"
 tags: []
 date: "2018-12-26"

@@ -1,6 +1,6 @@
 ---
 title: "Neural Magic"
-subtitle: "[ Neural Magic](https://github.com/neuralmagic)"
+subtitle: "Neural Magic"
 category: "101"
 tags: ["1134"]
 date: "2021-05-19"

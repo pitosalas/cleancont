@@ -1,6 +1,6 @@
 ---
 title: "Wonder Tools at ONA ⚡️"
-subtitle: "[ Wonder Tools at ONA ⚡️]( https://open.substack.com/pub/wondertools/p/wonder-tools-ona-talk?r=1slq0..."
+subtitle: "Wonder Tools at ONA ⚡️"
 category: "1"
 tags: ["611", "872", "1572", "2021", "2149"]
 date: "2023-08-24"

@@ -1,6 +1,6 @@
 ---
 title: "Launch Conference: Day One"
-subtitle: "The [Launch Conference](http://www.launch.co/) is starting today. It is descended from many venerabl..."
+subtitle: "The Launch Conference is starting today. It is descended from many venerabl..."
 category: "1"
 tags: ["852", "1121", "1356", "1679"]
 date: "2012-03-07"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  11/15/2020"
-subtitle: "[Pauls Online Math Notes](https://tutorial.math.lamar.edu)"
+subtitle: "Pauls Online Math Notes"
 category: "301"
 tags: []
 date: "2020-11-14"

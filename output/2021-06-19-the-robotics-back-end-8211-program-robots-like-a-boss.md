@@ -1,6 +1,6 @@
 ---
 title: "The Robotics Back-End – Program Robots Like a Boss"
-subtitle: "[ The Robotics Back-End – Program Robots Like a Boss](https://roboticsbackend.com/)"
+subtitle: "The Robotics Back-End – Program Robots Like a Boss"
 category: "249"
 tags: ["884"]
 date: "2021-06-19"

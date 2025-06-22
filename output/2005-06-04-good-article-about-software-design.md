@@ -1,6 +1,6 @@
 ---
 title: "Good article about software design"
-subtitle: "Just add [this one](http://www.martinfowler.com/articles/designDead.html) to your reading list:"
+subtitle: "Just add this one to your reading list:"
 category: "538"
 tags: []
 date: "2005-06-04"

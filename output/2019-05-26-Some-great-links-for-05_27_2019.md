@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  05/27/2019"
-subtitle: "* [On not using ROS for your robotics startup | The Construct](<http://www.theconstructsim.com/not-u..."
+subtitle: "* On not using ROS for your robotics startup | The Construct"
 category: "uncategorized"
 tags: []
 date: "2019-05-26"

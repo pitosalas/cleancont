@@ -1,6 +1,6 @@
 ---
 title: "Design Thinking vs. Lean Startup"
-subtitle: "[Solving Problems for Real World, Using Design – NYTimes.com](http://www.nytimes.com/2013/12/30/tech..."
+subtitle: "Solving Problems for Real World, Using Design – NYTimes.com"
 category: "1"
 tags: ["937", "1243", "1364", "1542", "1555", "2055"]
 date: "2013-12-30"

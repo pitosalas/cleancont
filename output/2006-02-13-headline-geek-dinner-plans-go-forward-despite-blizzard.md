@@ -1,6 +1,6 @@
 ---
 title: "Headline: Geek Dinner plans go forward despite blizzard"
-subtitle: "Just a [quick reminder ](/weblogs/archives/001050.php)of a Geek Dinner organized by three of us: Ada..."
+subtitle: "Just a quick reminder of a Geek Dinner organized by three of us: Ada..."
 category: "298"
 tags: []
 date: "2006-02-13"

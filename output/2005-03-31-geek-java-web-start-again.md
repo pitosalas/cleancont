@@ -1,6 +1,6 @@
 ---
 title: "[GEEK] Java Web Start {again}"
-subtitle: "There’s [another flame-up](http://www.clientjava.com/blog/2005/03/28/1112029988215.html) on the WebS..."
+subtitle: "There’s another flame-up on the WebS..."
 category: "422"
 tags: []
 date: "2005-03-31"

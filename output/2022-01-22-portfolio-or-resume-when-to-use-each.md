@@ -1,6 +1,6 @@
 ---
 title: "Portfolio or Resume? When To Use Each"
-subtitle: "[ Portfolio or Resume? When To Use Each](https://www.indeed.com/career-advice/resumes-cover-letters/..."
+subtitle: "Portfolio or Resume? When To Use Each"
 category: "149"
 tags: ["776"]
 date: "2022-01-22"

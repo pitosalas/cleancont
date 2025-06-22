@@ -1,6 +1,6 @@
 ---
 title: "Doomsday Cult"
-subtitle: "Scott Adams as usual is hillarious in this post [Doomsday Cult](http://dilbertblog.typepad.com/the_d..."
+subtitle: "Scott Adams as usual is hillarious in this post Doomsday Cult"
 category: "50"
 tags: []
 date: "2008-04-02"

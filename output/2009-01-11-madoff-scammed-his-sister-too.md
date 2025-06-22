@@ -1,6 +1,6 @@
 ---
 title: "Madoff Scammed His Sister, Too!"
-subtitle: "Check out this post [Madoff Scammed His Sister, Too!](http://feedproxy.google.com/~r/clusterstock/~3..."
+subtitle: "Check out this post Madoff Scammed His Sister, Too!"
 category: "298"
 tags: []
 date: "2009-01-11"

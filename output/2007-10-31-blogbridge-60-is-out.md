@@ -1,6 +1,6 @@
 ---
 title: "BlogBridge 6.0 is out"
-subtitle: "We just released [BlogBridge 6.0](http://www.blogbridge.com/2007/10/19/blogbridge-60-on-our-shelves-..."
+subtitle: "We just released BlogBridge 6.0"
 category: "50"
 tags: []
 date: "2007-10-31"

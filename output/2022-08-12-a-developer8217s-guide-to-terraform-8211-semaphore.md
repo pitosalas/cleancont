@@ -1,6 +1,6 @@
 ---
 title: "A Developer’s Guide to Terraform – Semaphore"
-subtitle: "[ A Developer’s Guide to Terraform – Semaphore]( https://semaphoreci.com/blog/terraform) –Terraform ..."
+subtitle: "A Developer’s Guide to Terraform – Semaphore –Terraform ..."
 category: "1"
 tags: ["854", "1033", "1221", "2232"]
 date: "2022-08-12"

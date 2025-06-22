@@ -1,6 +1,6 @@
 ---
 title: "News about BlogBridge for iPhone"
-subtitle: "I just [posted an update on our work on BlogBridge for the iPhone](http://www.blogbridge.com/2009/11..."
+subtitle: "I just posted an update on our work on BlogBridge for the iPhone"
 category: "298"
 tags: []
 date: "2009-11-12"

@@ -1,6 +1,6 @@
 ---
 title: "Import Maps Under the Hood in Rails 7 | AppSignal Blog"
-subtitle: "[ Import Maps Under the Hood in Rails 7 | AppSignal Blog]( https://blog.appsignal.com/2022/03/02/imp..."
+subtitle: "Import Maps Under the Hood in Rails 7 | AppSignal Blog"
 category: "1"
 tags: []
 date: "2022-09-29"

@@ -1,6 +1,6 @@
 ---
 title: "A Complete List Of Micro Four Thirds Lenses | Alik Griffin"
-subtitle: "[ A Complete List Of Micro Four Thirds Lenses | Alik Griffin](https://alikgriffin.com/micro-43-lens-..."
+subtitle: "A Complete List Of Micro Four Thirds Lenses | Alik Griffin"
 category: "72"
 tags: ["765", "1390", "1460", "2187", "1614", "2188"]
 date: "2022-05-31"

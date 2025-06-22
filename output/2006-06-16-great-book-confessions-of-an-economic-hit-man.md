@@ -1,6 +1,6 @@
 ---
 title: "Great book: Confessions of an Economic Hit Man"
-subtitle: "I just finished reading an **excellent** book called [Confessions of an Econmonic Hit Man](http://ww..."
+subtitle: "I just finished reading an **excellent** book called Confessions of an Econmonic Hit Man"
 category: "298"
 tags: []
 date: "2006-06-16"

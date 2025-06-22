@@ -1,6 +1,6 @@
 ---
 title: "Howard Stern finally has found"
-subtitle: "**Howard Stern finally has found his match. **You know I am a Howard Stern fan. It [looks like](http..."
+subtitle: "**Howard Stern finally has found his match. **You know I am a Howard Stern fan. It looks like"
 category: "1"
 tags: []
 date: "2004-03-05"

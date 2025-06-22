@@ -1,6 +1,6 @@
 ---
 title: "A great article about scientific discourse"
-subtitle: "This article is called [“Fact and Folklore In Software Engineering” ](http://morendil.github.com/fol..."
+subtitle: "This article is called “Fact and Folklore In Software Engineering”"
 category: "422"
 tags: ["1074", "1802", "1856", "1886"]
 date: "2011-02-09"

@@ -1,6 +1,6 @@
 ---
 title: "Shopping Tip: if you need to find a gift for a GEEK"
-subtitle: "I’ve occasionally [shopped here](http://www.thinkgeek.com). I got another bit of mail from them for ..."
+subtitle: "I’ve occasionally shopped here. I got another bit of mail from them for ..."
 category: "298"
 tags: []
 date: "2009-11-30"

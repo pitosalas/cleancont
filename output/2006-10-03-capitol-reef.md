@@ -1,6 +1,6 @@
 ---
 title: "Capitol Reef"
-subtitle: "[![](https://i0.wp.com/static.flickr.com/90/253257941_7846e495d3_m.jpg?w=584)](http://www.flickr.com..."
+subtitle: "![](http://www.flickr.com..."
 category: "298"
 tags: []
 date: "2006-10-03"

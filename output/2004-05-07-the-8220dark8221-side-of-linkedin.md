@@ -1,6 +1,6 @@
 ---
 title: "The “dark” side of LinkedIn"
-subtitle: "Well, not really dark: This is in reference to [Shel Isreal’s recent bit about LinkedIn.](http://see..."
+subtitle: "Well, not really dark: This is in reference to Shel Isreal’s recent bit about LinkedIn."
 category: "298"
 tags: []
 date: "2004-05-07"

@@ -1,6 +1,6 @@
 ---
 title: "From Andrew Sullivan: My Take On The Healthcare Debate"
-subtitle: "I agree with this point from the post [My Take On The Healthcare Debate](http://www.pheedcontent.com..."
+subtitle: "I agree with this point from the post My Take On The Healthcare Debate"
 category: "410"
 tags: []
 date: "2009-09-08"

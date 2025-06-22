@@ -1,6 +1,6 @@
 ---
 title: "XConomy’s Battle of the bands"
-subtitle: "As a favor I am posting this notice about an [event that looks like it might be fun:](http://www.xco..."
+subtitle: "As a favor I am posting this notice about an event that looks like it might be fun:"
 category: "298"
 tags: ["2138"]
 date: "2008-12-05"

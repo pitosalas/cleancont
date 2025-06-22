@@ -1,6 +1,6 @@
 ---
 title: "See my new sprout"
-subtitle: "[http://farm.sproutbuilder.com/2341/load/cACdIgrQADCA209Z.swf](http://farm.sproutbuilder.com/2341/lo..."
+subtitle: "http://farm.sproutbuilder.com/2341/load/cACdIgrQADCA209Z.swf"
 category: "298"
 tags: []
 date: "2008-01-30"

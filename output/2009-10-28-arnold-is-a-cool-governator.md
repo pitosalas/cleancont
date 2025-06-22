@@ -1,6 +1,6 @@
 ---
 title: "Arnold is a cool governator"
-subtitle: "Check out [Schwarzenegger Gives California Legislature A Hidden Finger ](http://feedproxy.google.com..."
+subtitle: "Check out Schwarzenegger Gives California Legislature A Hidden Finger"
 category: "422"
 tags: []
 date: "2009-10-28"

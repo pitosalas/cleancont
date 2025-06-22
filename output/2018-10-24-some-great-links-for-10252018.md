@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  10/25/2018"
-subtitle: "[https://link.medium.com/0oNpyGJ4gR](https://link.medium.com/0oNpyGJ4gR)"
+subtitle: "https://link.medium.com/0oNpyGJ4gR"
 category: "301"
 tags: []
 date: "2018-10-24"

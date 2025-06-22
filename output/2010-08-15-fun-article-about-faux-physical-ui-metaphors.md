@@ -1,6 +1,6 @@
 ---
 title: "Fun article about faux-physical UI metaphors"
-subtitle: "Ok, that’s my own curious headline for this interesting article in the [New York Times](http://www.n..."
+subtitle: "Ok, that’s my own curious headline for this interesting article in the New York Times"
 category: "298"
 tags: ["619", "629", "772", "797", "1298", "2061"]
 date: "2010-08-15"

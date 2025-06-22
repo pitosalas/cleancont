@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  02/26/2020"
-subtitle: "[jq – CLI for JSON files](https://stedolan.github.io/jq/)"
+subtitle: "jq – CLI for JSON files"
 category: "301"
 tags: []
 date: "2020-02-25"

@@ -1,6 +1,6 @@
 ---
 title: "Teaching at Olin College next year"
-subtitle: "![College photo 10842 130x0](https://i0.wp.com/salas.com/wp-content/uploads/2012/11/83b41-college-ph..."
+subtitle: "!College photo 10842 130x0"
 category: "1"
 tags: ["846", "1006", "1556", "1973"]
 date: "2012-11-25"

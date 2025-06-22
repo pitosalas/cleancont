@@ -1,6 +1,6 @@
 ---
 title: "The Boston node of OSDV"
-subtitle: "I’ve been working quite a bit on the [Open Source Digital Voting foundation](http://www.osdv.org) pr..."
+subtitle: "I’ve been working quite a bit on the Open Source Digital Voting foundation pr..."
 category: "298"
 tags: ["729", "942", "990", "1569", "1711", "1772", "2036"]
 date: "2010-01-05"

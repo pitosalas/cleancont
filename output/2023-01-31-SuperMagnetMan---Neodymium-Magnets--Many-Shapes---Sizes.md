@@ -1,6 +1,6 @@
 ---
 title: "SuperMagnetMan – Neodymium Magnets, Many Shapes & Sizes!"
-subtitle: "[ SuperMagnetMan - Neodymium Magnets, Many Shapes & Sizes!](<"
+subtitle: "SuperMagnetMan - Neodymium Magnets, Many Shapes & Sizes!"
 category: "uncategorized"
 tags: []
 date: "2023-01-31"

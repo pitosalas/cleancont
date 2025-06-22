@@ -1,6 +1,6 @@
 ---
 title: "Paul Graham: Fear and Startup Ideas"
-subtitle: "Paul Graham’s new essay is “[Frighteningly Ambitious Startup Ideas.”](http://www.paulgraham.com/ambi..."
+subtitle: "Paul Graham’s new essay is “Frighteningly Ambitious Startup Ideas.”"
 category: "1"
 tags: ["704", "1048", "1145", "1598", "1918"]
 date: "2012-03-15"

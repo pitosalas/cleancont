@@ -1,6 +1,6 @@
 ---
 title: "This is Grammar For Robots. What? Why? 🤖"
-subtitle: "[ This is Grammar For Robots. What? Why? 🤖](https://www.youtube.com/watch?v=rSPwOeX46UA)"
+subtitle: "This is Grammar For Robots. What? Why? 🤖"
 category: "374"
 tags: ["937", "1158", "1740", "1758"]
 date: "2021-06-12"

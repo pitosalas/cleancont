@@ -1,6 +1,6 @@
 ---
 title: "How to Frame a Roof (with Pictures) – wikiHow"
-subtitle: "[ How to Frame a Roof (with Pictures) – wikiHow]( https://www.wikihow.com/Frame-a-Roof) –How did thi..."
+subtitle: "How to Frame a Roof (with Pictures) – wikiHow –How did thi..."
 category: "1"
 tags: ["1221", "2344", "1480", "2345", "2346", "2127"]
 date: "2022-12-06"

@@ -1,6 +1,6 @@
 ---
 title: "GigaBrain – Search Reddit and Other Communities for Answers from Real People"
-subtitle: "[ GigaBrain – Search Reddit and Other Communities for Answers from Real People]( https://thegigabrai..."
+subtitle: "GigaBrain – Search Reddit and Other Communities for Answers from Real People"
 category: "1"
 tags: ["871", "2474", "1814", "1853"]
 date: "2023-05-21"

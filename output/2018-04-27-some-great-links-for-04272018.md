@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  04/27/2018"
-subtitle: "[Results from the 2018 Rails Hosting Survey | Planet Argon](http://rails-hosting.com/2018/)"
+subtitle: "Results from the 2018 Rails Hosting Survey | Planet Argon"
 category: "538"
 tags: []
 date: "2018-04-27"

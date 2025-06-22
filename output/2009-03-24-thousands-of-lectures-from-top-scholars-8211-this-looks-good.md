@@ -1,6 +1,6 @@
 ---
 title: "Thousands of lectures from top scholars – this looks GOOD!"
-subtitle: "I spent 5 minutes [perusing this site, and it looks really good.](http://academicearth.org/) Wow, ma..."
+subtitle: "I spent 5 minutes perusing this site, and it looks really good. Wow, ma..."
 category: "298"
 tags: []
 date: "2009-03-24"

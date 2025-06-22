@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  11/13/2018"
-subtitle: "[A Safer RuboCop](https://metaredux.com/posts/2018/10/27/a-safer-rubocop.html)"
+subtitle: "A Safer RuboCop"
 category: "301"
 tags: []
 date: "2018-11-12"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  11/15/2018"
-subtitle: "[Home  |  web.dev](https://web.dev)"
+subtitle: "Home | web.dev"
 category: "301"
 tags: []
 date: "2018-11-14"

@@ -1,6 +1,6 @@
 ---
 title: "navigation/Troubleshooting – ROS Wiki"
-subtitle: "[ navigation/Troubleshooting – ROS Wiki](https://wiki.ros.org/navigation/Troubleshooting)"
+subtitle: "navigation/Troubleshooting – ROS Wiki"
 category: "463"
 tags: ["1503"]
 date: "2022-04-23"

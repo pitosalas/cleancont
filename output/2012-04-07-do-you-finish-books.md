@@ -1,6 +1,6 @@
 ---
 title: "Do you finish books?"
-subtitle: "I **love** this article. It’s by an [actual author ](http://tim-parks.com/)talking about whether it ..."
+subtitle: "I **love** this article. It’s by an actual author talking about whether it ..."
 category: "1"
 tags: ["669", "725", "1000", "1718"]
 date: "2012-04-07"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  03/26/2019"
-subtitle: "* [Drawing Graphs using Dot and Graphviz](<http://tonyballantyne.com/graphs.html>)"
+subtitle: "* Drawing Graphs using Dot and Graphviz"
 category: "uncategorized"
 tags: []
 date: "2019-03-25"

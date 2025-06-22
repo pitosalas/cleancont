@@ -1,6 +1,6 @@
 ---
 title: "vizzuhq/vizzu-lib: Library for animated data visualizations and data stories."
-subtitle: "[ vizzuhq/vizzu-lib: Library for animated data visualizations and data stories.](https://github.com/..."
+subtitle: "vizzuhq/vizzu-lib: Library for animated data visualizations and data stories."
 category: "296"
 tags: ["2081"]
 date: "2021-12-21"

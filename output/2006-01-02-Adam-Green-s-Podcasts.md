@@ -1,6 +1,6 @@
 ---
 title: "Adam Green’s Podcasts"
-subtitle: ">> I came [across a cool series of podcasts](<http://www.adamgreen.org/>),"
+subtitle: ">> I came across a cool series of podcasts,"
 category: "uncategorized"
 tags: []
 date: "2006-01-02"

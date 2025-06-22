@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  09/13/2019"
-subtitle: "* [Best Free Bootstrap UI Kits of All Time - DEV Community ](<https://dev.to/bootstrap/ui-kits-4ik5?..."
+subtitle: "* Best Free Bootstrap UI Kits of All Time - DEV Community"
 category: "uncategorized"
 tags: []
 date: "2019-09-12"

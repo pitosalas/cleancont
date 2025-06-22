@@ -1,6 +1,6 @@
 ---
 title: "[SEMI GEEKY] Blogs That Matter: really interesting"
-subtitle: "From [LifeHacker](http://www.lifehacker.com/software/bloglines/find-feeds-that-matter-209796.php) (o..."
+subtitle: "From LifeHacker (o..."
 category: "51"
 tags: []
 date: "2006-10-29"

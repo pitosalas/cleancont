@@ -1,6 +1,6 @@
 ---
 title: "Looks like a fun book: “Cockpit Confidential”"
-subtitle: "[The Many Mysteries of Air Travel – NYTimes.com](http://pogue.blogs.nytimes.com/2013/09/12/the-many-..."
+subtitle: "The Many Mysteries of Air Travel – NYTimes.com"
 category: "1"
 tags: ["723", "816", "1073", "2027"]
 date: "2013-09-12"

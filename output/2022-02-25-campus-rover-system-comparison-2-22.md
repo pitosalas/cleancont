@@ -1,6 +1,6 @@
 ---
 title: "Campus Rover System Comparison 2 22"
-subtitle: "[ Campus Rover System Comparison 2 22](https://docs.google.com/spreadsheets/d/1cq4zY-jtFj-gsPc0jcK5L..."
+subtitle: "Campus Rover System Comparison 2 22"
 category: "301"
 tags: []
 date: "2022-02-25"

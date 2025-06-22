@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  07/06/2019"
-subtitle: "[Don’t miss out on css variables](https://dev.to/timdeschryver/don-t-miss-out-on-css-variables-4708?..."
+subtitle: "Don’t miss out on css variables"
 category: "301"
 tags: []
 date: "2019-07-05"

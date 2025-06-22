@@ -1,6 +1,6 @@
 ---
 title: "Things you’re allowed to do"
-subtitle: "[ Things you're allowed to do](<"
+subtitle: "Things you're allowed to do"
 category: "uncategorized"
 tags: []
 date: "2022-07-17"

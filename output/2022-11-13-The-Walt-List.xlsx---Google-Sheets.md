@@ -1,6 +1,6 @@
 ---
 title: "The Walt List.xlsx – Google Sheets"
-subtitle: "[ The Walt List.xlsx - Google Sheets](<"
+subtitle: "The Walt List.xlsx - Google Sheets"
 category: "uncategorized"
 tags: []
 date: "2022-11-13"

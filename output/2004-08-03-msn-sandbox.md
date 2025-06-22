@@ -1,6 +1,6 @@
 ---
 title: "MSN Sandbox"
-subtitle: "I just came across this – [MSN Sandbox](http://sandbox.msn.com/) – where you can find **various Micr..."
+subtitle: "I just came across this – MSN Sandbox – where you can find **various Micr..."
 category: "538"
 tags: []
 date: "2004-08-03"

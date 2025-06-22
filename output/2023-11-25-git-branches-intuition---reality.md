@@ -1,6 +1,6 @@
 ---
 title: "git branches: intuition & reality"
-subtitle: "[ git branches: intuition & reality](<"
+subtitle: "git branches: intuition & reality"
 category: "uncategorized"
 tags: []
 date: "2023-11-25"

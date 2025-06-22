@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  03/15/2019"
-subtitle: "[Myo | How I learned to Stop Worrying and Love Quaternions](http://developerblog.myo.com/quaternions..."
+subtitle: "Myo | How I learned to Stop Worrying and Love Quaternions"
 category: "301"
 tags: []
 date: "2019-03-14"

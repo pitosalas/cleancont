@@ -1,6 +1,6 @@
 ---
 title: "Review: The Panasonic FZ1000 II combines versatility and value"
-subtitle: "[ Review: The Panasonic FZ1000 II combines versatility and value](https://www.dpreview.com/reviews/p..."
+subtitle: "Review: The Panasonic FZ1000 II combines versatility and value"
 category: "64"
 tags: []
 date: "2022-04-16"

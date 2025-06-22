@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  12/29/2018"
-subtitle: "[Fish shell 3.0](https://www.reddit.com/r/programming/comments/aabai1/fish_shell_30/?st=JQ88H4HL&sh=..."
+subtitle: "Fish shell 3.0"
 category: "301"
 tags: []
 date: "2018-12-28"

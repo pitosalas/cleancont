@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  12/07/2019"
-subtitle: "* [A High-Level Grammar of Interactive Graphics | Vega-Lite](<https://vega.github.io/vega-lite/>)"
+subtitle: "* A High-Level Grammar of Interactive Graphics | Vega-Lite"
 category: "uncategorized"
 tags: []
 date: "2019-12-06"

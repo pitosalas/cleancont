@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  03/06/2020"
-subtitle: "* [Library for stubbing and setting expectations on HTTP requests in Ruby.](<https://github.com/bbli..."
+subtitle: "* Library for stubbing and setting expectations on HTTP requests in Ruby."
 category: "uncategorized"
 tags: []
 date: "2020-03-05"

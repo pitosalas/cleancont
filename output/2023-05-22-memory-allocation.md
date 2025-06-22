@@ -1,6 +1,6 @@
 ---
 title: "Memory Allocation"
-subtitle: "[ Memory Allocation]( https://samwho.dev/memory-allocation/) –For those of you learning C or C++, th..."
+subtitle: "Memory Allocation –For those of you learning C or C++, th..."
 category: "1"
 tags: ["2476", "2355", "1033", "2475", "2043"]
 date: "2023-05-22"

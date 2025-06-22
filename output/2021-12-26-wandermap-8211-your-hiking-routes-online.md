@@ -1,6 +1,6 @@
 ---
 title: "Wandermap – Your hiking routes online"
-subtitle: "[ Wandermap – Your hiking routes online](http://www.wandermap.net/en/?tab=new#/z4/54.521081,15.29296..."
+subtitle: "Wandermap – Your hiking routes online"
 category: "301"
 tags: []
 date: "2021-12-26"

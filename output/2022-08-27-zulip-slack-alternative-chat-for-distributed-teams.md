@@ -1,6 +1,6 @@
 ---
 title: "Zulip: Slack alternative Chat for distributed teams"
-subtitle: "[ Zulip: Slack alternative Chat for distributed teams]( https://zulip.com/) –Now that slack changed ..."
+subtitle: "Zulip: Slack alternative Chat for distributed teams –Now that slack changed ..."
 category: "1"
 tags: ["2247", "871", "2246"]
 date: "2022-08-27"

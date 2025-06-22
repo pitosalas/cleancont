@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  07/11/2019"
-subtitle: "[strong_password v0.0.7 rubygem hijacked](https://withatwist.dev/strong-password-rubygem-hijacked.ht..."
+subtitle: "strong_password v0.0.7 rubygem hijacked"
 category: "301"
 tags: []
 date: "2019-07-10"

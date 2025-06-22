@@ -1,6 +1,6 @@
 ---
 title: "How to Set Up the ROS Navigation Stack on a Robot – Automatic Addison"
-subtitle: "[ How to Set Up the ROS Navigation Stack on a Robot – Automatic Addison](https://automaticaddison.co..."
+subtitle: "How to Set Up the ROS Navigation Stack on a Robot – Automatic Addison"
 category: "249"
 tags: ["1503"]
 date: "2022-04-13"

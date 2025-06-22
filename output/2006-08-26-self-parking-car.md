@@ -1,6 +1,6 @@
 ---
 title: "Self Parking Car?"
-subtitle: "This one is totally cool for you gadget freaks: [Lexus Self Parking Car Video and Review – Gizmodo](..."
+subtitle: "This one is totally cool for you gadget freaks: Lexus Self Parking Car Video and Review – Gizmodo"
 category: "298"
 tags: []
 date: "2006-08-26"

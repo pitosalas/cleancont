@@ -1,6 +1,6 @@
 ---
 title: "[GEEK] Unified name space for aggregator extensions for OPML?"
-subtitle: "There’s [been](http://nick.typepad.com/blog/2005/11/an_attention_na_1.html) a [lot](http://www.feedb..."
+subtitle: "There’s been a lot"
 category: "50"
 tags: []
 date: "2005-11-29"

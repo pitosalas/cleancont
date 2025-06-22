@@ -1,6 +1,6 @@
 ---
 title: "DiceBear Avatars"
-subtitle: "[ DiceBear Avatars](https://avatars.dicebear.com/)"
+subtitle: "DiceBear Avatars"
 category: "33"
 tags: ["1235", "1742", "2010"]
 date: "2021-09-08"

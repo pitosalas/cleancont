@@ -1,6 +1,6 @@
 ---
 title: "Camp Chef Smoke Vault 24″ Review"
-subtitle: "[ Camp Chef Smoke Vault 24″ Review](< https://amazingribs.com/smoker/camp-"
+subtitle: "Camp Chef Smoke Vault 24″ Review"
 category: "uncategorized"
 tags: []
 date: "2023-04-17"

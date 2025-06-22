@@ -1,6 +1,6 @@
 ---
 title: "What if we all vote on the truth, part 3"
-subtitle: "Just a final follow up on this [interesting](/weblogs/archives/000753.html) [story](http://www.buzzm..."
+subtitle: "Just a final follow up on this interesting story"
 category: "298"
 tags: []
 date: "2005-06-21"

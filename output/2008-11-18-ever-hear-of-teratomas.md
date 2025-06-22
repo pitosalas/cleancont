@@ -1,6 +1,6 @@
 ---
 title: "Ever hear of teratomas?"
-subtitle: "Here’s a [truly weird article](http://www.nytimes.com/2008/11/09/magazine/09wwln-diagnosis-t.html?re..."
+subtitle: "Here’s a truly weird article"
 category: "298"
 tags: []
 date: "2008-11-18"

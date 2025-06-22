@@ -1,6 +1,6 @@
 ---
 title: "CRN: “NewsGator 2.0, which pulls"
-subtitle: "**[CRN: “NewsGator 2.0, which pulls news freeds in RSS or Atom …”:](http://www.crn.com/sections/Brea..."
+subtitle: "**CRN: “NewsGator 2.0, which pulls news freeds in RSS or Atom …”:"
 category: "1"
 tags: []
 date: "2004-01-08"

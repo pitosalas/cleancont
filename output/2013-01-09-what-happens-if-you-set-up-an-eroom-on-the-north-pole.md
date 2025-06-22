@@ -1,6 +1,6 @@
 ---
 title: "What happens if you set up an eRoom on the North Pole?"
-subtitle: "Here’s a new product I just saw, [Igloo](http://www.igloosoftware.com/tour). It’s very nice and it r..."
+subtitle: "Here’s a new product I just saw, Igloo. It’s very nice and it r..."
 category: "1"
 tags: ["1015", "1244"]
 date: "2013-01-09"

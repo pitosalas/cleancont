@@ -1,6 +1,6 @@
 ---
 title: "Refurbishing and modernizing Python codebases with refurb"
-subtitle: "[ Refurbishing and modernizing Python codebases with refurb]( https://link.medium.com/6agwPv3Mvvb) –..."
+subtitle: "Refurbishing and modernizing Python codebases with refurb –..."
 category: "1"
 tags: ["817", "2337", "1221", "1692", "2338", "2010"]
 date: "2022-12-05"

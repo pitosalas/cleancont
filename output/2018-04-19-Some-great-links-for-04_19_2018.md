@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  04/19/2018"
-subtitle: "* [Write tests. Not too many. Mostly integration. – kentcdodds](<https://blog.kentcdodds.com/write-t..."
+subtitle: "* Write tests. Not too many. Mostly integration. – kentcdodds"
 category: "uncategorized"
 tags: []
 date: "2018-04-19"

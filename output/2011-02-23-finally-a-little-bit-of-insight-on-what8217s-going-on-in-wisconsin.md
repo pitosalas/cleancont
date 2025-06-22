@@ -1,6 +1,6 @@
 ---
 title: "Finally a little bit of insight on what’s going on in Wisconsin"
-subtitle: "I’ve seen several interviews with [Scott Walker](http://en.wikipedia.org/wiki/Scott_Walker_(politici..."
+subtitle: "I’ve seen several interviews with Scott Walker"
 category: "298"
 tags: ["918", "2123"]
 date: "2011-02-23"

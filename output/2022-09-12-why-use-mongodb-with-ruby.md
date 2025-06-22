@@ -1,6 +1,6 @@
 ---
 title: "Why Use MongoDB with Ruby"
-subtitle: "[ Why Use MongoDB with Ruby]( https://www.alexbevi.com/blog/2022/08/18/why-use-mongodb-with-ruby/?ut..."
+subtitle: "Why Use MongoDB with Ruby"
 category: "1"
 tags: ["1221", "2262", "1772"]
 date: "2022-09-12"

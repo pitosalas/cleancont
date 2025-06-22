@@ -1,6 +1,6 @@
 ---
 title: "No Comment"
-subtitle: "[States Ranked: Smartest to Dumbest.](http://cnn.netscape.cnn.com/news/package.jsp?name=fte/smartsta..."
+subtitle: "States Ranked: Smartest to Dumbest."
 category: "298"
 tags: []
 date: "2005-06-13"

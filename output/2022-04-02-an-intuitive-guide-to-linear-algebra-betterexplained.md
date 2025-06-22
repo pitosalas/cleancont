@@ -1,6 +1,6 @@
 ---
 title: "An Intuitive Guide to Linear Algebra – BetterExplained"
-subtitle: "[ An Intuitive Guide to Linear Algebra – BetterExplained](https://betterexplained.com/articles/linea..."
+subtitle: "An Intuitive Guide to Linear Algebra – BetterExplained"
 category: "178"
 tags: ["1445"]
 date: "2022-04-02"

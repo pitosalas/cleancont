@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  12/26/2020"
-subtitle: "[This Could Be the New Java](https://link.medium.com/S6fWoGZpvcb)"
+subtitle: "This Could Be the New Java"
 category: "301"
 tags: []
 date: "2020-12-25"

@@ -1,6 +1,6 @@
 ---
 title: "Transparency Camp"
-subtitle: "Everything’s a camp today, Foo Camp, Bar Camp and now [Transparency Camp](http://barcamp.pbwiki.com/..."
+subtitle: "Everything’s a camp today, Foo Camp, Bar Camp and now Transparency Camp"
 category: "298"
 tags: ["1951", "1970", "2024"]
 date: "2009-03-01"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  06/02/2018"
-subtitle: "* [How to solve the Google recruiters’ puzzle about throwing eggs from a building | Codementor](<htt..."
+subtitle: "* How to solve the Google recruiters’ puzzle about throwing eggs from a building | Codementor"
 category: "uncategorized"
 tags: []
 date: "2018-06-02"

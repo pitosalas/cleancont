@@ -1,6 +1,6 @@
 ---
 title: "Atlantic Magazine on Wikipedia"
-subtitle: "A really great article in [The Atlantic](http://www.theatlantic.com) about Wikipedia. Very relevant ..."
+subtitle: "A really great article in The Atlantic about Wikipedia. Very relevant ..."
 category: "538"
 tags: []
 date: "2006-08-06"

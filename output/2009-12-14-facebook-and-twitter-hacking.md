@@ -1,6 +1,6 @@
 ---
 title: "Facebook and Twitter Hacking"
-subtitle: "I guess it’s not surprising that people’s [Facebook and twitter accounts are getting compromised](ht..."
+subtitle: "I guess it’s not surprising that people’s Facebook and twitter accounts are getting compromised"
 category: "298"
 tags: ["1037", "1590", "2047"]
 date: "2009-12-14"

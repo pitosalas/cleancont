@@ -1,6 +1,6 @@
 ---
 title: "Interesting pointer from Francois on the marketing potential of Facebook et al"
-subtitle: "Check out [this post](http://feeds.feedburner.com/~r/EmergenceMarketing/~3/159010618/what_is_the_mar..."
+subtitle: "Check out this post"
 category: "538"
 tags: []
 date: "2007-09-20"

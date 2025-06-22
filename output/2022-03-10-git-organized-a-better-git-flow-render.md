@@ -1,6 +1,6 @@
 ---
 title: "Git Organized: A Better Git Flow | Render"
-subtitle: "[ Git Organized: A Better Git Flow | Render](https://render.com/blog/git-organized-a-better-git-flow..."
+subtitle: "Git Organized: A Better Git Flow | Render"
 category: "8"
 tags: ["1134"]
 date: "2022-03-10"

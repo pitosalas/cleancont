@@ -1,6 +1,6 @@
 ---
 title: "Ethical alternatives to revenue-generating deceptive patterns"
-subtitle: "[ Ethical alternatives to revenue-generating deceptive patterns]( https://uxdesign.cc/ethical-altern..."
+subtitle: "Ethical alternatives to revenue-generating deceptive patterns"
 category: "1"
 tags: ["2444", "1221", "2445", "2064"]
 date: "2023-03-14"

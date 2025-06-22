@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  04/13/2018"
-subtitle: "[TechRabbit: Makara: a read-write splitting adapter for Active Record](http://tech.taskrabbit.com/bl..."
+subtitle: "TechRabbit: Makara: a read-write splitting adapter for Active Record"
 category: "538"
 tags: []
 date: "2018-04-13"

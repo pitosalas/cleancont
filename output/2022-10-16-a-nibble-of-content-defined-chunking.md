@@ -1,6 +1,6 @@
 ---
 title: "A Nibble of Content-Defined Chunking"
-subtitle: "[ A Nibble of Content-Defined Chunking]( https://open.substack.com/pub/getcode/p/a-nibble-of-content..."
+subtitle: "A Nibble of Content-Defined Chunking"
 category: "1"
 tags: ["619", "2279", "2278", "2282", "2281", "2280"]
 date: "2022-10-16"

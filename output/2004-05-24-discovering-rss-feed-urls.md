@@ -1,6 +1,6 @@
 ---
 title: "Discovering RSS feed URLs"
-subtitle: "[Scoble ](http://scoble.weblogs.com/)bemoans the fact that folks aren’t all using the XML Icon, and ..."
+subtitle: "Scoble bemoans the fact that folks aren’t all using the XML Icon, and ..."
 category: "50"
 tags: []
 date: "2004-05-24"

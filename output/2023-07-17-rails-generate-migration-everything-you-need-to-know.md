@@ -1,6 +1,6 @@
 ---
 title: "Rails Generate Migration — Everything you need to know"
-subtitle: "[ Rails Generate Migration — Everything you need to know]( https://railsnotes.xyz/blog/rails-generat..."
+subtitle: "Rails Generate Migration — Everything you need to know"
 category: "1"
 tags: ["1033", "1221", "2522", "1711"]
 date: "2023-07-17"

@@ -1,6 +1,6 @@
 ---
 title: "Introduction – Ruby Science by thoughtbot"
-subtitle: "[ Introduction - Ruby Science by thoughtbot](< https://thoughtbot.com/ruby-"
+subtitle: "Introduction - Ruby Science by thoughtbot"
 category: "uncategorized"
 tags: []
 date: "2023-10-24"

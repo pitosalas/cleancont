@@ -1,6 +1,6 @@
 ---
 title: "American Idol fans with Tivo"
-subtitle: "[Tivo](http://www.tivo.com/0.0.asp) has been doing more and more cool things with their little box."
+subtitle: "Tivo has been doing more and more cool things with their little box."
 category: "298"
 tags: []
 date: "2006-03-16"

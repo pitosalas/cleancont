@@ -1,6 +1,6 @@
 ---
 title: "Cellphone GPS: How does it work?"
-subtitle: "My new cellphone **supposedly** has GPS capabilities. It has to do, apparently with the new [E-911](..."
+subtitle: "My new cellphone **supposedly** has GPS capabilities. It has to do, apparently with the new E-911"
 category: "298"
 tags: []
 date: "2005-09-06"

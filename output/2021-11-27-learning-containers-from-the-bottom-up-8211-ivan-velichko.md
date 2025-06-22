@@ -1,6 +1,6 @@
 ---
 title: "Learning Containers From The Bottom Up – Ivan Velichko"
-subtitle: "[ Learning Containers From The Bottom Up – Ivan Velichko](https://iximiuz.com/en/posts/container-lea..."
+subtitle: "Learning Containers From The Bottom Up – Ivan Velichko"
 category: "107"
 tags: ["1387"]
 date: "2021-11-27"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  01/12/2020"
-subtitle: "* [Broot](<https://dystroy.org/broot/>)"
+subtitle: "* Broot"
 category: "uncategorized"
 tags: []
 date: "2020-01-11"

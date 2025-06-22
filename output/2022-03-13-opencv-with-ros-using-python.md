@@ -1,6 +1,6 @@
 ---
 title: "OpenCV with ROS using Python"
-subtitle: "[ OpenCV with ROS using Python](https://dabit-industries.github.io/turtlebot2-tutorials/14b-OpenCV2_..."
+subtitle: "OpenCV with ROS using Python"
 category: "127"
 tags: []
 date: "2022-03-13"

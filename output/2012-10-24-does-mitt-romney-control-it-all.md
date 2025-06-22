@@ -1,6 +1,6 @@
 ---
 title: "Does Mitt Romney control it all?"
-subtitle: "[Another conspiracy](http://truth-out.org/news/item/12204-does-the-romney-family-now-own-your-e-vote..."
+subtitle: "Another conspiracy"
 category: "1"
 tags: ["862", "1761", "2087", "2088"]
 date: "2012-10-24"

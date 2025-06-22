@@ -1,6 +1,6 @@
 ---
 title: "From Lifehacker, for TV Addicts, this is just too good."
-subtitle: "Check out [this post](http://lifehacker.com/software/bittorrent/download-of-the-day-tvshows-mac-2514..."
+subtitle: "Check out this post"
 category: "298"
 tags: []
 date: "2007-04-11"

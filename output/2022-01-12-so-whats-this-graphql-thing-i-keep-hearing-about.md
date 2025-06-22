@@ -1,6 +1,6 @@
 ---
 title: "So what’s this GraphQL thing I keep hearing about?"
-subtitle: "[ So what’s this GraphQL thing I keep hearing about?](https://www.freecodecamp.org/news/so-whats-thi..."
+subtitle: "So what’s this GraphQL thing I keep hearing about?"
 category: "113"
 tags: ["635"]
 date: "2022-01-12"

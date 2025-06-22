@@ -1,6 +1,6 @@
 ---
 title: "huginn/huginn: Create agents that monitor and act on your behalf."
-subtitle: "[ huginn/huginn: Create agents that monitor and act on your behalf.]( https://github.com/huginn/hugi..."
+subtitle: "huginn/huginn: Create agents that monitor and act on your behalf."
 category: "1"
 tags: ["2377", "2375", "2295", "2376", "1562"]
 date: "2022-12-27"

@@ -1,6 +1,6 @@
 ---
 title: "Amazing pictures"
-subtitle: "![Amazing pictures](https://i0.wp.com/2photo.ru/uploads/posts/4268/20071018/alexandre_duretlutz/18_1..."
+subtitle: "!Amazing pictures"
 category: "298"
 tags: []
 date: "2007-12-04"

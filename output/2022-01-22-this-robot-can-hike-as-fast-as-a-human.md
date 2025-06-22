@@ -1,6 +1,6 @@
 ---
 title: "This robot can hike as fast as a human"
-subtitle: "[ This robot can hike as fast as a human](https://www.science.org/content/article/robot-can-hike-fas..."
+subtitle: "This robot can hike as fast as a human"
 category: "13"
 tags: ["1503", "1740", "2072"]
 date: "2022-01-22"

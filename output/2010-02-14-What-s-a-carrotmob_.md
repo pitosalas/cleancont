@@ -1,6 +1,6 @@
 ---
 title: "What’s a carrotmob?"
-subtitle: "A [Carrotmob](<http://carrotmob.org/>) is a network of consumers (?) who buy"
+subtitle: "A Carrotmob is a network of consumers (?) who buy"
 category: "uncategorized"
 tags: []
 date: "2010-02-14"

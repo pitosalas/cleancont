@@ -1,6 +1,6 @@
 ---
 title: "The Stimulus Gets Its Own Logo"
-subtitle: "Check out this post [The Stimulus Gets Its Own Logo](http://feedproxy.google.com/~r/clusterstock/~3/..."
+subtitle: "Check out this post The Stimulus Gets Its Own Logo"
 category: "298"
 tags: []
 date: "2009-03-03"

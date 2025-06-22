@@ -1,6 +1,6 @@
 ---
 title: "Great paper about Harri Hursti’s demonstration of ballot scanner security concerns"
-subtitle: "I recently saw the movie [Hacking Democracy](http://www.hackingdemocracy.com/). It’s absolutely fasc..."
+subtitle: "I recently saw the movie Hacking Democracy. It’s absolutely fasc..."
 category: "298"
 tags: ["846", "990", "1822"]
 date: "2009-04-08"

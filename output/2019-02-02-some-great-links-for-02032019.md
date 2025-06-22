@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  02/03/2019"
-subtitle: "[20 Docker commands use cases for developers](https://dev.to/alex_barashkov/20-docker-commands-use-c..."
+subtitle: "20 Docker commands use cases for developers"
 category: "301"
 tags: []
 date: "2019-02-02"

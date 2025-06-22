@@ -1,6 +1,6 @@
 ---
 title: "We’re going to see “The Gates” in New York"
-subtitle: "[![snap.jpg](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/gates/sn..."
+subtitle: "![snap.jpg"
 category: "uncategorized"
 tags: []
 date: "2005-02-18"

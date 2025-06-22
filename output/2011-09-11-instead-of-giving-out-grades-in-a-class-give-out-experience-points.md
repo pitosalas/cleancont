@@ -1,6 +1,6 @@
 ---
 title: "Instead of giving out grades in a class, give out experience points"
-subtitle: "If you watched (or didn’t) the preceding video by [Jesse Schell ](http://www.schellgames.com/)you mi..."
+subtitle: "If you watched (or didn’t) the preceding video by Jesse Schell you mi..."
 category: "298"
 tags: ["1113", "1796", "1973"]
 date: "2011-09-11"

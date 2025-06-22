@@ -1,6 +1,6 @@
 ---
 title: "How to Hide the MacBook Pro Notch"
-subtitle: "[ How to Hide the MacBook Pro Notch](https://www.macrumors.com/how-to/hide-notch-macbook-pro/?Bibbli..."
+subtitle: "How to Hide the MacBook Pro Notch"
 category: "316"
 tags: ["637"]
 date: "2021-12-06"

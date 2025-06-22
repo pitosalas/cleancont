@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  01/16/2020"
-subtitle: "* [Ruby From Other Languages](<https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/..."
+subtitle: "* Ruby From Other Languages"
 category: "uncategorized"
 tags: []
 date: "2020-01-15"

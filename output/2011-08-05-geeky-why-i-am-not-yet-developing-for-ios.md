@@ -1,6 +1,6 @@
 ---
 title: "[GEEKY] Why I am not yet developing for iOS"
-subtitle: "Check this post [A strong argument for why iOS development is winning](http://feedproxy.google.com/~..."
+subtitle: "Check this post A strong argument for why iOS development is winning"
 category: "422"
 tags: []
 date: "2011-08-05"

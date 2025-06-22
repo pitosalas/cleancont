@@ -1,6 +1,6 @@
 ---
 title: "MySpace Loses a Co-President"
-subtitle: "Check out [MySpace Loses a Co-President](http://feedproxy.google.com/~r/Mashable/~3/sbmubZGXukQ/)(**..."
+subtitle: "Check out MySpace Loses a Co-President(**..."
 category: "51"
 tags: []
 date: "2010-06-18"

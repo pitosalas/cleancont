@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  02/09/2020"
-subtitle: "[Gemifying Your Style Guide to DRY Your CSS – Ruby on Rails Upgrades](https://www.fastruby.io/blog/g..."
+subtitle: "Gemifying Your Style Guide to DRY Your CSS – Ruby on Rails Upgrades"
 category: "301"
 tags: []
 date: "2020-02-08"

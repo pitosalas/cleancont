@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  10/24/2018"
-subtitle: "[The Most Important Non-Programming Skills for Programmers](https://dev.to/aspittel/the-most-importa..."
+subtitle: "The Most Important Non-Programming Skills for Programmers"
 category: "301"
 tags: []
 date: "2018-10-23"

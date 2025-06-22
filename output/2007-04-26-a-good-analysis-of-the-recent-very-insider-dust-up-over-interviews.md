@@ -1,6 +1,6 @@
 ---
 title: "A good analysis of the recent (very insider) dust-up over interviews"
-subtitle: "Check out [this post](http://www.buzzmachine.com/2007/04/26/the-obsolete-interview/) from [BuzzMachi..."
+subtitle: "Check out this post from [BuzzMachi..."
 category: "50"
 tags: []
 date: "2007-04-26"

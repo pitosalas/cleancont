@@ -1,6 +1,6 @@
 ---
 title: "[Geek] Good Java Mailing List"
-subtitle: "I’ve [subscribed to this list](http://www.ociweb.com/jnb/index.html) from [OCI](http://www.ociweb.co..."
+subtitle: "I’ve subscribed to this list from OCI"
 category: "422"
 tags: []
 date: "2005-08-23"

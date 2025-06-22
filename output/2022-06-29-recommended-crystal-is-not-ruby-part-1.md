@@ -1,6 +1,6 @@
 ---
 title: "Recommended: Crystal is not Ruby Part 1"
-subtitle: "I recommended [Crystal is not Ruby Part 1](https://revs.runtime-revolution.com/crystal-is-not-ruby-p..."
+subtitle: "I recommended Crystal is not Ruby Part 1"
 category: "538"
 tags: ["2191", "2189", "2190", "1452", "1772"]
 date: "2022-06-29"

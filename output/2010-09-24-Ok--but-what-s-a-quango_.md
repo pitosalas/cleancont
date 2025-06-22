@@ -1,6 +1,6 @@
 ---
 title: "Ok, but what’s a quango?"
-subtitle: "A BBC [Headline](<http://www.bbc.co.uk/news/uk-politics-11405096>) says:"
+subtitle: "A BBC Headline says:"
 category: "uncategorized"
 tags: []
 date: "2010-09-24"

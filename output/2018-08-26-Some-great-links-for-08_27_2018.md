@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  08/27/2018"
-subtitle: "* [How to configure RSpec in Ruby on Rails](<https://blog.eq8.eu/article/junior-developer-set-up-rai..."
+subtitle: "* How to configure RSpec in Ruby on Rails"
 category: "uncategorized"
 tags: []
 date: "2018-08-26"

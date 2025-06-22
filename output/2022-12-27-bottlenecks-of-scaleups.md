@@ -1,6 +1,6 @@
 ---
 title: "Bottlenecks of Scaleups"
-subtitle: "[ Bottlenecks of Scaleups]( https://martinfowler.com/articles/bottlenecks-of-scaleups/) –Common bott..."
+subtitle: "Bottlenecks of Scaleups –Common bott..."
 category: "1"
 tags: ["2379", "1795", "1888", "2378"]
 date: "2022-12-27"

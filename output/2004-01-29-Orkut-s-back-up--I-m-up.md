@@ -1,6 +1,6 @@
 ---
 title: "Orkut’s back up: “I’m up"
-subtitle: ">> [Orkut's back up](<http://orkut.com>): \" _I 'm up to 193 friends - and"
+subtitle: ">> Orkut's back up: \" _I 'm up to 193 friends - and"
 category: "uncategorized"
 tags: []
 date: "2004-01-29"

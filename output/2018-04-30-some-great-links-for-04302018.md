@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  04/30/2018"
-subtitle: "[Low-hanging design fruit: why you should use Google Font Superfamilies](https://medium.freecodecamp..."
+subtitle: "Low-hanging design fruit: why you should use Google Font Superfamilies"
 category: "538"
 tags: []
 date: "2018-04-30"

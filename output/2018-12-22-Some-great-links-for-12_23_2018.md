@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  12/23/2018"
-subtitle: "* [Algorithm Archive · GitBook](<https://www.algorithm-archive.org>)"
+subtitle: "* Algorithm Archive · GitBook"
 category: "uncategorized"
 tags: []
 date: "2018-12-22"

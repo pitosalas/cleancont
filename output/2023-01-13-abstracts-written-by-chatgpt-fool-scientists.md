@@ -1,6 +1,6 @@
 ---
 title: "Abstracts written by ChatGPT fool scientists"
-subtitle: "[ Abstracts written by ChatGPT fool scientists]( https://www.nature.com/articles/d41586-023-00056-7?..."
+subtitle: "Abstracts written by ChatGPT fool scientists"
 category: "1"
 tags: ["2340", "1033", "2406", "1800", "2136"]
 date: "2023-01-13"

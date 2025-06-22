@@ -1,6 +1,6 @@
 ---
 title: "Experiential Robotics Platform (XRP) Kit – Beta"
-subtitle: "[ Experiential Robotics Platform (XRP) Kit – Beta](https://www.sparkfun.com/products/22230) –The XRP..."
+subtitle: "Experiential Robotics Platform (XRP) Kit – Beta –The XRP..."
 category: "1"
 tags: ["871", "987", "1755"]
 date: "2023-07-07"

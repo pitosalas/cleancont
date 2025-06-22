@@ -1,6 +1,6 @@
 ---
 title: "Ray Ozzie’s Blog V3"
-subtitle: "Glad to see that [Ray is blogging again](http://spaces.msn.com/members/rayozzie/). Now that he is at..."
+subtitle: "Glad to see that Ray is blogging again. Now that he is at..."
 category: "51"
 tags: []
 date: "2005-11-16"

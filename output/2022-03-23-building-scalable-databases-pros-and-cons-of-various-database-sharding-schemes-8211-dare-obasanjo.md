@@ -1,6 +1,6 @@
 ---
 title: "Building Scalable Databases: Pros and Cons of Various Database Sharding Schemes – Dare Obasanjo"
-subtitle: "[ Building Scalable Databases: Pros and Cons of Various Database Sharding Schemes – Dare Obasanjo](h..."
+subtitle: "Building Scalable Databases: Pros and Cons of Various Database Sharding Schemes – Dare Obasanjo"
 category: "131"
 tags: ["1605", "1795"]
 date: "2022-03-23"

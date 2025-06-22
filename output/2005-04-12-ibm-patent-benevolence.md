@@ -1,6 +1,6 @@
 ---
 title: "IBM Patent Benevolence?"
-subtitle: "Doc [comments with grudging admiration ](http://doc.weblogs.com/2005/04/11#someOfTheNewsThatsFitToSh..."
+subtitle: "Doc comments with grudging admiration"
 category: "538"
 tags: []
 date: "2005-04-12"

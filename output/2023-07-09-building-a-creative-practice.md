@@ -1,6 +1,6 @@
 ---
 title: "Building a Creative Practice"
-subtitle: "[ Building a Creative Practice](https://open.substack.com/pub/biblioracle/p/building-a-creative-prac..."
+subtitle: "Building a Creative Practice"
 category: "1"
 tags: ["611", "2340", "889", "2520"]
 date: "2023-07-09"

@@ -1,6 +1,6 @@
 ---
 title: "Learning about Open Source"
-subtitle: "![Moldave](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/images/mol..."
+subtitle: "!Moldave"
 category: "298"
 tags: []
 date: "2005-11-08"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  08/20/2018"
-subtitle: "* [How a Kalman filter works, in pictures](<https://www.bzarg.com/p/how-a-kalman-filter-works-in-pic..."
+subtitle: "* How a Kalman filter works, in pictures"
 category: "uncategorized"
 tags: []
 date: "2018-08-19"

@@ -1,6 +1,6 @@
 ---
 title: "Stuxnet apparently as effective as a military strike"
-subtitle: "Check out [Stuxnet apparently as effective as a military strike](http://arstechnica.com/tech-policy/..."
+subtitle: "Check out Stuxnet apparently as effective as a military strike"
 category: "298"
 tags: []
 date: "2010-12-17"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  08/16/2019"
-subtitle: "[Advanced multi-db techniques in Rails 6](https://prathamesh.tech/2019/08/13/rails-6-multi-database-..."
+subtitle: "Advanced multi-db techniques in Rails 6"
 category: "301"
 tags: []
 date: "2019-08-15"

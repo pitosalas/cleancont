@@ -1,6 +1,6 @@
 ---
 title: "Swurl – Search everything"
-subtitle: "[ Swurl – Search everything]( https://swurl.com) –Search Google, YouTube, Instagram, TikTok, Twitter..."
+subtitle: "Swurl – Search everything –Search Google, YouTube, Instagram, TikTok, Twitter..."
 category: "1"
 tags: ["2566", "1145", "1814"]
 date: "2023-09-08"

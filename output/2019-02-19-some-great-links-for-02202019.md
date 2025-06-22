@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  02/20/2019"
-subtitle: "[Programming is Hard](https://dev.to/somedood/programming-is-hard-2p87?utm_source=Newsletter+Subscri..."
+subtitle: "Programming is Hard"
 category: "301"
 tags: []
 date: "2019-02-19"

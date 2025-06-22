@@ -1,6 +1,6 @@
 ---
 title: "How to Encourage Students to Speak Up in Virtual Classes"
-subtitle: "[ How to Encourage Students to Speak Up in Virtual Classes](https://hbsp.harvard.edu/inspiring-minds..."
+subtitle: "How to Encourage Students to Speak Up in Virtual Classes"
 category: "249"
 tags: ["1973"]
 date: "2022-02-04"

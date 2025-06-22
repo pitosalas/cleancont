@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  12/21/2019"
-subtitle: "[What You Need to Know About Netflix’s ‘Jupyter Killer’: Polynote ](https://towardsdatascience.com/w..."
+subtitle: "What You Need to Know About Netflix’s ‘Jupyter Killer’: Polynote"
 category: "301"
 tags: []
 date: "2019-12-20"

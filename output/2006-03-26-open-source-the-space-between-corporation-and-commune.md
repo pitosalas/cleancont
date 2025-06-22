@@ -1,6 +1,6 @@
 ---
 title: "Open Source: the space between Corporation and Commune?"
-subtitle: "In [The Economist](http://www.economist.com/business/displaystory.cfm?story_id=5624944), there’s an ..."
+subtitle: "In The Economist, there’s an ..."
 category: "298"
 tags: []
 date: "2006-03-26"

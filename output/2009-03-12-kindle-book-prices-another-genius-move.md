@@ -1,6 +1,6 @@
 ---
 title: "Kindle book prices: another genius move"
-subtitle: "Take a book that I was interested in, [“The Lords of Finance”, by Liaquat Ahamed](http://www.amazon...."
+subtitle: "Take a book that I was interested in, “The Lords of Finance”, by Liaquat Ahamed"
 category: "298"
 tags: ["622", "724", "975", "1065", "1125", "1298", "1342", "1891", "1892"]
 date: "2009-03-12"

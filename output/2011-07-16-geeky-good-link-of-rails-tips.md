@@ -1,6 +1,6 @@
 ---
 title: "[GEEKY] Good link of Rails Tips"
-subtitle: "Just a quick hit: [Ruby on Rails tips that will male you a better programmer](http://www.codercaste...."
+subtitle: "Just a quick hit: Ruby on Rails tips that will male you a better programmer"
 category: "538"
 tags: ["1684", "1711"]
 date: "2011-07-16"

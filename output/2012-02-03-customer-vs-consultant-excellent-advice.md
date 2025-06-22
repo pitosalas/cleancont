@@ -1,6 +1,6 @@
 ---
 title: "Customer vs. Consultant: Excellent advice"
-subtitle: "From an article called “[Effective Customer Consultant Relationships”](http://8thlight.github.com/da..."
+subtitle: "From an article called “Effective Customer Consultant Relationships”"
 category: "1"
 tags: ["864", "1019", "1098", "1497", "1679", "1886"]
 date: "2012-02-03"

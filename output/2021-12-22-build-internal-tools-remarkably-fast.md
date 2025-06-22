@@ -1,6 +1,6 @@
 ---
 title: "Build internal tools, remarkably fast."
-subtitle: "[ Build internal tools, remarkably fast.](https://retool.com/)"
+subtitle: "Build internal tools, remarkably fast."
 category: "128"
 tags: []
 date: "2021-12-22"

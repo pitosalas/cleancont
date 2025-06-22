@@ -1,6 +1,6 @@
 ---
 title: "The Worst Programmer I Know"
-subtitle: "[ The Worst Programmer I Know]( https://dannorth.net/2023/09/02/the-worst-programmer/?utm_source=cha..."
+subtitle: "The Worst Programmer I Know"
 category: "1"
 tags: ["2563", "2439", "1678"]
 date: "2023-09-06"

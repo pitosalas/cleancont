@@ -1,6 +1,6 @@
 ---
 title: "Documentary Mania – Free Documentaries Online"
-subtitle: "[ Documentary Mania – Free Documentaries Online](https://www.documentarymania.com/home.php)"
+subtitle: "Documentary Mania – Free Documentaries Online"
 category: "124"
 tags: ["654", "959", "1207", "1800", "2072"]
 date: "2021-08-22"

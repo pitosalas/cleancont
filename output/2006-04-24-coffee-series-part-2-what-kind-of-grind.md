@@ -1,6 +1,6 @@
 ---
 title: "Coffee Series part 2: What kind of grind?"
-subtitle: "This is an **interim report** on “Life with a [Capresso espresso maker](http://www.capresso.com/prod..."
+subtitle: "This is an **interim report** on “Life with a Capresso espresso maker"
 category: "298"
 tags: []
 date: "2006-04-24"

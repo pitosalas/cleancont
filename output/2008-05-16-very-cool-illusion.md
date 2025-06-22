@@ -1,6 +1,6 @@
 ---
 title: "Very cool illusion"
-subtitle: "[Try this out](http://www.patmedia.net/marklevinson/cool/cool_illusion.html), it really worked for m..."
+subtitle: "Try this out, it really worked for m..."
 category: "298"
 tags: ["1565"]
 date: "2008-05-16"

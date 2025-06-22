@@ -1,6 +1,6 @@
 ---
 title: "AllOfMp3 saga continues"
-subtitle: "Regular readers of this blog know about A[llOfMp3.com](http://www.allofmp3.com/), a Russian music si..."
+subtitle: "Regular readers of this blog know about AllOfMp3.com, a Russian music si..."
 category: "298"
 tags: []
 date: "2007-05-28"

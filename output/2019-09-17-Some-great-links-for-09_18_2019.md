@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  09/18/2019"
-subtitle: "* [Listen Notes: The best podcast search engine](<https://www.listennotes.com>)"
+subtitle: "* Listen Notes: The best podcast search engine"
 category: "uncategorized"
 tags: []
 date: "2019-09-17"

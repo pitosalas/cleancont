@@ -1,6 +1,6 @@
 ---
 title: "Randall Degges – Heroku and SOA"
-subtitle: "[ Randall Degges - Heroku and SOA](<https://www.rdegges.com/2014/heroku-and-"
+subtitle: "Randall Degges - Heroku and SOA"
 category: "uncategorized"
 tags: []
 date: "2022-03-09"

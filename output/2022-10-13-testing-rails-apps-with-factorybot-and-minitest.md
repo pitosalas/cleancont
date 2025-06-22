@@ -1,6 +1,6 @@
 ---
 title: "Testing Rails Apps with FactoryBot and MiniTest"
-subtitle: "[ Testing Rails Apps with FactoryBot and MiniTest]( https://fuzzyblog.io/blog/rails/2022/07/27/testi..."
+subtitle: "Testing Rails Apps with FactoryBot and MiniTest"
 category: "1"
 tags: ["2277", "1221", "1469", "1711", "2276", "1986"]
 date: "2022-10-13"

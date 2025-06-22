@@ -1,6 +1,6 @@
 ---
 title: "RSS Feed Advertising"
-subtitle: "From News.com, about [Kaboodle BrightAds RSS](http://news.com.com/Firm+eyes+RSS+feeds+as+ad+vehicle/..."
+subtitle: "From News.com, about Kaboodle BrightAds RSS"
 category: "51"
 tags: []
 date: "2005-03-01"

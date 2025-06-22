@@ -1,6 +1,6 @@
 ---
 title: "Funny piece of sh*t"
-subtitle: "[http://www.theonion.com/content/themes/common/assets/onn_embed/embedded_player.swf](http://www.theo..."
+subtitle: "http://www.theonion.com/content/themes/common/assets/onn_embed/embedded_player.swf"
 category: "298"
 tags: []
 date: "2009-02-26"

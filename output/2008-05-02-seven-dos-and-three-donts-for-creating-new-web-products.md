@@ -1,6 +1,6 @@
 ---
 title: "Seven Do’s And Three Don’ts For Creating New Web Products"
-subtitle: "[Seven Do’s And Three Don’ts For Creating New Web Products](http://feeds.feedburner.com/~r/WhyDoesEv..."
+subtitle: "Seven Do’s And Three Don’ts For Creating New Web Products"
 category: "538"
 tags: ["1981"]
 date: "2008-05-02"

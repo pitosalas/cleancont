@@ -1,6 +1,6 @@
 ---
 title: "There’s more to life than Kickstarter (revised)"
-subtitle: "Everyone (almost) has heard of [Kickstarter](<http://www.kickstarter.com>),"
+subtitle: "Everyone (almost) has heard of Kickstarter,"
 category: "uncategorized"
 tags: []
 date: "2012-11-09"

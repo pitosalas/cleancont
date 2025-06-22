@@ -1,6 +1,6 @@
 ---
 title: "I Don’t Believe in COO’s"
-subtitle: "I agree with [this post](http://feeds.feedburner.com/~r/FeldThoughts/~3/247383503/i_dont_believe.htm..."
+subtitle: "I agree with this post"
 category: "298"
 tags: []
 date: "2008-03-10"

@@ -1,6 +1,6 @@
 ---
 title: "Put Down Your #2 Pencils And Use Your .EDU Email To Get Free TimesSelect"
-subtitle: "Check out [this post](http://consumerist.com/consumer/free-stuff/put-down-your-2-pencils-and-use-you..."
+subtitle: "Check out this post"
 category: "298"
 tags: []
 date: "2007-03-20"

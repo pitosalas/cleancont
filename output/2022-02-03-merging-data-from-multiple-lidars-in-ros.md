@@ -1,6 +1,6 @@
 ---
 title: "Merging data from multiple LIDAR(s) in ROS"
-subtitle: "[ Merging data from multiple LIDAR(s) in ROS](https://medium.com/@amritgupta1999/merging-data-from-m..."
+subtitle: "Merging data from multiple LIDAR(s) in ROS"
 category: "249"
 tags: []
 date: "2022-02-03"

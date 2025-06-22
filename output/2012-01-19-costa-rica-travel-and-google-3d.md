@@ -1,6 +1,6 @@
 ---
 title: "Costa Rica Travel and Google 3D"
-subtitle: "We are thinking of planning a trip to Costa Rica. Part of the trip is to get from Tabacon to Monteve..."
+subtitle: "We are thinking of planning a trip to Costa Rica. Part of the trip is to get from Tabacon to Monteve..."
 category: "1"
 tags: ["590", "878", "1147"]
 date: "2012-01-19"

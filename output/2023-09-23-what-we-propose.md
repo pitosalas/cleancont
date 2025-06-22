@@ -1,6 +1,6 @@
 ---
 title: "What We Propose"
-subtitle: "[ What We Propose]( https://www.theatlantic.com/magazine/archive/1946/07/what-we-propose/656703/) –T..."
+subtitle: "What We Propose –T..."
 category: "1"
 tags: []
 date: "2023-09-23"

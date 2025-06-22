@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  03/07/2020"
-subtitle: "* [Please stop recommending Git Flow! – George Stocker](<https://georgestocker.com/2020/03/04/please..."
+subtitle: "* Please stop recommending Git Flow! – George Stocker"
 category: "uncategorized"
 tags: []
 date: "2020-03-06"

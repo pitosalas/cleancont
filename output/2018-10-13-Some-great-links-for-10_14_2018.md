@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  10/14/2018"
-subtitle: "* [Creating Powerful Command Line Tools in Ruby - via @codeship | via @codeship](<https://blog.codes..."
+subtitle: "* Creating Powerful Command Line Tools in Ruby - via @codeship | via @codeship"
 category: "uncategorized"
 tags: []
 date: "2018-10-13"

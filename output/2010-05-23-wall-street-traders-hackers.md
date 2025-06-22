@@ -1,6 +1,6 @@
 ---
 title: "Wall Street Traders == Hackers"
-subtitle: "[Mark Cuban comes up with a very plausible analogy:](http://www.businessinsider.com/what-business-is..."
+subtitle: "Mark Cuban comes up with a very plausible analogy:"
 category: "298"
 tags: []
 date: "2010-05-23"

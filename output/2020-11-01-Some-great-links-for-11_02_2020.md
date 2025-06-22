@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  11/02/2020"
-subtitle: "* [MockMechanics](<https://mockmechanics.com>)"
+subtitle: "* MockMechanics"
 category: "uncategorized"
 tags: []
 date: "2020-11-01"

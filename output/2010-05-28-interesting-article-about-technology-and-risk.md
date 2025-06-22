@@ -1,6 +1,6 @@
 ---
 title: "Interesting article about technology and risk"
-subtitle: "[David Brooks of the New York Times writes about technology and risk](http://www.nytimes.com/2010/05..."
+subtitle: "David Brooks of the New York Times writes about technology and risk"
 category: "298"
 tags: []
 date: "2010-05-28"

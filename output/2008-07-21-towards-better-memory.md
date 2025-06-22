@@ -1,6 +1,6 @@
 ---
 title: "Towards better memory"
-subtitle: "An interesting, quirky, though-provoking — memorable article in [Wired about Memory](http://www.wire..."
+subtitle: "An interesting, quirky, though-provoking — memorable article in Wired about Memory"
 category: "298"
 tags: []
 date: "2008-07-21"

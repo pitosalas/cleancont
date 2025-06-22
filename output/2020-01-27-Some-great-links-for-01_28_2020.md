@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  01/28/2020"
-subtitle: "* [The Cost of Investing Too Heavily in a JavaScript Framework - DEV Community ](<https://dev.to/rya..."
+subtitle: "* The Cost of Investing Too Heavily in a JavaScript Framework - DEV Community"
 category: "uncategorized"
 tags: []
 date: "2020-01-27"

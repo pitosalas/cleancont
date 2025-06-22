@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  06/24/2018"
-subtitle: "[Active Job Basics — Ruby on Rails Guides](http://guides.rubyonrails.org/active_job_basics.html)"
+subtitle: "Active Job Basics — Ruby on Rails Guides"
 category: "538"
 tags: []
 date: "2018-06-24"

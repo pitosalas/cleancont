@@ -1,6 +1,6 @@
 ---
 title: "Packaging Python with the PyOxidizer Pants Plugin"
-subtitle: "[ Packaging Python with the PyOxidizer Pants Plugin](https://blog.pantsbuild.org/packaging-python-wi..."
+subtitle: "Packaging Python with the PyOxidizer Pants Plugin"
 category: "249"
 tags: []
 date: "2022-02-23"

@@ -1,6 +1,6 @@
 ---
 title: "A classic article that I finally read"
-subtitle: "The article “[Reflections on Trusting Trust](http://cm.bell-labs.com/who/ken/trust.html)” is often m..."
+subtitle: "The article “Reflections on Trusting Trust” is often m..."
 category: "422"
 tags: []
 date: "2010-04-14"

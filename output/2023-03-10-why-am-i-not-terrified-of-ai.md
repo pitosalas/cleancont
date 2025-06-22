@@ -1,6 +1,6 @@
 ---
 title: "Why am I not terrified of AI?"
-subtitle: "[ Why am I not terrified of AI?]( https://scottaaronson.blog/?p=7064?utm_source=abyteofcodingnewslet..."
+subtitle: "Why am I not terrified of AI?"
 category: "1"
 tags: ["611", "2340", "2441", "1611"]
 date: "2023-03-10"

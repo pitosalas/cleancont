@@ -1,6 +1,6 @@
 ---
 title: "Refactoring and Design Patterns"
-subtitle: "[ Refactoring and Design Patterns](https://refactoring.guru/)"
+subtitle: "Refactoring and Design Patterns"
 category: "249"
 tags: ["1772"]
 date: "2021-12-28"

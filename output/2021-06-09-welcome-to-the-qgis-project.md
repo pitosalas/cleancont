@@ -1,6 +1,6 @@
 ---
 title: "Welcome to the QGIS project!"
-subtitle: "[ Welcome to the QGIS project!](https://www.qgis.org/en/site/)"
+subtitle: "Welcome to the QGIS project!"
 category: "214"
 tags: ["1433", "2081"]
 date: "2021-06-09"

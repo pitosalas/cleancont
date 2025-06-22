@@ -1,6 +1,6 @@
 ---
 title: "Reinvent the Wheel"
-subtitle: "[ Reinvent the Wheel]( https://etiennefd.substack.com/p/reinvent-the-wheel?ref=The+Browser-newslette..."
+subtitle: "Reinvent the Wheel"
 category: "1"
 tags: ["1003", "1183"]
 date: "2022-10-26"

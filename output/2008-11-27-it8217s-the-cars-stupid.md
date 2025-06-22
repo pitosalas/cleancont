@@ -1,6 +1,6 @@
 ---
 title: "It’s the cars, stupid"
-subtitle: "Robert X. Cringely’s  [prescription for Detroit automakers](http://www.pbs.org/cringely/pulpit/2008/..."
+subtitle: "Robert X. Cringely’s prescription for Detroit automakers"
 category: "298"
 tags: []
 date: "2008-11-27"

@@ -1,6 +1,6 @@
 ---
 title: "How to Test Ruby Code That Depends on External APIs"
-subtitle: "[ How to Test Ruby Code That Depends on External APIs](https://www.honeybadger.io/blog/ruby-external..."
+subtitle: "How to Test Ruby Code That Depends on External APIs"
 category: "465"
 tags: ["1772", "1986"]
 date: "2022-03-08"

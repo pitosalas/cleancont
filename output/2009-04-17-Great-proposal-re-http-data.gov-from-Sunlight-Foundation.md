@@ -1,6 +1,6 @@
 ---
 title: "Great proposal re: http://data.gov from Sunlight Foundation"
-subtitle: "[![datagov_front](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/wp-"
+subtitle: "![datagov_front"
 category: "uncategorized"
 tags: []
 date: "2009-04-17"

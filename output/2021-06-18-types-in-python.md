@@ -1,6 +1,6 @@
 ---
 title: "Types in Python"
-subtitle: "[ Types in Python](https://auth0.com/blog/typing-in-python/)"
+subtitle: "Types in Python"
 category: "130"
 tags: []
 date: "2021-06-18"

@@ -1,6 +1,6 @@
 ---
 title: "Google Maps Causes US Navy To Change Its Swastika Building"
-subtitle: "Check out [this post](http://feeds.searchengineland.com/~r/searchengineland/~3/162031302/070927-1132..."
+subtitle: "Check out this post"
 category: "298"
 tags: []
 date: "2007-09-27"

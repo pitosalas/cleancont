@@ -1,6 +1,6 @@
 ---
 title: "I read Dowbrigade for the articles"
-subtitle: "Do you know [Dowbrigade?](http://blogs.law.harvard.edu/dowbrigade/) An almost always interesting blo..."
+subtitle: "Do you know Dowbrigade? An almost always interesting blo..."
 category: "298"
 tags: []
 date: "2005-03-05"

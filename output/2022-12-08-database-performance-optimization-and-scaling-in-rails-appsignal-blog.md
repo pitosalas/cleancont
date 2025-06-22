@@ -1,6 +1,6 @@
 ---
 title: "Database Performance Optimization and Scaling in Rails | AppSignal Blog"
-subtitle: "[ Database Performance Optimization and Scaling in Rails | AppSignal Blog]( https://blog.appsignal.c..."
+subtitle: "Database Performance Optimization and Scaling in Rails | AppSignal Blog"
 category: "1"
 tags: ["600", "1221", "1711", "1772", "1795", "1844"]
 date: "2022-12-08"

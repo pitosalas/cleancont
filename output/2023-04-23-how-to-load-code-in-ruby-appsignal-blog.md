@@ -1,6 +1,6 @@
 ---
 title: "How to Load Code in Ruby | AppSignal Blog"
-subtitle: "[ How to Load Code in Ruby | AppSignal Blog]( https://blog.appsignal.com/2023/04/19/how-to-load-code..."
+subtitle: "How to Load Code in Ruby | AppSignal Blog"
 category: "1"
 tags: ["2465", "2421", "2466", "1772", "2464"]
 date: "2023-04-23"

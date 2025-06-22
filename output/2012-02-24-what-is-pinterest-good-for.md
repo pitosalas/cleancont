@@ -1,6 +1,6 @@
 ---
 title: "What is Pinterest good for?"
-subtitle: "Funny thing, I like many people are trying to figure out what [Pinterest](www.pinterest.com) is good..."
+subtitle: "Funny thing, I like many people are trying to figure out what Pinterest is good..."
 category: "1"
 tags: ["1250", "1622"]
 date: "2012-02-24"

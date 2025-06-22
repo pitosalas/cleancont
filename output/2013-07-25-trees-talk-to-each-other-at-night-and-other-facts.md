@@ -1,6 +1,6 @@
 ---
 title: "Trees talk to each other at night and other facts"
-subtitle: "[Cory Doctorow: Lies I’ve Told My 3 Year Old Recently Trees talk…](http://mostlysignssomeportents.tu..."
+subtitle: "Cory Doctorow: Lies I’ve Told My 3 Year Old Recently Trees talk…"
 category: "1"
 tags: ["1039", "1640", "1641", "2030", "2037"]
 date: "2013-07-25"

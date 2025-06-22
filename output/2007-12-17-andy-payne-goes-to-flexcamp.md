@@ -1,6 +1,6 @@
 ---
 title: "Andy Payne goes to Flexcamp"
-subtitle: "[Andy went to FlexCamp](http://blog.payne.org/2007/12/08/report-flexcamp-boston-2007/) last week and..."
+subtitle: "Andy went to FlexCamp last week and..."
 category: "538"
 tags: []
 date: "2007-12-17"

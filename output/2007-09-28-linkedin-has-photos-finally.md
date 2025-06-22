@@ -1,6 +1,6 @@
 ---
 title: "LinkedIn has photos, finally"
-subtitle: "Finally, [welcome to the 20th  century, [tag]LinkedIn[/tag]](http://www.techcrunch.com/2007/09/27/pi..."
+subtitle: "Finally, [welcome to the 20th century, [tag]LinkedIn[/tag]](http://www.techcrunch.com/2007/09/27/pi..."
 category: "538"
 tags: []
 date: "2007-09-28"

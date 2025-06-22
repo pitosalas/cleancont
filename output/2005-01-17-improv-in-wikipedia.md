@@ -1,6 +1,6 @@
 ---
 title: "Improv in Wikipedia"
-subtitle: "I got many comments from people about my [postings ](/weblogs/archives/000524.html)[recently about](..."
+subtitle: "I got many comments from people about my postings recently about"
 category: "298"
 tags: []
 date: "2005-01-17"

@@ -1,6 +1,6 @@
 ---
 title: "Looks like I’ve beat comment spam — for now!"
-subtitle: "You’ve heard me [complain](http://weblogs) about [comment](/weblogs/archives/000570.html) spam befor..."
+subtitle: "You’ve heard me complain about comment spam befor..."
 category: "538"
 tags: []
 date: "2005-06-12"

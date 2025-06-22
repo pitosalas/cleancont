@@ -1,6 +1,6 @@
 ---
 title: "WHCC | Professional Photo Lab"
-subtitle: "[ WHCC | Professional Photo Lab]( https://www.whcc.com/) –WHCC is the premier provider of profession..."
+subtitle: "WHCC | Professional Photo Lab –WHCC is the premier provider of profession..."
 category: "1"
 tags: ["2196", "1613", "1839"]
 date: "2022-07-12"

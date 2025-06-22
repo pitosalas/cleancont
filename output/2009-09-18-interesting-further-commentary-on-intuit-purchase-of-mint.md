@@ -1,6 +1,6 @@
 ---
 title: "Interesting further commentary on Intuit purchase of Mint"
-subtitle: "I [wrote about the Mint/Intuit deal](/2009/09/15/mint-being-acquired-by-intuit-good-or-bad/) the oth..."
+subtitle: "I wrote about the Mint/Intuit deal the oth..."
 category: "298"
 tags: []
 date: "2009-09-18"

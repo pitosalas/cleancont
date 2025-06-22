@@ -1,6 +1,6 @@
 ---
 title: "Wrapping Your Head Around Mastodon – K²R"
-subtitle: "[ Wrapping Your Head Around Mastodon – K²R]( https://hyperborea.org/journal/2022/11/mastodon-what/) ..."
+subtitle: "Wrapping Your Head Around Mastodon – K²R ..."
 category: "1"
 tags: []
 date: "2022-11-13"

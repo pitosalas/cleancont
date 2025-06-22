@@ -1,6 +1,6 @@
 ---
 title: "BlogBridge interview"
-subtitle: "Yesterday I was interviewed about BlogBridge by [ClientJava.com](http://www.clientjava.com/blog/), a..."
+subtitle: "Yesterday I was interviewed about BlogBridge by ClientJava.com, a..."
 category: "50"
 tags: []
 date: "2004-12-08"

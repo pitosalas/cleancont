@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  07/17/2018"
-subtitle: "* [Top 8 Data Structures for Coding Interviews and practice interview questions](<https://dev.to/fah..."
+subtitle: "* Top 8 Data Structures for Coding Interviews and practice interview questions"
 category: "uncategorized"
 tags: []
 date: "2018-07-17"

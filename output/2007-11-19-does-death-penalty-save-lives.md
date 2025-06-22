@@ -1,6 +1,6 @@
 ---
 title: "Does Death Penalty Save Lives?"
-subtitle: "Very interesting [article in the New York Times discussing whether the death penalty saves lives](ht..."
+subtitle: "Very interesting article in the New York Times discussing whether the death penalty saves lives"
 category: "298"
 tags: []
 date: "2007-11-19"

@@ -1,6 +1,6 @@
 ---
 title: "How to Monitor Network and Zoom Performance & Fix “Your Internet Connection is Unstable” on Zoom"
-subtitle: "[ How to Monitor Network and Zoom Performance & Fix “Your Internet Connection is Unstable” on Zoom](..."
+subtitle: "How to Monitor Network and Zoom Performance & Fix “Your Internet Connection is Unstable” on Zoom"
 category: "249"
 tags: ["1605"]
 date: "2022-02-01"

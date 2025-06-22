@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  02/23/2019"
-subtitle: "[Microbenchmarks vs Macrobenchmarks (i.e. What’s a Microbenchmark?) — Appfolio Engineering](http://e..."
+subtitle: "Microbenchmarks vs Macrobenchmarks (i.e. What’s a Microbenchmark?) — Appfolio Engineering"
 category: "301"
 tags: []
 date: "2019-02-22"

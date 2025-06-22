@@ -1,6 +1,6 @@
 ---
 title: "k8s vs k3s: The Comprehensive Difference"
-subtitle: "[k8s vs k3s: The Comprehensive Difference | by Ostride Labs: ](https://medium.com/@ostridelabs/k8s-v..."
+subtitle: "k8s vs k3s: The Comprehensive Difference | by Ostride Labs:"
 category: "1"
 tags: ["2178", "1347", "1452"]
 date: "2022-07-02"

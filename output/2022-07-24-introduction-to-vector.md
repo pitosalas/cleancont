@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Vector"
-subtitle: "[ Introduction to Vector]( https://vector.readthedocs.io/en/develop/usage/intro.html) –Looks useful ..."
+subtitle: "Introduction to Vector –Looks useful ..."
 category: "1"
 tags: ["2216", "590", "1575", "1692", "2069"]
 date: "2022-07-24"

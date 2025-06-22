@@ -1,6 +1,6 @@
 ---
 title: "Predicting the future is hard"
-subtitle: "[*](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/archives/pic59763..."
+subtitle: "*"
 category: "298"
 tags: []
 date: "2004-11-30"

@@ -1,6 +1,6 @@
 ---
 title: "[Geeky] Create UML Diagrams from the command line"
-subtitle: "If you get it, you may want to get it: [Create UML Diagrams from the command line](http://blog.10to1..."
+subtitle: "If you get it, you may want to get it: Create UML Diagrams from the command line"
 category: "298"
 tags: []
 date: "2009-10-14"

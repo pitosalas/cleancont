@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  10/06/2018"
-subtitle: "[ngrok – secure introspectable tunnels to localhost](https://ngrok.com/pricing)"
+subtitle: "ngrok – secure introspectable tunnels to localhost"
 category: "301"
 tags: []
 date: "2018-10-05"

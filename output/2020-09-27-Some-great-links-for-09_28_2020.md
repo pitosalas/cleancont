@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  09/28/2020"
-subtitle: "* [Free Git GUI for Windows, Mac, Linux | GitKraken](<https://www.gitkraken.com>)"
+subtitle: "* Free Git GUI for Windows, Mac, Linux | GitKraken"
 category: "uncategorized"
 tags: []
 date: "2020-09-27"

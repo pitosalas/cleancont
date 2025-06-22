@@ -1,6 +1,6 @@
 ---
 title: "Pogue does not love the new Kindle Fire"
-subtitle: "I was excited to hear about the [Kindle Fire.](http://www.google.com/search?client=safari&rls=en&q=k..."
+subtitle: "I was excited to hear about the Kindle Fire."
 category: "1"
 tags: ["622", "919", "1066", "1342"]
 date: "2011-11-14"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  07/10/2018"
-subtitle: "[LaTeX Tips n Tricks for Conference Papers](http://gurmeet.net/computer-science/latex-tips-n-tricks-..."
+subtitle: "LaTeX Tips n Tricks for Conference Papers"
 category: "538"
 tags: []
 date: "2018-07-10"

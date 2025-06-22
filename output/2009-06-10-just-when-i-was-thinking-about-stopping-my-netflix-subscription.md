@@ -1,6 +1,6 @@
 ---
 title: "Just when I was thinking about stopping my NetFlix subscription"
-subtitle: "[TIVO keeps on getting cooler and cooler:](http://online.wsj.com/article/SB122533284014583011.html?m..."
+subtitle: "TIVO keeps on getting cooler and cooler:"
 category: "298"
 tags: []
 date: "2009-06-10"

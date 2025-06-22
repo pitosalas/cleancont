@@ -1,6 +1,6 @@
 ---
 title: "N.E.A.T. Product from Gruve: Fact or Fiction?"
-subtitle: "There’s something about this [Gruve product](http://stores.homestead.com/Gruve/StoreFront.bok) that ..."
+subtitle: "There’s something about this Gruve product that ..."
 category: "1"
 tags: ["1030", "1506"]
 date: "2013-01-29"

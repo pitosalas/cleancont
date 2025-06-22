@@ -1,6 +1,6 @@
 ---
 title: "Let’s Implement the Map Method from First Principles"
-subtitle: "[ Let’s Implement the Map Method from First Principles]( https://www.akshaykhot.com/map-from-first-p..."
+subtitle: "Let’s Implement the Map Method from First Principles"
 category: "1"
 tags: ["1033", "2500", "1431", "2501", "1772"]
 date: "2023-09-09"

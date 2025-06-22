@@ -1,6 +1,6 @@
 ---
 title: "Making Sense of Rails Assets"
-subtitle: "[ Making Sense of Rails Assets]( https://fly.io/ruby-dispatch/making-sense-of-rails-assets/) –Rails ..."
+subtitle: "Making Sense of Rails Assets –Rails ..."
 category: "1"
 tags: ["2266", "854", "1033", "1221", "1711"]
 date: "2022-09-23"

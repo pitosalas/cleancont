@@ -1,6 +1,6 @@
 ---
 title: "Why is this funny?"
-subtitle: "![Picture 1-43](https://i0.wp.com/s3.media.squarespace.com/production/1075723/12829350/weblogs/weblo..."
+subtitle: "!Picture 1-43"
 category: "298"
 tags: []
 date: "2008-08-07"

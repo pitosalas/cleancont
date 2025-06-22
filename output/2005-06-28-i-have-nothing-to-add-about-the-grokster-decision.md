@@ -1,6 +1,6 @@
 ---
 title: "I have nothing to add about the grokster decision"
-subtitle: "Aren’t you glad, since every other blogger is blah-blah-blah’ing about it? [But here is a link ](htt..."
+subtitle: "Aren’t you glad, since every other blogger is blah-blah-blah’ing about it? But here is a link"
 category: "51"
 tags: []
 date: "2005-06-28"

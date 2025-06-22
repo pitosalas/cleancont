@@ -1,6 +1,6 @@
 ---
 title: "Wikipedia and copyrights"
-subtitle: "If you haven’t heard about [Wikipedia](http://en.wikipedia.org/wiki/Main_Page), you should check it ..."
+subtitle: "If you haven’t heard about Wikipedia, you should check it ..."
 category: "538"
 tags: []
 date: "2004-11-11"

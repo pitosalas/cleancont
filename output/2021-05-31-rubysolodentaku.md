@@ -1,6 +1,6 @@
 ---
 title: "rubysolo/dentaku"
-subtitle: "[ rubysolo/dentaku](https://github.com/rubysolo/dentaku)"
+subtitle: "rubysolo/dentaku"
 category: "172"
 tags: ["1445", "1772"]
 date: "2021-05-31"

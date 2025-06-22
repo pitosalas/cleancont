@@ -1,6 +1,6 @@
 ---
 title: "DC Lingo – from my notebook"
-subtitle: "More stuff that I learned at [Transparency camp](http://www.transparencycamp.org/)."
+subtitle: "More stuff that I learned at Transparency camp."
 category: "298"
 tags: ["1104", "1382", "2025"]
 date: "2009-09-08"

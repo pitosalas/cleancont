@@ -1,6 +1,6 @@
 ---
 title: "How Good Is Your Test Suite? | Codementor"
-subtitle: "[ How Good Is Your Test Suite? | Codementor](https://www.codementor.io/@lmuzinic/how-good-is-your-te..."
+subtitle: "How Good Is Your Test Suite? | Codementor"
 category: "346"
 tags: ["1986"]
 date: "2022-03-09"

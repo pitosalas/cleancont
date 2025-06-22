@@ -1,6 +1,6 @@
 ---
 title: "Getting Your R�sum� Read –"
-subtitle: "**[Getting Your R©sum© Read – From Joel Spolsky](http://www.joelonsoftware.com/articles/ResumeRead.h..."
+subtitle: "**Getting Your R©sum© Read – From Joel Spolsky"
 category: "1"
 tags: []
 date: "2004-01-27"

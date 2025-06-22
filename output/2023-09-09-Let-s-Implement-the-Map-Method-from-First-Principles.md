@@ -1,6 +1,6 @@
 ---
 title: "Let’s Implement the Map Method from First Principles"
-subtitle: "[ Let's Implement the Map Method from First Principles](<"
+subtitle: "Let's Implement the Map Method from First Principles"
 category: "uncategorized"
 tags: []
 date: "2023-09-09"

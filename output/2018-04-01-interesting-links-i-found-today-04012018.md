@@ -1,6 +1,6 @@
 ---
 title: "Interesting links I found today 04/01/2018"
-subtitle: "[FIND3 Overview · FIND3](https://www.internalpositioning.com/doc/overview.md)"
+subtitle: "FIND3 Overview · FIND3"
 category: "301"
 tags: []
 date: "2018-04-01"

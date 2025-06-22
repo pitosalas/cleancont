@@ -1,6 +1,6 @@
 ---
 title: "What’s happening to Google?"
-subtitle: "You know I am a [fan of Google](</2007/11/20/google-is-the-universe/>). But"
+subtitle: "You know I am a fan of Google. But"
 category: "uncategorized"
 tags: []
 date: "2007-12-10"

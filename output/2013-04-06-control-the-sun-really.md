@@ -1,6 +1,6 @@
 ---
 title: "Control the Sun, really"
-subtitle: "[Control The Sun!](http://www.mylanderpages.com/sunrise_blinds/olin)"
+subtitle: "Control The Sun!"
 category: "1"
 tags: ["1214", "1556"]
 date: "2013-04-06"

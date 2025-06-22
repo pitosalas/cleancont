@@ -1,6 +1,6 @@
 ---
 title: "The role of RSS in Science Publishing"
-subtitle: "This article: [The Role of RSS in Science Publishing: Syndication and Annotation on the Web](http://..."
+subtitle: "This article: The Role of RSS in Science Publishing: Syndication and Annotation on the Web"
 category: "51"
 tags: []
 date: "2006-08-03"

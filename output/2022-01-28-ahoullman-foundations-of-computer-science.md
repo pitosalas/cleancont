@@ -1,6 +1,6 @@
 ---
 title: "Aho/Ullman Foundations of Computer Science"
-subtitle: "[ Aho/Ullman Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html)"
+subtitle: "Aho/Ullman Foundations of Computer Science"
 category: "100"
 tags: ["843", "1368", "1973"]
 date: "2022-01-28"

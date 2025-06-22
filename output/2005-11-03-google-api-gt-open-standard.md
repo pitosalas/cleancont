@@ -1,6 +1,6 @@
 ---
 title: "Google API -> Open Standard"
-subtitle: "I really like [this idea that Dave Winer has put forward](http://www.clonethegoogleapi.com/): “Let’s..."
+subtitle: "I really like this idea that Dave Winer has put forward: “Let’s..."
 category: "538"
 tags: []
 date: "2005-11-03"

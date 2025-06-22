@@ -1,6 +1,6 @@
 ---
 title: "The fastest way to clone an SD card on macOS – Jaimyn’s Blog"
-subtitle: "[ The fastest way to clone an SD card on macOS – Jaimyn’s Blog](https://blog.jaimyn.dev/the-fastest-..."
+subtitle: "The fastest way to clone an SD card on macOS – Jaimyn’s Blog"
 category: "249"
 tags: []
 date: "2021-05-24"

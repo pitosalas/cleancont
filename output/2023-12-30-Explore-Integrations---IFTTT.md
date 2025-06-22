@@ -1,6 +1,6 @@
 ---
 title: "Explore Integrations – IFTTT"
-subtitle: "[ Explore Integrations - IFTTT](< https://ifttt.com/explore>) –Get more from"
+subtitle: "Explore Integrations - IFTTT –Get more from"
 category: "uncategorized"
 tags: []
 date: "2023-12-30"

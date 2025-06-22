@@ -1,6 +1,6 @@
 ---
 title: "Using ROS on Raspberry Pi: Best Practices – The Robotics Back-End"
-subtitle: "[ Using ROS on Raspberry Pi: Best Practices – The Robotics Back-End](https://roboticsbackend.com/usi..."
+subtitle: "Using ROS on Raspberry Pi: Best Practices – The Robotics Back-End"
 category: "104"
 tags: ["888", "1605"]
 date: "2022-03-26"

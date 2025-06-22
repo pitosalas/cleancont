@@ -1,6 +1,6 @@
 ---
 title: "Managing remote repositories – GitHub Docs"
-subtitle: "[ Managing remote repositories - GitHub Docs](<https://docs.github.com/en/get-"
+subtitle: "Managing remote repositories - GitHub Docs"
 category: "uncategorized"
 tags: []
 date: "2022-03-27"

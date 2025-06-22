@@ -1,6 +1,6 @@
 ---
 title: "Big Search, Mechanical Turk and why Amazon is at least as cool as Google"
-subtitle: "[Adam Green](http://darwinianweb.com/archive/2005/1127.html#9:31AM) points to Scoble who re-discover..."
+subtitle: "Adam Green points to Scoble who re-discover..."
 category: "298"
 tags: []
 date: "2008-05-28"

@@ -1,6 +1,6 @@
 ---
 title: "Web 2.0 Calendars?"
-subtitle: "[Mike Arrington](http://www.techcrunch.com/) [waxes poetic](http://www.techcrunch.com/2006/03/11/30-..."
+subtitle: "Mike Arrington waxes poetic"
 category: "538"
 tags: []
 date: "2006-03-12"

@@ -1,6 +1,6 @@
 ---
 title: "From Demo 2008: Silobreaker – A unique new research tool"
-subtitle: "Joining the ranks of the growing number of **news aggregation and research** sites is [Silobreaker](..."
+subtitle: "Joining the ranks of the growing number of **news aggregation and research** sites is Silobreaker"
 category: "298"
 tags: []
 date: "2008-02-29"

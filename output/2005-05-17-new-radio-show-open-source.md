@@ -1,6 +1,6 @@
 ---
 title: "New Radio Show: Open Source"
-subtitle: "Welcome back [Chris Lydon](http://en.wikipedia.org/wiki/Christopher_Lydon)! Those of you who have li..."
+subtitle: "Welcome back Chris Lydon! Those of you who have li..."
 category: "298"
 tags: []
 date: "2005-05-17"

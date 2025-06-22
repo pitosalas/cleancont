@@ -1,6 +1,6 @@
 ---
 title: "10 Commandments might apply to more than just Facebook!"
-subtitle: "Check out these [10 Commandments for Facebook Applications](http://facereviews.com/2007/12/27/10-com..."
+subtitle: "Check out these 10 Commandments for Facebook Applications"
 category: "50"
 tags: []
 date: "2008-07-14"

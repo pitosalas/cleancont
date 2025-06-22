@@ -1,6 +1,6 @@
 ---
 title: "Channel Dean: “An RSS feed"
-subtitle: ">> **[Channel Dean](<http://archive.scripting.com/2004/01/19#channelDeanDay>):"
+subtitle: ">> **Channel Dean:"
 category: "uncategorized"
 tags: []
 date: "2004-01-19"

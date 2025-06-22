@@ -1,6 +1,6 @@
 ---
 title: "You Only Look Once: Unified, Real-Time Object Detection"
-subtitle: "[ You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)"
+subtitle: "You Only Look Once: Unified, Real-Time Object Detection"
 category: "127"
 tags: ["1798"]
 date: "2022-03-13"

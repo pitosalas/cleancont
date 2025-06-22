@@ -1,6 +1,6 @@
 ---
 title: "Things You Should Know About Databases"
-subtitle: "[Things You Should Know About Databases](https://architecturenotes.co/things-you-should-know-about-d..."
+subtitle: "Things You Should Know About Databases"
 category: "1"
 tags: ["909", "1033", "1221", "2043"]
 date: "2022-07-01"

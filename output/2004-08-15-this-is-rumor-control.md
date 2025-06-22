@@ -1,6 +1,6 @@
 ---
 title: "This Is Rumor Control"
-subtitle: "[This is a really interesting new site ](http://thisisrumorcontrol.org/)where the posters, apparentl..."
+subtitle: "This is a really interesting new site where the posters, apparentl..."
 category: "298"
 tags: []
 date: "2004-08-15"

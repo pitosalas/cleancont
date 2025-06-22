@@ -1,6 +1,6 @@
 ---
 title: "Ruby’s Switch Statement is More Flexible Than You Thought"
-subtitle: "[ Ruby's Switch Statement is More Flexible Than You Thought](<"
+subtitle: "Ruby's Switch Statement is More Flexible Than You Thought"
 category: "uncategorized"
 tags: []
 date: "2023-04-28"

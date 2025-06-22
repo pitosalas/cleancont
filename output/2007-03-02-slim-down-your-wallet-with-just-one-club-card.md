@@ -1,6 +1,6 @@
 ---
 title: "Slim down your wallet with Just One Club Card"
-subtitle: "This looks kind of neat – check out [this post](http://lifehacker.com/software/wallet/slim-down-your..."
+subtitle: "This looks kind of neat – check out this post"
 category: "298"
 tags: []
 date: "2007-03-02"

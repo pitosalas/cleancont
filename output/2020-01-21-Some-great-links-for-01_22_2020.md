@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  01/22/2020"
-subtitle: "* [Python built-ins worth learning - Trey Hunner](<https://treyhunner.com/2019/05/python-builtins-wo..."
+subtitle: "* Python built-ins worth learning - Trey Hunner"
 category: "uncategorized"
 tags: []
 date: "2020-01-21"

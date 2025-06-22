@@ -1,6 +1,6 @@
 ---
 title: "Teaching: Group Projects"
-subtitle: "I’ve had occasion as you know to [teach a few times at Brandeis University.](https://sites.google.co..."
+subtitle: "I’ve had occasion as you know to teach a few times at Brandeis University."
 category: "1"
 tags: ["738", "1031", "1157", "1314", "1368", "1428", "1973", "1975"]
 date: "2012-01-04"

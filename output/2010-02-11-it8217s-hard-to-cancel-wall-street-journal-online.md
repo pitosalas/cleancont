@@ -1,6 +1,6 @@
 ---
 title: "It’s hard to cancel Wall Street Journal Online"
-subtitle: "Who would think that an august publication like the [Wall Street Journal](http://www.wsj.com) would ..."
+subtitle: "Who would think that an august publication like the Wall Street Journal would ..."
 category: "298"
 tags: ["715", "1315", "2102"]
 date: "2010-02-11"

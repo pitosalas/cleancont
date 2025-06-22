@@ -1,6 +1,6 @@
 ---
 title: "laser_pipeline/Tutorials/IntroductionToWorkingWithLaserScannerData – ROS Wiki"
-subtitle: "[ laser_pipeline/Tutorials/IntroductionToWorkingWithLaserScannerData – ROS Wiki](http://wiki.ros.org..."
+subtitle: "laser_pipeline/Tutorials/IntroductionToWorkingWithLaserScannerData – ROS Wiki"
 category: "249"
 tags: []
 date: "2022-02-03"

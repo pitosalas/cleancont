@@ -1,6 +1,6 @@
 ---
 title: "Patterns from the master"
-subtitle: "[I came across a fascinating article, ](http://www.patternlanguage.com/archive/ieee/ieeetext.htm)a t..."
+subtitle: "I came across a fascinating article, a t..."
 category: "538"
 tags: []
 date: "2004-09-10"

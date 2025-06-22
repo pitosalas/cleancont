@@ -1,6 +1,6 @@
 ---
 title: "Sign the letter!"
-subtitle: "Maybe this is one [more of the futile petitions](http://www.pgpf.org/getinvolved/letter-to-candidate..."
+subtitle: "Maybe this is one more of the futile petitions"
 category: "298"
 tags: []
 date: "2008-09-09"

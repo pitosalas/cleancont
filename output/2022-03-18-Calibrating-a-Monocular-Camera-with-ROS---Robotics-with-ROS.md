@@ -1,6 +1,6 @@
 ---
 title: "Calibrating a Monocular Camera with ROS – Robotics with ROS"
-subtitle: "[ Calibrating a Monocular Camera with ROS - Robotics with ROS](<https://ros-"
+subtitle: "Calibrating a Monocular Camera with ROS - Robotics with ROS"
 category: "uncategorized"
 tags: []
 date: "2022-03-18"

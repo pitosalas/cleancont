@@ -1,6 +1,6 @@
 ---
 title: "An Introduction to Ractors in Ruby | AppSignal Blog"
-subtitle: "[ An Introduction to Ractors in Ruby | AppSignal Blog]( https://blog.appsignal.com/2022/08/24/an-int..."
+subtitle: "An Introduction to Ractors in Ruby | AppSignal Blog"
 category: "1"
 tags: ["850", "1033", "2372", "1772", "2002"]
 date: "2022-12-22"

@@ -1,6 +1,6 @@
 ---
 title: "HuskyLens – An AI Camera: Click, Learn, and Play | Vision Sensor | DFRobot Electronics"
-subtitle: "[ HuskyLens – An AI Camera: Click, Learn, and Play | Vision Sensor | DFRobot Electronics](https://ww..."
+subtitle: "HuskyLens – An AI Camera: Click, Learn, and Play | Vision Sensor | DFRobot Electronics"
 category: "64"
 tags: ["611", "765", "844", "1755"]
 date: "2022-06-11"

@@ -1,6 +1,6 @@
 ---
 title: "[GEEKY] JavaScript – Universal Language of the Future"
-subtitle: "JavaScript is the language of the future. Why do I say this?"
+subtitle: "JavaScript is the language of the future. Why do I say this?"
 category: "298"
 tags: ["1311", "1353", "1684"]
 date: "2011-06-26"

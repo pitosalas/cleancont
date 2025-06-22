@@ -1,6 +1,6 @@
 ---
 title: "red-data-tools/YouPlot"
-subtitle: "[ red-data-tools/YouPlot](https://github.com/red-data-tools/YouPlot)"
+subtitle: "red-data-tools/YouPlot"
 category: "84"
 tags: ["1772", "2010"]
 date: "2021-07-03"

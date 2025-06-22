@@ -1,6 +1,6 @@
 ---
 title: "Big news from Iraq, if it’s true…"
-subtitle: "Zarqawi probably killed! according to [Iraq the Model.](http://iraqthemodel.blogspot.com/2005/11/zar..."
+subtitle: "Zarqawi probably killed! according to Iraq the Model."
 category: "298"
 tags: []
 date: "2005-11-21"

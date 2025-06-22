@@ -1,6 +1,6 @@
 ---
 title: "It’s Time to Say Goodbye to These Obsolete Python Libraries"
-subtitle: "[ It’s Time to Say Goodbye to These Obsolete Python Libraries]( https://martinheinz.dev/blog/77) –p"
+subtitle: "It’s Time to Say Goodbye to These Obsolete Python Libraries –p"
 category: "1"
 tags: ["1221", "1692", "2011"]
 date: "2022-08-13"

@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  11/17/2018"
-subtitle: "[The Waiting Time Paradox, or, Why Is My Bus Always Late?](http://jakevdp.github.io/blog/2018/09/13/..."
+subtitle: "The Waiting Time Paradox, or, Why Is My Bus Always Late?"
 category: "301"
 tags: []
 date: "2018-11-16"

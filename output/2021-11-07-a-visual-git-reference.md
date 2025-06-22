@@ -1,6 +1,6 @@
 ---
 title: "A Visual Git Reference"
-subtitle: "[ A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)"
+subtitle: "A Visual Git Reference"
 category: "178"
 tags: ["1134"]
 date: "2021-11-07"

@@ -1,6 +1,6 @@
 ---
 title: "If you like food you might find this amusing…"
-subtitle: "[Many more where this one came from](http://www.fresh99.com/zoomed-in-food.htm). Good for a chuckle ..."
+subtitle: "Many more where this one came from. Good for a chuckle ..."
 category: "298"
 tags: []
 date: "2008-05-21"

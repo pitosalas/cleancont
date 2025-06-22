@@ -1,6 +1,6 @@
 ---
 title: "Microsoft bought one Bridge, maybe they’ll buy another"
-subtitle: "Check this out: [Microsoft Announces Plans to Acquire FrontBridge](http://www.microsoft.com/presspas..."
+subtitle: "Check this out: Microsoft Announces Plans to Acquire FrontBridge"
 category: "50"
 tags: []
 date: "2005-07-21"

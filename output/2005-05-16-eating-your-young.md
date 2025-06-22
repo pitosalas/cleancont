@@ -1,6 +1,6 @@
 ---
 title: "Eating your young"
-subtitle: "I came [across this bit](http://techdirt.com/articles/20050516/0032240_F.shtml):"
+subtitle: "I came across this bit:"
 category: "538"
 tags: []
 date: "2005-05-16"

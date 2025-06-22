@@ -1,6 +1,6 @@
 ---
 title: "Looked at the right way, this could be good news!"
-subtitle: "I came across this article a few days ago. [The Ticktock of the Death Clock – NYTimes.com](http://we..."
+subtitle: "I came across this article a few days ago. The Ticktock of the Death Clock – NYTimes.com"
 category: "1"
 tags: ["923", "1185", "1378", "1675", "2027"]
 date: "2013-08-02"

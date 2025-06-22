@@ -1,6 +1,6 @@
 ---
 title: "Stay hungry, stay foolish: Steve Jobs on dropping out"
-subtitle: "I [came across](http://slashdot.org/comments.pl?sid=152625&cid=12810404) what is supposed to be the ..."
+subtitle: "I came across what is supposed to be the ..."
 category: "298"
 tags: []
 date: "2005-06-14"

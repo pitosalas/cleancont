@@ -1,6 +1,6 @@
 ---
 title: "Chess and Violent Meditation"
-subtitle: "Check out [this post](http://get.wis.dm/danielsalas/?p=50) from [empire"
+subtitle: "Check out this post from [empire"
 category: "298"
 tags: []
 date: "2006-12-13"

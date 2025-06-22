@@ -1,6 +1,6 @@
 ---
 title: "Bryce Canyon National Park"
-subtitle: "[![](https://i0.wp.com/static.flickr.com/102/253257472_3983c0ba56_m.jpg?w=584)](http://www.flickr.co..."
+subtitle: "![](http://www.flickr.co..."
 category: "298"
 tags: []
 date: "2006-09-28"

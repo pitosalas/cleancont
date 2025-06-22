@@ -1,6 +1,6 @@
 ---
 title: "‘Like a Full-Body Massage’: Thinking About the TSA"
-subtitle: "Check out [‘Like a Full-Body Massage’: Thinking About the TSA](http://feedproxy.google.com/~r/JamesF..."
+subtitle: "Check out ‘Like a Full-Body Massage’: Thinking About the TSA"
 category: "298"
 tags: []
 date: "2010-11-23"

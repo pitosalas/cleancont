@@ -1,6 +1,6 @@
 ---
 title: "Coding as Writing"
-subtitle: "If you read this blog at all, you know that I’ve been working on a piece of software ([BlogBridge](h..."
+subtitle: "If you read this blog at all, you know that I’ve been working on a piece of software (BlogBridge"
 category: "298"
 tags: []
 date: "2004-12-19"

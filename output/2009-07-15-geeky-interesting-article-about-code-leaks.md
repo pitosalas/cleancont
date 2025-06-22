@@ -1,6 +1,6 @@
 ---
 title: "[GEEKY] Interesting article about code leaks"
-subtitle: "[Check out this interesting case study of how one awful memory leak was tracked down and killed](htt..."
+subtitle: "Check out this interesting case study of how one awful memory leak was tracked down and killed"
 category: "422"
 tags: []
 date: "2009-07-15"

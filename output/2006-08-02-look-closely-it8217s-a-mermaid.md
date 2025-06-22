@@ -1,6 +1,6 @@
 ---
 title: "Look closely: it’s a mermaid!"
-subtitle: "Yeah this is **extraordinarily weird**. As [Yakov Smirnov](http://www.yakov.com/ageOfEnlaughterment/..."
+subtitle: "Yeah this is **extraordinarily weird**. As Yakov Smirnov"
 category: "298"
 tags: []
 date: "2006-08-02"

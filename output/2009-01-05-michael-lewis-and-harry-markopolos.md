@@ -1,6 +1,6 @@
 ---
 title: "Michael Lewis and Harry Markopolos"
-subtitle: "In an excellent article on [The End of The Financial World as We Know It](http://www.nytimes.com/200..."
+subtitle: "In an excellent article on The End of The Financial World as We Know It"
 category: "298"
 tags: ["1190", "1419", "1461"]
 date: "2009-01-05"

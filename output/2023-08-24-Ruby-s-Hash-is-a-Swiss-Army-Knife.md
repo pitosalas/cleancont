@@ -1,6 +1,6 @@
 ---
 title: "Ruby’s Hash is a Swiss-Army Knife"
-subtitle: "[ Ruby's Hash is a Swiss-Army Knife](< https://www.akshaykhot.com/ruby-hash-"
+subtitle: "Ruby's Hash is a Swiss-Army Knife"
 category: "uncategorized"
 tags: []
 date: "2023-08-24"

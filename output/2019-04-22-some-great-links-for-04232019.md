@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  04/23/2019"
-subtitle: "[Why OO Sucks](http://www.cs.otago.ac.nz/staffpriv/ok/Joe-Hates-OO.htm)"
+subtitle: "Why OO Sucks"
 category: "301"
 tags: []
 date: "2019-04-22"

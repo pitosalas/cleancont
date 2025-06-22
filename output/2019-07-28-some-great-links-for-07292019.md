@@ -1,6 +1,6 @@
 ---
 title: "Some great links for  07/29/2019"
-subtitle: "[Scripting and automating git processes](https://stackoverflow.com/questions/3878624/how-do-i-progra..."
+subtitle: "Scripting and automating git processes"
 category: "301"
 tags: []
 date: "2019-07-28"

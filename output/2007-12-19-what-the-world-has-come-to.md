@@ -1,6 +1,6 @@
 ---
 title: "What the world has come to"
-subtitle: "Andrew Sullivan of The Atlantic with a [interesting article about torture.](http://andrewsullivan.th..."
+subtitle: "Andrew Sullivan of The Atlantic with a interesting article about torture."
 category: "298"
 tags: []
 date: "2007-12-19"

@@ -1,6 +1,6 @@
 ---
 title: "Dave (not that one) writes about Fear of Failure"
-subtitle: "I just came across [Dave Dupre’s blog](http://davedupre.com). Some good reading there, for example:"
+subtitle: "I just came across Dave Dupre’s blog. Some good reading there, for example:"
 category: "422"
 tags: []
 date: "2008-06-27"

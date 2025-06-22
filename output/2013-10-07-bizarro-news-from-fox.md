@@ -1,6 +1,6 @@
 ---
 title: "Bizarro News from Fox"
-subtitle: "[Fox News debuts bizarre, giant tablets in its outrageous new newsroom | The Verge](http://www.theve..."
+subtitle: "Fox News debuts bizarre, giant tablets in its outrageous new newsroom | The Verge"
 category: "1"
 tags: ["1086", "1325", "1522", "1979", "2045"]
 date: "2013-10-07"

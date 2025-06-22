@@ -1,6 +1,6 @@
 ---
 title: "GitHub – postlight/mercury-parser: 📜 Extract meaningful content from the chaos of a web page"
-subtitle: "[ GitHub – postlight/mercury-parser: 📜 Extract meaningful content from the chaos of a web page]( htt..."
+subtitle: "GitHub – postlight/mercury-parser: 📜 Extract meaningful content from the chaos of a web page"
 category: "1"
 tags: ["1221", "1311", "2200", "1375", "2199", "1807", "2058", "2103"]
 date: "2022-07-16"

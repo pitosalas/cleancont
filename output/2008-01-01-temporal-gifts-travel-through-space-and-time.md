@@ -1,6 +1,6 @@
 ---
 title: "Temporal Gifts: travel through space and time"
-subtitle: "[Handmeon.com is a cool idea](/wp-admin/The%20idea%20behind%20gift%20ecology%20is%20to%20introduce%2..."
+subtitle: "Handmeon.com is a cool idea"
 category: "298"
 tags: []
 date: "2008-01-01"

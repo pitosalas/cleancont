@@ -1,6 +1,6 @@
 ---
 title: "Field notes from a Nature Conservancy meeting"
-subtitle: "Check out this post [Field notes from a Nature Conservancy meeting](http://www.realclimate.org/index..."
+subtitle: "Check out this post Field notes from a Nature Conservancy meeting"
 category: "298"
 tags: []
 date: "2008-10-25"

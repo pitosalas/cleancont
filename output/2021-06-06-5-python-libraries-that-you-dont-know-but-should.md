@@ -1,6 +1,6 @@
 ---
 title: "5 Python Libraries That You Don’t Know, But Should"
-subtitle: "[ 5 Python Libraries That You Don’t Know, But Should](https://link.medium.com/xEjq6wILSgb)"
+subtitle: "5 Python Libraries That You Don’t Know, But Should"
 category: "222"
 tags: []
 date: "2021-06-06"

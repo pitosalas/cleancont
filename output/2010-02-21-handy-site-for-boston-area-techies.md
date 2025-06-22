@@ -1,6 +1,6 @@
 ---
 title: "Handy site for Boston area techies"
-subtitle: "I came across [VentureFizz](http://venturefizz.com/). It’s a broad resource for Boston area techies:..."
+subtitle: "I came across VentureFizz. It’s a broad resource for Boston area techies:..."
 category: "538"
 tags: []
 date: "2010-02-21"
