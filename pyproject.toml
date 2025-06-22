@@ -1,0 +1,12 @@
+[project]
+name = "cleancont"
+version = "0.1.0"
+description = "WordPress Blog Content Cleaner - Clean up and deduplicate blog content imported from WordPress"
+readme = "CLAUDE.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pyyaml>=6.0.2",
+]
+
+[project.scripts]
+cleaner = "run_cleaner:main_entry"

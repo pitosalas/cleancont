@@ -1,0 +1,14 @@
+---
+title: "What’s the difference between a web site and a blog?"
+subtitle: "This is a question I hear all the time. I thought I'd write a bit of an"
+category: "uncategorized"
+tags: []
+date: "2007-06-26"
+type: "rain"
+---
+This is a question I hear all the time. I thought I'd write a bit of an
+introduction to the topic. Check out ["The difference between a web site and a
+blog" ](<http://www.squidoo.com/differenceblogandwebsite/>)on Squidoo.
+
+
+* **Link to site:** **[What’s the difference between a web site and a blog?](None)**

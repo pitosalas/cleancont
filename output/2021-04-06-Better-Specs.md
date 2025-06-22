@@ -1,0 +1,15 @@
+---
+title: "Better Specs"
+subtitle: "<img class='cover' src=https://rdl.ink/render/http%3A%2F%2Fbetterspecs.org%2F%23formatter>"
+category: "uncategorized"
+tags: []
+date: "2021-04-06"
+type: "rain"
+---
+<img class="cover" src=https://rdl.ink/render/http%3A%2F%2Fbetterspecs.org%2F%23formatter>
+
+
+
+* **Web site excerpt:** Better Specs is a collection of best practices developers learned while testing apps that you can use to improve your coding skills, or simply for inspiration.
+
+* **Link to site:** **[Better Specs](http://betterspecs.org/#formatter)**

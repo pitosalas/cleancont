@@ -1,0 +1,15 @@
+---
+title: "Writing GraphQL queries in native Ruby=Love ❤️"
+subtitle: '<img class="cover" src=https://images.ctfassets.net/fo9twyrwpveg/7e9OdcxOCIOM6kGAucweIm/f4a58de5fe40...'
+category: "uncategorized"
+tags: []
+date: "2021-04-06"
+type: "rain"
+---
+<img class="cover" src=https://images.ctfassets.net/fo9twyrwpveg/7e9OdcxOCIOM6kGAucweIm/f4a58de5fe402fc4431627751810d5a2/20181119_GraphQL-Ruby-01.png?fm=jpg&q=90&w=1200>
+
+
+
+* **Web site excerpt:** Amazing library to generate GraphQL queries in ruby. Everyone should know GraphQL!
+
+* **Link to site:** **[Writing GraphQL queries in native Ruby=Love ❤️](https://www.contentful.com/blog/2018/11/20/graphql-ruby-love-backend-developer)**

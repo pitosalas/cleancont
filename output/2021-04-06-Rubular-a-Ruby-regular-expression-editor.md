@@ -1,0 +1,15 @@
+---
+title: "Rubular: a Ruby regular expression editor"
+subtitle: '<img class="cover" src=https://rubular.com/assets/rubular_og-4948f7355b502d134c18e9fade5bc2e39c3a343...'
+category: "uncategorized"
+tags: []
+date: "2021-04-06"
+type: "rain"
+---
+<img class="cover" src=https://rubular.com/assets/rubular_og-4948f7355b502d134c18e9fade5bc2e39c3a343ae818f2f5bdf922d8dc9bd919.png>
+
+
+
+* **Web site excerpt:** Ruby-based regular expression editor/tester
+
+* **Link to site:** **[Rubular: a Ruby regular expression editor](http://www.rubular.com)**
